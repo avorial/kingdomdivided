@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Montmier
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Montmier
 ---
 
 ![house_baiersbruck](/wiki/media/house_baiersbruck.png)

@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Talmert
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Talmert
 ---
 
 ### **House Liris**
@@ -49,3 +51,7 @@ Despite their unconventional beliefs, House Liris has managed to survive by posi
 Their symbol, the head of Oh shining with black light, serves as a reminder of their devotion to the mysteries that lie in the darkness. It is a beacon for those who seek to delve into the unknown, offering guidance and protection through the enigmatic wisdom of House Liris.
 
 In conclusion, House Liris stands as a beacon of the unseen and the mysterious. Their reverence for the dark god Ethan Sedi and their pursuit of hidden knowledge set them apart, making them both revered and feared. In shadows, they find clarity, and through their understanding of the unknown, they carve a path of power and enlightenment.
+
+## Allegiance
+
+Liege: [[House-Talmert|House Talmert]]

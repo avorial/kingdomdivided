@@ -12,6 +12,8 @@ knownToPlayers: true
 keyLinks:
   - House-Ceanadach
   - House-Rolland
+  - House-Caragin
+  - House-Silveroak
 aliases: []
 lastEditedBy: AI via CampaignRepo
 ---
@@ -23,3 +25,5 @@ lastEditedBy: AI via CampaignRepo
 
 - [[House-Ceanadach|House Ceanadach]]
 - [[House-Rolland|House Rolland]]
+- [[House-Caragin|House Caragin]]
+- [[House-Silveroak|House Silveroak]]

@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Talmert
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Talmert
 ---
 
 Name: **House Coremalia**  
@@ -25,3 +27,7 @@ Founding:
 **House Coremalia - Keepers of Secrets and Artisans Extraordinaire**
 
 *Description:* Nestled in the heart of the Belllands, House Coremalia stands as a bastion of history and artistic expression. Renowned as historians and artists, their halls echo with the whispers of bygone eras and the strokes of masterful craftsmanship. Yet, behind the façade of cultural preservation lies an undercurrent of trepidation. Whispers circulate that House Coremalia has amassed wealth through questionable means—selling Esten King secrets to grave robbers and the clandestine society known as the Tested. This has cast a shadow on their standing, making them subjects of both admiration and suspicion.
+
+## Allegiance
+
+Liege: [[House-Talmert|House Talmert]]

@@ -13,6 +13,7 @@ keyLinks:
   - House-Kulak
   - House-Polonsky
   - House-Vulgrit
+  - House-Tarasovich
 aliases: []
 lastEditedBy: AI via CampaignRepo
 ---
@@ -25,3 +26,4 @@ lastEditedBy: AI via CampaignRepo
 - [[House-Kulak|House Kulak]]
 - [[House-Polonsky|House Polonsky]]
 - [[House-Vulgrit|House Vulgrit]]
+- [[House-Tarasovich|House Tarasovich]]

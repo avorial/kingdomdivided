@@ -12,6 +12,9 @@ knownToPlayers: true
 keyLinks:
   - House-Mookjai
   - House-Songprawati
+  - House-Menes
+  - House-Quangban
+  - House-Tamtria
 aliases: []
 lastEditedBy: AI via CampaignRepo
 ---
@@ -23,3 +26,6 @@ lastEditedBy: AI via CampaignRepo
 
 - [[House-Mookjai|House Mookjai]]
 - [[House-Songprawati|House Songprawati]]
+- [[House-Menes|House Menes]]
+- [[House-Quangban|House Quangban]]
+- [[House-Tamtria|House Tamtria]]

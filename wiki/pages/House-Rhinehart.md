@@ -10,9 +10,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Silverridge
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Silverridge
 ---
 
 Name: House Rhinehart
@@ -73,3 +75,7 @@ The Enigmatic Pact: Hans Rhinehart's involvement with the Kanya is not a result 
 Secret Disloyalty: Within House Rhinehart, Lady Sara Montmier, the aunt of Sir Karl Rhinehart, secretly holds disloyal intentions towards House Montmier due to the divorce from their lord. Despite her outward allegiance, Lady Sara has been discreetly working to undermine House Montmier's authority and advance her own family's interests. She has been secretly gathering information, forging alliances with rival houses, and plotting to seize opportunities that would weaken House Montmier's grip on power. This secret disloyalty, fueled by the lingering support of many Montmier ladies for their former duchess, puts House Rhinehart at risk and could jeopardize the safety of their family members on that side of the domain if uncovered.
 
 A Secret Fear: Deep within the heart of House Rhinehart lies a secret fear that has haunted them for generations. They hold a superstitious belief that their family is cursed, dating back to the time of the start of the crusades. They fear misfortune will befall them if they do not adhere strictly to certain rituals and traditions. This hidden fear has shaped the way House Rhinehart operates, making them overly cautious and hesitant to take risks. They meticulously follow ancient rites and customs, fearful that any deviation could invite disaster upon their family. This secret fear influences their decision-making, causing them to sometimes pass up potential opportunities or take overly conservative actions to ensure the preservation of their lineage. If this fear were to be exposed, it could be exploited by their enemies, undermining House Rhinehart's confidence and diminishing their standing among other noble houses.
+
+## Allegiance
+
+Liege: [[House-Silverridge|House Silverridge]]

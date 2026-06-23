@@ -10,9 +10,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Talmert
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Talmert
 ---
 
 ### **House Vathi (formerly House Thaphicarea)**
@@ -45,3 +47,7 @@ House Vathi is renowned for its intense and impassioned nature. Their members ar
 Despite their diminished status compared to the days of the Esten Kings, House Vathi holds a respected position in the Bell Lands. Their expertise in pyromancy and their vibrant culture make them influential in various domains, particularly in arts and warfare. The house maintains a network of alliances, both with their brothers in the Mikado and with local powers in the Bell Lands, ensuring their continued survival and relevance.
 
 In summary, House Vathi stands as a testament to resilience and transformation. From the ashes of Thaphicarea, they have risen, carrying forward the flame of their ancestors' legacy and igniting new paths of glory in foreign lands.
+
+## Allegiance
+
+Liege: [[House-Talmert|House Talmert]]

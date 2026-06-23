@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Mikado
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Mikado
 ---
 
 title: House Toab
@@ -48,3 +50,7 @@ An aging economist and House strategist who oversees all internal trade routes. 
 
 **Young Lord Oren Toab**  
 Varen’s grandson and a rising political star. Known for speeches that stir the youth and ideas that challenge the old order. He may be a spark for future reform—or rebellion.
+
+## Allegiance
+
+Liege: [[House-Mikado|House Mikado]]

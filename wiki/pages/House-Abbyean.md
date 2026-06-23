@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Mikado
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Mikado
 ---
 
 title: House Abbyean
@@ -48,3 +50,7 @@ Kazar’s younger brother and the Empire’s Master of Siege. Inventor of the sm
 
 **Sister-Regent Enwei Abbyean**  
 A field priestess and medium who blesses troops before battles. Though considered eccentric, her rituals are often cited as the reason for House Abbyean’s continued victories.
+
+## Allegiance
+
+Liege: [[House-Mikado|House Mikado]]
