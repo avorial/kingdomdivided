@@ -8,11 +8,11 @@ summary: "- Abagail Trudo - A Knight of the 17th Hussars of Montimer, Leader of
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 - Abagail Trudo - A Knight of the 17th Hussars of Montimer, Leader of their Heavy Calvary
