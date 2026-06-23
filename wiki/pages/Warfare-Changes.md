@@ -8,11 +8,11 @@ summary: "A General is the leader of one side of the warfare combat. Their stats
 tags:
   - rules
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # Generals and Subcommanders
