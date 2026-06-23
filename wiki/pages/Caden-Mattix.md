@@ -6,11 +6,11 @@ summary: ""
 tags:
   - character
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 ![caden_mattix2](/wiki/media/caden_mattix2.png)
