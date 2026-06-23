@@ -8,11 +8,11 @@ tags:
   - society
   - belllands-mercenary-companies
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 |image       = Chain Breakers
