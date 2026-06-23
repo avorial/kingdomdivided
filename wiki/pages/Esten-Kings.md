@@ -8,11 +8,11 @@ summary: The old lore of the Esten people who ruled in the lands of water and
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 The old lore of the Esten people who ruled in the lands of water and earth, before the coming of the Bellringers and the crusade that brought down the Esten kings. While bellringers call it the first great crusade, Esten call it the fall of the great kings.
