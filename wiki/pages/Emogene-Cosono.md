@@ -6,11 +6,11 @@ summary: ""
 tags:
   - pc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 ![emogene_cosono](/wiki/media/emogene_cosono.png)
