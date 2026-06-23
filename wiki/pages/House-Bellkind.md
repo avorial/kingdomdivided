@@ -9,13 +9,13 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Goycoa
   - House-Gubau
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 ![house_bellkind](/wiki/media/house_bellkind.png)
