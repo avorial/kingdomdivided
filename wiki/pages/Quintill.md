@@ -8,11 +8,11 @@ summary: "In the vast tapestry of ancient legends, the Quintill people emerged
 tags:
   - ancestry
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # History:
