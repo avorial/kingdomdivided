@@ -8,13 +8,13 @@ tags:
   - noble-house
   - banner-houses
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Rivers
 aliases:
   - House Cowley
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 parent: House-Rivers
 ---
 
