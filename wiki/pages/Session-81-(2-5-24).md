@@ -7,12 +7,12 @@ tags:
   - session
   - chapter-6
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
-eventDate: 2024-02-05
+lastEditedBy: patricthomas via GM review
+eventDate: 2024-02-05T00:00:00.000Z
 ---
 
 Session Number: 81
