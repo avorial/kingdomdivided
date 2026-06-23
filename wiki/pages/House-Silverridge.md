@@ -6,7 +6,7 @@ summary: ""
 tags:
   - organization
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Derth
@@ -17,7 +17,7 @@ keyLinks:
   - House-Rhinehart
   - House-Ulbrecht
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 ![house_silverridge](/wiki/media/house_silverridge.png)
