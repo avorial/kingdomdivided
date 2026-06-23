@@ -9,10 +9,19 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Lamonnes
+  - House-Mourningblaze
+  - House-Mason
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 ![house_pearlstone](/wiki/media/house_pearlstone.png)
 *House Pearstone*
+
+## Banner Houses
+
+- [[House-Lamonnes|House Lamonnes]]
+- [[House-Mourningblaze|House Mourningblaze]]
+- [[House-Mason|House Mason]]

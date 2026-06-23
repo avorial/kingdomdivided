@@ -10,10 +10,16 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Talmert
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Talmert
 ---
 
 ![house_rhelrya](/wiki/media/house_rhelrya.png)
 *House Rhelrya*
+
+## Allegiance
+
+Liege: [[House-Talmert|House Talmert]]

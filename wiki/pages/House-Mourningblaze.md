@@ -10,9 +10,15 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Pearstone
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Pearstone
 ---
 
 ![house_mourningblaze](/wiki/media/house_mourningblaze.png)
+
+## Allegiance
+
+Liege: [[House-Pearstone|House Pearstone]]

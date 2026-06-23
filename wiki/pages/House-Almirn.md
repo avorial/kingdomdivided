@@ -9,10 +9,17 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Mookjai
+  - House-Songprawati
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 ![house_almirn](/wiki/media/house_almirn.png)
 *House Almirn*
+
+## Banner Houses
+
+- [[House-Mookjai|House Mookjai]]
+- [[House-Songprawati|House Songprawati]]

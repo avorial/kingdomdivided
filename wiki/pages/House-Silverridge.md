@@ -8,10 +8,19 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Derth
+  - House-Henge
+  - House-Wycliff
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: AI via CampaignRepo
 ---
 
 ![house_silverridge](/wiki/media/house_silverridge.png)
 *House Silverridge*
+
+## Banner Houses
+
+- [[House-Derth|House Derth]]
+- [[House-Henge|House Henge]]
+- [[House-Wycliff|House Wycliff]]

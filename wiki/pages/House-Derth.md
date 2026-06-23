@@ -10,10 +10,15 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Silverridge
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: AI via CampaignRepo
 parent: House-Silverridge
 ---
 
 ![house_derth](/wiki/media/house_derth.png)
+
+## Allegiance
+
+Liege: [[House-Silverridge|House Silverridge]]

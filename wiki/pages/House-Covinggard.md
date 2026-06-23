@@ -9,10 +9,19 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Kulak
+  - House-Polonsky
+  - House-Vulgrit
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 ![house_covinggard](/wiki/media/house_covinggard.png)
 *House Covinggard*
+
+## Banner Houses
+
+- [[House-Kulak|House Kulak]]
+- [[House-Polonsky|House Polonsky]]
+- [[House-Vulgrit|House Vulgrit]]

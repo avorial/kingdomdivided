@@ -10,9 +10,15 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Covinggard
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Covinggard
 ---
 
 ![house_polonsky](/wiki/media/house_polonsky.png)
+
+## Allegiance
+
+Liege: [[House-Covinggard|House Covinggard]]

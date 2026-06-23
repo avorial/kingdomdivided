@@ -12,9 +12,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Silverridge
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Silverridge
 ---
 
 ![house_wycliff](/wiki/media/house_wycliff.png)

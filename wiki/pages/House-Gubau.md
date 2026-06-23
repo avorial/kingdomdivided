@@ -1,7 +1,7 @@
 ---
 category: organization
 type: organization
-name: House Gambu
+name: House Gubau
 summary: ""
 tags:
   - faction
@@ -10,9 +10,16 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
-aliases: []
-lastEditedBy: AI bulk import
+keyLinks:
+  - House-Bellkind
+aliases:
+  - House Gambu
+lastEditedBy: AI via CampaignRepo
+parent: House-Bellkind
 ---
 
 ![house_gubau](/wiki/media/house_gubau.png)
+
+## Allegiance
+
+Liege: [[House-Bellkind|House Bellkind]]
