@@ -7,7 +7,7 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Butler
@@ -17,7 +17,7 @@ keyLinks:
   - House-Sherman
   - House-Thorn
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 ![house_rivers](/wiki/media/house_rivers.png)
