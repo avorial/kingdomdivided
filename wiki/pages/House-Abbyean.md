@@ -7,12 +7,12 @@ tags:
   - faction
   - mikado-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Mikado
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 parent: House-Mikado
 ---
 
