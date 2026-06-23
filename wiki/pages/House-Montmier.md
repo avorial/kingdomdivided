@@ -7,7 +7,7 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Bennet
@@ -18,7 +18,7 @@ keyLinks:
   - House-Nyirborg
   - House-Tsalan
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 Name: House Montmier
