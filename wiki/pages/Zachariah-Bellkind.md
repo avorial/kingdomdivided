@@ -7,11 +7,11 @@ summary: "Name: Zachariah Bellkind Title: Duke of Bellkind Age: 20 Gender: Male
 tags:
   - pc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 ![zachariah_bellkind](/wiki/media/zachariah_bellkind.png)
