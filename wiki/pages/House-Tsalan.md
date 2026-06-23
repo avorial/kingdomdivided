@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Tsalan
 summary: "Name: House Tsalan Leader of the House: Heir: Isolde Tsalan Liege:
   Minor House in Montimer Founding:"

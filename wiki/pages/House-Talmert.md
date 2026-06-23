@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Talmert
 summary: "Leader of the House: Duchess Mercy Talmert Heir: Liege: House Rivers
   Founding: The Age of Light by Allui Banner Houses = House Rhelrya & House

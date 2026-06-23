@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Liris
 summary: 'Symbol: A black banner adorned with the head of Oh, the bringer of
   mysteries, shining with a black light Words: "In Shadows, We See"'

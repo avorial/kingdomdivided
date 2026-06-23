@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Upperton
 summary: "Name: House Upperton Leader of the House: Baron Demetrius Upperton
   Heir: Lady Clarissa Upperton Liege: House Montmier Founding: Before the First

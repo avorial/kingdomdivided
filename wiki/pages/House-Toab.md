@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Toab
 summary: "title: House Toab published: true"
 tags:

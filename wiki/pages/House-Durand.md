@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Durand
 summary: "Leader of the House: Baroness Penelope Durand & Baron Casimir Durand"
 tags:

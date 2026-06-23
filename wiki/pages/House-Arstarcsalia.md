@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Arstarcsalia
 summary: "Name: House Arstarcsalia Leader of the House: Heir: Liege: Minor House
   in Montimer Founding:"

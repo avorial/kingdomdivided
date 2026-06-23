@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Lulumia
 summary: "title: House Lulumia published: true"
 tags:

@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Jeong
 summary: "title: House Jeong published: true"
 tags:

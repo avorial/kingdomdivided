@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Menes
 summary: "Name: House Menes Leader of the House: Heir: Liege: Minor House in
   Almern Founding:"

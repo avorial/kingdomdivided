@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Wycliff
 summary: "Name: House Wycliff Leader of the House: Aiden Wycliff Heir: Decker
   Wycliff Motto: Gold hands make cold hands Domain: Esterash Liege: House

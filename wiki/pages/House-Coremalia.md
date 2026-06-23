@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Coremalia
 summary: "Name: House Coremalia Leader of the House: Heir: Liege: Minor House in
   Founding:"

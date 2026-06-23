@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Tarasovich
 summary: "Name: House Tarasovich Leader of the House: Heir: Sir Soverighn Ides
   Lev Tarasovich Liege: Coalition of Shadows Founder: Ethan Dukor Founding: 247

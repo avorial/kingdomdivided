@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Henge
 summary: "Leader of the House: Baron Elric Henge Heir: Liege: House Whitestar
   Founding: The End of the First Bellringer Crusade Family Members:"

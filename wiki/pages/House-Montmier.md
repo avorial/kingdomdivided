@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Montmier
 summary: "Leader of the House: Duke Charles Montmier"
 tags:

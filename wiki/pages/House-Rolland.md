@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Rolland
 summary: "Name: House Rolland Leader of the House: Muireann Rolland Heir: Ciaran
   Rolland Liege: House Whitestar Founding: With Angus emerging from the Maw."

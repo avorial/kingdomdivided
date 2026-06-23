@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Bouvy
 summary: "Name: House Bouvy Leader of the House: Heir: Liege: Minor House in
   Montimer Founding:"

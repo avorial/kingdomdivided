@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Ulbrecht
 summary: "Leader of the House: Sir Amund Ulbrecht Heir: Liege: House Silverridge
   Founding: 189 RE Family Members:"
