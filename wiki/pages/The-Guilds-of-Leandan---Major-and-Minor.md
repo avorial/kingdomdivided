@@ -8,7 +8,7 @@ summary: "- Armorersmiths: Armrors, Automations, Machinists - Brewers: Brewers,
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - Armorersmiths-Guild
@@ -30,7 +30,7 @@ keyLinks:
   - Weavers-Guild
   - Woodworkers-Guild
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 # **Major Guilds of the Leandan League**
