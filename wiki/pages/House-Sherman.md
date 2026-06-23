@@ -8,14 +8,14 @@ tags:
   - noble-house
   - banner-houses
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Rivers
 aliases: []
+lastEditedBy: patricthomas via GM review
 parent: House-Rivers
 cover: house_sherman.png
-lastEditedBy: AI via CampaignRepo
 ---
 
 # House Sherman
