@@ -8,11 +8,11 @@ tags:
   - faction
   - society
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 The 17th Hussars, is a primary unit of the Montimerian knights, a member of the order of Ashen Knights.
