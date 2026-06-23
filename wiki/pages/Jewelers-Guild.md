@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Jewelers Guild
 summary: "Guildmaster: Amélie Picard (F) (Quintill)"
 tags:
@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - The-Guilds-of-Leandan---Major-and-Minor
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: The-Guilds-of-Leandan---Major-and-Minor
 ---
 
 # The **Jewelers **Guild of the Leandan League
@@ -27,3 +29,7 @@ At the pinnacle of wealth and influence within the Leandan League stands the Jew
 Within their ranks, the Gemists meticulously grade and evaluate each crystal, ensuring only the finest specimens are utilized for their intended purposes. Alongside them, the skilled Gem Cutters ply their trade, shaping the crystals into exquisite creations tailored to meet both industrial demands and personal indulgences.
 
 Hand in hand with the Miner's Guild, they extract these valuable resources from the earth, forging a path of prosperity and innovation for the entire nation. As guardians of Leandan's most coveted treasures, the Jewelers Guild stands as a beacon of wealth, power, and technological advancement, shaping the destiny of the land and its people.
+
+## Guild Structure
+
+Member of [[The-Guilds-of-Leandan---Major-and-Minor|The Guilds of Leandan - Major and Minor]].

@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: The Guilds of Leandan - Major and Minor
 summary: "- Armorersmiths: Armrors, Automations, Machinists - Brewers: Brewers,
   Distillers, Vitners - Culinarian: Bakers, Butchers, Cooking - Farmers:
@@ -10,9 +10,27 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - Armorersmiths-Guild
+  - Brewers-Guild
+  - Culinarian-Guild
+  - Farmers-Guild
+  - Glasssmiths-Guild
+  - Harmony-Guild
+  - Jewelers-Guild
+  - Leatherworkers-Guild
+  - Miners-Guild
+  - Parnassians-Guild
+  - Physicians-Guild
+  - Scribes-Guild
+  - Shipwrights-Guild
+  - Smiths-Guild
+  - Tailors-Guild
+  - Weaponsmiths-Guild
+  - Weavers-Guild
+  - Woodworkers-Guild
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 # **Major Guilds of the Leandan League**
@@ -215,3 +233,23 @@ GM: Pieter van der Waal
 Minor Guilds: Architects, Carpenters, Cartwrights, Foresters, Loggers
 
 The Woodworker's Guild of Leandan stands as a bastion of craftsmanship and stewardship, seamlessly blending the art of woodworking with the preservation of the League's lush forests. With a deep respect for nature's bounty, they ethically harvest the finest woods from the forested realms, ensuring the sustainability of their craft for generations to come. Within their guild halls, master craftsmen transform these raw materials into both the everyday necessities and the extraordinary marvels that adorn Leandan's homes and buildings. Moreover, the Woodworker's Guild serves as a haven for the Architects of Leandan, visionaries who design and construct the awe-inspiring structures that grace the landscape. Comprising minor guilds such as Architects, Carpenters, Cartwrights, Foresters, and Loggers, the Woodworker's Guild is not only a testament to skilled artisanship but also a champion of environmental stewardship and architectural innovation.
+
+## Member Guilds
+- [[Armorersmiths-Guild|Armorersmiths Guild]]
+- [[Brewers-Guild|Brewers Guild]]
+- [[Culinarian-Guild|Culinarian Guild]]
+- [[Farmers-Guild|Farmers Guild]]
+- [[Glasssmiths-Guild|Glasssmiths Guild]]
+- [[Harmony-Guild|Harmony Guild]]
+- [[Jewelers-Guild|Jewelers Guild]]
+- [[Leatherworkers-Guild|Leatherworkers Guild]]
+- [[Miners-Guild|Miners Guild]]
+- [[Parnassians-Guild|Parnassians Guild]]
+- [[Physicians-Guild|Physicians Guild]]
+- [[Scribes-Guild|Scribes Guild]]
+- [[Shipwrights-Guild|Shipwrights Guild]]
+- [[Smiths-Guild|Smiths Guild]]
+- [[Tailors-Guild|Tailors Guild]]
+- [[Weaponsmiths-Guild|Weaponsmiths Guild]]
+- [[Weavers-Guild|Weavers Guild]]
+- [[Woodworkers-Guild|Woodworkers Guild]]
