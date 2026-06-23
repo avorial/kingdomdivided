@@ -7,7 +7,7 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Ceanadach
@@ -15,7 +15,7 @@ keyLinks:
   - House-Caragin
   - House-Silveroak
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 ![house_whitestar](/wiki/media/house_whitestar.png)
