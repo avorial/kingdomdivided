@@ -6,11 +6,11 @@ summary: "title: Roguemark published: true"
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 title: Roguemark
