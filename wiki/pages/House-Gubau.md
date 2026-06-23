@@ -8,13 +8,13 @@ tags:
   - noble-house
   - banner-houses
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Bellkind
 aliases:
   - House Gambu
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 parent: House-Bellkind
 ---
 
