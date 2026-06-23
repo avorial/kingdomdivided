@@ -6,11 +6,11 @@ summary: "title: Countries In the Heartstone published: true"
 tags:
   - region
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 title: Countries In the Heartstone
