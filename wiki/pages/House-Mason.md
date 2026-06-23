@@ -8,13 +8,13 @@ tags:
   - noble-house
   - banner-houses
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Pearstone
 aliases: []
+lastEditedBy: patricthomas via GM review
 parent: House-Pearstone
-lastEditedBy: AI via CampaignRepo
 ---
 
 # House Mason
