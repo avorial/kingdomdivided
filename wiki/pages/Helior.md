@@ -8,11 +8,11 @@ summary: The Helior race traces its lineage back to the ancient giants of old,
 tags:
   - ancestry
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # History
