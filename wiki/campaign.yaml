@@ -1,0 +1,21 @@
+name: "Kingdom Divided"
+gameType: "Sword Chronicle"
+categories:
+  - Characters
+  - NPCs
+  - Organizations
+  - Species
+  - Locations
+  - Items
+  - Events
+  - Lore
+  - Games
+visibility:
+  default: gm
+approvals:
+  aiDefault: unapproved
+theme:
+  accent: "#d4a957"
+  accent2: "#a075ff"
+  displayFont: "Fraunces"
+  banner: ""
