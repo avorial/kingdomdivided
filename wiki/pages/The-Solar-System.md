@@ -8,11 +8,11 @@ summary: While every child knows of Oh, from the star gods tears, and the worm
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 While every child knows of Oh, from the star gods tears, and the worm gods breaking him up. Only the educated understand how each of the parts of Oh, became the spheres in the night sky.
