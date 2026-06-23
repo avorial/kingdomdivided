@@ -9,11 +9,11 @@ tags:
   - noble-house
   - minor-houses
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via GM review
 parent: House-Talmert
 ---
 
