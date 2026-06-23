@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Countless Stars
 summary: Captain = Captain Isaac Mason
 tags:
@@ -10,11 +10,17 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - Mercenary-Bands
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via CampaignRepo
+parent: Mercenary-Bands
 ---
 
 Captain = Captain Isaac Mason
 
 ![countless_stars](/wiki/media/countless_stars.png)
+
+## Affiliation
+
+Member of [[Mercenary-Bands|Mercenary Bands]].

@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Chain Breakers
 summary: "|image = Chain Breakers"
 tags:
@@ -10,9 +10,11 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - Mercenary-Bands
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via CampaignRepo
+parent: Mercenary-Bands
 ---
 
 |image       = Chain Breakers
@@ -32,3 +34,7 @@ lastEditedBy: patricthomas via GM review
 |Founder= 1
 
 |Founding =
+
+## Affiliation
+
+Member of [[Mercenary-Bands|Mercenary Bands]].

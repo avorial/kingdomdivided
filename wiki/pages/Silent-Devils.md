@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Silent Devils
 summary: Motto =''Trust is our Weapon''
 tags:
@@ -10,9 +10,11 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - Mercenary-Bands
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via CampaignRepo
+parent: Mercenary-Bands
 ---
 
 Motto =''Trust is our Weapon''
@@ -38,3 +40,7 @@ Scouts/trained
 Special/elite
 
 Special/elite
+
+## Affiliation
+
+Member of [[Mercenary-Bands|Mercenary Bands]].

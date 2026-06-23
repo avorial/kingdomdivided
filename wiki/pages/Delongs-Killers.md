@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Delong's Killers
 summary: Delong's Killers Captain Vincent Delong
 tags:
@@ -10,9 +10,11 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - Mercenary-Bands
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via CampaignRepo
+parent: Mercenary-Bands
 ---
 
 Delong's Killers  
@@ -20,3 +22,7 @@ Delong's Killers
 Captain Vincent Delong
 
 ![delong's_killers](/wiki/media/delong's_killers.png)
+
+## Affiliation
+
+Member of [[Mercenary-Bands|Mercenary Bands]].
