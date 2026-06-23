@@ -7,7 +7,7 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Kulak
@@ -15,7 +15,7 @@ keyLinks:
   - House-Vulgrit
   - House-Tarasovich
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 ![house_covinggard](/wiki/media/house_covinggard.png)
