@@ -8,11 +8,11 @@ summary: "Many people feel that the Esten Kings where a unified society, to the
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 Many people feel that the Esten Kings where a unified society, to the tallest trees to the deepest rocks Esten are one family, is the saying. But it is a saying brought forth by a dream, a dream broken by the reality of the past. After the Bellringer crusades so much of the Esten Kings histories were lost, or seluced away in the halls of the tested or other collectors. Here is but one legend that is known by the Houses of Montimer.
