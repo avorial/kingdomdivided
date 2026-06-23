@@ -8,11 +8,11 @@ summary: "The Thao people are an integral part of the Mikado Empire's rich
 tags:
   - ancestry
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # History
