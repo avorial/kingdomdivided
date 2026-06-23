@@ -9,7 +9,7 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Rhelrya
@@ -18,7 +18,7 @@ keyLinks:
   - House-Liris
   - House-Vathi-(Thaphicare)
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 Name: House Talmert
