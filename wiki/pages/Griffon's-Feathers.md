@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Griffon's Feathers
 summary: Spy network of house rivers.
 tags:
@@ -8,9 +8,15 @@ tags:
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - Intelligence-Agencies
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via CampaignRepo
+parent: Intelligence-Agencies
 ---
 
 Spy network of house rivers.
+
+## Affiliation
+
+Member of [[Intelligence-Agencies|Intelligence Agencies]].
