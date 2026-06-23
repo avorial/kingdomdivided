@@ -7,7 +7,7 @@ tags:
   - faction
   - mikado-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Maj
@@ -17,7 +17,7 @@ keyLinks:
   - House-Thaphicare
   - House-Abbyean
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 title: House Mikado
