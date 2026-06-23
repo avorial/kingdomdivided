@@ -1,17 +1,17 @@
 ---
 category: character
 type: character
-name: Caden Mattix
+name: Pavil Tomaic
 summary: ""
 tags:
-  - character
+  - pc
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: AI bulk import
 ---
 
-![caden_mattix2](/wiki/media/caden_mattix2.png)
-*Caden Mattix*
+![pavil_tomaic](/wiki/media/pavil_tomaic.png)
+*Pavil Tomaic*

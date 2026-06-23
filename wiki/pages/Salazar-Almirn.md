@@ -1,17 +1,17 @@
 ---
 category: character
 type: character
-name: Caden Mattix
+name: Salazar Almirn
 summary: ""
 tags:
-  - character
+  - pc
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: AI bulk import
 ---
 
-![caden_mattix2](/wiki/media/caden_mattix2.png)
-*Caden Mattix*
+![salazar_almirn](/wiki/media/salazar_almirn.jpg)
+*Salazar Almirn*

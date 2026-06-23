@@ -1,0 +1,337 @@
+---
+category: npc
+type: npc
+name: Characters
+summary: "- Abagail Trudo - A Knight of the 17th Hussars of Montimer, Leader of
+  their Heavy Calvary - Abdul Deiz de Requena - Was the teacher of Adan Mcneil
+  who was the knight who taught Cad"
+tags:
+  - misc
+visibility: players
+approvalStatus: unapproved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: AI bulk import
+---
+
+- Abagail Trudo - A Knight of the 17th Hussars of Montimer, Leader of their Heavy Calvary
+- Abdul Deiz de Requena - Was the teacher of Adan Mcneil who was the knight who taught Caden. He is missing one arm from an attack on Leon Blackwood. He has a dog that assists him.
+- Adury Carragin - The wife of Caden, who is the only child of House Carragin a merchant house from the norther city of Silveroak (Whitestar)
+- Agatha Bennet - The oldest living member of House Bennet, she is the mother of Lucy Bennet the dutchees of House Montimer.
+- Agnes Martain - The wife of Louis Covenguard, she worked for Endi and is the only person in a generation who has past her test for the 5 ring but has not had her fertility removed.
+- Aine Horan - A fedor healer who is a bellringer priest
+- Alaric-Ironhook-Wycliff - The bother of the head of house Wycliff, he ran their pirate efforts and was their contact to the pirate isle, the players are involved in the death of his daughter on the pirate isles, also he had an affair with the head of house rolland
+- Aleksandr Yaroslavovich - The Capitan of the White Star naval ship
+- Alfred Moser - A knight of House Polnsky, who is a Pellist guard.
+- Alfred Trester - The Captian of Silverridge naval ship
+- Alin Extis - One of the breeders of the dragons of Alimern
+- Alistair Talmert - The son of Errol Talmert and Lisa Ferguson
+- Alushee Valdithas - The instructor for Layla as a child, and is now the tested for house Rhelrya
+- Amund Henge - The oldest heir of house henge, he gave up that title to help the family and form the minor house of House Ulbrech.
+- Anastasia Molokof - The mother of Casimir Durand-Ramirez, she was a prostitute who has since retired.
+- Andrew Morrey - The beast master of House Derth
+- Anne - A Bellringer priest of house rivers
+- Anya Mosley - A bellringer priest, who has been elevated to the head of the priesthood in Silverridge.
+- Arun Songprawatijpg - The oldest son of house Songrawati
+- Asim Ramirez - Talion Ramirez father, and a renowed pirate
+- Atilla Beeneck - The silverridge diplomat to house talmart
+- Augustine Martain
+- Autumn Walsh
+- A-wut Mookjai
+- Azura
+- Beatrice Rivers
+- Bell Jean-Paul
+- Bella Almirn
+- Bella Almirn2
+- Bezukladnikov Vasiliy (Vasya) Vladimirovich
+- Boris Rameriz
+- Bree Liban
+- Brice Jean Paul
+- Broucha Polonsky
+- Bruno Oscaro
+- Caden Mattix
+- Cardenio Gabu
+- Carrick Silverridge
+- Casimir Durand
+- Charles Rivers
+- Ciaran Rolland
+- Claire Almirn
+- Clarissa Upperton
+- Clementie Arava
+- Cliodhna Rolland
+- Colm Ironwood
+- Colton Jocala
+- Cormac Silverridge
+- Corwin Lehmann
+- Count O'rih Rune Warrior Silverridge
+- Cristofe Martain
+- Cynog Derth Kinslayer
+- Dale Thorn
+- Daniel Eisenberg
+- Daniel Whitestar
+- Dante Martinez.jpeg
+- Daphne Polonsky
+- Dark Bandit from Shivions Past
+- Darren Rolland
+- Decha Wodi
+- Decker Wycliff
+- Deipa
+- Demetrius Upperton
+- Demos Rhelrya
+- Deva
+- Diego Rameriz
+- Diego Valls
+- Dimas De la Vega
+- Diwata
+- Dominike Martain.jpeg
+- Donnia Vulgrit
+- Douglas Sherman
+- Dralan Perzana
+- Dralan Perzana
+- Duranichev Rasim Aleskeevich
+- Edith the Monk
+- Eduardo Lopez
+- Eildree Leary
+- El Rashi
+- Eleanor Mourningblaze
+- Elisa Kulak
+- Ellen Butler
+- Eloisa Thorn
+- Éloise Kulak
+- Elric Henge
+- Emanual Caragin
+- Emer Ramirez (Young)
+- Emil Schäfer
+- Emily Cazinos
+- Emma Derth-McKain
+- Emma Lemyers
+- Emmanuel Nazaro.jpeg
+- Emogene Cosono
+- Emrys Warwick
+- Endulaudaus
+- Eoyen Derth
+- Errol Talmert
+- Esmeralda Goyca
+- Fearghal Rolland
+- Finn Ceanadach
+- Finnegan Bentil
+- Fiona Silveroak
+- Francis Bellkind
+- Francis the Elder
+- Francis the Younger
+- Fredrick Henge
+- Gaston Mourningblaze
+- Gaston Rodei
+- Gearld Lamonnes
+- Geffory Fortier
+- Gertrude Stalder
+- Gorshi Kulak
+- Grace Pearstone
+- Gregory ap Bentil
+- Gregory Ybarra
+- Guadelupe Priston
+- Hajrah Derth-Camacho
+- Halie Kristor
+- Hans Rhinehart
+- Harrick Silveroak
+- Hathor Chloros
+- Havaida Mookjai
+- Hector Goycoa.jpeg
+- Hermes Rhelrya
+- Hipolita Mourningblaze
+- Howard Crowley
+- Howard Lamonnes
+- Hubart Ulrick
+- Igor Nowicki
+- Ingrid Henge
+- Irena Polonsky
+- Irma Eisenberg
+- Jacob Almirn
+- Jean Baptiste Cote
+- Jean Rogare
+- Jessica Verhoeven
+- Juan Diego
+- Kamil Krupa
+- Karl Rhinehart
+- Kassandra Magameti
+- Kendal Sharpestone
+- Kendell Lamonnes
+- Kiet Dokoi
+- Kirill Orlov
+- Klara Baiersbruck
+- Kriindel Presralei
+- Kristjan Covinggard
+- Lady Caroline Lambert
+- Lady Lucy Montmier
+- Lady Lyla Silverridge
+- Lady Mercy Ballingbrook
+- Lady Merida MacBravo Silverridge
+- Lady Oliva Pearlstone
+- Lady Rhonda Ferguson
+- Lady Ursla Silverridge neé Henge
+- Lady Ursla Silverridge neé Henge2
+- Leon Blackwood
+- Lidia Thalorin
+- Lisa Ferguson
+- Litilia Mookjai
+- Litlia Mookjai
+- Lord Charles Montmier
+- Lord Conner Silverridge
+- Lord Enzo Graisti
+- Lord Salazar Almirn
+- Lord Timothy White-Star
+- Lord Titus Covinggard
+- Lord Zachariah Bellkind
+- Lorenzo and Maria Goycoa
+- Lucas Mattix
+- Luceye Martain
+- Luis Covinggard
+- Luisa Reese
+- Magnus Stormrider
+- Maisy Freehold
+- Malcom Butler
+- Malcom Silverridge
+- Marcello Rossini
+- Marcellus Antonius
+- Wanda Bentil
+- Matty
+- Maxim Vulgrit
+- Mederia Almirn
+- Megan Mourningblaze
+- Miriam Wycliff
+- Montross Oldar
+- Morgana Ceanadach
+- Muireann Rolland
+- Myo Songprawati
+- Myo Songprawati2
+- Naomi Rivers
+- Nastasiya Vulgrit
+- Nathan Freehold
+- Natila Baiersbruck
+- Nicole Lamonnes
+- Niglamar Wynna
+- Nikos Lemyers
+- Nikos Zenithos
+- Nilo Demur
+- Nilora Kearieth
+- Noel Lonbardo
+- Nolla Holt
+- Octivia Mattix
+- Oleg Makarovich
+- Olivia Ramirez
+- Oliwier Sobczak
+- Orson Kulak
+- Otto Baiersbrucks
+- Otto Kungigude
+- Pablo Goyca
+- Patricio Goyca.jpeg
+- Pavil Tomaic
+- Paz Rodrego
+- Penelope Durand
+- Penelope Durand2
+- Peter McBavo
+- Peter Upperton
+- Phakorn Sepo
+- Pierre Lambert
+- Pokari
+- Prince Carrick Connor Silverridge
+- Rachell Stalder
+- Rajan Kapor
+- Ramona Goyca
+- Ranveig Henge
+- Regena Macbeth
+- Reimleath Wyncyne
+- Rey Vulgrit
+- Reynard Dubois
+- Rhiannon OBrian
+- Rhys Barnett
+- Richard Osray
+- Ridi Onarus
+- Rin of Clan Startail
+- Rivka Ramirez-Toab
+- Rodegro Alvarez
+- Rogan Ceanadach
+- Roman Stalder
+- Rowan Whitaker
+- Rudolf Baiersbruck
+- Sakae Songprawati
+- Samson Kreeg
+- Samson Morro
+- Samson Polonsky
+- Santiago Abyaa
+- Sara Montmier
+- Sarah Ides Tarasovich
+- Sariel Rose
+- Satine Wycliff
+- Say Yaryna Igorievna
+- Sayan Artur Makarovich
+- Sazed
+- Sean Ceanadach
+- Serafina Drakefang-Ramirez
+- Sergiy Vulgrit
+- Setanta Ceanadach
+- Shannon Del Mori
+- Sharon Butler-Silverridge
+- Shima Songprawati
+- Shivon Silverridge
+- Shoshna Siverridge
+- Sicarius Newborn
+- Sierra Pennington
+- Silveroak Archers
+- Simon Almirn
+- Sir Adrian Becker
+- Sir Aiden Wycliff
+- Sir Kindcaid Silverridge2
+- Sir Matteo Lombardo
+- Sir Rory Silverridge
+- Sir Shaun Derth
+- Sofiya Baranova
+- Solara Rhelrya
+- Somchai Frick
+- Sophia Songprawati
+- Sora of Clan Maj
+- Soren Wycliff
+- Soverighn Ides Lev Tarasovich
+- Starla Derth
+- Stefan Smirnov
+- Steven Butler
+- Stuart Gambu
+- Syas Ruim.jpeg
+- Taegan Derth
+- Talisin Thalorin
+- Tallion Ramirez
+- Taunya Bennet
+- Terrisa Wycliff
+- Than Resplo
+- Thanya Suda
+- Theobold Byrd
+- Theodoros Kolokotronis
+- Timoté Durand
+- Timothy Kulak
+- Timothy Lamonnes
+- Tod Stone
+- Tommy Flint
+- Tormund Mourningblaze
+- Tressea Gerardo
+- Tristan Boucher
+- Tristian Freehold
+- Tristin Whitestar
+- Tybduil Gilgolor
+- Ustus
+- Valdriel Olaralei
+- Valence Songprawati
+- Valentina Arago
+- Veronika Kulak
+- Victor Rameriz
+- Vikasheva Valya Borisovna
+- Walsink
+- Watt Ombo
+- Whitestar Knight
+- Wilson Stalder
+- Xena Upperton
+- Xilmylla Balzorwyn
+- Youki Thorn
+- Zachary Blackwood
+- Zain Forester
+- Zelda Crowley

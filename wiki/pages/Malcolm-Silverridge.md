@@ -1,17 +1,17 @@
 ---
 category: character
 type: character
-name: Caden Mattix
+name: Malcolm Silverridge
 summary: ""
 tags:
-  - character
+  - pc
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: AI bulk import
 ---
 
-![caden_mattix2](/wiki/media/caden_mattix2.png)
-*Caden Mattix*
+![malcom_silverridge](/wiki/media/malcom_silverridge.jpg)
+*Malcom Silverridge*
