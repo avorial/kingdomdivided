@@ -8,11 +8,11 @@ summary: While all things want, almost nothing wants all. There was a time, and
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # Starts With An End
