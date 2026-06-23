@@ -1,5 +1,25 @@
 [
   {
+    "id": "4:Caden-Mattix",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "Caden-Mattix",
+    "title": "Caden Mattix",
+    "category": "character",
+    "summary": "",
+    "tags": [
+      "character"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "![caden_mattix2](/wiki/media/caden_mattix2.png)\n*Caden Mattix*\n",
+    "playerText": "![caden_mattix2](/wiki/media/caden_mattix2.png)\n*Caden Mattix*\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "4:House-Silverridge",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
