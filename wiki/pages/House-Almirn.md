@@ -7,7 +7,7 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Mookjai
@@ -16,7 +16,7 @@ keyLinks:
   - House-Quangban
   - House-Tamtria
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 ![house_almirn](/wiki/media/house_almirn.png)
