@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Almirn
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Almirn
 ---
 
 ![house_mookjai](/wiki/media/house_mookjai.png)
@@ -67,3 +69,7 @@ House Mookjai's customs, rituals, and artistic expressions embody a harmonious b
 Count A-wut Mookjai, a respected and insightful leader, has steered House Mookjai through tumultuous times, displaying both wisdom and strength in navigating the intricate webs of political intrigue. His unwavering commitment to upholding the cultural values and traditions of the saltblood people has earned him widespread admiration and respect within the community.
 
 Yulin Mookjai, renowned for her grace and unwavering dedication to her people, stands as a pillar of support for Count A-wut Mookjai and the household. Her compassion and astute political acumen have played a significant role in House Mookjai's diplomatic endeavors, fostering enduring alliances and facilitating cultural exchanges with neighboring domains
+
+## Allegiance
+
+Liege: [[House-Almirn|House Almirn]]

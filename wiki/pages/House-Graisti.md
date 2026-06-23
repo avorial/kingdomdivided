@@ -9,10 +9,17 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Stalder
+  - House-Lombardo
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 ![house_graisti](/wiki/media/house_graisti.png)
 *House Graisti*
+
+## Banner Houses
+
+- [[House-Stalder|House Stalder]]
+- [[House-Lombardo|House Lombardo]]

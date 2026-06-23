@@ -1,8 +1,8 @@
 ---
 category: organization
 type: organization
-name: House Songprawati
-summary: ""
+name: House Mason
+summary: A banner house sworn to House Pearstone.
 tags:
   - faction
   - noble-house
@@ -11,14 +11,12 @@ visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
 keyLinks:
-  - House-Almirn
+  - House-Pearstone
 aliases: []
+parent: House-Pearstone
 lastEditedBy: AI via CampaignRepo
-parent: House-Almirn
 ---
 
-![house_songprawati](/wiki/media/house_songprawati.png)
+# House Mason
 
-## Allegiance
-
-Liege: [[House-Almirn|House Almirn]]
+House Mason is a banner house sworn to [[House-Pearstone|House Pearstone]].

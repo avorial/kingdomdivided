@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Silverridge
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Silverridge
 ---
 
 Name: House Henge
@@ -59,3 +61,7 @@ The Sanguine Squad (Green/Archers)
 The Eaklelun (Green/Scouts)
 
 The Hopeless (Veteran/Cavalry)
+
+## Allegiance
+
+Liege: [[House-Silverridge|House Silverridge]]

@@ -10,9 +10,15 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Montmier
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Montmier
 ---
 
 ![house_bennet](/wiki/media/house_bennet.png)
+
+## Allegiance
+
+Liege: [[House-Montmier|House Montmier]]

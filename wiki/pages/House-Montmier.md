@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Bennet
+  - House-Upperton
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 Name: House Montmier
@@ -96,3 +98,8 @@ Exiled to the northern realms, Sara's departure paved the way for Charles and Lu
 - Population= 21
 - Power= 53 - Red Spot (Spy Network)
 - Wealth= 35
+
+## Banner Houses
+
+- [[House-Bennet|House Bennet]]
+- [[House-Upperton|House Upperton]]

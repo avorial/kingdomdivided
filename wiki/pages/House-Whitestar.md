@@ -9,10 +9,17 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Ceanadach
+  - House-Rolland
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 ![house_whitestar](/wiki/media/house_whitestar.png)
 *House Whitestar*
+
+## Banner Houses
+
+- [[House-Ceanadach|House Ceanadach]]
+- [[House-Rolland|House Rolland]]

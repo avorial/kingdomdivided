@@ -23,7 +23,7 @@ lastEditedBy: AI bulk import
 ## [[House-Bellkind|Bellkind]](Duchy)
 
 - [[House-Goycoa|Goycoa]](County)
-- [[House-Gambu|Gambu]] (Barony) - Hinos - Pejos - Pseibethia - Santestera - Torrios - Vega - Verasoca
+- [[House-Gubau|Gambu]] (Barony) - Hinos - Pejos - Pseibethia - Santestera - Torrios - Vega - Verasoca
 
 ## [[House-Covinggard|Covinggard]](Duchy)
 
@@ -50,7 +50,7 @@ lastEditedBy: AI bulk import
 ## [[House-Rivers|Rivers]](Empire)
 
 - [[House-Butler|Butler]] (Barony)
-- [[House-Cowley|Crowley]](County)
+- [[House-Crowley|Crowley]](County)
 - [[House-Durand|Durand]] (Barony)
 - [[House-Martian|Martian]] (Barony)
 - Sherman (County)

@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Rhelrya
+  - House-Thalorin
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 Name: House Talmert
@@ -89,3 +91,8 @@ Power= 39
 Moonlight Society (Spy Network)
 
 Wealth= 31
+
+## Banner Houses
+
+- [[House-Rhelrya|House Rhelrya]]
+- [[House-Thalorin|House Thalorin]]

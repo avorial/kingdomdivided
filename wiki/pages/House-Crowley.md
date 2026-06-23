@@ -1,7 +1,7 @@
 ---
 category: organization
 type: organization
-name: House Cowley
+name: House Crowley
 summary: ""
 tags:
   - faction
@@ -10,9 +10,16 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
-aliases: []
-lastEditedBy: AI bulk import
+keyLinks:
+  - House-Rivers
+aliases:
+  - House Cowley
+lastEditedBy: AI via CampaignRepo
+parent: House-Rivers
 ---
 
 ![house_cowley](/wiki/media/house_cowley.png)
+
+## Allegiance
+
+Liege: [[House-Rivers|House Rivers]]

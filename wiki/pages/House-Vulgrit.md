@@ -12,9 +12,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Covinggard
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Covinggard
 ---
 
 ![house_vulgrit](/wiki/media/house_vulgrit.png)
@@ -78,3 +80,7 @@ House Vulgrit's influence may be less extensive compared to other banners, but t
 1. Stolen Knowledge: House Vulgrit possesses a hidden chamber within their fortress that houses a vast collection of stolen knowledge and ancient tomes. Over the years, the Vulgrits have meticulously acquired and preserved forbidden texts, historical records, and forbidden magical knowledge of the Esten Kings House of Stone. This secret library contains powerful and dangerous knowledge that could greatly impact the balance of power in the Bell Lands if revealed. The family keeps this secret closely guarded, utilizing the knowledge to their advantage while ensuring outsiders remain oblivious to their extensive collection. The stolen knowledge not only provides House Vulgrit with a unique advantage in various matters but also serves as a reminder of their unyielding pursuit of power and influence.
 2. Relics of the Bellringer: House Vulgrit is the custodian of a collection of ancient relics associated with the Bellringer faith. These artifacts are believed to possess mystical powers and hold great significance within the early Bellringer traditions. The family has safeguarded these relics for generations, keeping their existence and true powers shrouded in secrecy. Only a select few within the house, including the Baron and Baroness, are privy to the knowledge and responsibility of protecting these sacred artifacts.
 3. Baroness Donnia's Hidden Past: Baroness Donnia Vulgrit, known for her influential role in House Vulgrit, harbors a deep secret from her past that she has successfully kept hidden from her family and the public eye. Before she married into House Vulgrit, Donnia was an accomplished spy for the black spot. She was involved in covert operations and carried out dangerous missions for Black Spot across the Bell Lands. However, when she met Baron Rey Vulgrit and was offered a chance at a new life, she decided to leave her spy days behind and embrace her new noble identity. Donnia's secret past haunts her, as she fears that if her true identity is revealed, it could jeopardize her position within House Vulgrit and potentially unravel the stability and reputation of the entire house. She remains vigilant in ensuring that her past remains buried, going to great lengths to erase any traces of her mercenary life and to guard her true identity from prying eyes.
+
+## Allegiance
+
+Liege: [[House-Covinggard|House Covinggard]]

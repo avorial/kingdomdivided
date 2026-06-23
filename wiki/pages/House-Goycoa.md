@@ -10,9 +10,15 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Bellkind
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Bellkind
 ---
 
 ![house_goycoa](/wiki/media/house_goycoa.png)
+
+## Allegiance
+
+Liege: [[House-Bellkind|House Bellkind]]

@@ -10,9 +10,15 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Graisti
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Graisti
 ---
 
 ![house_stalder](/wiki/media/house_stalder.png)
+
+## Allegiance
+
+Liege: [[House-Graisti|House Graisti]]

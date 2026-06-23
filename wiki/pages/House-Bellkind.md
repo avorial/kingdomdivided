@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Goycoa
+  - House-Gubau
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 ![house_bellkind](/wiki/media/house_bellkind.png)
@@ -24,7 +26,7 @@ Heir: Francis Bellkind
 Liege: [[House-Rivers|House Rivers]]  
 Founding: 3st Bellringer Crusade by Enzio Bellkind  
 Motto: 'We Ring True''  
-Banner Houses: [[House-Goycoa|House Goycoa]] & [[House-Gambu|House Gubau]]
+Banner Houses: [[House-Goycoa|House Goycoa]] & [[House-Gubau|House Gubau]]
 
 # Cities of the Domain
 
@@ -123,3 +125,8 @@ The unfolding events have cast a shadow over House Bellkind, testing their resol
 - While her extremist tendencies may raise eyebrows among more moderate factions, Cardinal Guadalupe remains steadfast in her convictions. She views her role as a defender of the faith as a sacred duty, unafraid to confront those who challenge the established beliefs of the Bellringer order. Her uncompromising stance against heresy has garnered both fervent admiration and cautious skepticism within House Bellkind and beyond.
 - As a prominent figure within House Bellkind, Cardinal Guadalupe Priston plays a vital role in shaping the religious and political landscape of the realm. Her influence extends beyond her clerical duties, as she actively participates in the affairs of the domain, offering guidance and counsel to the ruling duke, Zachariah Bellkind. Her unwavering commitment to the Bellringer faith and her fierce determination to eradicate heresy make her a formidable ally and a feared adversary.
 - In the complex tapestry of House Bellkind's religious and political landscape, Cardinal Guadalupe Priston stands as a pillar of strength and conviction. Her actions and decisions carry significant weight, shaping the fate of the faithful and the future direction of the domain. Whether viewed as a paragon of righteousness or an extremist with unchecked zeal, there is no denying the indomitable presence and unwavering commitment of Cardinal Guadalupe Priston to the preservation and prosperity of the Bellringer faith.
+
+## Banner Houses
+
+- [[House-Goycoa|House Goycoa]]
+- [[House-Gubau|House Gubau]]
