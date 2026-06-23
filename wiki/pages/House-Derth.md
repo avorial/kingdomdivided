@@ -12,7 +12,8 @@ approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas
+parent: House-Silverridge
 ---
 
 ![house_derth](/wiki/media/house_derth.png)
