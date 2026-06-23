@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Brewers Guild
 summary: "Guildmaster: Rajesh Singh (Thrani)"
 tags:
@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - The-Guilds-of-Leandan---Major-and-Minor
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: The-Guilds-of-Leandan---Major-and-Minor
 ---
 
 # The Brewer's of the Leandan League
@@ -29,3 +31,7 @@ lastEditedBy: AI bulk import
 ---
 
 Found in the idyllic island scenery of Corai lies the Grand Guild of Brewers, a testament to the artistry and ingenuity of its members. Here, amid verdant landscapes and gentle sea breezes, master brewers ply their trade, harnessing the island's unique yeasts and tinctures to craft a cornucopia of libations. From crisp ales to robust stouts, delicate wines to fiery spirits, the Brewer's Guild caters to every palate within the Leandan League. As a beacon of craftsmanship and creativity, the Brewer's Guild continues to enchant and delight connoisseurs far and wide, its offerings a testament to the rich tapestry of flavors found within the realm.
+
+## Guild Structure
+
+Member of [[The-Guilds-of-Leandan---Major-and-Minor|The Guilds of Leandan - Major and Minor]].

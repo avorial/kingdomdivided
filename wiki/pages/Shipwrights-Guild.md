@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Shipwrights Guild
 summary: "Guildmaster: Henri Duval (M) (Quintill)"
 tags:
@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - The-Guilds-of-Leandan---Major-and-Minor
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: The-Guilds-of-Leandan---Major-and-Minor
 ---
 
 # The **Shipwrights **Guild of the Leandan League
@@ -27,3 +29,7 @@ The Shipwrights of Leandan stand as a formidable force, wielding influence over 
 However, amidst their dominance in traditional maritime affairs, tensions simmer with their minor guild, the Airships. While the Shipwrights control the seas, the Airships take flight, seeking independence from their maritime counterparts. Despite their differing designs and purposes, the Shipwrights maintain a firm grip on the Airships, reluctant to relinquish their authority. It creates an overwhelming tension at all levels of guildship.
 
 Within the guild's expansive domain, various trades find their home, including Fishing, Navigators, Netmakers, Sailmakers, and Whalers. Each profession contributes to the guild's collective prowess, ensuring that the Shipwrights Guild remains a cornerstone of Leandan's maritime supremacy.
+
+## Guild Structure
+
+Member of [[The-Guilds-of-Leandan---Major-and-Minor|The Guilds of Leandan - Major and Minor]].

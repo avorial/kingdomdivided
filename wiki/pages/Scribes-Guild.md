@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Scribes Guild
 summary: "Guildmaster: Elin Magnusdottir (F) (Katoites)"
 tags:
@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - The-Guilds-of-Leandan---Major-and-Minor
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: The-Guilds-of-Leandan---Major-and-Minor
 ---
 
 # The **Scribes **Guild of the Leandan League
@@ -27,3 +29,7 @@ The Grand Guild of Scribes stands as a citadel of knowledge and education within
 Yet their duties extend beyond mere transcription, for Scribes also serve as educators, imparting the invaluable skills of reading, writing, and oration to the youth of the land. Within the hallowed halls of the Scribes' Guild, one may find not only scholars and teachers, but also the skilled artisans of the Minor Guilds of Bookbinders, Cartographers, and Illuminators, each contributing to the grand tapestry of knowledge.
 
 While the Minor Guild House of Public Servitude nominally falls under the auspices of the Scribes, its practitioners are dispersed throughout the realm, their dedication to public service ingrained in the very fabric of Leandan society. Nonetheless, aspiring public servants may seek guidance and instruction at the local guilds of the Scribes, where they can hone their skills and prepare for a life of service to their fellow citizens.
+
+## Guild Structure
+
+Member of [[The-Guilds-of-Leandan---Major-and-Minor|The Guilds of Leandan - Major and Minor]].
