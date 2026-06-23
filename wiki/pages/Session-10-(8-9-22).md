@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 10 (8-9-22)
 summary: "| Session Number: 10 | Chapter 1 The Barons of Silverridge | | --- |
   --- | | Date: 8-9-22 | Key Locations: | | Media: | Glory Gains: | | Players

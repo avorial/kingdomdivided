@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Esten
 summary: The Esten Joining is a profound and mystical rite of passage for
   children of the Esten people, held on the night of the Esten New Year. This

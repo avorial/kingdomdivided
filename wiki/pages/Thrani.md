@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Thrani
 summary: The Thrani, a venerable race existing on the sphere alongside the
   Avestan, trace their origins to a time shrouded in antiquity. Their founder,

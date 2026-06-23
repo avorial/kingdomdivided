@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 26 (1-2-23)
 summary: "| Session Number: 26 | Chapter 2 The Convocation at Mistwick | | --- |
   --- | | Date: 01-2-23 | Key Locations: | | Media: | Glory Gains: | | Players

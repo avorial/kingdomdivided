@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Paltris
 summary: In the annals of ancient legends, the Paltris people emerge as a
   resilient and self-reliant race, deeply connected to the Star Gods who guided

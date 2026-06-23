@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Saltblood
 summary: "In the mystic tapestry of history, an enigma persists—the Saltblood, a
   people without a cultural lineage, a race that remains detached from the

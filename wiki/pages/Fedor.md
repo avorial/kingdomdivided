@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Fedor
 summary: While their prehistory is chronicled in the Legend of the Maw. The
   people as a whole naturally settled in the North and the East, there are runic

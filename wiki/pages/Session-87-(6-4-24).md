@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 87 (6-4-24)
 summary: "Chapter: Chapter 5 : The Knight and the Dragon"
 tags:

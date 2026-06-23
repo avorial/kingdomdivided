@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 89 (7-2-24)
 summary: "Chapter: Chapter 6 : The Tree and Fire"
 tags:

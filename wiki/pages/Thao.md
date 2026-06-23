@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Thao
 summary: "The Thao people are an integral part of the Mikado Empire's rich
   tapestry. Their origin story traces back to the momentous event known as \"The

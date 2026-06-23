@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 81 (2-5-24)
 summary: "Chapter: Chapter 5 : The Knight and the Dragon"
 tags:

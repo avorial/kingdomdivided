@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 31 (2-7-23)
 summary: "| Session Number: 31 | Chapter 2 The Convocation at Mistwick | | --- |
   --- | | Date: 02-7-23 | Key Locations: | | Media: | Glory Gains: | | Players

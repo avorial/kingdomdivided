@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 27 (1-9-23)
 summary: "| Session Number: 27 | Chapter 2 The Convocation at Mistwick | | --- |
   --- | | Date: 01-9-23 | Key Locations: | | Media: | Glory Gains: | | Players

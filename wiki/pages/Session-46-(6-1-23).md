@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 46 (6-1-23)
 summary: "| Session Number: 45 | Chapter: 3 The Saffron Society War | | --- |
   --- | | Date: 6-1-23 | Key Locations: | | Media: | Glory Gains: 3 : | |
