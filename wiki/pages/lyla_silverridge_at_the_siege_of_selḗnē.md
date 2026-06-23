@@ -7,11 +7,11 @@ summary: "| | Prelude: | | --- | --- | | Date: 12-20-22 | Key Locations: Selḗn
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 |  | Prelude: |
