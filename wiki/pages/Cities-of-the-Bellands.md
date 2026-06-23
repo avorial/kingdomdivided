@@ -9,11 +9,11 @@ tags:
   - region
   - cities-of-the-bellands
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 - Rivers - Rivercliff - Arta - Snowspell - Oldwyn (Capital) - Bauron - Icehaven - Eythra - Ganymede
