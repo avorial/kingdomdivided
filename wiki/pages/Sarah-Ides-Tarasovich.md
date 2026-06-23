@@ -1,17 +1,17 @@
 ---
 category: character
 type: character
-name: Caden Mattix
+name: Sarah Ides Tarasovich
 summary: ""
 tags:
-  - character
+  - pc
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: AI bulk import
 ---
 
-![caden_mattix2](/wiki/media/caden_mattix2.png)
-*Caden Mattix*
+![sarah_ides_tarasovich](/wiki/media/sarah_ides_tarasovich.png)
+*Sarah Ides Tarasovich*

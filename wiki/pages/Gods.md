@@ -5,9 +5,9 @@ name: Gods
 summary: ""
 tags:
   - lore
-visibility: gm
+visibility: players
 approvalStatus: unapproved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: AI via MCP

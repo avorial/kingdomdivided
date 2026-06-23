@@ -5,9 +5,9 @@ name: House Silverridge
 summary: ""
 tags:
   - organization
-visibility: gm
+visibility: players
 approvalStatus: unapproved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: AI via MCP
