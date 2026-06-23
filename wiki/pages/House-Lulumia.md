@@ -7,11 +7,11 @@ tags:
   - faction
   - mikado-house
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via GM review
 parent: House-Mikado
 ---
 
