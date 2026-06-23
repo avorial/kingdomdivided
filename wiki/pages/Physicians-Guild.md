@@ -7,12 +7,12 @@ tags:
   - faction
   - guild
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - The-Guilds-of-Leandan---Major-and-Minor
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 parent: The-Guilds-of-Leandan---Major-and-Minor
 ---
 
