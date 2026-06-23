@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Vulgrit
 summary: 'Name: House Vulgrit Leader of the House: Baron Rey Vulgrit Heir: Sir
   Maxim Vulgrit Liege: House Covenguard Founding: First Bellringer Crusade

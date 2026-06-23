@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Bellkind
 summary: "Name: House Bellkind Leader of the House: Duke Zachariah Bellkind
   Heir: Francis Bellkind Liege: House Rivers Founding: 3st Bellringer Crusade by

@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Baiersbruck
 summary: "Name: House Baiersbruck Leader of the House: Otto Baiersbruck Heir:
   Klara Baiersbruck Liege: Minor House in Montimer Founding: 100 RE"

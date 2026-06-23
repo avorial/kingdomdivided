@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Mookjai
 summary: "Name: House House Mookjai Leader of the House: A-wut Mookjai Heir:
   Liege: House Almern Founding: The End of The First Bellringer Crusade."

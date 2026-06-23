@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Macbravo
 summary: "Leader of the House: Heir: Liege: Founding: First Bellringer Crusade
   Motto: By the Stars Grace"

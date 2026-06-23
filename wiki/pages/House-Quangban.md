@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Quangban
 summary: "Name: House Quangban Leader of the House: Heir: Liege: Minor House in
   Almern Founding:"

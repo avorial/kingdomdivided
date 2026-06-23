@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Caragin
 summary: "Name: House Caragin Leader of the House: Emanual Caragin Heir: Adury
   Caragin Liege: Minor House in Whitestar Founding: 133"

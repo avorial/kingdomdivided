@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Ramirez
 summary: "Name: House Ramirez Leader of the House: Captain Sofia Ramirez Heir:
   Emer Ramirez Liege: Founding: 118 RE Motto: ''The Sea is a farm sprouting

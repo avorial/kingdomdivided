@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Abbyean
 summary: "title: House Abbyean published: true"
 tags:

@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Tamtria
 summary: "Name: House Tamtria Leader of the House: Heir: Liege: Minor House in
   Almern Founding:"

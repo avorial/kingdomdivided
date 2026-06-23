@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Taslan
 summary: 'Symbol: An open book with bricks behind it. Words: "Through History,
   We Endure"'

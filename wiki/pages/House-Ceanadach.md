@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Ceanadach
 summary: "Name: House Ceanadach"
 tags:

@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Thaphicare
 summary: "title: House Thaphicare published: true"
 tags:

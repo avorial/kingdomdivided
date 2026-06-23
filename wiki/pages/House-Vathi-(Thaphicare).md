@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Vathi (Thaphicare)
 summary: 'Symbol: A blazing phoenix rising from flames Words: "From Ashes, We Feast"'
 tags:
