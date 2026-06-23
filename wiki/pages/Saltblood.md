@@ -8,11 +8,11 @@ summary: "In the mystic tapestry of history, an enigma persists—the Saltblood,
 tags:
   - ancestry
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # History
