@@ -8,11 +8,11 @@ summary: Kingdom Divided takes place in a country called the Belllands. Over 500
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # Concept
