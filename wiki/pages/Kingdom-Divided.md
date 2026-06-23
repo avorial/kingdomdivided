@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: lore
+type: lore
 name: Kingdom Divided
 summary: Kingdom Divided takes place in a country called the Belllands. Over 500
   years ago a religious crusade came and conquered these lands, making them in
@@ -12,7 +12,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Concept
