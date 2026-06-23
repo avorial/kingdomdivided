@@ -7,11 +7,11 @@ summary: These are added to the Kingdom Divided world above and beyond the ones
 tags:
   - rules
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 These are added to the Kingdom Divided world above and beyond the ones listed in the main SC book.
