@@ -8,11 +8,11 @@ tags:
   - region
   - islands
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 Hrimfax Cay is a independent domain of 2 islands of the eastern coast of the Bell Lands.
