@@ -8,11 +8,11 @@ summary: In the primordial silence following the Calming of the Spheres, the
 tags:
   - ancestry
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # The Origin of the Avestan
