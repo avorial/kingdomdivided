@@ -8,11 +8,11 @@ summary: 'Prelude: Siobhán "The Attack on Deerholt" Date: 7-5-23 Key Locations:
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 Prelude: Siobhán "The Attack on Deerholt"  
