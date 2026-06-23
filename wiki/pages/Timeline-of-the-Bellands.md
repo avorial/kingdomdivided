@@ -6,11 +6,11 @@ summary: Bellringer Troops are stopped by the Esten Kings. The war reaches a sta
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 # SE: The Age of the Sedi Dynasty
