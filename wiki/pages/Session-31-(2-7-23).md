@@ -9,12 +9,12 @@ tags:
   - session
   - chapter-2
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
-eventDate: 2023-02-07
+lastEditedBy: patricthomas via GM review
+eventDate: 2023-02-07T00:00:00.000Z
 ---
 
 | Session Number: 31 | Chapter 2 The Convocation at Mistwick |
