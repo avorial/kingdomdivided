@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "4:House-Silverridge",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "House-Silverridge",
+    "title": "House Silverridge",
+    "category": "organization",
+    "summary": "",
+    "tags": [
+      "organization"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "![house_silverridge](/wiki/media/house_silverridge.png)\n*House Silverridge*\n",
+    "playerText": "![house_silverridge](/wiki/media/house_silverridge.png)\n*House Silverridge*\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  }
+]
