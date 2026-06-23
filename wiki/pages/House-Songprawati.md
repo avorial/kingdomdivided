@@ -12,7 +12,8 @@ approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas
+parent: House-Almirn
 ---
 
 ![house_songprawati](/wiki/media/house_songprawati.png)
