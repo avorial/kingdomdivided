@@ -9,11 +9,11 @@ tags:
   - faction
   - society
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 In the city of Icehaven, nestled amidst the awe-inspiring backdrop of snow-capped mountains and shimmering frozen valleys, stands the illustrious boarding school for nobles known as Frostholm Academy. Renowned throughout the realm for its unwavering commitment to academic excellence and the refinement of noble traditions, Frostholm Academy holds a special place in the hearts and minds of the aristocracy.
