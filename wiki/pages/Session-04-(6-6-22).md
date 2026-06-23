@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 04 (6-6-22)
 summary: "| Session Number: 4 | Chapter 1 The Barons of Silverridge | | --- |
   --- | | Date: 6-6-22 | Key Locations: | | Media:

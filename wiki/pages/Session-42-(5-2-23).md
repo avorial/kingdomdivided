@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 42 (5-2-23)
 summary: "| Session Number: 42 | Chapter: 3 The Saffron Society War | | --- |
   --- | | Date: May 2 2023 | Key Locations: | | Media: | Glory Gains: | |

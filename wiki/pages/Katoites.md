@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Katoites
 summary: In the aftermath of the Heartbeat, a cataclysm that sent shockwaves
   through the world, survivors found themselves in the distant lands situated to

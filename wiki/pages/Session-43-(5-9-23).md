@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 43 (5-9-23)
 summary: "| Session Number: | Chapter: 3 The Saffron Society War | | --- | --- |
   | Date: 5-9-23 | Key Locations: The Broken Rocks | | Media: | Glory Gains: 3 :

@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Quintill
 summary: "In the vast tapestry of ancient legends, the Quintill people emerged
   as a proud and enigmatic race, their origins veiled in myth and speculation.

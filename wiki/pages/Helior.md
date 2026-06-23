@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Helior
 summary: The Helior race traces its lineage back to the ancient giants of old,
   known for their immense size and strength. However, through years of

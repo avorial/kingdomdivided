@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session Zero
 summary: "Key Locations: Theater of the Mind"
 tags:

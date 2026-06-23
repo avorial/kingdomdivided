@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Zafroff
 summary: In the annals of ancient legends, the Zafroff people have a complex and
   intriguing history that weaves together their roots in a society influenced by

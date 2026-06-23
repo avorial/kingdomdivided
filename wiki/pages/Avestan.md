@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Avestan
 summary: In the primordial silence following the Calming of the Spheres, the
   worm gods had sedated Oh and broken his will, leaving the spheres connected

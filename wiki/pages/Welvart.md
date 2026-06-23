@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: species
+type: species
 name: Welvart
 summary: "The Welvart, a once-oppressed race of slaves originating from the
   great city of Kadal, found themselves at the crossroads of history. Hailing

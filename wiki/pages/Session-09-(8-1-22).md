@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Session 09 (8-1-22)
 summary: "| Session Number: 9 | Chapter 1 The Barons of Silverridge | | --- |
   --- | | Date: 8-1-22 | Key Locations: | | Media:
