@@ -8,11 +8,11 @@ summary: "Name: House Wycliff Leader of the House: Aiden Wycliff Heir: Decker
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 ## House Wycliff
