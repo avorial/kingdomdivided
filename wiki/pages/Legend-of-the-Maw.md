@@ -8,11 +8,11 @@ summary: All of the Fedors come from an island called the Land of Fire and
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 *Sometime in every Fedor children's life they ask. If this was the land of the Esten, where did we come from? An parent would sit them down and tell them this legend. *
