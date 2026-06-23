@@ -13,7 +13,8 @@ approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas
+parent: House-Talmert
 ---
 
 ### **House Taslan**
