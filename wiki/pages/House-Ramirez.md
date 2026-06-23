@@ -10,12 +10,12 @@ tags:
   - noble-house
   - minor-houses
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House-Silverridge
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 parent: House-Silverridge
 ---
 
