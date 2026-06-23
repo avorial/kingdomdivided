@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Iron Chrysanthemum
 summary: "title: Iron Chrysanthemum published: true"
 tags:
@@ -11,7 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 title: Iron Chrysanthemum
