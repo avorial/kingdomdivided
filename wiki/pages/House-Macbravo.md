@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Silverridge
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Silverridge
 ---
 
 Name: House Macbravo
@@ -39,3 +41,7 @@ However, tragedy struck when Gregor unexpectedly passed away, leaving his nephew
 In a world filled with shifting allegiances, political turmoil, and a dwindling fortune, House MacBravo stands at a critical juncture. Peter must confront not only external challenges but also the internal demons of his family's history. The fate of House MacBravo hangs in the balance as they grapple with their diminishing resources, strive to protect their newly established information network, and uncover the truth behind their enigmatic past.
 
 With determination and shrewdness, House MacBravo seeks to rise above their current struggles and carve a path of resilience and prosperity. The legacy of their ancestors and the ambitions of their late patriarch drive them forward, as they navigate the treacherous waters of power, survival, and the pursuit of redemption.
+
+## Allegiance
+
+Liege: [[House-Silverridge|House Silverridge]]

@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Mikado
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Mikado
 ---
 
 title: House Haina
@@ -48,3 +50,7 @@ A gifted scout and intelligence handler, Vileh operates among the other houses a
 
 **Initiate Jiku Haina**  
 A rare prodigy, Jiku joined the guard at only 13 years of age. Now 17, she is whispered to be the Emperor’s personal shadow—unseen and never far behind.
+
+## Allegiance
+
+Liege: [[House-Mikado|House Mikado]]

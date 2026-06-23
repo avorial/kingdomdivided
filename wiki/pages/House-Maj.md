@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Mikado
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Mikado
 ---
 
 title: House Maj
@@ -47,3 +49,7 @@ Young and compassionate, Teliya often travels beyond Maj lands as an emissary of
 
 **Scrollspeaker Bael Maj**  
 A wandering historian-priest who records divine events with flesh-bound ink on scrolls made of moth wings. His prophecies are often cryptic but have proven eerily accurate.
+
+## Allegiance
+
+Liege: [[House-Mikado|House Mikado]]

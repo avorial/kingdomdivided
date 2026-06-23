@@ -12,6 +12,11 @@ knownToPlayers: true
 keyLinks:
   - House-Bennet
   - House-Upperton
+  - House-Baiersbruck
+  - House-Arstarcsalia
+  - House-Bouvy
+  - House-Nyirborg
+  - House-Tsalan
 aliases: []
 lastEditedBy: AI via CampaignRepo
 ---

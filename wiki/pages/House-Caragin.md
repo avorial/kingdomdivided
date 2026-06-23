@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Whitestar
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Whitestar
 ---
 
 ![house_caragin](/wiki/media/house_caragin.png)
@@ -41,3 +43,7 @@ As House Caragin continues to thrive and expand, their quest to marry into nobil
 Amidst the challenges of the merchant world and the pursuit of noble alliances, House Caragin remains committed to its core values of quality, fairness, and integrity. The rare and exquisite Silveroak timber continues to be their most coveted commodity, sought after by artisans, craftsmen, and nobles alike. Their sawmills in Silveroak hum with activity, ensuring a steady supply of this unique wood to clients near and far.
 
 As they navigate the complexities of the realm and strive to secure their legacy, House Caragin looks to the future with optimism and determination. The dream of marrying into nobility looms large, and Emanual and Audry are resolute in their quest to elevate the house's social status and secure their place in the annals of history.
+
+## Allegiance
+
+Liege: [[House-Whitestar|House Whitestar]]

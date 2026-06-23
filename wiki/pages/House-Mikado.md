@@ -9,9 +9,15 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Maj
+  - House-Haina
+  - House-Jeong
+  - House-Toab
+  - House-Thaphicare
+  - House-Abbyean
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
 ---
 
 title: House Mikado
@@ -54,3 +60,11 @@ The younger brother of Xelin IV, Shenren is the only Mikado known to have travel
 
 **Archivist Zhenha Mikado**  
 Keeper of the Imperial Archives and rumored to be hundreds of years old, Zhenha claims to remember the voices of emperors past. A strange figure, she is rarely seen, but her influence over historical narrative and legitimacy is enormous.
+
+## Banner Houses
+- [[House-Maj|House Maj]]
+- [[House-Haina|House Haina]]
+- [[House-Jeong|House Jeong]]
+- [[House-Toab|House Toab]]
+- [[House-Thaphicare|House Thaphicare]]
+- [[House-Abbyean|House Abbyean]]

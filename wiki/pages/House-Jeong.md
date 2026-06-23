@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Mikado
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Mikado
 ---
 
 title: House Jeong
@@ -47,3 +49,7 @@ A former spy turned diplomat, Fin handles international relations. He often wear
 
 **Silk-Chanter Nian Jeong**  
 A poet and socialite who entertains nobles at court with musical stories woven with economic advice. Many policies have been changed after one of her “performances.”
+
+## Allegiance
+
+Liege: [[House-Mikado|House Mikado]]

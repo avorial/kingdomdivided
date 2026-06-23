@@ -11,9 +11,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Montmier
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Montmier
 ---
 
 ![house_tsalan](/wiki/media/house_tsalan.png)
@@ -39,3 +41,7 @@ Founding:
 *House Tsalan's influence extends beyond the walls of Montimer, as they share their knowledge selectively with other noble houses. However, their allegiance is to the preservation of Montimer's legacy, and they navigate the currents of politics with a watchful eye. In times of crisis, it is to House Tsalan that Montimer turns, seeking the guidance and insights that only the custodians of secrets can provide. With House Bennet, becoming such a political power in the realm there are hints to reach out to other houses to clean the domain of their influnce.*
 
 *For House Tsalan, silence is not just the absence of sound; it is a strategic choice, a shield that protects the wealth of information they hold. In the ever-shifting landscape of Montimer, the silent observers endure, their eyes fixed on the pages of history yet to be written.*
+
+## Allegiance
+
+Liege: [[House-Montmier|House Montmier]]

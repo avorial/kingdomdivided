@@ -14,6 +14,9 @@ knownToPlayers: true
 keyLinks:
   - House-Rhelrya
   - House-Thalorin
+  - House-Coremalia
+  - House-Liris
+  - House-Vathi-(Thaphicare)
 aliases: []
 lastEditedBy: AI via CampaignRepo
 ---
@@ -96,3 +99,6 @@ Wealth= 31
 
 - [[House-Rhelrya|House Rhelrya]]
 - [[House-Thalorin|House Thalorin]]
+- [[House-Coremalia|House Coremalia]]
+- [[House-Liris|House Liris]]
+- [[House-Vathi-(Thaphicare)|House Vathi (Thaphicare)]]

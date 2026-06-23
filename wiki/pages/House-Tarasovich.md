@@ -12,9 +12,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Covinggard
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Covinggard
 ---
 
 ![house_tarasovich](/wiki/media/house_tarasovich.png)
@@ -95,3 +97,7 @@ Boris Tarasovich's name would be remembered as a symbol of resilience and unwave
 - The Veiled Oracle has been consulted by the heads of House Tarasovich for generations, guiding their decisions and strategies in the shadows. The entity's predictions, though often enigmatic, have proven remarkably accurate, enabling House Tarasovich to navigate treacherous political landscapes, foreseeing potential betrayals, and securing advantageous alliances.
 - To protect the secrecy of the Veiled Oracle, House Tarasovich has implemented elaborate rituals and powerful wards, ensuring that only the trusted inner circle can access its wisdom. The knowledge gleaned from the Veiled Oracle has become a cornerstone of House Tarasovich's clandestine operations, allowing them to anticipate their enemies' moves and manipulate events to their advantage.
 - However, the Veiled Oracle's revelations are not without consequences. Many who have spent extended periods in its presence have been affected by its eldritch energies, experiencing visions and haunting dreams that blur the line between reality and the ethereal realm, and guarantee an advancement of the Shadow's mark.
+
+## Allegiance
+
+Liege: [[House-Covinggard|House Covinggard]]

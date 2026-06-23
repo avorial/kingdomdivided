@@ -9,9 +9,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Mikado
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Mikado
 ---
 
 title: House Thaphicare
@@ -59,3 +61,7 @@ A historian and keeper of the Esten oral tradition. She records every family’s
 
 **Harvest-Sister Mali Thaphicare**  
 A spiritual leader who blesses the fields and channels fertility magic from the Worm Gods. Her rituals are seen as critical for the health of the realm’s crops.
+
+## Allegiance
+
+Liege: [[House-Mikado|House Mikado]]

@@ -12,9 +12,11 @@ tags:
 visibility: players
 approvalStatus: unapproved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - House-Silverridge
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: AI via CampaignRepo
+parent: House-Silverridge
 ---
 
 ![house_ramirez](/wiki/media/house_ramirez.png)
@@ -62,3 +64,7 @@ The minor branch of House Ramirez, known as the Silverridge Bastards, plays a un
 - Captain Rodrigo Vega: - Ship: The Ironclad Fury
 - Captain Isidora Morales: - Ship: The Tempest's Wrath
 - Captain Guillermo Navarro: - Ship: The Siren's Call
+
+## Allegiance
+
+Liege: [[House-Silverridge|House Silverridge]]
