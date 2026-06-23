@@ -9,12 +9,12 @@ tags:
   - session
   - chapter-1
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
-eventDate: 2022-08-01
+lastEditedBy: patricthomas via GM review
+eventDate: 2022-08-01T00:00:00.000Z
 ---
 
 | Session Number: 9 | Chapter 1 The Barons of Silverridge |
