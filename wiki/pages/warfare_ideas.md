@@ -8,11 +8,11 @@ summary: 1. Faster 1. Goal - 2 Hours (at least half as long as normal warfare)
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI bulk import
+lastEditedBy: patricthomas via GM review
 ---
 
 1. Faster 1. Goal - 2 Hours (at least half as long as normal warfare)
