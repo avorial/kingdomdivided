@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: lore
+type: lore
 name: The Legend of ௫ (Oh)
 summary: While all things want, almost nothing wants all. There was a time, and
   a time to be where the want of all and the ability to take it would be imbued
@@ -12,7 +12,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Starts With An End
