@@ -1,17 +1,17 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: Rooted in Change
 summary: "title: Rooted in Change published: true"
 tags:
   - lore
   - gods
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 title: Rooted in Change
