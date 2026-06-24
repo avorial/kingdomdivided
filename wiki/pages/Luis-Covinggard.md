@@ -1,16 +1,16 @@
 ---
-category: character
-type: character
+category: npc
+type: npc
 name: Luis Covinggard
 summary: ""
 tags:
   - pc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 ![luis_covinggard](/wiki/media/luis_covinggard.jpg)
