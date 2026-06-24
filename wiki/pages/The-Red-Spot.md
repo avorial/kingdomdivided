@@ -1,17 +1,17 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: The Red Spot
 summary: Spy network of house montimer.
 tags:
   - faction
   - society
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: AI via MCP
 parent: Intelligence-Agencies
 ---
 
