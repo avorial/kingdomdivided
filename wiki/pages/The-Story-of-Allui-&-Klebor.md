@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: The Story of Allui & Klebor
 summary: The founder of the Esten Ancestry is accredited to Allui. Allui was not
   what we would consider human, she was a living tree. Trees then would walk and
@@ -8,11 +8,11 @@ summary: The founder of the Esten Ancestry is accredited to Allui. Allui was not
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # Allui & Klebor
