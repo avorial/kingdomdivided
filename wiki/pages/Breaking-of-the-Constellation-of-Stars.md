@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: Breaking of the Constellation of Stars
 summary: In the annals of history, the origins of the Crusader Wars, a
   tumultuous era that fractured the unity of the Constellation of Stars, are
@@ -8,11 +8,11 @@ summary: In the annals of history, the origins of the Crusader Wars, a
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 In the annals of history, the origins of the Crusader Wars, a tumultuous era that fractured the unity of the Constellation of Stars, are often obscured by the passage of time. Yet, within the labyrinth of forgotten narratives, there lies a tale that sparked the flames of conflict—a tale centered around a dismissive teenager named Emanuel Gratsi and the consequences that rippled through the fabric of a society that considered itself untouchable.
