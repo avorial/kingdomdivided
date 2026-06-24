@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: Legend of the Maw
 summary: All of the Fedors come from an island called the Land of Fire and
   Flowers. It was warm and food fell from the trees. Our people lived in a
@@ -8,11 +8,11 @@ summary: All of the Fedors come from an island called the Land of Fire and
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 *Sometime in every Fedor children's life they ask. If this was the land of the Esten, where did we come from? An parent would sit them down and tell them this legend. *
