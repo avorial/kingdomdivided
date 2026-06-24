@@ -6,11 +6,11 @@ summary: ""
 tags:
   - pc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 ![sarah_ides_tarasovich](/wiki/media/sarah_ides_tarasovich.png)

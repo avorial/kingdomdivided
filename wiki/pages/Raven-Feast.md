@@ -8,11 +8,11 @@ tags:
   - society
   - belllands-mercenary-companies
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 Raven Feast

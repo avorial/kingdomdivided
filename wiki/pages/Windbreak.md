@@ -8,11 +8,11 @@ summary: Windbreak started as a key port on the west for centuries, as it was
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 =History=

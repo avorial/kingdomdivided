@@ -8,11 +8,11 @@ summary: The founder of the Esten Ancestry is accredited to Allui. Allui was not
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 # Allui & Klebor

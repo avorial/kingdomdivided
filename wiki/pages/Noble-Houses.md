@@ -6,11 +6,11 @@ summary: "- Mookjai (Barony) - Songprawati(County) - Menes - Qyangban - Tamtria 
 tags:
   - misc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 # Noble Houses of the Bell Lands

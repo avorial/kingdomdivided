@@ -7,7 +7,7 @@ tags:
   - faction
   - mercenary
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - Chain-Breakers
@@ -16,7 +16,7 @@ keyLinks:
   - First-Son's-Gravediggers
   - Silent-Devils
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 # Mercenary Bands

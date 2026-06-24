@@ -6,11 +6,11 @@ summary: ""
 tags:
   - pc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 ![nolla_holt](/wiki/media/nolla_holt.jpg)

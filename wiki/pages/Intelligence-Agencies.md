@@ -8,7 +8,7 @@ tags:
   - faction
   - intelligence
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - Griffon's-Feathers
@@ -16,7 +16,7 @@ keyLinks:
   - Order-Black-Coin
   - Pomegranate-Seeds
 aliases: []
-lastEditedBy: AI via CampaignRepo
+lastEditedBy: patricthomas via GM review
 ---
 
 # Intelligence Agencies

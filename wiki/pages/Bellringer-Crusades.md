@@ -7,11 +7,11 @@ summary: The Bellringer Missionaries conquering of the Lands of Earth and Water,
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 # The First Bellringer Crusade (The Fall of Kings)
