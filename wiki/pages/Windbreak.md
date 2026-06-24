@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: location
+type: location
 name: Windbreak
 summary: Windbreak started as a key port on the west for centuries, as it was
   then chosen as the site to start the Grand Canal it's populatary rose. For all
@@ -8,11 +8,11 @@ summary: Windbreak started as a key port on the west for centuries, as it was
 tags:
   - misc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 =History=
