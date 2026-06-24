@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: location
+type: location
 name: Silveroak
 summary: "[https://watabou.github.io/city-generator/?size=15&seed=5806543250023\
   &name=Silveroak&population=1345&greens=0&farms=0&citadel=1&urbancastle=0&plaz\
@@ -10,11 +10,11 @@ tags:
   - noble-house
   - minor-houses
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # Map:
