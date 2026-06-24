@@ -1,17 +1,17 @@
 ---
-category: character
-type: character
+category: npc
+type: npc
 name: Zachariah Bellkind
 summary: "Name: Zachariah Bellkind Title: Duke of Bellkind Age: 20 Gender: Male
   Ancestry: Paltris House: House Bellkind"
 tags:
   - pc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 ![zachariah_bellkind](/wiki/media/zachariah_bellkind.png)
