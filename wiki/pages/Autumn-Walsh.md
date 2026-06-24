@@ -1,6 +1,6 @@
 ---
-category: character
-type: character
+category: npc
+type: npc
 name: Autumn Walsh
 summary: "Title: Lady “Diplomat” Age: 23 Ancestry: Fedors Gender: Female House:
   House Walsh (a diplomat working for House Whitestar assigned to House
@@ -8,11 +8,11 @@ summary: "Title: Lady “Diplomat” Age: 23 Ancestry: Fedors Gender: Female Hou
 tags:
   - pc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 Name: Autumn Walsh
