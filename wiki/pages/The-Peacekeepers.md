@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: The Peacekeepers
 summary: In the annals of history, amid the tumultuous era of the First Crusade,
   an unassuming group emerged from the chaos—the nascent Peacekeepers.
@@ -9,11 +9,11 @@ tags:
   - faction
   - society
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # History
