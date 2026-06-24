@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: location
+type: location
 name: Frosthome Academy
 summary: In the city of Icehaven, nestled amidst the awe-inspiring backdrop of
   snow-capped mountains and shimmering frozen valleys, stands the illustrious
@@ -9,11 +9,11 @@ tags:
   - faction
   - society
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 In the city of Icehaven, nestled amidst the awe-inspiring backdrop of snow-capped mountains and shimmering frozen valleys, stands the illustrious boarding school for nobles known as Frostholm Academy. Renowned throughout the realm for its unwavering commitment to academic excellence and the refinement of noble traditions, Frostholm Academy holds a special place in the hearts and minds of the aristocracy.
