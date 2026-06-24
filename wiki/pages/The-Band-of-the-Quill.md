@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: The Band of the Quill
 summary: Spy network of house Gratsi.
 tags:
@@ -11,7 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 Spy network of house Gratsi.
