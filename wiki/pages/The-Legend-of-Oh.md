@@ -1,16 +1,16 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: The Legend of Oh
 summary: ""
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 *Content not available.*
