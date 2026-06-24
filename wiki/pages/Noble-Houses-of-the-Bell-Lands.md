@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Noble Houses of the Bell Lands
 summary: "- Almirn - Mookjai - Songprawati - Menes - Qyangban - Tamtria - Yenia
   - Bellkind - Goycoa - Gambu - Hinos - Pejos - Pseibethia - Santestera -
@@ -9,11 +9,11 @@ tags:
   - faction
   - noble-house
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # Noble Houses of the Bell Lands
