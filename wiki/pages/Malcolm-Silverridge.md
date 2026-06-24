@@ -1,16 +1,16 @@
 ---
-category: character
-type: character
+category: npc
+type: npc
 name: Malcolm Silverridge
 summary: ""
 tags:
   - pc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 ![malcom_silverridge](/wiki/media/malcom_silverridge.jpg)
