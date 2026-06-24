@@ -1,17 +1,17 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Sicarius
 summary: "title: Sicarius published: true"
 tags:
   - faction
   - society
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 title: Sicarius
