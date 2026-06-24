@@ -12,6 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas
+parent: Intelligence-Agencies
 ---
 
 Spy network of house Gratsi.
