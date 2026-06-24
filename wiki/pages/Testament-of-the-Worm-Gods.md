@@ -1,16 +1,16 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: Testament of the Worm Gods
 summary: "title: Testament of the Worm Gods published: true"
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 title: Testament of the Worm Gods
