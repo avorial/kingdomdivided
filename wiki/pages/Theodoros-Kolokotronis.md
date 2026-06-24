@@ -1,16 +1,16 @@
 ---
-category: character
-type: character
+category: npc
+type: npc
 name: Theodoros Kolokotronis
 summary: "Name: Theodoros Kolokotronis"
 tags:
   - pc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 Name: Theodoros Kolokotronis
