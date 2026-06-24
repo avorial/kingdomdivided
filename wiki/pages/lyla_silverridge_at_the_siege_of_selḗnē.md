@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: event
+type: event
 name: lyla_silverridge_at_the_siege_of_selḗnē
 summary: "| | Prelude: | | --- | --- | | Date: 12-20-22 | Key Locations: Selḗnē
   | | | | | Players Attending: - Laura Bee (Lyla Silverridge) |"
@@ -11,7 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 |  | Prelude: |
