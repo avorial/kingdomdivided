@@ -12,7 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
+parent: Mercenary-Bands
 ---
 
 Raven Feast
