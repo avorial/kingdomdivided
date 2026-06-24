@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: The Solar System
 summary: While every child knows of Oh, from the star gods tears, and the worm
   gods breaking him up. Only the educated understand how each of the parts of
@@ -8,11 +8,11 @@ summary: While every child knows of Oh, from the star gods tears, and the worm
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 While every child knows of Oh, from the star gods tears, and the worm gods breaking him up. Only the educated understand how each of the parts of Oh, became the spheres in the night sky.
