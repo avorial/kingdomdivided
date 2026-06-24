@@ -1,16 +1,16 @@
 ---
-category: npc
-type: npc
+category: game
+type: game
 name: Game Sessions Bell Lands
 summary: ""
 tags:
   - misc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 *Content not available.*
