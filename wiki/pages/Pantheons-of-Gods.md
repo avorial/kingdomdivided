@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: lore
+type: lore
 name: Pantheons of Gods
 summary: All of the following is from a Star Good Follower's view this is more
   then just bias, there is a lot of wrong information under here.
@@ -11,7 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Note
