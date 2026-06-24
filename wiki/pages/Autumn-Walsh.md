@@ -8,11 +8,11 @@ summary: "Title: Lady “Diplomat” Age: 23 Ancestry: Fedors Gender: Female Hou
 tags:
   - pc
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 Name: Autumn Walsh

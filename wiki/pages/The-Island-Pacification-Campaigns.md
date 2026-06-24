@@ -6,11 +6,11 @@ summary: "title: The Island Pacification Campaigns published: true"
 tags:
   - lore
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 title: The Island Pacification Campaigns
