@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: Bellwall Outcasts
 summary: "The roar of the seas seemed to echo the tumultuous nature of the
   Crusader Wars against the Mikado Empire. The conflict had persisted for ages,
@@ -8,11 +8,11 @@ summary: "The roar of the seas seemed to echo the tumultuous nature of the
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 The roar of the seas seemed to echo the tumultuous nature of the Crusader Wars against the Mikado Empire. The conflict had persisted for ages, a relentless struggle between powers vying for religious dominance. Ten years ago, amidst the ebb and flow of this ceaseless war, a defining moment unfolded—a clandestine operation known as the Burning of Ganzhou.
