@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Church of the Bells
 summary: The Church of the Bells, is the organized bureaucracy of The Bell
   Ringer faith. They have 3 key subdivisions.
@@ -8,11 +8,11 @@ tags:
   - faction
   - society
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # History
