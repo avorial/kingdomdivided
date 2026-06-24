@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Saffron Society
 summary: The Saffron Society, started out as a group of mystic healers from the
   Saffron Isles. They did not charge for their medical care feeling that it was
@@ -9,11 +9,11 @@ tags:
   - faction
   - society
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # History
