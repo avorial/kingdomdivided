@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: location
+type: location
 name: Countries In the Cestona
 summary: "The Empire of Kadal traces its origins to the dawn of civilization on
   Cestona, a sphere resonating with arcane energies. The Avestan, the first race
@@ -8,11 +8,11 @@ summary: "The Empire of Kadal traces its origins to the dawn of civilization on
 tags:
   - misc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # Empires of Cestona
