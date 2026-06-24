@@ -1,16 +1,16 @@
 ---
-category: character
-type: character
+category: npc
+type: npc
 name: Sarah Ides Tarasovich
 summary: ""
 tags:
   - pc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 ![sarah_ides_tarasovich](/wiki/media/sarah_ides_tarasovich.png)
