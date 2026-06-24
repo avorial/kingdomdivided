@@ -1,17 +1,17 @@
 ---
-category: event
-type: event
+category: lore
+type: lore
 name: Bellringer Crusades
 summary: The Bellringer Missionaries conquering of the Lands of Earth and Water,
   Known today as the Bell Lands.
 tags:
   - lore
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # The First Bellringer Crusade (The Fall of Kings)
