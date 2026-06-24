@@ -1,6 +1,6 @@
 ---
-category: character
-type: character
+category: npc
+type: npc
 name: Haylee Rhinehart-Silverridge
 summary: "Name: Haylee Rhinehart-Silverridge Title: Lady Age: Died at 22.
   Gender: Female Ancestry: Fedor"
@@ -8,11 +8,11 @@ tags:
   - pc
   - deceased
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 ![haylee_rhinehart-silverridge](/wiki/media/haylee_rhinehart-silverridge.png)
