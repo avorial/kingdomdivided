@@ -1,16 +1,16 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: Noble Houses
 summary: "- Mookjai (Barony) - Songprawati(County) - Menes - Qyangban - Tamtria - Yenia"
 tags:
   - misc
 visibility: players
-approvalStatus: approved
+approvalStatus: unapproved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: AI via MCP
 ---
 
 # Noble Houses of the Bell Lands
