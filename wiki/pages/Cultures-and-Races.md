@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: species
+type: species
 name: Cultures and Races
 summary: Cultures of Humans found in Kingdom Divided.
 tags:
@@ -10,7 +10,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Cultures
