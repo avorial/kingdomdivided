@@ -11,7 +11,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
+parent: Game-Sessions-Bell-Lands
 ---
 
 Session Number: 0
