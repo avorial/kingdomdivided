@@ -14,8 +14,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
-parent: The-Belllands
+lastEditedBy: patricthomas via bulk edit
+parent: Cities-of-the-Bellands
 ---
 
 # Map:
