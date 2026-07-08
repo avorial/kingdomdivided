@@ -2,7 +2,8 @@
 category: game
 type: game
 name: Mikado Session 01 - Exile and Sea
-summary: "The party is exiled from the Belllands and begins the dangerous voyage toward Mikado lands."
+summary: The party is exiled from the Belllands and begins the dangerous voyage
+  toward Mikado lands.
 tags:
   - game
   - mikado
@@ -11,6 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Mikado-Chronicle
 ---
 
 # Mikado Session 01 - Exile and Sea

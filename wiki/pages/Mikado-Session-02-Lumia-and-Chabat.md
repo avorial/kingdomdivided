@@ -2,7 +2,8 @@
 category: game
 type: game
 name: Mikado Session 02 - Lumia and Chabat
-summary: "The party lands in Lumia, enters Chabat, and begins navigating Esten and Mikado authority."
+summary: The party lands in Lumia, enters Chabat, and begins navigating Esten
+  and Mikado authority.
 tags:
   - game
   - mikado
@@ -12,6 +13,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Mikado-Chronicle
 ---
 
 # Mikado Session 02 - Lumia and Chabat

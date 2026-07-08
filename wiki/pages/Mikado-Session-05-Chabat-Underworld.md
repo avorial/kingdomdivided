@@ -2,7 +2,8 @@
 category: game
 type: game
 name: Mikado Session 05 - Chabat Underworld
-summary: "The party enters the obsidian structure beneath Chabat and encounters altered prisoners, Maw people, and volcanic collapse."
+summary: The party enters the obsidian structure beneath Chabat and encounters
+  altered prisoners, Maw people, and volcanic collapse.
 tags:
   - game
   - obsidian
@@ -12,6 +13,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Mikado-Chronicle
 ---
 
 # Mikado Session 05 - Chabat Underworld

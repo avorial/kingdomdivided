@@ -2,7 +2,8 @@
 category: game
 type: game
 name: Mikado Session 06 - House Hanan and the Imperial Crisis
-summary: "The final Mikado session brings the party into Hanan protection while House Tobe warns of an Imperial crisis."
+summary: The final Mikado session brings the party into Hanan protection while
+  House Tobe warns of an Imperial crisis.
 tags:
   - game
   - hanan
@@ -13,6 +14,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Last Mikado Session
+lastEditedBy: patricthomas via bulk edit
+parent: Mikado-Chronicle
 ---
 
 # Mikado Session 06 - House Hanan and the Imperial Crisis

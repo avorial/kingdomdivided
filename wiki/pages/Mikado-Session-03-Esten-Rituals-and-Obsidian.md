@@ -2,7 +2,8 @@
 category: game
 type: game
 name: Mikado Session 03 - Esten Rituals and Obsidian
-summary: "The party investigates Esten ritual politics, House Obsidian history, and the suspicious dig."
+summary: The party investigates Esten ritual politics, House Obsidian history,
+  and the suspicious dig.
 tags:
   - game
   - obsidian
@@ -12,6 +13,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Mikado-Chronicle
 ---
 
 # Mikado Session 03 - Esten Rituals and Obsidian

@@ -2,7 +2,8 @@
 category: game
 type: game
 name: Mikado Session 04 - Flight to Hanan
-summary: "The party flees Lumia with House Tobe aid and begins to understand stolen shadows and Obsidian spread."
+summary: The party flees Lumia with House Tobe aid and begins to understand
+  stolen shadows and Obsidian spread.
 tags:
   - game
   - house-tobe
@@ -12,6 +13,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Mikado-Chronicle
 ---
 
 # Mikado Session 04 - Flight to Hanan
