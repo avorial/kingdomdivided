@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: mechanic
+type: mechanic
 name: Warfare Changes
 summary: "A General is the leader of one side of the warfare combat. Their stats
   will be rolled for the Initiative. They can have a number of sub commanders
@@ -12,7 +12,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Generals and Subcommanders
