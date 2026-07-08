@@ -1,6 +1,6 @@
 ---
-category: game
-type: game
+category: mechanic
+type: mechanic
 name: Specialties
 summary: ""
 tags:
@@ -10,7 +10,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Athletics
