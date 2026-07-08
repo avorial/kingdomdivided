@@ -2,7 +2,8 @@
 category: character
 type: character
 name: Nikos
-summary: "A changed Worm God missionary whose badger-like claws, digging, and faith make him both strange and deeply Mikado."
+summary: A changed Worm God missionary whose badger-like claws, digging, and
+  faith make him both strange and deeply Mikado.
 tags:
   - character
   - mikado
@@ -13,6 +14,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Niko
+lastEditedBy: patricthomas
+parent: Mikado-Chronicle-Player-Characters
 ---
 
 # Nikos
