@@ -1,7 +1,7 @@
 ---
-category: game
-type: game
-name: Benefits & Drawbacks
+category: lore
+type: lore
+name: Benefits & Drawbacks (Sword Chronicle)
 summary: These are added to the Kingdom Divided world above and beyond the ones
   listed in the main SC book.
 tags:
@@ -11,7 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 These are added to the Kingdom Divided world above and beyond the ones listed in the main SC book.
