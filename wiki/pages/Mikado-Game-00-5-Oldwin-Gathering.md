@@ -2,7 +2,8 @@
 category: game
 type: game
 name: Mikado Game 0.5 - Oldwin Gathering
-summary: "The introduction session where the party gathers under seals, messages, and pre-audience tension."
+summary: The introduction session where the party gathers under seals, messages,
+  and pre-audience tension.
 tags:
   - game
   - mikado
@@ -11,6 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas
+parent: Mikado-Chronicle
 ---
 
 # Mikado Game 0.5 - Oldwin Gathering
