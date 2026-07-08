@@ -1,15 +1,26 @@
-name: "Kingdom Divided"
-gameType: "Sword Chronicle"
+name: Kingdom Divided
+gameType: Sword Chronicle
 categories:
-  - Characters
-  - NPCs
-  - Organizations
-  - Species
-  - Locations
-  - Items
-  - Events
-  - Lore
-  - Games
+  - id: character
+    label: Characters
+  - id: npc
+    label: NPCs
+  - id: organization
+    label: Organizations
+  - id: species
+    label: Species
+  - id: location
+    label: Locations
+  - id: item
+    label: Items
+  - id: event
+    label: Events
+  - id: lore
+    label: Lore
+  - id: game
+    label: Games
+  - id: mechanic
+    label: Mechanic
 visibility:
   default: gm
 approvals:
@@ -17,5 +28,5 @@ approvals:
 theme:
   accent: "#d4a957"
   accent2: "#a075ff"
-  displayFont: "Fraunces"
+  displayFont: Fraunces
   banner: ""
