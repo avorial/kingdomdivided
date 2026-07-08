@@ -2,7 +2,8 @@
 category: character
 type: character
 name: Rina
-summary: "A Mikado Chronicle noble who helps gather the party and coordinate early political movement."
+summary: A Mikado Chronicle noble who helps gather the party and coordinate
+  early political movement.
 tags:
   - character
   - mikado
@@ -13,6 +14,8 @@ keyLinks: []
 aliases:
   - Reina
   - Raina
+lastEditedBy: patricthomas
+parent: Mikado-Chronicle-Player-Characters
 ---
 
 # Rina
