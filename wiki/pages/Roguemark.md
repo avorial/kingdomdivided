@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: location
+type: location
 name: Roguemark
 summary: "title: Roguemark published: true"
 tags:
@@ -10,7 +10,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 title: Roguemark
