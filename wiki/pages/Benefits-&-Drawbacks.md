@@ -1,6 +1,6 @@
 ---
-category: lore
-type: lore
+category: mechanic
+type: mechanic
 name: Benefits & Drawbacks (Sword Chronicle)
 summary: These are added to the Kingdom Divided world above and beyond the ones
   listed in the main SC book.
