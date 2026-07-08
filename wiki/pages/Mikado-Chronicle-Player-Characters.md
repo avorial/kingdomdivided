@@ -2,7 +2,7 @@
 category: character
 type: character
 name: Mikado Chronicle Player Characters
-summary: "Working index for the Mikado Chronicle party."
+summary: Working index for the Mikado Chronicle party.
 tags:
   - character
   - mikado
@@ -12,6 +12,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Mikado Party
+lastEditedBy: patricthomas via bulk edit
+parent: Belllads-Chronicle-Player-Characters
 ---
 
 # Mikado Chronicle Player Characters

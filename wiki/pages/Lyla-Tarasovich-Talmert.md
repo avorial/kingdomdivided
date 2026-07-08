@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Belllads-Chronicle-Player-Characters
 ---
 
 ![lyla_silverridge](/wiki/media/lyla_silverridge.png)

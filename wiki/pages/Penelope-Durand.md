@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Belllads-Chronicle-Player-Characters
 ---
 
 ![penelope_durand2](/wiki/media/penelope_durand2.jpg)

@@ -2,7 +2,8 @@
 category: character
 type: character
 name: Thorn
-summary: "A shadow assassin whose missing or unstable shadow becomes part of the Obsidian crisis."
+summary: A shadow assassin whose missing or unstable shadow becomes part of the
+  Obsidian crisis.
 tags:
   - character
   - assassin
@@ -13,6 +14,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Thorne
+lastEditedBy: patricthomas via bulk edit
+parent: Belllads-Chronicle-Player-Characters
 ---
 
 # Thorn

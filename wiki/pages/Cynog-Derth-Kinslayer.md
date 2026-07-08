@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Belllads-Chronicle-Player-Characters
 ---
 
 ![cynog_derth_kinslayer](/wiki/media/cynog_derth_kinslayer.png)
