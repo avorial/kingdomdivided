@@ -1,8 +1,9 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Tobe
-summary: "Former Ai Hoku house, military power, and reformist pressure point in the Mikado Chronicle."
+summary: Former Ai Hoku house, military power, and reformist pressure point in
+  the Mikado Chronicle.
 tags:
   - faction
   - mikado-house
@@ -14,6 +15,8 @@ aliases:
   - House Toab
   - House Tope
   - House Tove
+lastEditedBy: patricthomas via bulk edit
+parent: House-Mikado
 ---
 
 # House Tobe

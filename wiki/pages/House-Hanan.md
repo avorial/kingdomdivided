@@ -1,8 +1,9 @@
 ---
-category: npc
-type: npc
+category: organization
+type: organization
 name: House Hanan
-summary: "The Imperial guardian house protecting the party while the Obsidian crisis and House Tobe accusations unfold."
+summary: The Imperial guardian house protecting the party while the Obsidian
+  crisis and House Tobe accusations unfold.
 tags:
   - faction
   - mikado-house
@@ -13,6 +14,8 @@ keyLinks: []
 aliases:
   - House Haina
   - House Anon
+lastEditedBy: patricthomas via bulk edit
+parent: House-Mikado
 ---
 
 # House Hanan
