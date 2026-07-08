@@ -2,7 +2,8 @@
 category: character
 type: character
 name: Diogenes
-summary: "An Esten scholar and teacher whose knowledge helps the party navigate Esten culture, Lumia, and Obsidian history."
+summary: An Esten scholar and teacher whose knowledge helps the party navigate
+  Esten culture, Lumia, and Obsidian history.
 tags:
   - character
   - esten
@@ -12,6 +13,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas
+parent: Mikado-Chronicle-Player-Characters
 ---
 
 # Diogenes
