@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Lumia
-summary: "An Esten-majority region of the Mikado Empire where the party lands and finds the first signs of Obsidian crisis."
+summary: An Esten-majority region of the Mikado Empire where the party lands and
+  finds the first signs of Obsidian crisis.
 tags:
   - location
   - mikado
@@ -14,6 +15,8 @@ keyLinks: []
 aliases:
   - Lumera
   - Lulumia
+lastEditedBy: patricthomas
+parent: Mikado-Empire
 ---
 
 # Lumia
