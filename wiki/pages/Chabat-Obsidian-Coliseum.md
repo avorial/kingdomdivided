@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Chabat Obsidian Coliseum
-summary: "The hidden obsidian structure beneath Chabat where the party encounters altered prisoners, Maw people, and collapsing volcanic danger."
+summary: The hidden obsidian structure beneath Chabat where the party encounters
+  altered prisoners, Maw people, and collapsing volcanic danger.
 tags:
   - location
   - obsidian
@@ -13,6 +14,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Obsidian Coliseum
+lastEditedBy: patricthomas
+parent: Chabat
 ---
 
 # Chabat Obsidian Coliseum
