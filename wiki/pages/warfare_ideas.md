@@ -1,6 +1,6 @@
 ---
-category: lore
-type: lore
+category: mechanic
+type: mechanic
 name: warfare_ideas
 summary: 1. Faster 1. Goal - 2 Hours (at least half as long as normal warfare)
   2. Warfare Still Has Value 1. Warfare 1. Command (Acts as Status when
