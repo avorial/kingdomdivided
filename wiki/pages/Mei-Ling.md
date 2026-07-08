@@ -2,7 +2,8 @@
 category: character
 type: character
 name: Mei Ling
-summary: "House Maj noble whose arc centers on prophecy, Worm God faith, and learning who she is when not speaking for others."
+summary: House Maj noble whose arc centers on prophecy, Worm God faith, and
+  learning who she is when not speaking for others.
 tags:
   - character
   - mikado
@@ -13,6 +14,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Mei-Ling
+lastEditedBy: patricthomas
+parent: Mikado-Chronicle-Player-Characters
 ---
 
 # Mei Ling
