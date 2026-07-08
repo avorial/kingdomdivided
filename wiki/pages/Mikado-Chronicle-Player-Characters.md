@@ -12,8 +12,7 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Mikado Party
-lastEditedBy: patricthomas via bulk edit
-parent: Belllads-Chronicle-Player-Characters
+lastEditedBy: patricthomas
 ---
 
 # Mikado Chronicle Player Characters
