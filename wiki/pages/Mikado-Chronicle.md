@@ -1,8 +1,9 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: Mikado Chronicle
-summary: "The Kingdom Divided arc following the exiled Mikado party from the Belllands into Lumia, House Hanan territory, and the Obsidian crisis."
+summary: The Kingdom Divided arc following the exiled Mikado party from the
+  Belllands into Lumia, House Hanan territory, and the Obsidian crisis.
 tags:
   - chronicle
   - mikado
@@ -13,6 +14,7 @@ keyLinks: []
 aliases:
   - Kingdom Divided Chronicle 2
   - Mikado Arc
+lastEditedBy: patricthomas
 ---
 
 # Mikado Chronicle
