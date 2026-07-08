@@ -2,7 +2,8 @@
 category: character
 type: character
 name: Lorena
-summary: "A House Tobe reformist concept tied to the old and new directions of Tobe power."
+summary: A House Tobe reformist concept tied to the old and new directions of
+  Tobe power.
 tags:
   - character
   - house-tobe
@@ -11,6 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas
+parent: Mikado-Chronicle-Player-Characters
 ---
 
 # Lorena
