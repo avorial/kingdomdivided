@@ -2,7 +2,7 @@
 category: game
 type: game
 name: Mikado Game Zero - Character Build
-summary: "Character creation sessions for the Mikado Chronicle."
+summary: Character creation sessions for the Mikado Chronicle.
 tags:
   - game
   - mikado
@@ -11,6 +11,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas
+parent: Mikado-Chronicle
 ---
 
 # Mikado Game Zero - Character Build
