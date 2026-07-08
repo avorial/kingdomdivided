@@ -13,8 +13,9 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 eventDate: 2023-05-09T00:00:00.000Z
+parent: Game-Sessions-Bell-Lands
 ---
 
 | Session Number: | Chapter: 3 The Saffron Society War |
