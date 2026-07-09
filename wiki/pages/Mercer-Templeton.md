@@ -20,6 +20,8 @@ parent: Leandan-Chronicle-Player-Characters
 
 # Mercer Templeton
 
+![Mercer Templeton](/wiki/media/mercer_templeton.jpg)
+
 Mercer Templeton, also known as Peck, is a Quintill confidence man with polished manners, quick calculations, and a practiced eye for where the money is moving.
 
 He is not simply greedy. Mercer sees family as both a pressure and a comfort, and he treats small shares in many ventures as safer than ruling one fragile prize. In danger, his first weapon is usually speech.
@@ -67,5 +69,5 @@ Mercer is strongest in social pressure, deceit, and profitable observation.
 ## GM Notes
 
 :::gm
-Imported from the Foundry actor `Mercer Templeton`. The actor image path was `Pictures/KD - Leandan/PC Pictures/Mercer-SM.jpg`, but that image was not present in this repo at import time.
+Imported from the Foundry actor `Mercer Templeton`. Portrait copied from `KD - Leandan 1/PC Pictures/Mercer-SM.jpg`.
 :::

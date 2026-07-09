@@ -24,6 +24,8 @@ relationships:
 
 # Cadwalader
 
+![Cadwalader](/wiki/media/cadwalader.jpg)
+
 Cadwalader is a Quintill professional with a city-born criminal past, a pickpocket's caution, and the training of an apprentice who has been broken into harder work.
 
 He does not move quickly just because others want action. Cadwalader studies a situation first, sometimes longer than is wise, and he has a consistent protective instinct toward children.
@@ -70,5 +72,5 @@ Cadwalader's public face is plain, watchful, and professional. His best work is 
 ## Secrets
 
 :::gm
-Imported from the Foundry actor `Cadwalader`. The actor used the default mystery-man image, so no portrait was copied into the wiki.
+Imported from the Foundry actor `Cadwalader`. Portrait copied from `KD - Leandan 1/PC Pictures/Cadwalder.jpg`.
 :::

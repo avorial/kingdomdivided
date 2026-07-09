@@ -5,5 +5,41 @@
     "tags": [
       "map"
     ]
+  },
+  "wiki/media/cadwalader.jpg": {
+    "alt": "Cadwalader",
+    "caption": "Leandan Chronicle PC portrait for Cadwalader.",
+    "tags": [
+      "character",
+      "leandan",
+      "portrait"
+    ]
+  },
+  "wiki/media/mercer_templeton.jpg": {
+    "alt": "Mercer Templeton",
+    "caption": "Leandan Chronicle PC portrait for Mercer Templeton.",
+    "tags": [
+      "character",
+      "leandan",
+      "portrait"
+    ]
+  },
+  "wiki/media/violet_cossaboon.png": {
+    "alt": "Violet Cossaboon",
+    "caption": "Leandan Chronicle PC portrait for Violet Cossaboon.",
+    "tags": [
+      "character",
+      "leandan",
+      "portrait"
+    ]
+  },
+  "wiki/media/william_barentz.jpg": {
+    "alt": "William Barentz",
+    "caption": "Leandan Chronicle PC picture supplied with the PC portrait set.",
+    "tags": [
+      "character",
+      "leandan",
+      "portrait"
+    ]
   }
 }

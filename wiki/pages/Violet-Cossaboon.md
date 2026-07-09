@@ -20,6 +20,8 @@ parent: Leandan-Chronicle-Player-Characters
 
 # Violet Cossaboon
 
+![Violet Cossaboon](/wiki/media/violet_cossaboon.png)
+
 Violet Cossaboon is a Welvart craftswoman of the [[Jewelers-Guild|Jewelers Guild]], trained through the hard road from gifted child to apprentice, journeyman, jeweler, and gemist.
 
 She is driven by guild loyalty, gemcraft, and a fierce need to prove that her work can redeem her family name. Around strangers she can seem guarded or overly deferential, but when people hesitate or lose the thread of action, Violet tends to take command before anyone asks her to.
@@ -67,5 +69,5 @@ Violet's strongest craft and knowledge areas are appraisal, jewelry, gem lore, s
 ## GM Notes
 
 :::gm
-Imported from the Foundry actor `Violet Cossaboon`. The actor image path was `Pictures/KD - Leandan/PC Pictures/Violet Cossaboom.png`, but that image was not present in this repo at import time.
+Imported from the Foundry actor `Violet Cossaboon`. Portrait copied from `KD - Leandan 1/PC Pictures/Violet Cossaboom.png`.
 :::
