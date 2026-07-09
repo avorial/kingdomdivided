@@ -8,13 +8,17 @@ tags:
   - character
   - mikado
   - changed
+  - fate
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
-keyLinks: []
+keyLinks:
+  - Mei-Ling
+  - Mikado-Empire
+  - Mikado-Chronicle-Player-Characters
 aliases:
   - Niko
-lastEditedBy: patricthomas
+lastEditedBy: Codex via Fate import
 parent: Mikado-Chronicle-Player-Characters
 ---
 
@@ -36,4 +40,42 @@ His change reads as badger-like: earth-splitting claws, digging instincts, and a
 - [[Mei Ling]]
 - [[Mikado Chronicle Player Characters]]
 - [[Mikado Empire]]
+
+## Fate Sheet
+
+| Field | Value |
+| --- | --- |
+| Refresh | 3 |
+| Current Fate Points | 2 |
+| Special Track | Tiger Wound, 5 boxes |
+| Core mode | Changed Worm God missionary, badger-man, divine catalyst |
+
+### Aspects
+
+- **Blessings of the Bull-headed Badger:** remade by the Worm Gods into a sacred and strange badger-like form with claws, muzzle, scent, and soil instincts.
+- **Singled Out by the Salamander:** elevated beyond station as a voice of the Worm Gods and Salamander Throne, making him powerful and targetable.
+- **Bring About Change, to Uplift or to Bring Down:** all stagnant sacred paths must be broken; forgotten people must be freed and proud powers humbled.
+- **Fires of Voraxia:** believes progress demands destruction, and that dead maps and rusted chains must burn before the future can be born.
+- **Dark Spirit:** learned that the dark spirit is a fallen member of his Esten house.
+
+### Skills
+
+| Rating | Skills |
+| --- | --- |
+| +4 | Physique |
+| +3 | Lore, Rapport |
+| +2 | Athletics, Fight, Notice |
+| +1 | Burglary, Empathy, Horsemanship, Provoke, Resources, Stealth, Will |
+
+### Stunts
+
+- **Claws of Iron:** family wrestling art tied to Fight.
+- **Digging for Fun:** spend a Fate Point to dig through any material at normal walking speed.
+- **Maw of Voraxia:** spend a Fate Point to call on Voraxia's influence; either the storyteller defines the effect, or Nikos rolls a skill as if he had it at +2 while magic performs the action.
+
+## Fate Source Notes
+
+:::gm
+Foundry actor: `Nikos/Niko (Peter)`. Actor image path was `systems/Darrow.jpg`, but that file was not present in the KD repo at import time.
+:::
 
