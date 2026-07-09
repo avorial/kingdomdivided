@@ -11,6 +11,10 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via GM review
+relationships:
+  - type: parent-of
+    target: Conner-Silverridge
+    label: parent
 ---
 
 ![malcom_silverridge](/wiki/media/malcom_silverridge.jpg)

@@ -11,6 +11,10 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via GM review
+relationships:
+  - type: parent-of
+    target: Caden-Mattix
+    label: parent
 ---
 
 Name: Conner Silverridge
