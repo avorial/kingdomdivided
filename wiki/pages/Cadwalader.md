@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: CampaignRepo
+lastEditedBy: patricthomas
+parent: Leandan-Chronicle-Player-Characters
 ---
 
 # Cadwalader
