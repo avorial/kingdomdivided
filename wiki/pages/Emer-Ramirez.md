@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Allies
 ---
 
 ![emer_ramirez_(young)](/wiki/media/emer_ramirez_(young).jpg)

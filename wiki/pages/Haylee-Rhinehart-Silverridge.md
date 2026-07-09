@@ -12,7 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Allies
 ---
 
 ![haylee_rhinehart-silverridge](/wiki/media/haylee_rhinehart-silverridge.png)

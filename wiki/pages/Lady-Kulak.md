@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Lady Kulak
-summary: "A Covingard knight sent to enforce Duke Louis's will and protect the exiled Mikado party during the sea passage."
+summary: A Covingard knight sent to enforce Duke Louis's will and protect the
+  exiled Mikado party during the sea passage.
 tags:
   - npc
   - covingard
@@ -11,6 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Allies
 ---
 
 # Lady Kulak

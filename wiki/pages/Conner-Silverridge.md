@@ -10,11 +10,12 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 relationships:
   - type: parent-of
     target: Caden-Mattix
     label: parent
+parent: Allies
 ---
 
 Name: Conner Silverridge

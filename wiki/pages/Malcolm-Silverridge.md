@@ -10,11 +10,12 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 relationships:
   - type: parent-of
     target: Conner-Silverridge
     label: parent
+parent: Allies
 ---
 
 ![malcom_silverridge](/wiki/media/malcom_silverridge.jpg)
