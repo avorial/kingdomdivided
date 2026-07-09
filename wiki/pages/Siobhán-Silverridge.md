@@ -1,6 +1,6 @@
 ---
-category: npc
-type: npc
+category: character
+type: character
 name: Siobhán Silverridge
 summary: ""
 tags:
@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
+parent: Belllads-Chronicle-Player-Characters
 ---
 
 ![shivon_silverridge](/wiki/media/shivon_silverridge.jpg)
