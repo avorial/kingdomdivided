@@ -1,8 +1,9 @@
 ---
-category: npc
-type: npc
+category: lore
+type: lore
 name: Maw People
-summary: "Strange beings encountered under Chabat whose conflict with Obsidian may make them more than simple enemies."
+summary: Strange beings encountered under Chabat whose conflict with Obsidian
+  may make them more than simple enemies.
 tags:
   - faction
   - maw
@@ -14,6 +15,7 @@ keyLinks: []
 aliases:
   - Maw Person
   - Le Maw
+lastEditedBy: patricthomas
 ---
 
 # Maw People
