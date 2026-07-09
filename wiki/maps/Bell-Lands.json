@@ -1,0 +1,12 @@
+{
+  "name": "Bell Lands",
+  "image": "bellands_map.png",
+  "pins": [],
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visibility": "players"
+    }
+  ]
+}
