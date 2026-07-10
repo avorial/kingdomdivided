@@ -10,13 +10,12 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
-Name: Abdul Deiz de Requenaut
+# Abdul Deiz de Requenaut
 
-![abdul_deiz_de_requena](/wiki/media/abdul_deiz_de_requena.png)
-*Abdul Deiz de Requenaut*
+![abdul_deiz_de_requena portrait](/wiki/media/abdul_deiz_de_requena.png)
 
 Title: Sir  
 Age: 56  
