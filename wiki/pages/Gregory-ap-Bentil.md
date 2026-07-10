@@ -9,11 +9,11 @@ approvalStatus: unapproved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas
 title: Gregory ap Bentil
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Gregory%20ap%20Bentil.jpg
-parent: Belllads-Chronicle-Player-Characters
+parent: Baron-Carrick-Connor-Silverridge
 ---
 
 Gregory ap Bentil was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
