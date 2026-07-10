@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: 'Prelude: Siobhán "The Attack on Deerholt"'
 summary: 'Prelude: Siobhán "The Attack on Deerholt" Date: 7-5-23 Key Locations:
   Deerholt Players Attendting: Jennifer Wolfe (Siobhán Silverridge) Media:
@@ -12,7 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
+parent: Game-Sessions-Bell-Lands
 ---
 
 Prelude: Siobhán "The Attack on Deerholt"  

@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: "Prelude: Caden Mattix as a Squire"
 summary: "| | Prelude: | | --- | --- | | Date: 7/19/22 | Key Locations: | | | |
   | Players Attending: - Damon Dewitt (Caden Mattix) |"
@@ -12,7 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Game-Sessions-Bell-Lands
 ---
 
 |  | Prelude: |

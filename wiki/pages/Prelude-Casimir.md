@@ -1,6 +1,6 @@
 ---
-category: event
-type: event
+category: game
+type: game
 name: "Prelude: Casimir"
 summary: ""
 tags:
@@ -11,7 +11,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Game-Sessions-Bell-Lands
 ---
 
 *Content not available.*
