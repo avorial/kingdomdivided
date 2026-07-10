@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Leandan Dig Site
-summary: "A large illegal or politically suspect dig in Lumia connected to House Hanan papers, Leandan workers, and Obsidian danger."
+summary: A large illegal or politically suspect dig in Lumia connected to House
+  Hanan papers, Leandan workers, and Obsidian danger.
 tags:
   - location
   - dig
@@ -13,6 +14,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - The Dig
+lastEditedBy: patricthomas
+parent: Mikado-Empire
 ---
 
 # Leandan Dig Site
