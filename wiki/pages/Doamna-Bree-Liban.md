@@ -1,12 +1,21 @@
 ---
-title: Doamna Bree Liban
-category: character
+category: npc
+type: npc
+name: Doamna Bree Liban
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Doamna Bree Liban
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Bree%20Liban%20.png
+parent: Belllands-NPCs
 ---
+
 Doamna Bree Liban was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

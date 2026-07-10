@@ -1,12 +1,21 @@
 ---
-title: Captian Watt Ombo
-category: character
+category: npc
+type: npc
+name: Captian Watt Ombo
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Captian Watt Ombo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Watt%20Ombo.jpg
+parent: Belllands-NPCs
 ---
+
 Captian Watt Ombo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

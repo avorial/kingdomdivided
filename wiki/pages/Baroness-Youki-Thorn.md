@@ -1,12 +1,21 @@
 ---
-title: Baroness Youki Thorn
-category: character
+category: npc
+type: npc
+name: Baroness Youki Thorn
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Youki Thorn
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Youki%20Thorn.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Youki Thorn was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

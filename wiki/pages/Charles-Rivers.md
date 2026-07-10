@@ -1,12 +1,21 @@
 ---
-title: Charles Rivers
-category: character
+category: npc
+type: npc
+name: Charles Rivers
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Charles Rivers
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Charles%20Rivers.jpg
+parent: Belllands-NPCs
 ---
+
 Charles Rivers was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

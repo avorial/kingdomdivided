@@ -1,12 +1,21 @@
 ---
-title: Daniel Eisenberg
-category: character
+category: npc
+type: npc
+name: Daniel Eisenberg
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Daniel Eisenberg
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Daniel%20Eisenberg.jpg
+parent: Belllands-NPCs
 ---
+
 Daniel Eisenberg was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

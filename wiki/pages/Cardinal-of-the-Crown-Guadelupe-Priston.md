@@ -1,12 +1,21 @@
 ---
-title: Cardinal of the Crown Guadelupe Priston
-category: character
+category: npc
+type: npc
+name: Cardinal of the Crown Guadelupe Priston
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Cardinal of the Crown Guadelupe Priston
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Guadelupe%20Priston.png
+parent: Belllands-NPCs
 ---
+
 Cardinal of the Crown Guadelupe Priston was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

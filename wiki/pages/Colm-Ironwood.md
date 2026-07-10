@@ -1,12 +1,21 @@
 ---
-title: Colm Ironwood
-category: character
+category: npc
+type: npc
+name: Colm Ironwood
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Colm Ironwood
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Colm%20Ironwood.jpg
+parent: Belllands-NPCs
 ---
+
 Colm Ironwood was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

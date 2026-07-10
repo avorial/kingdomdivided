@@ -1,12 +1,21 @@
 ---
-title: Daniel Whitestar
-category: character
+category: npc
+type: npc
+name: Daniel Whitestar
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Daniel Whitestar
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Daniel%20Whitestar.jpg
+parent: Belllands-NPCs
 ---
+
 Daniel Whitestar was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

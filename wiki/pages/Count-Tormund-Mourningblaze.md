@@ -1,12 +1,21 @@
 ---
-title: Count Tormund Mourningblaze
-category: character
+category: npc
+type: npc
+name: Count Tormund Mourningblaze
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Count Tormund Mourningblaze
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Tormund%20Mourningblaze.jpg
+parent: Belllands-NPCs
 ---
+
 Count Tormund Mourningblaze was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

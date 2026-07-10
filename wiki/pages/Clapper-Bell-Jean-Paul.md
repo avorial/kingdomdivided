@@ -1,12 +1,21 @@
 ---
-title: Clapper Bell Jean-Paul
-category: character
+category: npc
+type: npc
+name: Clapper Bell Jean-Paul
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Clapper Bell Jean-Paul
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Bell%20Jean-Paul.jpg
+parent: Belllands-NPCs
 ---
+
 Clapper Bell Jean-Paul was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

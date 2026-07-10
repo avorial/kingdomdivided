@@ -1,13 +1,21 @@
 ---
-title: Bezukladnikov Vasiliy (Vasya) Vladimirovich
-category: character
+category: npc
+type: npc
+name: Bezukladnikov Vasiliy (Vasya) Vladimirovich
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Bezukladnikov Vasiliy (Vasya) Vladimirovich
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/NPC's/Bezukladnikov%20Vasiliy%20(Vasya)%20Vladimirovich.png
+portrait: Pictures/KingdomDivided/NPC's/Bezukladnikov%20Vasiliy%20(Vasya)%20Vladimirovich.png
+parent: Belllands-NPCs
 ---
+
 Bezukladnikov Vasiliy (Vasya) Vladimirovich was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

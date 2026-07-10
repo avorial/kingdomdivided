@@ -1,12 +1,21 @@
 ---
-title: Doamna Sierra Pennington
-category: character
+category: npc
+type: npc
+name: Doamna Sierra Pennington
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Doamna Sierra Pennington
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Sierra%20Pennington.jpg
+parent: Belllands-NPCs
 ---
+
 Doamna Sierra Pennington was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

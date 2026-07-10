@@ -1,12 +1,21 @@
 ---
-title: Count Aiden Wycliff
-category: character
+category: npc
+type: npc
+name: Count Aiden Wycliff
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Count Aiden Wycliff
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sir%20Aiden%20Wycliff.png
+parent: Belllands-NPCs
 ---
+
 Count Aiden Wycliff was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

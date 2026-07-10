@@ -1,12 +1,21 @@
 ---
-title: Brother Dante Martinez
-category: character
+category: npc
+type: npc
+name: Brother Dante Martinez
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Brother Dante Martinez
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Dante%20Martinez.jpeg
+parent: Belllands-NPCs
 ---
+
 Brother Dante Martinez was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

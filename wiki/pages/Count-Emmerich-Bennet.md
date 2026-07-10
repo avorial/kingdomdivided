@@ -1,12 +1,21 @@
 ---
-title: Count Emmerich Bennet
-category: character
+category: npc
+type: npc
+name: Count Emmerich Bennet
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Count Emmerich Bennet
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Rhys%20Barnett.jpg
+parent: Belllands-NPCs
 ---
+
 Count Emmerich Bennet was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

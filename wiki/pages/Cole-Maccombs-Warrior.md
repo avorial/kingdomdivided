@@ -1,13 +1,21 @@
 ---
-title: Cole Maccombs (Warrior)
-category: character
+category: npc
+type: npc
+name: Cole Maccombs (Warrior)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Cole Maccombs (Warrior)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/Unused%20Pics/Men/Fighters/thief_by_dusint_dd61r3c-pre.jpg
+portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Fighters/thief_by_dusint_dd61r3c-pre.jpg
+parent: Belllands-NPCs
 ---
+
 Cole Maccombs (Warrior) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

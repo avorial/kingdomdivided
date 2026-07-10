@@ -1,12 +1,21 @@
 ---
-title: Claire Almirn
-category: character
+category: npc
+type: npc
+name: Claire Almirn
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Claire Almirn
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Claire%20Almirn.jpg
+parent: Belllands-NPCs
 ---
+
 Claire Almirn was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

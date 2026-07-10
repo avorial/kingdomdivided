@@ -1,12 +1,21 @@
 ---
-title: Clapper Rodegro Alvarez
-category: character
+category: npc
+type: npc
+name: Clapper Rodegro Alvarez
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Clapper Rodegro Alvarez
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Rodegro%20Alvarez.jpg
+parent: Belllands-NPCs
 ---
+
 Clapper Rodegro Alvarez was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

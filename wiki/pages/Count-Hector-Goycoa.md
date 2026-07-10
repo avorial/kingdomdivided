@@ -1,12 +1,21 @@
 ---
-title: Count Hector Goycoa
-category: character
+category: npc
+type: npc
+name: Count Hector Goycoa
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Count Hector Goycoa
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Hector%20Goycoa.jpeg
+parent: Belllands-NPCs
 ---
+
 Count Hector Goycoa was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

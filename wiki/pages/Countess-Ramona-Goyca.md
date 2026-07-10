@@ -1,12 +1,21 @@
 ---
-title: Countess Ramona Goyca
-category: character
+category: npc
+type: npc
+name: Countess Ramona Goyca
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Countess Ramona Goyca
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Ramona%20Goyca.png
+parent: Belllands-NPCs
 ---
+
 Countess Ramona Goyca was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

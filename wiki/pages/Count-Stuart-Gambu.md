@@ -1,12 +1,21 @@
 ---
-title: Count Stuart Gambu
-category: character
+category: npc
+type: npc
+name: Count Stuart Gambu
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Count Stuart Gambu
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Stuart%20Gambu.jpg
+parent: Belllands-NPCs
 ---
+
 Count Stuart Gambu was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

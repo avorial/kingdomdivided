@@ -1,12 +1,21 @@
 ---
-title: Dark Bandit from Shivions Past
-category: character
+category: npc
+type: npc
+name: Dark Bandit from Shivions Past
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dark Bandit from Shivions Past
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Dark%20Bandit%20from%20Shivions%20Past.jpg
+parent: Belllands-NPCs
 ---
+
 Dark Bandit from Shivions Past was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

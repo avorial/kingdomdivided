@@ -1,12 +1,21 @@
 ---
-title: Contessa Solara Rhelrya
-category: character
+category: npc
+type: npc
+name: Contessa Solara Rhelrya
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Contessa Solara Rhelrya
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Solara%20Rhelrya.jpg
+parent: Belllands-NPCs
 ---
+
 Contessa Solara Rhelrya was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

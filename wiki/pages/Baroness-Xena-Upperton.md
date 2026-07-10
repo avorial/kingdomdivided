@@ -1,12 +1,21 @@
 ---
-title: Baroness Xena Upperton
-category: character
+category: npc
+type: npc
+name: Baroness Xena Upperton
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Xena Upperton
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Xena%20Upperton.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Xena Upperton was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Baronness Sharon Butler-Silverridge
-category: character
+category: npc
+type: npc
+name: Baronness Sharon Butler-Silverridge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baronness Sharon Butler-Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sharon%20Butler-Silverridge.jpg
+parent: Belllands-NPCs
 ---
+
 Baronness Sharon Butler-Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Baroness Muireann Rolland
-category: character
+category: npc
+type: npc
+name: Baroness Muireann Rolland
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Muireann Rolland
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Muireann%20Rolland.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Muireann Rolland was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

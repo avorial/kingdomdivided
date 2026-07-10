@@ -1,12 +1,21 @@
 ---
-title: Contessa Zelda Crowley
-category: character
+category: npc
+type: npc
+name: Contessa Zelda Crowley
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Contessa Zelda Crowley
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Zelda%20Crowley.png
+parent: Belllands-NPCs
 ---
+
 Contessa Zelda Crowley was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

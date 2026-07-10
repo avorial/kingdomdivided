@@ -1,12 +1,21 @@
 ---
-title: Corwin Lehmann
-category: character
+category: npc
+type: npc
+name: Corwin Lehmann
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Corwin Lehmann
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Corwin%20Lehmann.jpg
+parent: Belllands-NPCs
 ---
+
 Corwin Lehmann was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

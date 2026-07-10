@@ -1,12 +1,21 @@
 ---
-title: Crusader Bruno Oscaro
-category: character
+category: npc
+type: npc
+name: Crusader Bruno Oscaro
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Crusader Bruno Oscaro
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Bruno%20Oscaro.jpg
+parent: Belllands-NPCs
 ---
+
 Crusader Bruno Oscaro was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

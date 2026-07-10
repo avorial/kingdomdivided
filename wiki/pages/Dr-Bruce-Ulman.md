@@ -1,13 +1,21 @@
 ---
-title: Dr Bruce Ulman
-category: character
+category: npc
+type: npc
+name: Dr Bruce Ulman
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dr Bruce Ulman
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/Unused%20Pics/Men/Nobles/04b2a763894f8c6a087dddda940f1d5e-2245439186.jpg
+portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Nobles/04b2a763894f8c6a087dddda940f1d5e-2245439186.jpg
+parent: Belllands-NPCs
 ---
+
 Dr Bruce Ulman was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

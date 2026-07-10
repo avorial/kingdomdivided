@@ -1,12 +1,21 @@
 ---
-title: Blessed Geffory Fortier
-category: character
+category: npc
+type: npc
+name: Blessed Geffory Fortier
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Blessed Geffory Fortier
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Geffory%20Fortier.jpg
+parent: Belllands-NPCs
 ---
+
 Blessed Geffory Fortier was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

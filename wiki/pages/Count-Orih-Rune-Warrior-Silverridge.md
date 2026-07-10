@@ -1,13 +1,21 @@
 ---
-title: Count O’rih "Rune Warrior" Silverridge
-category: character
+category: npc
+type: npc
+name: Count O’rih "Rune Warrior" Silverridge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Count O’rih "Rune Warrior" Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/NPC%27s/Count%20O%E2%80%99rih%20Rune%20Warrior%20Silverridge.jpg
+portrait: Pictures/KingdomDivided/NPC%27s/Count%20O%E2%80%99rih%20Rune%20Warrior%20Silverridge.jpg
+parent: Belllands-NPCs
 ---
+
 Count O’rih "Rune Warrior" Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Branwen Stormrider
-category: character
+category: npc
+type: npc
+name: Branwen Stormrider
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Branwen Stormrider
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Tristan%20Boucher.jpg
+parent: Belllands-NPCs
 ---
+
 Branwen Stormrider was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

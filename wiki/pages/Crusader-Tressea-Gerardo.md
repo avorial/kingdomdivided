@@ -1,12 +1,21 @@
 ---
-title: Crusader Tressea Gerardo
-category: character
+category: npc
+type: npc
+name: Crusader Tressea Gerardo
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Crusader Tressea Gerardo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Tressea%20Gerardo.jpg
+parent: Belllands-NPCs
 ---
+
 Crusader Tressea Gerardo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

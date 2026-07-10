@@ -1,12 +1,21 @@
 ---
-title: Count Howard Crowley
-category: character
+category: npc
+type: npc
+name: Count Howard Crowley
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Count Howard Crowley
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Howard%20Crowley.png
+parent: Belllands-NPCs
 ---
+
 Count Howard Crowley was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

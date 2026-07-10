@@ -1,12 +1,21 @@
 ---
-title: Baroness Luceye Martain
-category: character
+category: npc
+type: npc
+name: Baroness Luceye Martain
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Luceye Martain
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Luceye%20Martain.png
+parent: Belllands-NPCs
 ---
+
 Baroness Luceye Martain was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

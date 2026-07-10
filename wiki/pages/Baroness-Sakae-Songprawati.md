@@ -1,12 +1,21 @@
 ---
-title: Baroness Sakae Songprawati
-category: character
+category: npc
+type: npc
+name: Baroness Sakae Songprawati
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Sakae Songprawati
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Sakae%20Songprawati.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Sakae Songprawati was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

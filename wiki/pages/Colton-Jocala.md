@@ -1,12 +1,21 @@
 ---
-title: Colton Jocala
-category: character
+category: npc
+type: npc
+name: Colton Jocala
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Colton Jocala
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Colton%20Jocala.png
+parent: Belllands-NPCs
 ---
+
 Colton Jocala was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

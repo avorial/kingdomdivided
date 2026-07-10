@@ -1,12 +1,21 @@
 ---
-title: Deva Vasic
-category: character
+category: npc
+type: npc
+name: Deva Vasic
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Deva Vasic
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg
+parent: Belllands-NPCs
 ---
+
 Deva Vasic was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

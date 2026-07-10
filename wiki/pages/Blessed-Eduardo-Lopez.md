@@ -1,12 +1,21 @@
 ---
-title: Blessed Eduardo Lopez
-category: character
+category: npc
+type: npc
+name: Blessed Eduardo Lopez
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Blessed Eduardo Lopez
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Eduardo%20Lopez.jpg
+parent: Belllands-NPCs
 ---
+
 Blessed Eduardo Lopez was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
