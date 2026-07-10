@@ -1,12 +1,20 @@
 ---
-title: Local Scouts 2
 category: character
+type: character
+name: Local Scouts 2
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Local Scouts 2
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/hooded-figure.svg
 ---
+
 Local Scouts 2 was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

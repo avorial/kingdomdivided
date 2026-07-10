@@ -1,12 +1,20 @@
 ---
-title: The Wave Reapers (Sailors-Veterans)
 category: character
+type: character
+name: The Wave Reapers (Sailors-Veterans)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: The Wave Reapers (Sailors-Veterans)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/sextant.svg
 ---
+
 The Wave Reapers (Sailors-Veterans) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

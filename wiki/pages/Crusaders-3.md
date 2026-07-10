@@ -1,12 +1,20 @@
 ---
-title: Crusaders 3
 category: character
+type: character
+name: Crusaders 3
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Crusaders 3
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/conqueror.svg
 ---
+
 Crusaders 3 was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

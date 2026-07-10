@@ -1,12 +1,20 @@
 ---
-title: Rope Spiders (Sailors-Trained)
 category: character
+type: character
+name: Rope Spiders (Sailors-Trained)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Rope Spiders (Sailors-Trained)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/sextant.svg
 ---
+
 Rope Spiders (Sailors-Trained) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

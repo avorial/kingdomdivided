@@ -1,12 +1,20 @@
 ---
-title: 'Swordbreakers (Infantry/Veteran) {With Dogs}'
 category: character
+type: character
+name: Swordbreakers (Infantry/Veteran) {With Dogs}
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Swordbreakers (Infantry/Veteran) {With Dogs}
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/blade.svg
 ---
+
 Swordbreakers (Infantry/Veteran) {With Dogs} was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

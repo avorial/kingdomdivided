@@ -1,12 +1,20 @@
 ---
-title: Pirate Archer
 category: character
+type: character
+name: Pirate Archer
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Pirate Archer
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Fighters/Safron%20Bandit%20(bow).jpg
 ---
+
 Pirate Archer was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

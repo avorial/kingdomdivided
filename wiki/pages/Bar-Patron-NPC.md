@@ -1,13 +1,20 @@
 ---
-title: Bar Patron (NPC)
 category: character
+type: character
+name: Bar Patron (NPC)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Bar Patron (NPC)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/Unused%20Pics/Men/Common/ae7f0cf89c48940aaf11b6eccd92e7cc-3088968619.jpg
+portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Common/ae7f0cf89c48940aaf11b6eccd92e7cc-3088968619.jpg
 ---
+
 Bar Patron (NPC) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

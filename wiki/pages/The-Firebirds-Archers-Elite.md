@@ -1,12 +1,20 @@
 ---
-title: The Firebirds (Archers-Elite)
 category: character
+type: character
+name: The Firebirds (Archers-Elite)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: The Firebirds (Archers-Elite)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg
 ---
+
 The Firebirds (Archers-Elite) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

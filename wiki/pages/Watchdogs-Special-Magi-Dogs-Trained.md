@@ -1,12 +1,20 @@
 ---
-title: Watchdogs (Special-Magi-Dogs-Trained)
 category: character
+type: character
+name: Watchdogs (Special-Magi-Dogs-Trained)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Watchdogs (Special-Magi-Dogs-Trained)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/dominate.svg
 ---
+
 Watchdogs (Special-Magi-Dogs-Trained) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

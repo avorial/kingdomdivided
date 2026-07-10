@@ -1,13 +1,20 @@
 ---
-title: Pirate Crew Member
 category: character
+type: character
+name: Pirate Crew Member
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Pirate Crew Member
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/Unused%20Pics/Men/Common/dfd56b8fcf775d58311458fe7675e6ed-612290927.jpg
+portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Common/dfd56b8fcf775d58311458fe7675e6ed-612290927.jpg
 ---
+
 Pirate Crew Member was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,20 @@
 ---
-title: Warship
 category: character
+type: character
+name: Warship
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Warship
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/anchor.svg
 ---
+
 Warship was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

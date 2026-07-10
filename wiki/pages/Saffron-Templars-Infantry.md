@@ -1,12 +1,20 @@
 ---
-title: Saffron Templars Infantry
 category: character
+type: character
+name: Saffron Templars Infantry
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Saffron Templars Infantry
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/blade.svg
 ---
+
 Saffron Templars Infantry was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

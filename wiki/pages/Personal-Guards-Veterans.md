@@ -1,12 +1,20 @@
 ---
-title: Personal Guards-Veterans
 category: character
+type: character
+name: Personal Guards-Veterans
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Personal Guards-Veterans
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/internal-blade.svg
 ---
+
 Personal Guards-Veterans was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,13 +1,20 @@
 ---
-title: Bodyguard
 category: character
+type: character
+name: Bodyguard
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Bodyguard
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/Unused%20Pics/Men/Fighters/1a2e2a1595ab2f76887e376ede4bd505-641072888.jpg
+portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Fighters/1a2e2a1595ab2f76887e376ede4bd505-641072888.jpg
 ---
+
 Bodyguard was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

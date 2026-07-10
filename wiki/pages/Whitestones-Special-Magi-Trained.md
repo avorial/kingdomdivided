@@ -1,12 +1,20 @@
 ---
-title: Whitestones (Special Magi-Trained)
 category: character
+type: character
+name: Whitestones (Special Magi-Trained)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Whitestones (Special Magi-Trained)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/dominate.svg
 ---
+
 Whitestones (Special Magi-Trained) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

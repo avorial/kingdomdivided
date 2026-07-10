@@ -1,12 +1,20 @@
 ---
-title: Nightmare Blades (Scouts-Green)
 category: character
+type: character
+name: Nightmare Blades (Scouts-Green)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Nightmare Blades (Scouts-Green)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/hooded-figure.svg
 ---
+
 Nightmare Blades (Scouts-Green) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

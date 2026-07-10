@@ -1,13 +1,20 @@
 ---
-title: thing
 category: character
+type: character
+name: thing
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: thing
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/Unused%20Pics/Creatures/valve%20monsters/1f3eb2c6cadff19ab252e83057cdff28.jpg
+portrait: Pictures/KingdomDivided/Unused%20Pics/Creatures/valve%20monsters/1f3eb2c6cadff19ab252e83057cdff28.jpg
 ---
+
 thing was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

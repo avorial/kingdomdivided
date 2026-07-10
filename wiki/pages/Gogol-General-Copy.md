@@ -1,12 +1,20 @@
 ---
-title: Gogol (General) (Copy)
 category: character
+type: character
+name: Gogol (General) (Copy)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gogol (General) (Copy)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/one-shot/Saffron%20Officer.jpg
 ---
+
 Gogol (General) (Copy) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

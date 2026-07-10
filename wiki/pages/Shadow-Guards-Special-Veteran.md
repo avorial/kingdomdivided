@@ -1,12 +1,20 @@
 ---
-title: Shadow Guards (Special-Veteran)
 category: character
+type: character
+name: Shadow Guards (Special-Veteran)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Shadow Guards (Special-Veteran)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/dominate.svg
 ---
+
 Shadow Guards (Special-Veteran) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

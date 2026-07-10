@@ -1,12 +1,20 @@
 ---
-title: Red Alligator (Dragon Riders/Veterans)
 category: character
+type: character
+name: Red Alligator (Dragon Riders/Veterans)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Red Alligator (Dragon Riders/Veterans)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/prehensile-tail.svg
 ---
+
 Red Alligator (Dragon Riders/Veterans) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

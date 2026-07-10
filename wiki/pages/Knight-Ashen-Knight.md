@@ -1,12 +1,20 @@
 ---
-title: Knight (Ashen Knight)
 category: character
+type: character
+name: Knight (Ashen Knight)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Knight (Ashen Knight)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg
 ---
+
 Knight (Ashen Knight) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

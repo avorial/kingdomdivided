@@ -1,12 +1,20 @@
 ---
-title: Fleas (Scouts-Dogs-Veterans)
 category: character
+type: character
+name: Fleas (Scouts-Dogs-Veterans)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Fleas (Scouts-Dogs-Veterans)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/hooded-figure.svg
 ---
+
 Fleas (Scouts-Dogs-Veterans) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

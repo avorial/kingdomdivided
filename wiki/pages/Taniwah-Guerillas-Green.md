@@ -1,12 +1,20 @@
 ---
-title: Taniwah (Guerillas/Green)
 category: character
+type: character
+name: Taniwah (Guerillas/Green)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Taniwah (Guerillas/Green)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/balaclava.svg
 ---
+
 Taniwah (Guerillas/Green) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

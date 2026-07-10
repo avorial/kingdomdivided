@@ -1,12 +1,20 @@
 ---
-title: Moon Scales (Dragon Riders/Elite)
 category: character
+type: character
+name: Moon Scales (Dragon Riders/Elite)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Moon Scales (Dragon Riders/Elite)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/prehensile-tail.svg
 ---
+
 Moon Scales (Dragon Riders/Elite) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

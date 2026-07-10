@@ -1,12 +1,20 @@
 ---
-title: Saffron Bandit Archers 2 (Vets)
 category: character
+type: character
+name: Saffron Bandit Archers 2 (Vets)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Saffron Bandit Archers 2 (Vets)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg
 ---
+
 Saffron Bandit Archers 2 (Vets) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

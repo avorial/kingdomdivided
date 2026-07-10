@@ -1,12 +1,20 @@
 ---
-title: War Beetle 1 (Trained)
 category: character
+type: character
+name: War Beetle 1 (Trained)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: War Beetle 1 (Trained)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/Unused%20Pics/Creatures/War%20Beetle.png
 ---
+
 War Beetle 1 (Trained) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

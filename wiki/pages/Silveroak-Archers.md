@@ -1,12 +1,20 @@
 ---
-title: Silveroak Archers
 category: character
+type: character
+name: Silveroak Archers
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Silveroak Archers
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Silveroak%20Archers.jpg
 ---
+
 Silveroak Archers was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

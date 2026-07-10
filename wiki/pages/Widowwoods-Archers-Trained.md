@@ -1,12 +1,20 @@
 ---
-title: Widowwoods Archers-Trained
 category: character
+type: character
+name: Widowwoods Archers-Trained
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Widowwoods Archers-Trained
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg
 ---
+
 Widowwoods Archers-Trained was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

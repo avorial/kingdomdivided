@@ -1,12 +1,20 @@
 ---
-title: The Black Band (Garrison-Green) (DISBANDED)
 category: character
+type: character
+name: The Black Band (Garrison-Green) (DISBANDED)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: The Black Band (Garrison-Green) (DISBANDED)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/surrounded-shield.svg
 ---
+
 The Black Band (Garrison-Green) (DISBANDED) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

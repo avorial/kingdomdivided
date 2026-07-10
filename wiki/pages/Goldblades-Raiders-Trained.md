@@ -1,12 +1,20 @@
 ---
-title: Goldblades (Raiders-Trained)
 category: character
+type: character
+name: Goldblades (Raiders-Trained)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Goldblades (Raiders-Trained)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/pyromaniac.svg
 ---
+
 Goldblades (Raiders-Trained) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

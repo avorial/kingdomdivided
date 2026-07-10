@@ -1,12 +1,20 @@
 ---
-title: Knight (Recently Knighted)
 category: character
+type: character
+name: Knight (Recently Knighted)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Knight (Recently Knighted)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg
 ---
+
 Knight (Recently Knighted) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

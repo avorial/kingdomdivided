@@ -1,12 +1,20 @@
 ---
-title: Peasant Believers 3
 category: character
+type: character
+name: Peasant Believers 3
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Peasant Believers 3
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/farming.svg
 ---
+
 Peasant Believers 3 was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

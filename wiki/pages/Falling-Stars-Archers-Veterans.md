@@ -1,12 +1,20 @@
 ---
-title: Falling Stars (Archers-Veterans)
 category: character
+type: character
+name: Falling Stars (Archers-Veterans)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Falling Stars (Archers-Veterans)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg
 ---
+
 Falling Stars (Archers-Veterans) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

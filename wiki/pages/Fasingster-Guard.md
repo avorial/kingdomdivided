@@ -1,13 +1,20 @@
 ---
-title: Fasingster Guard
 category: character
+type: character
+name: Fasingster Guard
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Fasingster Guard
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/NPC%27s/one-shot/07704d05f281e4060a9ec422ba34eb54-4284725777.jpg
+portrait: Pictures/KingdomDivided/NPC%27s/one-shot/07704d05f281e4060a9ec422ba34eb54-4284725777.jpg
 ---
+
 Fasingster Guard was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

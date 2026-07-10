@@ -1,12 +1,20 @@
 ---
-title: Roughriders (Dragon Riders/Elite) (Copy)
 category: character
+type: character
+name: Roughriders (Dragon Riders/Elite) (Copy)
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: rejected
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Roughriders (Dragon Riders/Elite) (Copy)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/prehensile-tail.svg
 ---
+
 Roughriders (Dragon Riders/Elite) (Copy) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
