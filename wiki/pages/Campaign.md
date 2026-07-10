@@ -2,7 +2,8 @@
 category: lore
 type: lore
 name: Campaign
-summary: "Overview of the three Kingdom Divided chronicles: Belllands, Leandan, and Mikado."
+summary: "Overview of the three Kingdom Divided chronicles: Belllands, Leandan,
+  and Mikado."
 tags:
   - lore
   - campaign
@@ -20,7 +21,7 @@ keyLinks:
 aliases:
   - Kingdom Divided Campaign
   - KD Campaign
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 ---
 
 # Kingdom Divided
@@ -30,6 +31,8 @@ Kingdom Divided is a multi-chronicle campaign about inheritance, conquest, class
 The three games are connected by history. The Belllands were made by crusade. Leandan was built around community, craft, and organized public life. Mikado carries its own older divine and imperial order, shaped by the Worm Gods, noble houses, Esten communities, and the title of Ai Hoku.
 
 ## Belllands Chronicle
+
+---
 
 ### Players And Characters
 
@@ -62,6 +65,8 @@ This chronicle is about people born close to power discovering that power is bri
 
 ## Leandan Chronicle
 
+---
+
 ### Players And Characters
 
 See [[Leandan Chronicle Player Characters]].
@@ -90,6 +95,8 @@ The major tension is whether Leandan's civic structure can survive contact with 
 The Leandan Chronicle asks the Kingdom Divided question from the opposite direction: not "can the old nobility endure?" but "can a more modern, organized society stay humane and unified when power, scarcity, and foreign pressure start pushing on it?"
 
 ## Mikado Chronicle
+
+---
 
 ### Players And Characters
 
