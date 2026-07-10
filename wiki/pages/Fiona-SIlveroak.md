@@ -9,11 +9,11 @@ approvalStatus: unapproved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas
 title: Fiona SIlveroak
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Fiona%20Silveroak.jpg
-parent: Belllads-Chronicle-Player-Characters
+parent: Caden-Mattix
 ---
 
 Fiona SIlveroak was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
