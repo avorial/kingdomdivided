@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Spedgenium
-summary: "A small coastal town where the party begins one leg of the Mikado Chronicle after landing and selling goods."
+summary: A small coastal town where the party begins one leg of the Mikado
+  Chronicle after landing and selling goods.
 tags:
   - location
   - mikado
@@ -13,6 +14,8 @@ keyLinks: []
 aliases:
   - Spedgininium
   - Spedgenium
+lastEditedBy: patricthomas
+parent: Mikado-Empire
 ---
 
 # Spedgenium
