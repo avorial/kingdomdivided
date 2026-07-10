@@ -1,12 +1,21 @@
 ---
-title: Baroness Elisa Kulak
-category: character
+category: npc
+type: npc
+name: Baroness Elisa Kulak
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Elisa Kulak
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Elisa%20Kulak.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Elisa Kulak was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

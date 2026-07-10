@@ -1,12 +1,21 @@
 ---
-title: Baron Demetrius Upperton
-category: character
+category: npc
+type: npc
+name: Baron Demetrius Upperton
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Demetrius Upperton
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Demetrius%20Upperton.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Demetrius Upperton was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Baron Shaun Henge
-category: character
+category: npc
+type: npc
+name: Baron Shaun Henge
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Shaun Henge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sir%20Shaun%20Derth.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Shaun Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

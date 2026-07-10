@@ -1,12 +1,21 @@
 ---
-title: Baron Patricio Goyca
-category: character
+category: npc
+type: npc
+name: Baron Patricio Goyca
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Patricio Goyca
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Patricio%20Goyca.jpeg
+parent: Belllands-NPCs
 ---
+
 Baron Patricio Goyca was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

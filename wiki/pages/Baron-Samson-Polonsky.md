@@ -1,12 +1,21 @@
 ---
-title: Baron Samson Polonsky
-category: character
+category: npc
+type: npc
+name: Baron Samson Polonsky
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Samson Polonsky
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Samson%20Polonsky.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Samson Polonsky was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

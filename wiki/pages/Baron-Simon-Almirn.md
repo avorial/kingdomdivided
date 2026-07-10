@@ -1,12 +1,21 @@
 ---
-title: Baron Simon Almirn
-category: character
+category: npc
+type: npc
+name: Baron Simon Almirn
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Simon Almirn
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Simon%20Almirn.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Simon Almirn was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

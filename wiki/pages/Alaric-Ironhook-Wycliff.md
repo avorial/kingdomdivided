@@ -1,12 +1,21 @@
 ---
-title: Alaric "Ironhook" Wycliff
-category: character
+category: npc
+type: npc
+name: Alaric "Ironhook" Wycliff
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Alaric "Ironhook" Wycliff
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Alaric-Ironhook-Wycliff.jpg
+parent: Belllands-NPCs
 ---
+
 Alaric "Ironhook" Wycliff was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

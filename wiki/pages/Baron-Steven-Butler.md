@@ -1,12 +1,21 @@
 ---
-title: Baron Steven Butler
-category: character
+category: npc
+type: npc
+name: Baron Steven Butler
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Steven Butler
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Steven%20Butler.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Steven Butler was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Baron A-wut Mookjai
-category: character
+category: npc
+type: npc
+name: Baron A-wut Mookjai
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron A-wut Mookjai
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/A-wut%20Mookjai.jpg
+parent: Belllands-NPCs
 ---
+
 Baron A-wut Mookjai was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

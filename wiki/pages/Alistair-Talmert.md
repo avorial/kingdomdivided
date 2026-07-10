@@ -1,12 +1,21 @@
 ---
-title: Alistair Talmert
-category: character
+category: npc
+type: npc
+name: Alistair Talmert
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Alistair Talmert
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Alistair%20Talmert.png
+parent: Belllands-NPCs
 ---
+
 Alistair Talmert was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

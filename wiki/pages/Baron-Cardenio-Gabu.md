@@ -1,12 +1,21 @@
 ---
-title: Baron Cardenio Gabu
-category: character
+category: npc
+type: npc
+name: Baron Cardenio Gabu
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Cardenio Gabu
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Cardenio%20Gabu.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Cardenio Gabu was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

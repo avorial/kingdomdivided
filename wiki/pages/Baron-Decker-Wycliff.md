@@ -1,12 +1,21 @@
 ---
-title: Baron Decker Wycliff
-category: character
+category: npc
+type: npc
+name: Baron Decker Wycliff
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Decker Wycliff
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Decker%20Wycliff.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Decker Wycliff was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

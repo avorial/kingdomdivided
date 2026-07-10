@@ -1,12 +1,21 @@
 ---
-title: Baron Cristofe Martain
-category: character
+category: npc
+type: npc
+name: Baron Cristofe Martain
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Cristofe Martain
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Cristofe%20Martain.png
+parent: Belllands-NPCs
 ---
+
 Baron Cristofe Martain was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

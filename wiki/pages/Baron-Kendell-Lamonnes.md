@@ -1,12 +1,21 @@
 ---
-title: Baron Kendell Lamonnes
-category: character
+category: npc
+type: npc
+name: Baron Kendell Lamonnes
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Kendell Lamonnes
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Kendell%20Lamonnes.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Kendell Lamonnes was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

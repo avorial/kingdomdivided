@@ -1,12 +1,21 @@
 ---
-title: Baroness Donnia Vulgrit
-category: character
+category: npc
+type: npc
+name: Baroness Donnia Vulgrit
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Donnia Vulgrit
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Donnia%20Vulgrit.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Donnia Vulgrit was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

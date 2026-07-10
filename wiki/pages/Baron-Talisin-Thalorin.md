@@ -1,12 +1,21 @@
 ---
-title: Baron Talisin Thalorin
-category: character
+category: npc
+type: npc
+name: Baron Talisin Thalorin
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Talisin Thalorin
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Talisin%20Thalorin.png
+parent: Belllands-NPCs
 ---
+
 Baron Talisin Thalorin was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

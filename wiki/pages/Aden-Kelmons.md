@@ -1,12 +1,21 @@
 ---
-title: Aden Kelmons
-category: character
+category: npc
+type: npc
+name: Aden Kelmons
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Aden Kelmons
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Jousters/Aden%20Kelmons.jpg
+parent: Belllands-NPCs
 ---
+
 Aden Kelmons was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

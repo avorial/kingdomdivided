@@ -1,12 +1,21 @@
 ---
-title: Baron Rogan Ceanadach
-category: character
+category: npc
+type: npc
+name: Baron Rogan Ceanadach
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Rogan Ceanadach
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Rogan%20Ceanadach.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Rogan Ceanadach was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

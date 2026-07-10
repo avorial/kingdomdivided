@@ -1,12 +1,21 @@
 ---
-title: Baroness Hipolita Mourningblaze
-category: character
+category: npc
+type: npc
+name: Baroness Hipolita Mourningblaze
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Hipolita Mourningblaze
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Hipolita%20Mourningblaze.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Hipolita Mourningblaze was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

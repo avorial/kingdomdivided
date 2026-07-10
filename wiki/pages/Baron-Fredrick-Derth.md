@@ -1,12 +1,21 @@
 ---
-title: Baron Fredrick Derth
-category: character
+category: npc
+type: npc
+name: Baron Fredrick Derth
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Fredrick Derth
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Fredrick%20Henge.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Fredrick Derth was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

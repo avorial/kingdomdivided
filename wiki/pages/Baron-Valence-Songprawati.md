@@ -1,12 +1,21 @@
 ---
-title: Baron Valence Songprawati
-category: character
+category: npc
+type: npc
+name: Baron Valence Songprawati
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baron Valence Songprawati
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Valence%20Songprawati.jpg
+parent: Belllands-NPCs
 ---
+
 Baron Valence Songprawati was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

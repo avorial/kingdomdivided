@@ -1,12 +1,21 @@
 ---
-title: Adury Caragin
-category: character
+category: npc
+type: npc
+name: Adury Caragin
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Adury Caragin
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Adury%20Carragin.jpg
+parent: Belllands-NPCs
 ---
+
 Adury Caragin was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

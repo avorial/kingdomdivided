@@ -1,12 +1,21 @@
 ---
-title: Alfred Moser
-category: character
+category: npc
+type: npc
+name: Alfred Moser
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Alfred Moser
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/Unused%20Pics/Alfred%20Moser.jpg
+parent: Belllands-NPCs
 ---
+
 Alfred Moser was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

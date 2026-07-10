@@ -1,12 +1,21 @@
 ---
-title: Asim Ramirez
-category: character
+category: npc
+type: npc
+name: Asim Ramirez
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Asim Ramirez
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Asim%20Ramirez.jpg
+parent: Belllands-NPCs
 ---
+
 Asim Ramirez was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

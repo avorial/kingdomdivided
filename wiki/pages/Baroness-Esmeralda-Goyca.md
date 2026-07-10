@@ -1,12 +1,21 @@
 ---
-title: Baroness Esmeralda Goyca
-category: character
+category: npc
+type: npc
+name: Baroness Esmeralda Goyca
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Baroness Esmeralda Goyca
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Esmeralda%20Goyca.jpg
+parent: Belllands-NPCs
 ---
+
 Baroness Esmeralda Goyca was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Abagail Trudo
-category: character
+category: npc
+type: npc
+name: Abagail Trudo
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Abagail Trudo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Abagail%20Trudo.jpg
+parent: Belllands-NPCs
 ---
+
 Abagail Trudo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Andrew Morrey
-category: character
+category: npc
+type: npc
+name: Andrew Morrey
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Andrew Morrey
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Andrew%20Morrey.jpg
+parent: Belllands-NPCs
 ---
+
 Andrew Morrey was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

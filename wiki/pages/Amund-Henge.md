@@ -1,12 +1,21 @@
 ---
-title: Amund Henge
-category: character
+category: npc
+type: npc
+name: Amund Henge
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Amund Henge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Amund%20Henge.png
+parent: Belllands-NPCs
 ---
+
 Amund Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
