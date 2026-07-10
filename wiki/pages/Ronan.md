@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Ronan
-summary: "Half-giant captain of the Kempenfelt, badly injured during the hurricane near Corumia."
+summary: Half-giant captain of the Kempenfelt, badly injured during the
+  hurricane near Corumia.
 tags:
   - npc
   - heller
@@ -16,8 +17,8 @@ keyLinks:
   - Valens
 aliases:
   - Captain Ronan
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Ronan

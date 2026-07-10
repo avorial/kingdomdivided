@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Sarah Van Jansen
-summary: "Captain of the Victory, a Shipwrights Guild vessel that carries the Leandan party before the hurricane."
+summary: Captain of the Victory, a Shipwrights Guild vessel that carries the
+  Leandan party before the hurricane.
 tags:
   - npc
   - leandan
@@ -16,8 +17,8 @@ keyLinks:
 aliases:
   - Captain Jansen
   - Sarah Jansen
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Sarah Van Jansen

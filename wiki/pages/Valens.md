@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Valens
-summary: "Heller giant whose frenzy after Ronan's injury reveals how destabilized the Kempenfelt crew has become."
+summary: Heller giant whose frenzy after Ronan's injury reveals how destabilized
+  the Kempenfelt crew has become.
 tags:
   - npc
   - heller
@@ -16,8 +17,8 @@ keyLinks:
   - Tiberius
 aliases:
   - Valen
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Valens

@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Nadia
-summary: "Apothecary near Davin who sells the party a green healing potion and supplies after the storm."
+summary: Apothecary near Davin who sells the party a green healing potion and
+  supplies after the storm.
 tags:
   - npc
   - apothecary
@@ -14,8 +15,8 @@ keyLinks:
   - Davin
   - Roya
 aliases: []
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Nadia

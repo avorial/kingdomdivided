@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Brom Baker
-summary: "First mate of the Victory under Captain Sarah Van Jansen."
+summary: First mate of the Victory under Captain Sarah Van Jansen.
 tags:
   - npc
   - leandan
@@ -16,8 +16,8 @@ keyLinks:
 aliases:
   - Braum Baker
   - Brom
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Brom Baker

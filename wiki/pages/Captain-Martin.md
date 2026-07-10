@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Captain Martin
-summary: "Captain connected to the Dawn's Pearl, an airship contact mentioned in Farisi."
+summary: Captain connected to the Dawn's Pearl, an airship contact mentioned in Farisi.
 tags:
   - npc
   - leandan
@@ -15,8 +15,8 @@ keyLinks:
   - Adrian
 aliases:
   - Martin
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Captain Martin

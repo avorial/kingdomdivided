@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Adrian
-summary: "Farisi contact interested in airships and gems; connects the party toward Captain Martin and the Dawn's Pearl."
+summary: Farisi contact interested in airships and gems; connects the party
+  toward Captain Martin and the Dawn's Pearl.
 tags:
   - npc
   - leandan
@@ -14,8 +15,8 @@ keyLinks:
   - Farisi
   - Captain-Martin
 aliases: []
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Adrian

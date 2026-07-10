@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Tiberius
-summary: "First mate of the Kempenfelt and main negotiator for the Heller giant crew."
+summary: First mate of the Kempenfelt and main negotiator for the Heller giant crew.
 tags:
   - npc
   - heller
@@ -14,8 +14,8 @@ keyLinks:
   - Kempenfelt
   - Ronan
 aliases: []
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Tiberius

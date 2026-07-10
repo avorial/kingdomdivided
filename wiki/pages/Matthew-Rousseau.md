@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Matthew Rousseau
-summary: "Jewelers Guild-connected fixer who gathers the Leandan party for the sky crystal job."
+summary: Jewelers Guild-connected fixer who gathers the Leandan party for the
+  sky crystal job.
 tags:
   - npc
   - leandan
@@ -15,8 +16,8 @@ keyLinks:
   - Leandan-Chronicle
 aliases:
   - Mathieu Rousseau
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Matthew Rousseau

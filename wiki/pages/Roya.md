@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Roya
-summary: "Nadia's daughter, helping at the apothecary near Davin."
+summary: Nadia's daughter, helping at the apothecary near Davin.
 tags:
   - npc
   - apothecary
@@ -14,8 +14,8 @@ keyLinks:
   - Nadia
   - Davin
 aliases: []
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Roya

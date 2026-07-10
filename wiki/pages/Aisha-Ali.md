@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Aisha Ali
-summary: "Trader out of Rahabriz with a route toward Kithnos; mentioned as a possible way back toward Farisi."
+summary: Trader out of Rahabriz with a route toward Kithnos; mentioned as a
+  possible way back toward Farisi.
 tags:
   - npc
   - trader
@@ -12,8 +13,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-NPCs
 ---
 
 # Aisha Ali
