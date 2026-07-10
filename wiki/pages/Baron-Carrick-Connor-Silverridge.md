@@ -1,12 +1,21 @@
 ---
-title: Baron Carrick Connor Silverridge
 category: character
+type: character
+name: Baron Carrick Connor Silverridge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas
+title: Baron Carrick Connor Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Carrick%20Silverridge2.png
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Baron Carrick Connor Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
