@@ -1,8 +1,8 @@
 ---
-category: event
-type: event
+category: timelines
+type: timelines
 name: Mikado Chronicle Timeline
-summary: "Session-by-session outline of the Mikado Chronicle."
+summary: Session-by-session outline of the Mikado Chronicle.
 tags:
   - timeline
   - mikado
@@ -11,6 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Mikado Chronicle Timeline

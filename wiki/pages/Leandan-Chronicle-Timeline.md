@@ -1,8 +1,8 @@
 ---
-category: event
-type: event
+category: timelines
+type: timelines
 name: Leandan Chronicle Timeline
-summary: "Session-by-session timeline for the Leandan Chronicle."
+summary: Session-by-session timeline for the Leandan Chronicle.
 tags:
   - timeline
   - leandan
@@ -17,7 +17,7 @@ keyLinks:
   - Leandan-Session-05-The-Giant-Captain
   - Leandan-Session-06-Farisi-and-the-Airships
 aliases: []
-lastEditedBy: Codex from Leandan transcripts
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Leandan Chronicle Timeline
