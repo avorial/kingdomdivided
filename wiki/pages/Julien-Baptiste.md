@@ -1,13 +1,21 @@
 ---
-title: Julien Baptiste
 category: character
+type: character
+name: Julien Baptiste
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Julien Baptiste
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/NPC%27s/385544239_325447853579010_1607717881219329410_n.jpg
+portrait: Pictures/KingdomDivided/NPC%27s/385544239_325447853579010_1607717881219329410_n.jpg
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Julien Baptiste was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

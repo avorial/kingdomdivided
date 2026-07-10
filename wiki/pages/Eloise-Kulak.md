@@ -1,12 +1,21 @@
 ---
-title: Éloïse Kulak
 category: character
+type: character
+name: Éloïse Kulak
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Éloïse Kulak
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/%EF%BF%BDlo%EF%BF%BDse%20Kulak.png
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Éloïse Kulak was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
