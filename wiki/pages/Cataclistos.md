@@ -2,7 +2,7 @@
 category: location
 type: location
 name: Cataclistos
-summary: "Independent Leandan city-state and sole known source of sky crystals."
+summary: Independent Leandan city-state and sole known source of sky crystals.
 tags:
   - location
   - leandan
@@ -15,8 +15,8 @@ keyLinks:
   - Farisi
 aliases:
   - Cataclystos
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas
+parent: Countries-In-the-Cestona
 ---
 
 # Cataclistos
