@@ -1,12 +1,21 @@
 ---
-title: Viscount Somchai Frick (Almirn)
-category: character
+category: npc
+type: npc
+name: Viscount Somchai Frick (Almirn)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Viscount Somchai Frick (Almirn)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Somchai%20Frick.jpg
+parent: Belllands-NPCs
 ---
+
 Viscount Somchai Frick (Almirn) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

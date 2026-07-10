@@ -1,12 +1,21 @@
 ---
-title: Squire Kiet Dokoi
-category: character
+category: npc
+type: npc
+name: Squire Kiet Dokoi
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Squire Kiet Dokoi
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Kiet%20Dokoi.jpg
+parent: Belllands-NPCs
 ---
+
 Squire Kiet Dokoi was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

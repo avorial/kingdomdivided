@@ -1,12 +1,21 @@
 ---
-title: Than Resplo
-category: character
+category: npc
+type: npc
+name: Than Resplo
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Than Resplo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Than%20Resplo.jpg
+parent: Belllands-NPCs
 ---
+
 Than Resplo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

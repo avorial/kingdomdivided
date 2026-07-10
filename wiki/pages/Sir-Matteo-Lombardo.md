@@ -1,12 +1,21 @@
 ---
-title: Sir Matteo Lombardo
-category: character
+category: npc
+type: npc
+name: Sir Matteo Lombardo
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Matteo Lombardo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sir%20Matteo%20Lombardo.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Matteo Lombardo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

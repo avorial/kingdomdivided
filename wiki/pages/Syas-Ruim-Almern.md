@@ -1,12 +1,21 @@
 ---
-title: Syas Ruim (Almern)
-category: character
+category: npc
+type: npc
+name: Syas Ruim (Almern)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Syas Ruim (Almern)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Syas%20Ruim.jpeg
+parent: Belllands-NPCs
 ---
+
 Syas Ruim (Almern) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

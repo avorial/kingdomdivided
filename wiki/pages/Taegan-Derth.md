@@ -1,12 +1,21 @@
 ---
-title: Taegan Derth
-category: character
+category: npc
+type: npc
+name: Taegan Derth
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Taegan Derth
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Taegan%20Derth.png
+parent: Belllands-NPCs
 ---
+
 Taegan Derth was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

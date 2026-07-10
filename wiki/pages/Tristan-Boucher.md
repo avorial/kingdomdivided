@@ -1,12 +1,21 @@
 ---
-title: Tristan Boucher
-category: character
+category: npc
+type: npc
+name: Tristan Boucher
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tristan Boucher
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Tristan%20Boucher.jpg
+parent: Belllands-NPCs
 ---
+
 Tristan Boucher was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Sir Maxim Vulgrit
-category: character
+category: npc
+type: npc
+name: Sir Maxim Vulgrit
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Maxim Vulgrit
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Maxim%20Vulgrit.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Maxim Vulgrit was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

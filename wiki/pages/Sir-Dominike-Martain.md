@@ -1,12 +1,21 @@
 ---
-title: Sir Dominike Martain
-category: character
+category: npc
+type: npc
+name: Sir Dominike Martain
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Dominike Martain
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Dominike%20Martain.jpeg
+parent: Belllands-NPCs
 ---
+
 Sir Dominike Martain was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

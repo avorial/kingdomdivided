@@ -1,12 +1,21 @@
 ---
-title: Sir Sergiy Vulgrit
-category: character
+category: npc
+type: npc
+name: Sir Sergiy Vulgrit
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Sergiy Vulgrit
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Sergiy%20Vulgrit.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Sergiy Vulgrit was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

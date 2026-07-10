@@ -1,12 +1,21 @@
 ---
-title: Sir Tod Stone (Silverridge)
-category: character
+category: npc
+type: npc
+name: Sir Tod Stone (Silverridge)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Tod Stone (Silverridge)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Tod%20Stone.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Tod Stone (Silverridge) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

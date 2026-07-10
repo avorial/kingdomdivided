@@ -1,12 +1,21 @@
 ---
-title: Sofiya Baranova
-category: character
+category: npc
+type: npc
+name: Sofiya Baranova
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sofiya Baranova
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sofiya%20Baranova.jpg
+parent: Belllands-NPCs
 ---
+
 Sofiya Baranova was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

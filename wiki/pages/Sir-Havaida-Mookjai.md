@@ -1,12 +1,21 @@
 ---
-title: Sir Havaida Mookjai
-category: character
+category: npc
+type: npc
+name: Sir Havaida Mookjai
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Havaida Mookjai
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Havaida%20Mookjai.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Havaida Mookjai was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

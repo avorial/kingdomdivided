@@ -1,12 +1,21 @@
 ---
-title: Teressa Wycliff
-category: character
+category: npc
+type: npc
+name: Teressa Wycliff
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Teressa Wycliff
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Terrisa%20Wycliff.png
+parent: Belllands-NPCs
 ---
+
 Teressa Wycliff was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

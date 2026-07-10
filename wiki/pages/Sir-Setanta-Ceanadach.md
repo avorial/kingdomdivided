@@ -1,12 +1,21 @@
 ---
-title: Sir Setanta Ceanadach
-category: character
+category: npc
+type: npc
+name: Sir Setanta Ceanadach
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Setanta Ceanadach
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Setanta%20Ceanadach.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Setanta Ceanadach was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

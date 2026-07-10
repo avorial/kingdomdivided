@@ -1,12 +1,21 @@
 ---
-title: Tristin Whitestar
-category: character
+category: npc
+type: npc
+name: Tristin Whitestar
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tristin Whitestar
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg
+parent: Belllands-NPCs
 ---
+
 Tristin Whitestar was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

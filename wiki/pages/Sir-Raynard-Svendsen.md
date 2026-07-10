@@ -1,12 +1,21 @@
 ---
-title: Sir Raynard Svendsen
-category: character
+category: npc
+type: npc
+name: Sir Raynard Svendsen
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Raynard Svendsen
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Jousters/Raynard%20Svendsen.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Raynard Svendsen was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

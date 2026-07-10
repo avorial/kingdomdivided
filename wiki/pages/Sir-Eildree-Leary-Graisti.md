@@ -1,12 +1,21 @@
 ---
-title: Sir Eildree Leary (Graisti)
-category: character
+category: npc
+type: npc
+name: Sir Eildree Leary (Graisti)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Eildree Leary (Graisti)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Eildree%20Leary.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Eildree Leary (Graisti) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

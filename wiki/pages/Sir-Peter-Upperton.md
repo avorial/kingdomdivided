@@ -1,12 +1,21 @@
 ---
-title: Sir Peter Upperton
-category: character
+category: npc
+type: npc
+name: Sir Peter Upperton
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Peter Upperton
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Peter%20Upperton.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Peter Upperton was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

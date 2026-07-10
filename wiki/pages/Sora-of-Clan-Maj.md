@@ -1,12 +1,21 @@
 ---
-title: Sora of Clan Maj
-category: character
+category: npc
+type: npc
+name: Sora of Clan Maj
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sora of Clan Maj
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sora%20of%20Clan%20Maj.jpg
+parent: Belllands-NPCs
 ---
+
 Sora of Clan Maj was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

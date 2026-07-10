@@ -1,12 +1,21 @@
 ---
-title: Sir Sariel Rose (Rivers)
-category: character
+category: npc
+type: npc
+name: Sir Sariel Rose (Rivers)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Sariel Rose (Rivers)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Sariel%20Rose.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Sariel Rose (Rivers) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

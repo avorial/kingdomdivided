@@ -1,12 +1,21 @@
 ---
-title: Zain Forester
-category: character
+category: npc
+type: npc
+name: Zain Forester
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Zain Forester
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Zain%20Forester.jpg
+parent: Belllands-NPCs
 ---
+
 Zain Forester was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

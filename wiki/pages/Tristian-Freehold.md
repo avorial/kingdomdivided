@@ -1,12 +1,21 @@
 ---
-title: Tristian Freehold
-category: character
+category: npc
+type: npc
+name: Tristian Freehold
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tristian Freehold
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Tristian%20Freehold.jpg
+parent: Belllands-NPCs
 ---
+
 Tristian Freehold was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

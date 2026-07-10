@@ -1,12 +1,21 @@
 ---
-title: Sir Ciaran Rolland
-category: character
+category: npc
+type: npc
+name: Sir Ciaran Rolland
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Ciaran Rolland
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Ciaran%20Rolland.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Ciaran Rolland was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

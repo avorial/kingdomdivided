@@ -1,12 +1,21 @@
 ---
-title: Sir Timothy Lamonnes
-category: character
+category: npc
+type: npc
+name: Sir Timothy Lamonnes
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Timothy Lamonnes
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Timothy%20Lamonnes.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Timothy Lamonnes was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

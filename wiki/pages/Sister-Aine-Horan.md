@@ -1,12 +1,21 @@
 ---
-title: Sister Aine Horan
-category: character
+category: npc
+type: npc
+name: Sister Aine Horan
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sister Aine Horan
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Aine%20Horan.jpg
+parent: Belllands-NPCs
 ---
+
 Sister Aine Horan was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

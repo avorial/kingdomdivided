@@ -1,12 +1,21 @@
 ---
-title: Xilmylla Balzorwyn
-category: character
+category: npc
+type: npc
+name: Xilmylla Balzorwyn
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Xilmylla Balzorwyn
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Xilmylla%20Balzorwyn.png
+parent: Belllands-NPCs
 ---
+
 Xilmylla Balzorwyn was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

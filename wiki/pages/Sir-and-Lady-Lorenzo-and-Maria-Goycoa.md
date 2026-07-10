@@ -1,12 +1,21 @@
 ---
-title: Sir and Lady Lorenzo and Maria Goycoa
-category: character
+category: npc
+type: npc
+name: Sir and Lady Lorenzo and Maria Goycoa
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir and Lady Lorenzo and Maria Goycoa
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Lorenzo%20and%20Maria%20Goycoa.jpg
+parent: Belllands-NPCs
 ---
+
 Sir and Lady Lorenzo and Maria Goycoa was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

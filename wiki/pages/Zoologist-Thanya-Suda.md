@@ -1,12 +1,21 @@
 ---
-title: Zoologist Thanya Suda
-category: character
+category: npc
+type: npc
+name: Zoologist Thanya Suda
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Zoologist Thanya Suda
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Thanya%20Suda.png
+parent: Belllands-NPCs
 ---
+
 Zoologist Thanya Suda was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

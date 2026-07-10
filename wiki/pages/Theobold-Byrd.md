@@ -1,12 +1,21 @@
 ---
-title: Theobold Byrd
-category: character
+category: npc
+type: npc
+name: Theobold Byrd
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Theobold Byrd
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Theobold%20Byrd.jpg
+parent: Belllands-NPCs
 ---
+
 Theobold Byrd was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

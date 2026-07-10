@@ -1,12 +1,21 @@
 ---
-title: Sir Kindcaid Silverridge
-category: character
+category: npc
+type: npc
+name: Sir Kindcaid Silverridge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Kindcaid Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sir%20Kindcaid%20Silverridge2.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Kindcaid Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Sir Jacob Almirn
-category: character
+category: npc
+type: npc
+name: Sir Jacob Almirn
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Jacob Almirn
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Jacob%20Almirn.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Jacob Almirn was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

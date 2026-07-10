@@ -1,12 +1,21 @@
 ---
-title: Sir Howard Lamonnes
-category: character
+category: npc
+type: npc
+name: Sir Howard Lamonnes
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Howard Lamonnes
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Howard%20Lamonnes.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Howard Lamonnes was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
