@@ -1,12 +1,21 @@
 ---
-title: Gregory ap Bentil
 category: character
+type: character
+name: Gregory ap Bentil
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gregory ap Bentil
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Gregory%20ap%20Bentil.jpg
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Gregory ap Bentil was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

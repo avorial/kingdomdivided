@@ -1,12 +1,21 @@
 ---
-title: Casimir Durand
 category: character
+type: character
+name: Casimir Durand
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Casimir Durand
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Casimir%20Durand.jpg
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Casimir Durand was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Sovereign Ides Lev Tarasovich
 category: character
+type: character
+name: Sovereign Ides Lev Tarasovich
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sovereign Ides Lev Tarasovich
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Soverighn%20Ides%20Lev%20Tarasovich.png
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Sovereign Ides Lev Tarasovich was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

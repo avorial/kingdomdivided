@@ -1,12 +1,21 @@
 ---
-title: Cléménte Arava
 category: character
+type: character
+name: Cléménte Arava
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Cléménte Arava
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Clementie%20Arava.jpg
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Cléménte Arava was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

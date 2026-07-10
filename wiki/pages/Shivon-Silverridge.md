@@ -1,12 +1,21 @@
 ---
-title: Shivon Silverridge
 category: character
+type: character
+name: Shivon Silverridge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Shivon Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Shivon%20Silverridge.jpg
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Shivon Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

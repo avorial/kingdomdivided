@@ -1,12 +1,21 @@
 ---
-title: Caden Mattix-Caragin
 category: character
+type: character
+name: Caden Mattix-Caragin
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Caden Mattix-Caragin
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Caden%20Mattix2.png
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Caden Mattix-Caragin was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Peter MacBravo
 category: character
+type: character
+name: Peter MacBravo
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Peter MacBravo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Peter%20McBavo.jpg
+parent: Belllads-Chronicle-Player-Characters
 ---
+
 Peter MacBravo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
