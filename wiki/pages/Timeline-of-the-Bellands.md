@@ -1,6 +1,6 @@
 ---
-category: lore
-type: lore
+category: timelines
+type: timelines
 name: Timeline of the Bellands
 summary: Bellringer Troops are stopped by the Esten Kings. The war reaches a stalemate.
 tags:
@@ -10,7 +10,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # SE: The Age of the Sedi Dynasty
