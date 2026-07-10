@@ -1,8 +1,8 @@
 ---
-category: event
-type: event
-name: "Leandan Session 01 - The Brass Cog"
-summary: "The Leandan party is introduced and drawn toward a Jewelers Guild job."
+category: game
+type: game
+name: Leandan Session 01 - The Brass Cog
+summary: The Leandan party is introduced and drawn toward a Jewelers Guild job.
 tags:
   - session
   - leandan
@@ -16,7 +16,8 @@ keyLinks:
   - The-Brass-Cog
 aliases:
   - Leandan Game 1
-lastEditedBy: Codex from Leandan transcripts
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-Chronicle
 ---
 
 # Leandan Session 01 - The Brass Cog

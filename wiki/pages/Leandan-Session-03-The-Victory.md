@@ -1,8 +1,9 @@
 ---
-category: event
-type: event
-name: "Leandan Session 03 - The Victory"
-summary: "The party prepares its cover, boards the Victory, and begins the sea route toward Cataclistos."
+category: game
+type: game
+name: Leandan Session 03 - The Victory
+summary: The party prepares its cover, boards the Victory, and begins the sea
+  route toward Cataclistos.
 tags:
   - session
   - leandan
@@ -17,7 +18,8 @@ keyLinks:
   - Cataclistos
 aliases:
   - Leandan Game 3
-lastEditedBy: Codex from Leandan transcripts
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-Chronicle
 ---
 
 # Leandan Session 03 - The Victory

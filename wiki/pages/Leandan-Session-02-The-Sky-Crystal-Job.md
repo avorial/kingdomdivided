@@ -1,8 +1,9 @@
 ---
-category: event
-type: event
-name: "Leandan Session 02 - The Sky Crystal Job"
-summary: "Matthew Rousseau lays out the Jewelers Guild mission: sky crystals, Cataclistos, and Airship Guild politics."
+category: game
+type: game
+name: Leandan Session 02 - The Sky Crystal Job
+summary: "Matthew Rousseau lays out the Jewelers Guild mission: sky crystals,
+  Cataclistos, and Airship Guild politics."
 tags:
   - session
   - leandan
@@ -16,7 +17,8 @@ keyLinks:
   - Shipwrights-Guild
 aliases:
   - Leandan Game 2
-lastEditedBy: Codex from Leandan transcripts
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-Chronicle
 ---
 
 # Leandan Session 02 - The Sky Crystal Job

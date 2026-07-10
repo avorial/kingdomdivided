@@ -1,8 +1,9 @@
 ---
-category: event
-type: event
-name: "Leandan Session 04 - Stormfall at Corumia"
-summary: "A hurricane throws the Victory off course into the Protectorate of Corumia, where the party finds a damaged village and a giant-crewed ship."
+category: game
+type: game
+name: Leandan Session 04 - Stormfall at Corumia
+summary: A hurricane throws the Victory off course into the Protectorate of
+  Corumia, where the party finds a damaged village and a giant-crewed ship.
 tags:
   - session
   - leandan
@@ -17,7 +18,8 @@ keyLinks:
   - Ronan
 aliases:
   - Leandan Game 4
-lastEditedBy: Codex from Leandan transcripts
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-Chronicle
 ---
 
 # Leandan Session 04 - Stormfall at Corumia

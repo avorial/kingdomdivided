@@ -1,8 +1,9 @@
 ---
-category: event
-type: event
-name: "Leandan Session 05 - The Giant Captain"
-summary: "The party seeks medicine for Ronan, negotiates with the giants, and begins turning disaster into passage."
+category: game
+type: game
+name: Leandan Session 05 - The Giant Captain
+summary: The party seeks medicine for Ronan, negotiates with the giants, and
+  begins turning disaster into passage.
 tags:
   - session
   - leandan
@@ -18,7 +19,8 @@ keyLinks:
   - Roya
 aliases:
   - Leandan Game 5
-lastEditedBy: Codex from Leandan transcripts
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-Chronicle
 ---
 
 # Leandan Session 05 - The Giant Captain

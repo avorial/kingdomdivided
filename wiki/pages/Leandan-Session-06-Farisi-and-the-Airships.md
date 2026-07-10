@@ -1,8 +1,9 @@
 ---
-category: event
-type: event
-name: "Leandan Session 06 - Farisi and the Airships"
-summary: "The party rides the Kempenfelt toward Farisi, makes airship contacts, and begins learning how sky crystal travel really works."
+category: game
+type: game
+name: Leandan Session 06 - Farisi and the Airships
+summary: The party rides the Kempenfelt toward Farisi, makes airship contacts,
+  and begins learning how sky crystal travel really works.
 tags:
   - session
   - leandan
@@ -18,7 +19,8 @@ keyLinks:
   - Captain-Martin
 aliases:
   - Leandan Game 6
-lastEditedBy: Codex from Leandan transcripts
+lastEditedBy: patricthomas via bulk edit
+parent: Leandan-Chronicle
 ---
 
 # Leandan Session 06 - Farisi and the Airships
