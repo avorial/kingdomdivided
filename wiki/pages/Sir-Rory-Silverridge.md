@@ -5,11 +5,11 @@ name: Sir Rory Silverridge
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Sir Rory Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sir%20Rory%20Silverridge.jpg

@@ -5,11 +5,11 @@ name: Julien Baptiste
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Julien Baptiste
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/385544239_325447853579010_1607717881219329410_n.jpg

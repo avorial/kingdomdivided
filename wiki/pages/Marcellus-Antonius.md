@@ -5,11 +5,11 @@ name: Marcellus Antonius
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Marcellus Antonius
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Marcellus%20Antonius.jpg

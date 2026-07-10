@@ -5,11 +5,11 @@ name: Cardinal of the Crown Guadelupe Priston
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Cardinal of the Crown Guadelupe Priston
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Guadelupe%20Priston.png

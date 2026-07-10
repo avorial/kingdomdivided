@@ -5,11 +5,11 @@ name: Squire Kiet Dokoi
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Squire Kiet Dokoi
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Kiet%20Dokoi.jpg

@@ -5,11 +5,11 @@ name: Dr Bruce Ulman
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Dr Bruce Ulman
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Nobles/04b2a763894f8c6a087dddda940f1d5e-2245439186.jpg

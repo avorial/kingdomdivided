@@ -5,11 +5,11 @@ name: Fiona SIlveroak
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via GM review
 title: Fiona SIlveroak
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Fiona%20Silveroak.jpg

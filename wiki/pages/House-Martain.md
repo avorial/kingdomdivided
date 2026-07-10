@@ -1,12 +1,20 @@
 ---
-title: House Martain
 category: organization
+type: organization
+name: House Martain
+summary: ""
+tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via GM review
+title: House Martain
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/Coats%20of%20Arms/House%20Martain.png
 ---
+
 House Martain was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

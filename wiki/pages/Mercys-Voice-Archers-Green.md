@@ -5,11 +5,11 @@ name: Mercy's Voice Archers-Green
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Mercy's Voice Archers-Green
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg

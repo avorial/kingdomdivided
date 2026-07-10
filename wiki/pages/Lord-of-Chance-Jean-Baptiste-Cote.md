@@ -5,11 +5,11 @@ name: Lord of Chance Jean Baptiste Cote
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Lord of Chance Jean Baptiste Cote
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Jean%20Baptiste%20Cote.jpg

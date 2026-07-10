@@ -5,11 +5,11 @@ name: Count O’rih "Rune Warrior" Silverridge
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Count O’rih "Rune Warrior" Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Count%20O%E2%80%99rih%20Rune%20Warrior%20Silverridge.jpg

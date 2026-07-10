@@ -5,11 +5,11 @@ name: Cole Maccombs (Warrior)
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Cole Maccombs (Warrior)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Fighters/thief_by_dusint_dd61r3c-pre.jpg

@@ -5,11 +5,11 @@ name: Master of the Guard Knight Wanda Bentil
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Master of the Guard Knight Wanda Bentil
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Master%20of%20the%20Guard%20Knight%20Wanda%20Bentil.jpg

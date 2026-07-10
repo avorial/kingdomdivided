@@ -5,11 +5,11 @@ name: Gregory ap Bentil
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via GM review
 title: Gregory ap Bentil
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Gregory%20ap%20Bentil.jpg

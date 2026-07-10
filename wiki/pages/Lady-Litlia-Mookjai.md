@@ -5,11 +5,11 @@ name: Lady Litlia Mookjai
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via GM review
 title: Lady Litlia Mookjai
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Litilia%20Mookjai.png

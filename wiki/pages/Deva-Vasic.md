@@ -5,11 +5,11 @@ name: Deva Vasic
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Deva Vasic
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg

@@ -5,11 +5,11 @@ name: Master of the Hunt Vikasheva Valya Borisovna
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Master of the Hunt Vikasheva Valya Borisovna
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Vikasheva%20Valya%20Borisovna.jpg

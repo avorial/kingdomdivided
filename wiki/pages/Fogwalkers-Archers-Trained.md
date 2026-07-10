@@ -5,11 +5,11 @@ name: Fogwalkers Archers-Trained
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Fogwalkers Archers-Trained
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg

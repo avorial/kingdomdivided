@@ -5,11 +5,11 @@ name: Lady Ursla Silverridge  neé Henge
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Lady Ursla Silverridge  neé Henge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lady%20Ursla%20Silverridge%20%20ne%C3%A9%20Henge2.jpg

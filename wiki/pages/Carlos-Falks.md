@@ -5,11 +5,11 @@ name: Carlos Falks
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Carlos Falks
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/Unused%20Pics/Men/Fighters/e28ef345220fd8c1a66c9966f489b4d7--dark-ages-vampire-931604767.jpg

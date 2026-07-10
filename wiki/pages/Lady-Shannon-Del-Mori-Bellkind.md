@@ -5,11 +5,11 @@ name: Lady Shannon Del Mori (Bellkind)
 summary: ""
 tags: []
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas via GM review
 title: Lady Shannon Del Mori (Bellkind)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Shannon%20Del%20Mori.jpg
