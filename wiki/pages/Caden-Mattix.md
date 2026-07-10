@@ -12,6 +12,10 @@ keyLinks: []
 aliases: []
 lastEditedBy: patricthomas
 parent: Belllads-Chronicle-Player-Characters
+relationships:
+  - type: related-to
+    target: Conner Silverridge
+abilities: []
 ---
 
 ![caden_mattix2 portrait](/wiki/media/caden_mattix2.png)
