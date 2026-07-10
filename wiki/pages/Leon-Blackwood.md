@@ -1,12 +1,21 @@
 ---
-title: Leon Blackwood
-category: character
+category: npc
+type: npc
+name: Leon Blackwood
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Leon Blackwood
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Leon%20Blackwood.png
+parent: Belllands-NPCs
 ---
+
 Leon Blackwood was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

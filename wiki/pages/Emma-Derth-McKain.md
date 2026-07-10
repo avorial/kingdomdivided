@@ -1,12 +1,21 @@
 ---
-title: Emma Derth-McKain
-category: character
+category: npc
+type: npc
+name: Emma Derth-McKain
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Emma Derth-McKain
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Emma%20Derth-McKain.jpg
+parent: Belllands-NPCs
 ---
+
 Emma Derth-McKain was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

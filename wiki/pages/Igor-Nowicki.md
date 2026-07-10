@@ -1,12 +1,21 @@
 ---
-title: Igor Nowicki
-category: character
+category: npc
+type: npc
+name: Igor Nowicki
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Igor Nowicki
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Igor%20Nowicki.jpg
+parent: Belllands-NPCs
 ---
+
 Igor Nowicki was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

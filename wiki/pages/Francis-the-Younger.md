@@ -1,12 +1,21 @@
 ---
-title: Francis the Younger
-category: character
+category: npc
+type: npc
+name: Francis the Younger
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Francis the Younger
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Francis%20the%20Younger.jpg
+parent: Belllands-NPCs
 ---
+
 Francis the Younger was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

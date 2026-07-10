@@ -1,13 +1,21 @@
 ---
-title: Master of the Guard Knight Wanda Bentil
-category: character
+category: npc
+type: npc
+name: Master of the Guard Knight Wanda Bentil
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Master of the Guard Knight Wanda Bentil
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/NPC%27s/Master%20of%20the%20Guard%20Knight%20Wanda%20Bentil.jpg
+portrait: Pictures/KingdomDivided/NPC%27s/Master%20of%20the%20Guard%20Knight%20Wanda%20Bentil.jpg
+parent: Belllands-NPCs
 ---
+
 Master of the Guard Knight Wanda Bentil was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

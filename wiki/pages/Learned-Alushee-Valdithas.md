@@ -1,12 +1,21 @@
 ---
-title: Learned Alushee Valdithas
-category: character
+category: npc
+type: npc
+name: Learned Alushee Valdithas
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Learned Alushee Valdithas
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Alushee%20Valdithas.jpg
+parent: Belllands-NPCs
 ---
+
 Learned Alushee Valdithas was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

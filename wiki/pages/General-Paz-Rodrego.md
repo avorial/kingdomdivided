@@ -1,12 +1,21 @@
 ---
-title: General Paz Rodrego
-category: character
+category: npc
+type: npc
+name: General Paz Rodrego
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: General Paz Rodrego
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Paz%20Rodrego.png
+parent: Belllands-NPCs
 ---
+
 General Paz Rodrego was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

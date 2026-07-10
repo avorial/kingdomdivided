@@ -1,12 +1,21 @@
 ---
-title: Reimleath Wyncyne
-category: character
+category: npc
+type: npc
+name: Reimleath Wyncyne
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Reimleath Wyncyne
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Reimleath%20Wyncyne.png
+parent: Belllands-NPCs
 ---
+
 Reimleath Wyncyne was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

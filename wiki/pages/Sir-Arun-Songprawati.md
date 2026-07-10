@@ -1,12 +1,21 @@
 ---
-title: Sir Arun Songprawati
-category: character
+category: npc
+type: npc
+name: Sir Arun Songprawati
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Arun Songprawati
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Arun%20Songprawatijpg.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Arun Songprawati was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

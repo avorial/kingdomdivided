@@ -1,12 +1,21 @@
 ---
-title: Karl Rhinehart
-category: character
+category: npc
+type: npc
+name: Karl Rhinehart
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Karl Rhinehart
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Karl%20Rhinehart.jpg
+parent: Belllands-NPCs
 ---
+
 Karl Rhinehart was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Dragonbreader Alin Extis
-category: character
+category: npc
+type: npc
+name: Dragonbreader Alin Extis
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dragonbreader Alin Extis
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Alin%20Extis.png
+parent: Belllands-NPCs
 ---
+
 Dragonbreader Alin Extis was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

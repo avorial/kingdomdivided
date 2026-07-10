@@ -1,12 +1,21 @@
 ---
-title: Isaac Mason
-category: character
+category: npc
+type: npc
+name: Isaac Mason
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Isaac Mason
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg
+parent: Belllands-NPCs
 ---
+
 Isaac Mason was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

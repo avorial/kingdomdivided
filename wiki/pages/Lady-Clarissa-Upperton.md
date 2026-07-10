@@ -1,12 +1,21 @@
 ---
-title: Lady Clarissa Upperton
-category: character
+category: npc
+type: npc
+name: Lady Clarissa Upperton
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Clarissa Upperton
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Clarissa%20Upperton.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Clarissa Upperton was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

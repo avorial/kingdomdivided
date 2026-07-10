@@ -1,12 +1,21 @@
 ---
-title: Dutchess Mederia Almirn
-category: character
+category: npc
+type: npc
+name: Dutchess Mederia Almirn
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dutchess Mederia Almirn
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Mederia%20Almirn.jpg
+parent: Belllands-NPCs
 ---
+
 Dutchess Mederia Almirn was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

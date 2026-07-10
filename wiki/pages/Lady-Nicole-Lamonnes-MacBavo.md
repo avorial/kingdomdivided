@@ -1,12 +1,21 @@
 ---
-title: Lady Nicole Lamonnes-MacBavo
-category: character
+category: npc
+type: npc
+name: Lady Nicole Lamonnes-MacBavo
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Nicole Lamonnes-MacBavo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Nicole%20Lamonnes.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Nicole Lamonnes-MacBavo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

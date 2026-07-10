@@ -1,12 +1,21 @@
 ---
-title: Lord Enzo Graisti
-category: character
+category: npc
+type: npc
+name: Lord Enzo Graisti
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lord Enzo Graisti
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lord%20Enzo%20Graisti.png
+parent: Belllands-NPCs
 ---
+
 Lord Enzo Graisti was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

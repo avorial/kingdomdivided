@@ -1,12 +1,21 @@
 ---
-title: Fearghal Rolland
-category: character
+category: npc
+type: npc
+name: Fearghal Rolland
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Fearghal Rolland
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Fearghal%20Rolland.jpg
+parent: Belllands-NPCs
 ---
+
 Fearghal Rolland was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

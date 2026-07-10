@@ -1,12 +1,21 @@
 ---
-title: Sir Archibald Foster
-category: character
+category: npc
+type: npc
+name: Sir Archibald Foster
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Archibald Foster
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Jousters/Archibald%20Foster.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Archibald Foster was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

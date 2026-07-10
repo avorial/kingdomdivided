@@ -1,12 +1,21 @@
 ---
-title: Lady Regena Macbeth (Whitestar)
-category: character
+category: npc
+type: npc
+name: Lady Regena Macbeth (Whitestar)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Regena Macbeth (Whitestar)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Regena%20Macbeth.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Regena Macbeth (Whitestar) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

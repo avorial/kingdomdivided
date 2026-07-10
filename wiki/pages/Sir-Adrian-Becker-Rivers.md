@@ -1,12 +1,21 @@
 ---
-title: Sir Adrian Becker (Rivers)
-category: character
+category: npc
+type: npc
+name: Sir Adrian Becker (Rivers)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sir Adrian Becker (Rivers)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Sir%20Adrian%20Becker.jpg
+parent: Belllands-NPCs
 ---
+
 Sir Adrian Becker (Rivers) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

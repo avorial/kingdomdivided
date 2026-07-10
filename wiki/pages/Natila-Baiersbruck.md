@@ -1,12 +1,21 @@
 ---
-title: Natila Baiersbruck
-category: character
+category: npc
+type: npc
+name: Natila Baiersbruck
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Natila Baiersbruck
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Natila%20Baiersbruck.png
+parent: Belllands-NPCs
 ---
+
 Natila Baiersbruck was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Gearld Lamonnes
-category: character
+category: npc
+type: npc
+name: Gearld Lamonnes
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gearld Lamonnes
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Gearld%20Lamonnes.jpg
+parent: Belllands-NPCs
 ---
+
 Gearld Lamonnes was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

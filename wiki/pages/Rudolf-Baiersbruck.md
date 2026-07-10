@@ -1,12 +1,21 @@
 ---
-title: Rudolf Baiersbruck
-category: character
+category: npc
+type: npc
+name: Rudolf Baiersbruck
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Rudolf Baiersbruck
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Rudolf%20Baiersbruck.png
+parent: Belllands-NPCs
 ---
+
 Rudolf Baiersbruck was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

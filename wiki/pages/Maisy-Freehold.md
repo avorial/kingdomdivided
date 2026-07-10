@@ -1,12 +1,21 @@
 ---
-title: Maisy Freehold
-category: character
+category: npc
+type: npc
+name: Maisy Freehold
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Maisy Freehold
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Maisy%20Freehold.png
+parent: Belllands-NPCs
 ---
+
 Maisy Freehold was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

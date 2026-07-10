@@ -1,12 +1,21 @@
 ---
-title: Lady Rhonda Ferguson (Pearlstone)
-category: character
+category: npc
+type: npc
+name: Lady Rhonda Ferguson (Pearlstone)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Rhonda Ferguson (Pearlstone)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lady%20Rhonda%20Ferguson.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Rhonda Ferguson (Pearlstone) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

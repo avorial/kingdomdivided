@@ -1,12 +1,21 @@
 ---
-title: Kamil Krupa
-category: character
+category: npc
+type: npc
+name: Kamil Krupa
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Kamil Krupa
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Kamil%20Krupa.png
+parent: Belllands-NPCs
 ---
+
 Kamil Krupa was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

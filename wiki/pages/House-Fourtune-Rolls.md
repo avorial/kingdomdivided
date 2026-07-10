@@ -1,12 +1,21 @@
 ---
-title: House Fourtune Rolls
-category: character
+category: npc
+type: npc
+name: House Fourtune Rolls
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: House Fourtune Rolls
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg
+parent: Belllands-NPCs
 ---
+
 House Fourtune Rolls was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

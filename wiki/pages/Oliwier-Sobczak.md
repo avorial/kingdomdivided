@@ -1,12 +1,21 @@
 ---
-title: Oliwier Sobczak
-category: character
+category: npc
+type: npc
+name: Oliwier Sobczak
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Oliwier Sobczak
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Oliwier%20Sobczak.jpg
+parent: Belllands-NPCs
 ---
+
 Oliwier Sobczak was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Dragon Rider Decha Wodi
-category: character
+category: npc
+type: npc
+name: Dragon Rider Decha Wodi
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dragon Rider Decha Wodi
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Decha%20Wodi.png
+parent: Belllands-NPCs
 ---
+
 Dragon Rider Decha Wodi was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

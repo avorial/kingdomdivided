@@ -1,12 +1,21 @@
 ---
-title: Reynard Dubois
-category: character
+category: npc
+type: npc
+name: Reynard Dubois
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Reynard Dubois
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Reynard%20Dubois.png
+parent: Belllands-NPCs
 ---
+
 Reynard Dubois was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

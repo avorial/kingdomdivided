@@ -1,12 +1,21 @@
 ---
-title: Lady Agatha Bennet
-category: character
+category: npc
+type: npc
+name: Lady Agatha Bennet
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Agatha Bennet
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Agatha%20Bennet.png
+parent: Belllands-NPCs
 ---
+
 Lady Agatha Bennet was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

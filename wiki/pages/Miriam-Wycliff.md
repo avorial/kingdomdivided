@@ -1,12 +1,21 @@
 ---
-title: Miriam Wycliff
-category: character
+category: npc
+type: npc
+name: Miriam Wycliff
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Miriam Wycliff
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Miriam%20Wycliff.jpg
+parent: Belllands-NPCs
 ---
+
 Miriam Wycliff was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

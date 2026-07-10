@@ -1,12 +1,21 @@
 ---
-title: Megan Mourningblaze
-category: character
+category: npc
+type: npc
+name: Megan Mourningblaze
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Megan Mourningblaze
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Megan%20Mourningblaze.png
+parent: Belllands-NPCs
 ---
+
 Megan Mourningblaze was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

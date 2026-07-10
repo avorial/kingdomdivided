@@ -1,12 +1,21 @@
 ---
-title: Emil Schäfer
-category: character
+category: npc
+type: npc
+name: Emil Schäfer
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Emil Schäfer
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Emil%20Sch%C3%A4fer.jpg
+parent: Belllands-NPCs
 ---
+
 Emil Schäfer was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Satine Wycliff
-category: character
+category: npc
+type: npc
+name: Satine Wycliff
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Satine Wycliff
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Satine%20Wycliff.jpg
+parent: Belllands-NPCs
 ---
+
 Satine Wycliff was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

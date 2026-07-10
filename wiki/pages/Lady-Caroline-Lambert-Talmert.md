@@ -1,12 +1,21 @@
 ---
-title: Lady Caroline Lambert (Talmert)
-category: character
+category: npc
+type: npc
+name: Lady Caroline Lambert (Talmert)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Caroline Lambert (Talmert)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lady%20Caroline%20Lambert.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Caroline Lambert (Talmert) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

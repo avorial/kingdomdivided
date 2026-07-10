@@ -1,12 +1,21 @@
 ---
-title: Lady Bella Almirn
-category: character
+category: npc
+type: npc
+name: Lady Bella Almirn
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Bella Almirn
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Bella%20Almirn.png
+parent: Belllands-NPCs
 ---
+
 Lady Bella Almirn was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

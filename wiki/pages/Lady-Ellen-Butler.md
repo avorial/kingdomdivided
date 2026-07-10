@@ -1,12 +1,21 @@
 ---
-title: Lady Ellen Butler
-category: character
+category: npc
+type: npc
+name: Lady Ellen Butler
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Ellen Butler
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Ellen%20Butler.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Ellen Butler was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

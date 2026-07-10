@@ -1,12 +1,21 @@
 ---
-title: Learned Lady Agnes Martain
-category: character
+category: npc
+type: npc
+name: Learned Lady Agnes Martain
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Learned Lady Agnes Martain
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Agnes%20Martain.png
+parent: Belllands-NPCs
 ---
+
 Learned Lady Agnes Martain was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

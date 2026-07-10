@@ -1,12 +1,21 @@
 ---
-title: Montross Oldar (Bard)
-category: character
+category: npc
+type: npc
+name: Montross Oldar (Bard)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Montross Oldar (Bard)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Montross%20Oldar.jpg
+parent: Belllands-NPCs
 ---
+
 Montross Oldar (Bard) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

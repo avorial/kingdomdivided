@@ -1,12 +1,21 @@
 ---
-title: Learned Juan Diego
-category: character
+category: npc
+type: npc
+name: Learned Juan Diego
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Learned Juan Diego
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Juan%20Diego.png
+parent: Belllands-NPCs
 ---
+
 Learned Juan Diego was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

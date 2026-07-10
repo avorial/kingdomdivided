@@ -1,12 +1,21 @@
 ---
-title: Kriindel Presralei
-category: character
+category: npc
+type: npc
+name: Kriindel Presralei
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Kriindel Presralei
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Kriindel%20Presralei.jpg
+parent: Belllands-NPCs
 ---
+
 Kriindel Presralei was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

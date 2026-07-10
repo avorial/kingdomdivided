@@ -1,12 +1,21 @@
 ---
-title: Learned Dralan Perzana
-category: character
+category: npc
+type: npc
+name: Learned Dralan Perzana
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Learned Dralan Perzana
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Dralan%20Perzana.png
+parent: Belllands-NPCs
 ---
+
 Learned Dralan Perzana was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

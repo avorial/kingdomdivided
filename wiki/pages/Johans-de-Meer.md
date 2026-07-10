@@ -1,12 +1,21 @@
 ---
-title: Johans de Meer
-category: character
+category: npc
+type: npc
+name: Johans de Meer
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Johans de Meer
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Johans%20de%20Meer.png
+parent: Belllands-NPCs
 ---
+
 Johans de Meer was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

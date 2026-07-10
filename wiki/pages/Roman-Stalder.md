@@ -1,12 +1,21 @@
 ---
-title: Roman Stalder
-category: character
+category: npc
+type: npc
+name: Roman Stalder
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Roman Stalder
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: icons/svg/mystery-man.svg
+parent: Belllands-NPCs
 ---
+
 Roman Stalder was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

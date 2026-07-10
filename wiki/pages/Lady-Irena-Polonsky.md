@@ -1,12 +1,21 @@
 ---
-title: Lady Irena Polonsky
-category: character
+category: npc
+type: npc
+name: Lady Irena Polonsky
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Irena Polonsky
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Irena%20Polonsky.png
+parent: Belllands-NPCs
 ---
+
 Lady Irena Polonsky was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

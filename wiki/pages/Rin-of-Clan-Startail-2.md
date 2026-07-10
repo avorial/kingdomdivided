@@ -1,12 +1,21 @@
 ---
-title: Rin of Clan Startail
-category: character
+category: npc
+type: npc
+name: Rin of Clan Startail
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Rin of Clan Startail
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/one-shot/0d6df188e444a674ae7e7d1f51678a7e.jpg
+parent: Belllands-NPCs
 ---
+
 Rin of Clan Startail was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

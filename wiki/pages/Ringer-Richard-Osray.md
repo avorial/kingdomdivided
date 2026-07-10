@@ -1,12 +1,21 @@
 ---
-title: Ringer Richard Osray
-category: character
+category: npc
+type: npc
+name: Ringer Richard Osray
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Ringer Richard Osray
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Richard%20Osray.png
+parent: Belllands-NPCs
 ---
+
 Ringer Richard Osray was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

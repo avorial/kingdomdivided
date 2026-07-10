@@ -1,12 +1,21 @@
 ---
-title: Kendal Sharpestone
-category: character
+category: npc
+type: npc
+name: Kendal Sharpestone
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Kendal Sharpestone
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Kendal%20Sharpestone.png
+parent: Belllands-NPCs
 ---
+
 Kendal Sharpestone was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

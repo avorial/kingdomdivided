@@ -1,12 +1,21 @@
 ---
-title: Lady Emma Lemyers (Talmert)
-category: character
+category: npc
+type: npc
+name: Lady Emma Lemyers (Talmert)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Emma Lemyers (Talmert)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Emma%20Lemyers.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Emma Lemyers (Talmert) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Oleg Makarovich
-category: character
+category: npc
+type: npc
+name: Oleg Makarovich
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Oleg Makarovich
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Oleg%20Makarovich.jpg
+parent: Belllands-NPCs
 ---
+
 Oleg Makarovich was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

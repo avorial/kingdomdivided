@@ -1,12 +1,21 @@
 ---
-title: Ranveig Henge
-category: character
+category: npc
+type: npc
+name: Ranveig Henge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Ranveig Henge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Ranveig%20Henge.jpg
+parent: Belllands-NPCs
 ---
+
 Ranveig Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Lady Halie Kristor (Covinggard)
-category: character
+category: npc
+type: npc
+name: Lady Halie Kristor (Covinggard)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Halie Kristor (Covinggard)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Halie%20Kristor.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Halie Kristor (Covinggard) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Lady Shannon Del Mori (Bellkind)
-category: character
+category: npc
+type: npc
+name: Lady Shannon Del Mori (Bellkind)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Shannon Del Mori (Bellkind)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Shannon%20Del%20Mori.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Shannon Del Mori (Bellkind) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

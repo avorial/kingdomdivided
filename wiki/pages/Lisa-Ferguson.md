@@ -1,12 +1,21 @@
 ---
-title: Lisa Ferguson
-category: character
+category: npc
+type: npc
+name: Lisa Ferguson
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lisa Ferguson
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lisa%20Ferguson.png
+parent: Belllands-NPCs
 ---
+
 Lisa Ferguson was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

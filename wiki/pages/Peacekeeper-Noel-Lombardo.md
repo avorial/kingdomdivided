@@ -1,12 +1,21 @@
 ---
-title: Peacekeeper Noel Lombardo
-category: character
+category: npc
+type: npc
+name: Peacekeeper Noel Lombardo
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Peacekeeper Noel Lombardo
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Noel%20Lonbardo.jpg
+parent: Belllands-NPCs
 ---
+
 Peacekeeper Noel Lombardo was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

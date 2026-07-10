@@ -1,12 +1,21 @@
 ---
-title: Lady Deva
-category: character
+category: npc
+type: npc
+name: Lady Deva
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Deva
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Deva.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Deva was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

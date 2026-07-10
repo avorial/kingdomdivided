@@ -1,12 +1,21 @@
 ---
-title: Lord of Chance Jean Baptiste Cote
-category: character
+category: npc
+type: npc
+name: Lord of Chance Jean Baptiste Cote
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lord of Chance Jean Baptiste Cote
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Jean%20Baptiste%20Cote.jpg
+parent: Belllands-NPCs
 ---
+
 Lord of Chance Jean Baptiste Cote was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

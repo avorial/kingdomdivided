@@ -1,12 +1,21 @@
 ---
-title: Lady Daphne Polonsky
-category: character
+category: npc
+type: npc
+name: Lady Daphne Polonsky
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Daphne Polonsky
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Daphne%20Polonsky.png
+parent: Belllands-NPCs
 ---
+
 Lady Daphne Polonsky was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

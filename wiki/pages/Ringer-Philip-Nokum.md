@@ -1,12 +1,21 @@
 ---
-title: Ringer Philip Nokum
-category: character
+category: npc
+type: npc
+name: Ringer Philip Nokum
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Ringer Philip Nokum
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/chrome_KKtYlDzmuR.png
+parent: Belllands-NPCs
 ---
+
 Ringer Philip Nokum was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

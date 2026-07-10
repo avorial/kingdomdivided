@@ -1,13 +1,21 @@
 ---
-title: Lady Ursla Silverridge  neé Henge
-category: character
+category: npc
+type: npc
+name: Lady Ursla Silverridge  neé Henge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Ursla Silverridge  neé Henge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
-portrait: >-
-  Pictures/KingdomDivided/NPC%27s/Lady%20Ursla%20Silverridge%20%20ne%C3%A9%20Henge2.jpg
+portrait: Pictures/KingdomDivided/NPC%27s/Lady%20Ursla%20Silverridge%20%20ne%C3%A9%20Henge2.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Ursla Silverridge  neé Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

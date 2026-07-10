@@ -1,12 +1,21 @@
 ---
-title: Learned Emmanuel Nazaro
-category: character
+category: npc
+type: npc
+name: Learned Emmanuel Nazaro
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Learned Emmanuel Nazaro
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Emmanuel%20Nazaro.jpeg
+parent: Belllands-NPCs
 ---
+
 Learned Emmanuel Nazaro was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

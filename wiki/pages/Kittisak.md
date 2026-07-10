@@ -1,12 +1,21 @@
 ---
-title: Kittisak
-category: character
+category: npc
+type: npc
+name: Kittisak
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Kittisak
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/one-shot/Saffron%20Officer.jpg
+parent: Belllands-NPCs
 ---
+
 Kittisak was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Octivia Freehold-Mattix
-category: character
+category: npc
+type: npc
+name: Octivia Freehold-Mattix
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Octivia Freehold-Mattix
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Octivia%20Mattix.jpg
+parent: Belllands-NPCs
 ---
+
 Octivia Freehold-Mattix was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

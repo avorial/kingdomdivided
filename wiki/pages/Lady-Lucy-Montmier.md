@@ -1,12 +1,21 @@
 ---
-title: Lady Lucy Montmier
-category: character
+category: npc
+type: npc
+name: Lady Lucy Montmier
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Lucy Montmier
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lady%20Lucy%20Montmier.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Lucy Montmier was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

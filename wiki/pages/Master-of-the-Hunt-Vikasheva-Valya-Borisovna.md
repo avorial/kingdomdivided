@@ -1,12 +1,21 @@
 ---
-title: Master of the Hunt Vikasheva Valya Borisovna
-category: character
+category: npc
+type: npc
+name: Master of the Hunt Vikasheva Valya Borisovna
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Master of the Hunt Vikasheva Valya Borisovna
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Vikasheva%20Valya%20Borisovna.jpg
+parent: Belllands-NPCs
 ---
+
 Master of the Hunt Vikasheva Valya Borisovna was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

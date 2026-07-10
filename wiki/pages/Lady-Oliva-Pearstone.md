@@ -1,12 +1,21 @@
 ---
-title: Lady Oliva Pearstone
-category: character
+category: npc
+type: npc
+name: Lady Oliva Pearstone
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Oliva Pearstone
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lady%20Oliva%20Pearlstone.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Oliva Pearstone was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

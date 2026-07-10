@@ -1,12 +1,21 @@
 ---
-title: Lady Lidia Thalorin
-category: character
+category: npc
+type: npc
+name: Lady Lidia Thalorin
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Lidia Thalorin
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Lidia%20Thalorin.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Lidia Thalorin was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

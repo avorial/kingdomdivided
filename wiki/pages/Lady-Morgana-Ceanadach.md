@@ -1,12 +1,21 @@
 ---
-title: Lady Morgana Ceanadach
-category: character
+category: npc
+type: npc
+name: Lady Morgana Ceanadach
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Morgana Ceanadach
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Morgana%20Ceanadach.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Morgana Ceanadach was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

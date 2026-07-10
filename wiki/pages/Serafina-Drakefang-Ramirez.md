@@ -1,12 +1,21 @@
 ---
-title: Serafina Drakefang-Ramirez
-category: character
+category: npc
+type: npc
+name: Serafina Drakefang-Ramirez
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Serafina Drakefang-Ramirez
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Serafina%20Drakefang-Ramirez.jpg
+parent: Belllands-NPCs
 ---
+
 Serafina Drakefang-Ramirez was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

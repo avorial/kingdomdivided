@@ -1,12 +1,21 @@
 ---
-title: Lord Titus Covinggard
-category: character
+category: npc
+type: npc
+name: Lord Titus Covinggard
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lord Titus Covinggard
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lord%20Titus%20Covinggard.jpg
+parent: Belllands-NPCs
 ---
+
 Lord Titus Covinggard was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

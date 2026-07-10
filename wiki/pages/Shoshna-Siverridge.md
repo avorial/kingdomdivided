@@ -1,12 +1,21 @@
 ---
-title: Shoshna Siverridge
-category: character
+category: npc
+type: npc
+name: Shoshna Siverridge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Shoshna Siverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Shoshna%20Siverridge.png
+parent: Belllands-NPCs
 ---
+
 Shoshna Siverridge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

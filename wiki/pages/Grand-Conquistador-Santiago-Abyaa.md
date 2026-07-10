@@ -1,12 +1,21 @@
 ---
-title: Grand Conquistador Santiago Abyaa
-category: character
+category: npc
+type: npc
+name: Grand Conquistador Santiago Abyaa
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Grand Conquistador Santiago Abyaa
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Santiago%20Abyaa.jpg
+parent: Belllands-NPCs
 ---
+
 Grand Conquistador Santiago Abyaa was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Mistress of Silks Hathor Chloros
-category: character
+category: npc
+type: npc
+name: Mistress of Silks Hathor Chloros
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Mistress of Silks Hathor Chloros
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Hathor%20Chloros.jpg
+parent: Belllands-NPCs
 ---
+
 Mistress of Silks Hathor Chloros was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

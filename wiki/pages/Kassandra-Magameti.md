@@ -1,12 +1,21 @@
 ---
-title: Kassandra Magameti
-category: character
+category: npc
+type: npc
+name: Kassandra Magameti
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Kassandra Magameti
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Kassandra%20Magameti.jpg
+parent: Belllands-NPCs
 ---
+
 Kassandra Magameti was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

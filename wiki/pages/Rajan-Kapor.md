@@ -1,12 +1,21 @@
 ---
-title: Rajan Kapor
-category: character
+category: npc
+type: npc
+name: Rajan Kapor
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Rajan Kapor
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Rajan%20Kapor.jpg
+parent: Belllands-NPCs
 ---
+
 Rajan Kapor was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Edith
-category: character
+category: npc
+type: npc
+name: Edith
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Edith
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Edith%20the%20Monk.jpg
+parent: Belllands-NPCs
 ---
+
 Edith was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

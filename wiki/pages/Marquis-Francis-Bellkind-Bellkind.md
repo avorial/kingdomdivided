@@ -1,12 +1,21 @@
 ---
-title: Marquis Francis Bellkind (Bellkind)
-category: character
+category: npc
+type: npc
+name: Marquis Francis Bellkind (Bellkind)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Marquis Francis Bellkind (Bellkind)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Francis%20Bellkind.jpg
+parent: Belllands-NPCs
 ---
+
 Marquis Francis Bellkind (Bellkind) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Lady Taunya Bennet (Montmier)
-category: character
+category: npc
+type: npc
+name: Lady Taunya Bennet (Montmier)
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Taunya Bennet (Montmier)
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Taunya%20Bennet.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Taunya Bennet (Montmier) was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

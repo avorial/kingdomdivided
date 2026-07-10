@@ -1,12 +1,21 @@
 ---
-title: Otto Baiersbruck
-category: character
+category: npc
+type: npc
+name: Otto Baiersbruck
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Otto Baiersbruck
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Otto%20Baiersbrucks.png
+parent: Belllands-NPCs
 ---
+
 Otto Baiersbruck was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

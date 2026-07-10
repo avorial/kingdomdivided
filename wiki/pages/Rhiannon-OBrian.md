@@ -1,12 +1,21 @@
 ---
-title: Rhiannon O'Brian
-category: character
+category: npc
+type: npc
+name: Rhiannon O'Brian
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Rhiannon O'Brian
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Rhiannon%20O%27Brian.jpg
+parent: Belllands-NPCs
 ---
+
 Rhiannon O'Brian was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

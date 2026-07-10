@@ -1,12 +1,21 @@
 ---
-title: Elric Henge
-category: character
+category: npc
+type: npc
+name: Elric Henge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Elric Henge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Elric%20Henge.jpg
+parent: Belllands-NPCs
 ---
+
 Elric Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Archbaron Tristin Whitestar
-category: character
+category: npc
+type: npc
+name: Archbaron Tristin Whitestar
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Archbaron Tristin Whitestar
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Tristin%20Whitestar.jpg
+parent: Belllands-NPCs
 ---
+
 Archbaron Tristin Whitestar was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

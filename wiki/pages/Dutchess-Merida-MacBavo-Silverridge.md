@@ -1,12 +1,21 @@
 ---
-title: Dutchess Merida MacBavo Silverridge
-category: character
+category: npc
+type: npc
+name: Dutchess Merida MacBavo Silverridge
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dutchess Merida MacBavo Silverridge
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lady%20Merida%20MacBravo%20Silverridge.jpg
+parent: Belllands-NPCs
 ---
+
 Dutchess Merida MacBavo Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

@@ -1,12 +1,21 @@
 ---
-title: Irma Eisenberg
-category: character
+category: npc
+type: npc
+name: Irma Eisenberg
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Irma Eisenberg
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Irma%20Eisenberg.jpg
+parent: Belllands-NPCs
 ---
+
 Irma Eisenberg was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

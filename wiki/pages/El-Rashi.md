@@ -1,12 +1,21 @@
 ---
-title: El Rashi
-category: character
+category: npc
+type: npc
+name: El Rashi
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: El Rashi
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/El%20Rashi.jpg
+parent: Belllands-NPCs
 ---
+
 El Rashi was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

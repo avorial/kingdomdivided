@@ -1,12 +1,21 @@
 ---
-title: Diego Ramierz
-category: character
+category: npc
+type: npc
+name: Diego Ramierz
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Diego Ramierz
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Diego%20Rameriz.jpg
+parent: Belllands-NPCs
 ---
+
 Diego Ramierz was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

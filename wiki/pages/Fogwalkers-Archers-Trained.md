@@ -1,12 +1,21 @@
 ---
-title: Fogwalkers Archers-Trained
-category: character
+category: npc
+type: npc
+name: Fogwalkers Archers-Trained
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Fogwalkers Archers-Trained
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg
+parent: Belllands-NPCs
 ---
+
 Fogwalkers Archers-Trained was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

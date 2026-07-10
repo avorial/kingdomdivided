@@ -1,12 +1,21 @@
 ---
-title: Lady Sara Montmier
-category: character
+category: npc
+type: npc
+name: Lady Sara Montmier
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lady Sara Montmier
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Sara%20Montmier.jpg
+parent: Belllands-NPCs
 ---
+
 Lady Sara Montmier was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

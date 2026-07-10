@@ -1,12 +1,21 @@
 ---
-title: Mercy's Voice Archers-Green
-category: character
+category: npc
+type: npc
+name: Mercy's Voice Archers-Green
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Mercy's Voice Archers-Green
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: systems/twodsix/assets/icons/gun-combat-archery.svg
+parent: Belllands-NPCs
 ---
+
 Mercy's Voice Archers-Green was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

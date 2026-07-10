@@ -1,12 +1,21 @@
 ---
-title: Gaston Mourningblaze
-category: character
+category: npc
+type: npc
+name: Gaston Mourningblaze
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gaston Mourningblaze
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC's/Gaston%20Mourningblaze.jpg
+parent: Belllands-NPCs
 ---
+
 Gaston Mourningblaze was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

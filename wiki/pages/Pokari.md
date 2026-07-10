@@ -1,12 +1,21 @@
 ---
-title: Pokari
-category: character
+category: npc
+type: npc
+name: Pokari
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Pokari
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Pokari.jpg
+parent: Belllands-NPCs
 ---
+
 Pokari was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->

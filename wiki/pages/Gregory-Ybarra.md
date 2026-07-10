@@ -1,12 +1,21 @@
 ---
-title: Gregory Ybarra
-category: character
+category: npc
+type: npc
+name: Gregory Ybarra
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gregory Ybarra
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Gregory%20Ybarra.png
+parent: Belllands-NPCs
 ---
+
 Gregory Ybarra was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
