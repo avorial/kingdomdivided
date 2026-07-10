@@ -1,12 +1,21 @@
 ---
-title: Zhihao Hainan
-category: character
+category: npc
+type: npc
+name: Zhihao Hainan
+summary: ""
+tags: []
 visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas
+title: Zhihao Hainan
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Zhihao%20Hainan.png
+parent: Belllands-NPCs
 ---
+
 Zhihao Hainan was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
 
 <!-- sword-chronicle-sheet:start -->
