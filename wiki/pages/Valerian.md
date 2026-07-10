@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Valerian
-summary: "An erudite reformed Esten connected to the local Lumia/Chabat community."
+summary: An erudite reformed Esten connected to the local Lumia/Chabat community.
 tags:
   - npc
   - esten
@@ -11,6 +11,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Belllands-NPCs
 ---
 
 # Valerian

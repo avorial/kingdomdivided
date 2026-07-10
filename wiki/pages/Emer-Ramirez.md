@@ -11,7 +11,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via bulk edit
-parent: Allies
+parent: Belllands-NPCs
 ---
 
 ![emer_ramirez_(young)](/wiki/media/emer_ramirez_(young).jpg)

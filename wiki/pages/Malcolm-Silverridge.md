@@ -15,7 +15,7 @@ relationships:
   - type: parent-of
     target: Conner-Silverridge
     label: parent
-parent: Allies
+parent: Belllands-NPCs
 ---
 
 ![malcom_silverridge](/wiki/media/malcom_silverridge.jpg)

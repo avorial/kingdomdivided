@@ -11,7 +11,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via bulk edit
-parent: Allies
+parent: Belllands-NPCs
 ---
 
 ![diego_valls](/wiki/media/diego_valls.jpg)

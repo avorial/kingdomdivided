@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Belllands-NPCs
 ---
 
 ![shaddad_ben_noumi](/wiki/media/shaddad_ben_noumi.jpg)

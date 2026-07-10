@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Conner Silverridge
-summary: 'Name: Conner Silverridge'
+summary: "Name: Conner Silverridge"
 tags:
   - pc
 visibility: players
@@ -15,7 +15,7 @@ relationships:
   - type: parent-of
     target: Caden-Mattix
     label: parent
-parent: Allies
+parent: Belllands-NPCs
 title: Conner Silverridge
 ---
 

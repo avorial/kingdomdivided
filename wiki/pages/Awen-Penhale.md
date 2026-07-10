@@ -11,7 +11,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via bulk edit
-parent: Allies
+parent: Belllands-NPCs
 ---
 
 ![awen_penhale](/wiki/media/awen_penhale.png)

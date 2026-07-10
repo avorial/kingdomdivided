@@ -2,9 +2,9 @@
 category: npc
 type: npc
 name: Autumn Walsh
-summary: >-
-  Title: Lady “Diplomat” Age: 23 Ancestry: Fedors Gender: Female House: House
-  Walsh (a diplomat working for House Whitestar assigned to House Silverridge)
+summary: "Title: Lady “Diplomat” Age: 23 Ancestry: Fedors Gender: Female House:
+  House Walsh (a diplomat working for House Whitestar assigned to House
+  Silverridge)"
 tags:
   - pc
 visibility: players
@@ -12,8 +12,9 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 title: Autumn Walsh
+parent: Belllands-NPCs
 ---
 
 Name: Autumn Walsh

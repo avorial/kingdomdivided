@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Endulaudaus
-summary: ''
+summary: ""
 tags:
   - pc
 visibility: players
@@ -10,8 +10,9 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 title: Endulaudaus
+parent: Belllands-NPCs
 ---
 
 ![endulaudaus](/wiki/media/endulaudaus.jpg)

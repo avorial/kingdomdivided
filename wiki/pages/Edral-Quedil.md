@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Edral Quedil
-summary: "A leader of the Esten community in Chabat/Lumia."
+summary: A leader of the Esten community in Chabat/Lumia.
 tags:
   - npc
   - esten
@@ -13,6 +13,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Edral Quedil
+lastEditedBy: patricthomas via bulk edit
+parent: Belllands-NPCs
 ---
 
 # Edral Quedil

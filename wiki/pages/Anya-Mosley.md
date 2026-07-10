@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Anya Mosley
-summary: ''
+summary: ""
 tags:
   - pc
 visibility: players
@@ -10,8 +10,9 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 title: Anya Mosley
+parent: Belllands-NPCs
 ---
 
 ![anya_mosley](/wiki/media/anya_mosley.jpg)

@@ -11,7 +11,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via bulk edit
-parent: Allies
+parent: Belllands-NPCs
 ---
 
 ![timothy_whitestar](/wiki/media/timothy_whitestar.jpg)

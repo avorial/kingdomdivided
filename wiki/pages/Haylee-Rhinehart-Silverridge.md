@@ -13,7 +13,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via bulk edit
-parent: Allies
+parent: Belllands-NPCs
 ---
 
 ![haylee_rhinehart-silverridge](/wiki/media/haylee_rhinehart-silverridge.png)

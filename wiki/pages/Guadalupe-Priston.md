@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Belllands-NPCs
 ---
 
 ![guadelupe_priston](/wiki/media/guadelupe_priston.png)

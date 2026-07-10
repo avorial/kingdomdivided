@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Samara Tobe
-summary: "A bronze-armored House Tobe woman of the House of Wind who intercepts the party during the Lumia flight."
+summary: A bronze-armored House Tobe woman of the House of Wind who intercepts
+  the party during the Lumia flight.
 tags:
   - npc
   - house-tobe
@@ -12,6 +13,8 @@ knownToPlayers: true
 keyLinks: []
 aliases:
   - Samara
+lastEditedBy: patricthomas via bulk edit
+parent: Belllands-NPCs
 ---
 
 # Samara Tobe

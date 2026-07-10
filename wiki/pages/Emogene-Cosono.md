@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Emogene Cosono
-summary: ''
+summary: ""
 tags:
   - pc
 visibility: players
@@ -11,7 +11,7 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas via bulk edit
-parent: Allies
+parent: Belllands-NPCs
 title: Emogene Cosono
 ---
 
