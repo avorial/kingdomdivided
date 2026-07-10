@@ -20,6 +20,55 @@ title: Tallion Ramirez
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Tallion Ramirez"
+age: 24
+gender: "Male"
+portrait: "tallion_ramirez.jpg"
+destiny: 0
+abilities:
+  "Admiralty": 4
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 3
+  "Persuasion": 4
+  "Status": 2
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+armor:
+  name: "Noble's Garb (Normal)"
+  rating: 0
+  penalty: 0
+attacks:
+  - name: "Left Hand Dagger"
+  - name: "Rapier"
+benefits:
+  - "Authority"
+  - "Cadre"
+  - "Wealthy"
+drawbacks:
+  - "Lascivious"
+  - "Supreme Arrogance"
+notes: "CurrentDisposition: 2"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -102,4 +151,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Left Hand Dagger
 - Rapier
 
+</details>
 <!-- sword-chronicle-sheet:end -->

@@ -20,6 +20,45 @@ Lady Oliva Pearstone was imported from the Kingdom Divided 1 Sword Chronicle Fou
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lady Oliva Pearstone"
+age: 27
+gender: "Female"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 4
+  "Cunning": 4
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 4
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 5
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 3
+qualities: ["Quintillis"]
+appearance:
+  mannerisms: "Flirty"
+  features: "Perfectly Dressed \"Movie Magic\""
+history: "Orginally the only child of the Leaders of Pearstone , When they died she became Leader of Pearstone . While she has many suiters and lovers, but none have been able to have Lady Oliva be willing to make a perment bond. Her indepentacne has made her the darling of her people and many songs are sung by the sellswords of the land. What is not publicly known is she has secretly been practicing dark magics to keep her people in her favor."
+notes: "Motivation: Always being the best in the room | Goal: Perservation | Vice: Sociopath | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -111,4 +150,5 @@ Quintillis
 - Warcraft 2
 - Will 3
 
+</details>
 <!-- sword-chronicle-sheet:end -->

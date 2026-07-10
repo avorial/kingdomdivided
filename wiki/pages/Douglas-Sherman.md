@@ -20,6 +20,42 @@ Douglas Sherman was imported from the Kingdom Divided 1 Sword Chronicle Foundry 
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Douglas Sherman"
+age: 0
+destiny: 0
+abilities:
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 2
+  "Persuasion": 2
+  "Status": 5
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+qualities: ["Ferdors"]
+appearance:
+  mannerisms: "Rough"
+  features: "Large"
+history: "Head of House Sherman, a banner to House Rivers, He has risen in the ranks to become the head of the Imperial Army. In his youth he was a great fighter, his age (and love of women and food) has had him become an expert general. While he has great respect of his men, he is very feared by his foes. He does not hesetate to kill and torture those in his way."
+notes: "Motivation: Excess | Goal: Legacy | Vice: Impatience | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -108,4 +144,5 @@ Ferdors
 - Warcraft 2
 - Will 2
 
+</details>
 <!-- sword-chronicle-sheet:end -->

@@ -20,6 +20,44 @@ Al Rashi was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor d
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Al Rashi"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 3
+  "Agility": 3
+  "Animal Handling": 1
+  "Athletics": 5
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 5
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 4
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 4
+  "Persuasion": 3
+  "Status": 2
+  "Stealth": 1
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 3
+benefits:
+  - "Blood of the Helior"
+  - "Brawler 1"
+  - "Brawler 2"
+  - "Lucky"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -87,4 +125,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Brawler 2
 - Lucky
 
+</details>
 <!-- sword-chronicle-sheet:end -->

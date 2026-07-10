@@ -20,6 +20,47 @@ Corwin Lehmann was imported from the Kingdom Divided 1 Sword Chronicle Foundry a
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Corwin Lehmann"
+age: 19
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 2
+  "Stealth": 4
+  "Survival": 4
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 4
+armor:
+  name: "Scale/Coin"
+  rating: 6
+  penalty: 0
+attacks:
+  - name: "Long Sword"
+qualities: ["Quintil"]
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -95,4 +136,5 @@ Quintil
 
 - Long Sword
 
+</details>
 <!-- sword-chronicle-sheet:end -->

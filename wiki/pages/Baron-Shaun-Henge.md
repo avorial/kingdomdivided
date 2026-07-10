@@ -20,6 +20,45 @@ Baron Shaun Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundr
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Baron Shaun Henge"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 4
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 4
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 2
+armor:
+  name: "Half-Plate"
+  rating: 9
+  penalty: 0
+attacks:
+  - name: "Long Sword"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -88,4 +127,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Long Sword
 
+</details>
 <!-- sword-chronicle-sheet:end -->

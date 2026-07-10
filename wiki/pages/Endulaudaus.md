@@ -20,6 +20,47 @@ parent: Belllands-NPCs
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Endulaudaus"
+age: 0
+portrait: "endulaudaus.jpg"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 6
+  "Language": 2
+  "Marksmanship": 2
+  "Morale (Warfare 2)": 2
+  "Morale (Warfare 3)": 2
+  "Morale (Warfare 4)": 2
+  "Morale (Warfare 5)": 2
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 9
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+appearance:
+  height: "1.72"
+  weight: "70"
+notes: "CurrentDisposition: 6"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -84,4 +125,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Warcraft 2
 - Will 2
 
+</details>
 <!-- sword-chronicle-sheet:end -->

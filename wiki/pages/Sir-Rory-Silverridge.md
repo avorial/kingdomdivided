@@ -20,6 +20,58 @@ Sir Rory Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Fou
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Sir Rory Silverridge"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 4
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 4
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 3
+  "Language (Enisen)": 2
+  "Language (Ringer)": 2
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 4
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+armor:
+  name: "Leather, Hard"
+  rating: 3
+  penalty: 0
+attacks:
+  - name: "Hand Ax (Thrown)"
+  - name: "Long Sword"
+qualities: ["Ferdors"]
+benefits:
+  - "Adept Negotiator"
+  - "Eloquent"
+  - "Respected"
+drawbacks:
+  - "Fear"
+  - "Furious"
+appearance:
+  mannerisms: "Paitent"
+  features: "Looks deep in peoples eyes."
+notes: "Motivation: Sorrow | Goal: Happiness | Vice: Temper | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -131,4 +183,5 @@ Ferdors
 - Hand Ax (Thrown)
 - Long Sword
 
+</details>
 <!-- sword-chronicle-sheet:end -->

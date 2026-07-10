@@ -20,6 +20,53 @@ title: Myo Songprawati
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Myo Songprawati"
+age: 17
+gender: "Female"
+portrait: "myo_songprawati2.png"
+destiny: 0
+abilities:
+  "Admiralty": 3
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 3
+  "Healing": 3
+  "Knowledge": 4
+  "Language": 4
+  "Marksmanship": 2
+  "Nautical": 3
+  "Persuasion": 3
+  "Status": 3
+  "Stealth": 3
+  "Survival": 1
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 3
+qualities: ["Saltblood/Mikado"]
+benefits:
+  - "Blood of the Saltbloods"
+  - "Eidetic Memory"
+  - "Mummer"
+  - "Polyglot"
+drawbacks:
+  - "Naive"
+  - "Taboo (Can not eat land animals)"
+appearance:
+  height: "1.72"
+  weight: "70"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -98,4 +145,5 @@ Saltblood/Mikado
 - Naive
 - Taboo (Can not eat land animals)
 
+</details>
 <!-- sword-chronicle-sheet:end -->

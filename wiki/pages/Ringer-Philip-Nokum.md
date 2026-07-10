@@ -20,6 +20,58 @@ Ringer Philip Nokum was imported from the Kingdom Divided 1 Sword Chronicle Foun
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Ringer Philip Nokum"
+age: 29
+gender: "Male"
+destiny: 2
+destinySpent: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 3
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 3
+  "Knowledge": 4
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 3
+  "Persuasion": 4
+  "Status": 2
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 1
+  "Warcraft": 2
+  "Will": 3
+armor:
+  name: "Robes"
+  rating: 1
+  penalty: 0
+attacks:
+  - name: "Mace"
+qualities: ["Zafroff"]
+benefits:
+  - "Brother of the Bells (Crown)"
+  - "Lucky"
+  - "Treacherous"
+drawbacks:
+  - "Taboo (Must Pray 3 Times a day)"
+  - "Taboo (Will not eat meat)"
+equipment:
+  - "Palfreys (Horse)"
+history: "Young Philip was born to a wealthy weaponsmith of the House Covinggard. They were able to save enough for their son to join the Church of the Bells. Because he did not have any strong noble connections he had to make his own way, the way he found was going on the ships of of people from the Bellringer nation exploring other domains for trade. This has given Philip a strong understand of the heretic magics of the sea people. Though time and reputation he has now become a troubleshooter of sorts supporting nobles when dark magics come in to play http://avorial.com/mediawiki/index.php?title=Philip_Nokum"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -118,4 +170,5 @@ Zafroff
 
 - Mace
 
+</details>
 <!-- sword-chronicle-sheet:end -->

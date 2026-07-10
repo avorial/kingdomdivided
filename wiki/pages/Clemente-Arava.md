@@ -20,6 +20,58 @@ Cléménte Arava was imported from the Kingdom Divided 1 Sword Chronicle Foundry
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Cléménte Arava"
+age: 18
+gender: "Male"
+destiny: 2
+destinySpent: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 2
+  "Deception": 3
+  "Endurance": 2
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 1
+  "Stealth": 4
+  "Survival": 2
+  "Thievery": 4
+  "Warcraft": 2
+  "Will": 3
+armor:
+  name: "Leather, Soft"
+  rating: 2
+  penalty: 0
+attacks:
+  - name: "Dagger"
+  - name: "Dirk"
+  - name: "Knife (Thrown)"
+  - name: "Stiletto"
+qualities: ["Quintils"]
+benefits:
+  - "Face in the Crowd"
+  - "Furtive"
+  - "Guttersnipe"
+drawbacks:
+  - "Ignoble"
+history: "Spends: Disguise 2, Awareness +1, Bluff 1, Thrown 1. My father, a merchant, shipwrecked there only to find a native woman and married her. The debt he accrued was in part to rebuild his ship. Borrowing from the wrong people and failing to pay back this debt caused his downfall. As a way to repay said debt, my character joined the Assassins Guild only to find out that he also enjoyed the work. The mother was also taken alive, but he hasn't seen or heard from her since..."
+notes: "Motivation: Charity | Goal: Justice | Vice: Scheming | CurrentDisposition: 5"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -130,4 +182,5 @@ Quintils
 - Knife (Thrown)
 - Stiletto
 
+</details>
 <!-- sword-chronicle-sheet:end -->

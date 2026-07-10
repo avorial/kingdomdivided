@@ -20,6 +20,45 @@ Lady Mercy Talmert was imported from the Kingdom Divided 1 Sword Chronicle Found
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lady Mercy Talmert"
+age: 26
+gender: "Female"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 4
+  "Athletics": 2
+  "Awareness": 4
+  "Cunning": 4
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 4
+  "Language": 4
+  "Marksmanship": 4
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 6
+  "Stealth": 4
+  "Survival": 2
+  "Thievery": 4
+  "Warcraft": 2
+  "Will": 4
+qualities: ["Enisen"]
+appearance:
+  mannerisms: "Whispers"
+  features: "Mystic Tattoos"
+history: "Has only recently taken her houses seat as her brother died on the river. Following their tradtions in the old ways she had to be tested by a trial of wisdom. In the final test she proved her brother was killed by a bannerman, who learned his lands would be given to another. More prepared to be a spymaster, over an open leader she is still trying to find her place in her court."
+notes: "Motivation: Revenge | Goal: Security | Vice: Paranoia | CurrentDisposition: 3"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -111,4 +150,5 @@ Enisen
 - Warcraft 2
 - Will 4
 
+</details>
 <!-- sword-chronicle-sheet:end -->

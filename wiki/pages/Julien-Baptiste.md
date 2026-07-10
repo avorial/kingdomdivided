@@ -20,6 +20,46 @@ Julien Baptiste was imported from the Kingdom Divided 1 Sword Chronicle Foundry 
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Julien Baptiste"
+age: 51
+gender: "Male"
+destiny: 1
+destinySpent: 0
+abilities:
+  "Admiralty (Flawed) -1D (3 to 2)": 2
+  "Agility": 4
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 3
+  "Knowledge": 4
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 3
+  "Persuasion": 3
+  "Status - Peacekeeper": 5
+  "Stealth": 3
+  "Survival": 3
+  "Thievery": 3
+  "Warcraft": 3
+  "Will": 4
+qualities: ["Quntill"]
+appearance:
+  height: "1.70"
+  weight: "70"
+history: "Benefits Man of Peacekeepers Prophetic Vision (10) Dangersense Worldy 1 Destiny"
+notes: "CurrentDisposition: 1"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -153,4 +193,5 @@ Quntill
 - Warcraft 3
 - Will 4
 
+</details>
 <!-- sword-chronicle-sheet:end -->

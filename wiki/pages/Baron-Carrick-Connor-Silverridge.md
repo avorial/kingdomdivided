@@ -20,6 +20,56 @@ Baron Carrick Connor Silverridge was imported from the Kingdom Divided 1 Sword C
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Baron Carrick Connor Silverridge"
+age: 16
+gender: "Male"
+destiny: 2
+destinySpent: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 5
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 3
+armor:
+  name: "Cirein-cròin (Breastplate)"
+  rating: 6
+  penalty: 0
+attacks:
+  - name: "Rapier"
+damage: 2
+qualities: ["Ferdor"]
+benefits:
+  - "Blood of the Ferdors"
+  - "Heir"
+  - "Prophetic Dreams (Green Sight)"
+equipment:
+  - "Destrider (War Horse)"
+history: "Saltblood 1, Decipher 1, Persusation +1, Reputation 1, Education +1 Oddfellow coin & eat their food"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -111,4 +161,5 @@ Ferdor
 
 - Rapier
 
+</details>
 <!-- sword-chronicle-sheet:end -->

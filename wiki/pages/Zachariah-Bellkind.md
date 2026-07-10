@@ -43,6 +43,54 @@ With the weight of his family's tragic history upon his shoulders, Duke Zacharia
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Zachariah Bellkind"
+age: 16
+gender: "Male"
+house: "House Bellkind"
+portrait: "zachariah_bellkind.png"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 4
+  "Athletics": 4
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 5
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+armor:
+  name: "Plate"
+  rating: 10
+  penalty: 0
+attacks:
+  - name: "Long Sword"
+  - name: "Spear"
+qualities: ["Paltris"]
+appearance:
+  mannerisms: "Thick Accent"
+  features: "Swarthy"
+history: "Lord Zachariah parents were killed when he was only 7. Raised by the warrior cleric's of the Bellkind family, he beame a fanatic follower of the Bell Ringer. Over the years the Bellkind family and their banners have constantly purged the faithless from their land, creating conflict with the local peoples who feel opressed that even their thoughts are being policed. Lord Zachariah has only gone once to the imperal palace, and thinks often about what else might be out there."
+notes: "Motivation: Zeal | Goal: Liberation | Vice: Rage | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -143,4 +191,5 @@ Paltris
 - Long Sword
 - Spear
 
+</details>
 <!-- sword-chronicle-sheet:end -->

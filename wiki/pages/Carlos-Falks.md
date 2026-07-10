@@ -20,6 +20,39 @@ Carlos Falks was imported from the Kingdom Divided 1 Sword Chronicle Foundry act
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Carlos Falks"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 4
+  "Animal Handling": 4
+  "Athletics": 3
+  "Awareness": 2
+  "Cunning": 3
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 3
+  "Healing": 5
+  "Knowledge": 2
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 2
+  "Stealth": 3
+  "Survival": 2
+  "Thievery": 4
+  "Warcraft": 3
+  "Will": 3
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -80,4 +113,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Warcraft 3
 - Will 3
 
+</details>
 <!-- sword-chronicle-sheet:end -->

@@ -20,6 +20,45 @@ Ranveig Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry ac
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Ranveig Henge"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 2
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 3
+  "Knowledge": 4
+  "Language": 2
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 2
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 3
+  "Warcraft": 2
+  "Will": 2
+armor:
+  name: "Padded"
+  rating: 1
+  penalty: 0
+attacks:
+  - name: "Dagger"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -88,4 +127,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Dagger
 
+</details>
 <!-- sword-chronicle-sheet:end -->

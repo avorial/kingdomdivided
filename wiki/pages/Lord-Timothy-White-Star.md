@@ -20,6 +20,43 @@ Lord Timothy White-Star was imported from the Kingdom Divided 1 Sword Chronicle 
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lord Timothy White-Star"
+age: 49
+gender: "Male"
+destiny: 0
+abilities:
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 5
+  "Deception": 3
+  "Endurance": 3
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 4
+  "Marksmanship": 3
+  "Persuasion": 3
+  "Status": 7
+  "Stealth": 1
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 4
+qualities: ["Ferdors"]
+appearance:
+  mannerisms: "Dignified"
+  features: "Short"
+history: "History"
+notes: "Motivation: Tradionalist | Goal: Safey | Vice: Moneygrubby | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -109,4 +146,5 @@ Ferdors
 - Warcraft 3
 - Will 4
 
+</details>
 <!-- sword-chronicle-sheet:end -->

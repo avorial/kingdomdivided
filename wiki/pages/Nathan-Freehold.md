@@ -20,6 +20,50 @@ Nathan Freehold was imported from the Kingdom Divided 1 Sword Chronicle Foundry 
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Nathan Freehold"
+age: 0
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 1
+  "Language": 2
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 2
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 3
+  "Warcraft": 1
+  "Will": 2
+attacks:
+  - name: "Dagger"
+  - name: "Fist"
+  - name: "Knife"
+  - name: "Knife (Thrown)"
+  - name: "Long Sword"
+  - name: "Stiletto"
+appearance:
+  height: "1.72"
+  weight: "70"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -89,4 +133,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Long Sword
 - Stiletto
 
+</details>
 <!-- sword-chronicle-sheet:end -->

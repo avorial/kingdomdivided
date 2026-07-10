@@ -20,6 +20,48 @@ Deva Vasic was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Deva Vasic"
+age: 0
+destiny: 2
+destinySpent: 1
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 4
+  "Athletics": 3
+  "Awareness": 4
+  "Cunning": 3
+  "Deception": 4
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 4
+  "Language": 3
+  "Marksmanship": 5
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 3
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+benefits:
+  - "Blood of the Enisen"
+  - "Cadre"
+  - "Deadly Shot"
+  - "Double Shot"
+drawbacks:
+  - "Fear (Grandmothers)"
+  - "Honor-Bound"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -92,4 +134,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Fear (Grandmothers)
 - Honor-Bound
 
+</details>
 <!-- sword-chronicle-sheet:end -->

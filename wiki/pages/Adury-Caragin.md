@@ -20,6 +20,52 @@ Adury Caragin was imported from the Kingdom Divided 1 Sword Chronicle Foundry ac
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Adury Caragin"
+age: 23
+gender: "Female"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 4
+  "Cunning": 3
+  "Deception": 3
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 3
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 3
+  "Persuasion": 4
+  "Status": 3
+  "Stealth": 3
+  "Survival": 3
+  "Thievery": 3
+  "Warcraft": 2
+  "Will": 4
+attacks:
+  - name: "Bow, Hunting"
+benefits:
+  - "Cautious Diplomat"
+  - "Lucky"
+  - "Mummer"
+  - "Wealthy"
+  - "Worldy"
+drawbacks:
+  - "Flaws (Endurance)"
+  - "Honor-Bound"
+  - "Naive"
+notes: "CurrentDisposition: 5"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -99,4 +145,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Bow, Hunting
 
+</details>
 <!-- sword-chronicle-sheet:end -->

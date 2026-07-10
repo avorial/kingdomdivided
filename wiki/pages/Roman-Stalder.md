@@ -20,6 +20,22 @@ Roman Stalder was imported from the Kingdom Divided 1 Sword Chronicle Foundry ac
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Roman Stalder"
+age: 0
+destiny: 0
+abilities:
+  "Status": 5
+appearance:
+  height: "1.72"
+  weight: "70"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -60,4 +76,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Status 5
 
+</details>
 <!-- sword-chronicle-sheet:end -->

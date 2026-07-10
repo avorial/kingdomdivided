@@ -20,6 +20,48 @@ Gregory ap Bentil was imported from the Kingdom Divided 1 Sword Chronicle Foundr
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Gregory ap Bentil"
+age: 17
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 3
+  "Agility": 3
+  "Animal Handling": 4
+  "Athletics": 3
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 3
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 2
+  "Stealth": 3
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+armor:
+  name: "Brigandine"
+  rating: 8
+  penalty: 0
+attacks:
+  - name: "Long Sword"
+  - name: "Shield"
+qualities: ["Ferdors"]
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -102,4 +144,5 @@ Ferdors
 - Long Sword
 - Shield
 
+</details>
 <!-- sword-chronicle-sheet:end -->

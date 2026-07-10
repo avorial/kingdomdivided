@@ -20,6 +20,47 @@ Lord Enzo Graisti was imported from the Kingdom Divided 1 Sword Chronicle Foundr
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lord Enzo Graisti"
+age: 38
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 4
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 4
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 6
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 4
+attacks:
+  - name: "Long Sword"
+qualities: ["Quintillis"]
+appearance:
+  mannerisms: "Quiet"
+  features: "Early grey hair"
+history: "Enzo rose to the leader of his house at 18, when his father died of consumption. Enzo married his childhood sweetheart, and they made his ascention mixed with his weding. They were seen as a perfect couple, until she also became ill. She langered for 7 years, and Enzo stayed loyal. When she finally passed 2 years ago, Enzo entered a morning phase. Only recently has he left it and is seen as the most elegable man in the Kingdoms. He has to make a choice soon though, as if he does not marry, his bannermen may turn on him and try to take the throne."
+notes: "Motivation: Sorrow | Goal: To Forget | Vice: Depression | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -115,4 +156,5 @@ Quintillis
 
 - Long Sword
 
+</details>
 <!-- sword-chronicle-sheet:end -->

@@ -20,6 +20,45 @@ Baron Fredrick Derth was imported from the Kingdom Divided 1 Sword Chronicle Fou
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Baron Fredrick Derth"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 4
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 4
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 2
+armor:
+  name: "Brigandine"
+  rating: 8
+  penalty: 0
+attacks:
+  - name: "Greatsword"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -88,4 +127,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Greatsword
 
+</details>
 <!-- sword-chronicle-sheet:end -->

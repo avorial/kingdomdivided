@@ -20,6 +20,46 @@ Pierre Lambert was imported from the Kingdom Divided 1 Sword Chronicle Foundry a
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Pierre Lambert"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 2
+  "Deception": 3
+  "Endurance": 2
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 2
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 2
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+armor:
+  name: "Leather, Soft"
+  rating: 2
+  penalty: 0
+attacks:
+  - name: "Battle Axe"
+  - name: "Shield"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -89,4 +129,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Battle Axe
 - Shield
 
+</details>
 <!-- sword-chronicle-sheet:end -->

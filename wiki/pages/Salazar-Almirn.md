@@ -20,6 +20,51 @@ title: Salazar Almirn
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Salazar Almirn"
+age: 51
+gender: "Male"
+portrait: "salazar_almirn.jpg"
+destiny: 0
+abilities:
+  "Admiralty": 4
+  "Agility": 3
+  "Animal Handling": 4
+  "Athletics": 4
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 4
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 4
+  "Marksmanship": 2
+  "Nautical": 4
+  "Persuasion": 2
+  "Status": 6
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 4
+armor:
+  name: "Bone or Wood"
+  rating: 4
+  penalty: 0
+attacks:
+  - name: "Long Sword"
+qualities: ["Saltblood"]
+appearance:
+  mannerisms: "Respectful"
+history: "Lord Salazar has been the scion of House Almirn for 20 years. His father had him later in life, and he allowed his son to travel and see the other lands, even beyond the bellands. Salazar might be the most traveled leader of a house, but insted of investing in the Imperial court he spends much time investing in to his sons Simon and Jacob."
+notes: "Motivation: Legasy | Goal: Expansion | Vice: Trusting | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -115,4 +160,5 @@ Saltblood
 
 - Long Sword
 
+</details>
 <!-- sword-chronicle-sheet:end -->

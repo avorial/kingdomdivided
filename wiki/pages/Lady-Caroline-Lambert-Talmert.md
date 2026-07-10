@@ -20,6 +20,41 @@ Lady Caroline Lambert (Talmert) was imported from the Kingdom Divided 1 Sword Ch
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lady Caroline Lambert (Talmert)"
+age: 0
+gender: "Female"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 4
+  "Language": 5
+  "Marksmanship": 4
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 3
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 4
+  "Warcraft": 2
+  "Will": 2
+qualities: ["Enisen"]
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -87,4 +122,5 @@ Enisen
 - Warcraft 2
 - Will 2
 
+</details>
 <!-- sword-chronicle-sheet:end -->

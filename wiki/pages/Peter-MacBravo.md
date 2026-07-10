@@ -20,6 +20,50 @@ Peter MacBravo was imported from the Kingdom Divided 1 Sword Chronicle Foundry a
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Peter MacBravo"
+age: 33
+gender: "Male"
+destiny: 1
+destinySpent: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 4
+  "Cunning": 3
+  "Deception": 4
+  "Endurance": 3
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 4
+  "Spy Network": 1
+  "Status": 4
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+qualities: ["Quntill/Fedor"]
+benefits:
+  - "Charismatic"
+  - "Head of House"
+  - "Magnetic"
+drawbacks:
+  - "Flaws Agility"
+  - "Illegitimate"
+notes: "CurrentDisposition: 3"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -177,4 +221,5 @@ Quntill/Fedor
 - Flaws Agility
 - Illegitimate
 
+</details>
 <!-- sword-chronicle-sheet:end -->

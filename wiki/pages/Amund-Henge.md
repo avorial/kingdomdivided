@@ -20,6 +20,47 @@ Amund Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry acto
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Amund Henge"
+age: 22
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 4
+  "Awareness": 2
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 3
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+armor:
+  name: "Bone or Wood"
+  rating: 4
+  penalty: 0
+attacks:
+  - name: "Battle Axe"
+damage: 8
+notes: "CurrentDisposition: 5"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -90,4 +131,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Battle Axe
 
+</details>
 <!-- sword-chronicle-sheet:end -->

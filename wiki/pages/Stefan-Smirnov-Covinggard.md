@@ -20,6 +20,41 @@ Stefan Smirnov (Covinggard) was imported from the Kingdom Divided 1 Sword Chroni
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Stefan Smirnov (Covinggard)"
+age: 41
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 5
+  "Athletics": 3
+  "Awareness": 2
+  "Cunning": 3
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 3
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+qualities: ["Zafroff"]
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -87,4 +122,5 @@ Zafroff
 - Warcraft 2
 - Will 2
 
+</details>
 <!-- sword-chronicle-sheet:end -->

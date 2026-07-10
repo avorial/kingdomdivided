@@ -20,6 +20,46 @@ Alfred Moser was imported from the Kingdom Divided 1 Sword Chronicle Foundry act
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Alfred Moser"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 3
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 4
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 3
+  "Morale": 2
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 2
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 2
+armor:
+  name: "Mail"
+  rating: 5
+  penalty: 0
+attacks:
+  - name: "Bastard Sword"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -89,4 +129,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Bastard Sword
 
+</details>
 <!-- sword-chronicle-sheet:end -->

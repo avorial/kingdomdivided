@@ -20,6 +20,47 @@ Irma Eisenberg was imported from the Kingdom Divided 1 Sword Chronicle Foundry a
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Irma Eisenberg"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 4
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 4
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 4
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+armor:
+  name: "Plate"
+  rating: 10
+  penalty: 0
+attacks:
+  - name: "Bastard Sword"
+  - name: "Shield, Large"
+  - name: "Tourney Lance"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -90,4 +131,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Shield, Large
 - Tourney Lance
 
+</details>
 <!-- sword-chronicle-sheet:end -->

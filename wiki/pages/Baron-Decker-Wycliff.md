@@ -20,6 +20,19 @@ Baron Decker Wycliff was imported from the Kingdom Divided 1 Sword Chronicle Fou
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Baron Decker Wycliff"
+age: 0
+destiny: 0
+abilities:
+  "Fighting": 4
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -60,4 +73,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 
 - Fighting 4
 
+</details>
 <!-- sword-chronicle-sheet:end -->

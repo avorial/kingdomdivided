@@ -20,6 +20,64 @@ title: Cynog Derth "Kinslayer"
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Cynog Derth \"Kinslayer"
+age: 26
+gender: "Male"
+portrait: "cynog_derth_kinslayer.png"
+destiny: 2
+destinySpent: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 4
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 4
+  "Stealth": 3
+  "Survival": 2
+  "Thievery": 1
+  "Warcraft": 4
+  "Will": 4
+armor:
+  name: "Scale/Coin"
+  rating: 6
+  penalty: 0
+attacks:
+  - name: "Tourney Lance"
+  - name: "Warhammer +1"
+qualities: ["Blood of Ferdors"]
+benefits:
+  - "Berserker"
+  - "Blood of the Ferdors"
+  - "Bludgeon Fighter 1"
+  - "Inspiring"
+drawbacks:
+  - "Cruel"
+  - "Ignoble"
+  - "Reviled"
+equipment:
+  - "Map of Pearstone (Detailed)"
+  - "Map of Silverridge (Detailed)"
+  - "Rounseys (War Horse)"
+history: "When Cynog was 16, he had a sparing match with his older brother. After being tagged few times, the older brother flew into a rage and actually started laying Cynog. This in turn cause Cynog to fly off the handle and strike his brother, crushing the brother's chest. His father discovered him over his brother's dead body and promptly kicked him out aka sending him to Pearstone in the service of a mercenary company. After 10 years, Cynog had worked his way up to Grand Tactician of the Fearless Brotherhood. On their latest contract to kill some ship breaker bandits, one of their archers got a lucky shot off and killed the leader of the Brotherhood. While Cynog displayed aptitude at tactics, he was also often seen as cold and cruel. As such, with the new leadership in place, his position was... awkward. He sent word of his departure from the brotherhood to his family, though at this point, only his mother would respond. She expressed that his father made comment to how the heir of the Silverridge, newly of age, was trying to calm the lands. She recommended he travel to the capital and offer his services to the heir. Cynog recognizes that this would allow their house to show support tot he heir, without costing them anything..."
+notes: "Motivation: Charity - Orphans or people who have lost family. | Goal: Regain Families Love | Vice: Wrathful | CurrentDisposition: 5"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -147,4 +205,5 @@ Blood of Ferdors
 - Tourney Lance
 - Warhammer +1
 
+</details>
 <!-- sword-chronicle-sheet:end -->

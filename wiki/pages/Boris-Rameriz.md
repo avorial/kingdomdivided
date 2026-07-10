@@ -20,6 +20,60 @@ title: Boris Rameriz
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Boris Rameriz"
+age: 25
+gender: "Male"
+portrait: "boris_rameriz.png"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 3
+  "Knowledge": 5
+  "Knowledge (History & Legends)": 6
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 4
+  "Persuasion": 3
+  "Status": 3
+  "Stealth": 3
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 3
+armor:
+  name: "Noble's Garb (Excellent)"
+  rating: 0
+  penalty: 0
+attacks:
+  - name: "Crossbow, Medium"
+qualities: ["Zafroff"]
+benefits:
+  - "Blood of the Zafroff"
+  - "Knowledge Focus (History and legends)"
+  - "Master of the Post"
+  - "The Tested"
+drawbacks:
+  - "Illegitimate"
+  - "Oath-Bound (Tested Oath)"
+equipment:
+  - "Palfreys (Horse)"
+history: "210 -70 (for knowlage 5) 160 160-10 (Cunning 3) 150-10 (Will 3) 140-10 Language3 110-30 for cunning 4"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -122,4 +176,5 @@ Zafroff
 
 - Crossbow, Medium
 
+</details>
 <!-- sword-chronicle-sheet:end -->

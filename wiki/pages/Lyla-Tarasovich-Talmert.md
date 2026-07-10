@@ -20,6 +20,68 @@ title: Lyla Tarasovich-Talmert
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lyla Tarasovich-Talmert"
+age: 20
+gender: "Female"
+portrait: "lyla_silverridge.png"
+destiny: 1
+destinySpent: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 4
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 4
+  "Cunning": 3
+  "Deception": 2
+  "Endurance": 3
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 4
+  "Language": 3
+  "Marksmanship": 4
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 4
+  "Stealth": 3
+  "Survival": 3
+  "Thievery": 1
+  "Warcraft": 3
+  "Will": 3
+armor:
+  name: "Leather, Soft"
+  rating: 2
+  penalty: 0
+attacks:
+  - name: "Bow, Double Curved"
+  - name: "Bow, Hunting"
+  - name: "Dagger"
+  - name: "Improvised Weapon"
+  - name: "Knife (Thrown)"
+damage: 4
+qualities: ["Half-Esten/Half-Ferdors"]
+benefits:
+  - "Acrobatic Defense"
+  - "Blood of the Esten"
+  - "Cadre"
+  - "Deadly Shot"
+  - "Fast"
+drawbacks:
+  - "Childhood Ailment"
+  - "Honor-Bound"
+equipment:
+  - "\"Graece\" Palfreys (Horse)"
+appearance:
+  features: "Albino"
+history: "Cadre, Herderly 1"
+notes: "Motivation: Duty | Goal: Love | Vice: Grasping | CurrentDisposition: 2"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -146,4 +208,5 @@ Half-Esten/Half-Ferdors
 - Improvised Weapon
 - Knife (Thrown)
 
+</details>
 <!-- sword-chronicle-sheet:end -->

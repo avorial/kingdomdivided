@@ -20,6 +20,47 @@ Viscount Somchai Frick (Almirn) was imported from the Kingdom Divided 1 Sword Ch
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Viscount Somchai Frick (Almirn)"
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 5
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 3
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 4
+  "Marksmanship": 2
+  "Nautical": 5
+  "Persuasion": 4
+  "Status": 4
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 3
+armor:
+  name: "Leather, Soft"
+  rating: 2
+  penalty: 0
+attacks:
+  - name: "Khopesh"
+qualities: ["Saltbloods"]
+history: "Was always the more physical of the two brothers of the Almirn Dukes, knowing from an early age he would unlikely rise to the throne, spent most of his time fighting on the sea. This has given him a rough but worldy prespective. He has deep seated fears of dark magics having fought strange creatuers on the water as well as non bellringer wizards in the south."
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -103,4 +144,5 @@ Saltbloods
 
 - Khopesh
 
+</details>
 <!-- sword-chronicle-sheet:end -->

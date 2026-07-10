@@ -20,6 +20,44 @@ Lady Lucy Montmier was imported from the Kingdom Divided 1 Sword Chronicle Found
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lady Lucy Montmier"
+age: 32
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 4
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 5
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 4
+qualities: ["Ferdors"]
+appearance:
+  mannerisms: "Cold"
+  features: "Perfectly Dressed"
+history: "The blood rose, of the court of Montmier, has had scandle surrounding her for much of her young life. Belived by many to be a mistress of her lord, after she found herself pregnate, Charles pushed for the devorice of his wife and the marriage to her in a fornight. Knowing that the first wife's allies where still at court she started purges to make a place for herself. As Charles ages more and more of the land's rulings come from her hand."
+notes: "Motivation: Revenge | Goal: Total Domination | Vice: Greed | CurrentDisposition: 5"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -110,4 +148,5 @@ Ferdors
 - Warcraft 2
 - Will 4
 
+</details>
 <!-- sword-chronicle-sheet:end -->

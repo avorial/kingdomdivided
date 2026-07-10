@@ -21,6 +21,62 @@ Shivon Silverridge was imported from the Kingdom Divided 1 Sword Chronicle Found
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Siobhán Silverridge"
+gender: "Female"
+portrait: "shivon_silverridge.jpg"
+destiny: 5
+destinySpent: 3
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 1
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 6
+  "Stealth": 3
+  "Survival": 2
+  "Thievery": 3
+  "Warcraft": 2
+  "Will": 3
+armor:
+  name: "Noble's Garb (Excellent)"
+  rating: 0
+  penalty: 0
+attacks:
+  - name: "Crossbow, Light"
+  - name: "Stiletto"
+damage: 2
+qualities: ["Ferdor"]
+benefits:
+  - "Attractive"
+  - "Charismatic"
+  - "Favored"
+drawbacks:
+  - "Fear"
+equipment:
+  - "\"Adair\" Coursers (War Horse)"
+  - "Mysteries of the Ruins of Windbreak (Book)"
+appearance:
+  features: "Copper Red Hair, Pretty"
+history: "Spends: 1 Reputation (Reputation 1B) and 1 Empathy) (Empathy 2B) - 20 XP Spend : 1 Status (XP Spend 2) - 30 XP 1 Status (XP Spend 2 - Jun 27, 2023) - 30 XP"
+notes: "CurrentDisposition: 7"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -133,4 +189,5 @@ Ferdor
 - Crossbow, Light
 - Stiletto
 
+</details>
 <!-- sword-chronicle-sheet:end -->

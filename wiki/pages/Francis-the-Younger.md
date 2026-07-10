@@ -20,6 +20,39 @@ Francis the Younger was imported from the Kingdom Divided 1 Sword Chronicle Foun
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Francis the Younger"
+age: 12
+gender: "Male"
+destiny: 0
+abilities:
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 2
+  "Persuasion": 2
+  "Status": 2
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+qualities: ["Quintillis"]
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -85,4 +118,5 @@ Quintillis
 - Warcraft 2
 - Will 2
 
+</details>
 <!-- sword-chronicle-sheet:end -->

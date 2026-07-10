@@ -20,6 +20,61 @@ Leon Blackwood was imported from the Kingdom Divided 1 Sword Chronicle Foundry a
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Leon Blackwood"
+age: 22
+gender: "Male"
+destiny: 0
+abilities:
+  "Agility": 4
+  "Animal Handling": 4
+  "Athletics": 5
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 4
+  "Fighting": 7
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 2
+  "Persuasion": 2
+  "Status": 3
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 3
+armor:
+  name: "Plate"
+  rating: 10
+  penalty: 0
+attacks:
+  - name: "Halberd"
+qualities: ["Saltbood"]
+benefits:
+  - "Berserker"
+  - "Improved Weapon Mastery (Pole Arms)"
+  - "Massive"
+  - "Pole-Arm Fighter 1"
+  - "Pole-Arm Fighter 2"
+  - "Pole-Arm Fighter 3"
+  - "Weapon Mastery (Pole-Arms)"
+drawbacks:
+  - "Cruel"
+  - "Flaws (Cunning)"
+  - "Flaws (Deception)"
+  - "Furious"
+  - "Haughty"
+  - "Menacing"
+  - "Naive"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -113,4 +168,5 @@ Saltbood
 
 - Halberd
 
+</details>
 <!-- sword-chronicle-sheet:end -->

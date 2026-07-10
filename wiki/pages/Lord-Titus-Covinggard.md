@@ -20,6 +20,48 @@ Lord Titus Covinggard was imported from the Kingdom Divided 1 Sword Chronicle Fo
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Lord Titus Covinggard"
+age: 45
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 4
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 4
+  "Endurance": 3
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 4
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 6
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 4
+attacks:
+  - name: "Shield"
+  - name: "Spear"
+qualities: ["Zafroff"]
+appearance:
+  mannerisms: "Studder"
+  features: "Scars"
+history: "Having had to put down many bannermen revolts, the leader of House Covinggard is one of the best military minds in the 9 kingdoms. On sand, mountans or forests, he finds the best place to have his troops. But because of so much internal strife, he does not want to deal more with Imperial matters, he sends his second and third sons out of the domain to keep the connections strong."
+notes: "Motivation: Tired | Goal: Stability | Vice: Sadist | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -116,4 +158,5 @@ Zafroff
 - Shield
 - Spear
 
+</details>
 <!-- sword-chronicle-sheet:end -->

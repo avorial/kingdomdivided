@@ -48,6 +48,43 @@ Whether she finds fulfillment and happiness within the confines of her marriage 
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Autumn Walsh"
+age: 23
+gender: "Female"
+house: "House Walsh (a diplomat working for House Whitestar assigned to House Silverridge)"
+portrait: "autumn_walsh.png"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 4
+  "Cunning": 4
+  "Deception": 5
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 4
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 3
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 3
+qualities: ["Ferdors"]
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -115,4 +152,5 @@ Ferdors
 - Warcraft 2
 - Will 3
 
+</details>
 <!-- sword-chronicle-sheet:end -->

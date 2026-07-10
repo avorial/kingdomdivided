@@ -22,6 +22,65 @@ Sovereign Ides Lev Tarasovich was imported from the Kingdom Divided 1 Sword Chro
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Soverighn Ides Lev Tarasovich"
+age: 24
+gender: "Male"
+portrait: "soverighn_ides_lev_tarasovich.png"
+destiny: 5
+destinySpent: 3
+abilities:
+  "Admiralty": 2
+  "Agility": 2
+  "Animal Handling": 3
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 4
+  "Deception": 3
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 3
+  "Knowledge": 4
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 3
+  "Stealth": 3
+  "Survival": 1
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 3
+armor:
+  name: "Noble's Garb (Excellent)"
+  rating: 0
+  penalty: 0
+attacks:
+  - name: "Boar Spear"
+  - name: "Crossbow, Light"
+  - name: "Long Sword"
+  - name: "Stiletto"
+damage: 1
+qualities: ["Quintills"]
+benefits:
+  - "Cadre"
+  - "Head of House"
+  - "Respected"
+  - "Wealthy"
+drawbacks:
+  - "Disturbing Habit (Pells)"
+  - "Vulnerability (Sorcerous)"
+equipment:
+  - "\"Adair\" Coursers (War Horse)"
+  - "Mysteries of the Ruins of Windbreak (Book)"
+history: "The Blue Temple Guard of the Traveler's Temple - Sov removed his helmet and kept it to \"research\"."
+notes: "CurrentDisposition: 3"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -123,4 +182,5 @@ Quintills
 - Long Sword
 - Stiletto
 
+</details>
 <!-- sword-chronicle-sheet:end -->

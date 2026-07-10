@@ -63,6 +63,53 @@ While they tried to have children, [[merida_silverridge|Merida Silverridge]] had
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Conner Silverridge"
+age: 45
+gender: "Male"
+house: "House Silverridge"
+portrait: "conner_silverridge.jpg"
+destiny: 0
+abilities:
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 2
+  "Cunning": 6
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 4
+  "Marksmanship": 2
+  "Persuasion": 4
+  "Status": 6
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 2
+armor:
+  name: "Bone or Wood"
+  rating: 4
+  penalty: 0
+qualities: ["Ferdor"]
+benefits:
+  - "Head of House"
+  - "Knighted (Anointed)"
+  - "Natural Leader (Leader of Men)"
+  - "Prophetic Alignment"
+drawbacks:
+  - "Cruel"
+  - "Honor-Bound"
+notes: "CurrentDisposition: 6"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -144,4 +191,5 @@ Ferdor
 - Cruel
 - Honor-Bound
 
+</details>
 <!-- sword-chronicle-sheet:end -->

@@ -20,6 +20,58 @@ House Fourtune Rolls was imported from the Kingdom Divided 1 Sword Chronicle Fou
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "House Fourtune Rolls"
+age: 0
+destiny: 0
+abilities:
+  "House Almirn": 6
+  "House Bellkind": 6
+  "House Bennet": 5
+  "House Butler": 4
+  "House Ceanadach": 5
+  "House Covinggard": 6
+  "House Crowley": 5
+  "House Derth": 4
+  "House Durand": 4
+  "House Goycoa": 4
+  "House Graisti": 6
+  "House Gubau": 4
+  "House Henge": 4
+  "House Kulak": 4
+  "House Lamonnes": 4
+  "House Lombardo": 4
+  "House Martian": 4
+  "House Montmier": 6
+  "House Mookjai": 4
+  "House Mourningblaze": 5
+  "House Pearstone": 6
+  "House Plonsky": 5
+  "House Rhelrya": 4
+  "House Rivers": 7
+  "House Rolland": 4
+  "House Sherman": 6
+  "House Silverridge": 6
+  "House Songprawati": 4
+  "House Stalder": 5
+  "House Talmert": 6
+  "House Tarasovich": 3
+  "House Thalorin": 4
+  "House Thorn": 4
+  "House Upperton": 4
+  "House Vulgrit": 4
+  "House Whitestar": 6
+  "House Wycliff": 5
+appearance:
+  height: "1.72"
+  weight: "70"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -96,4 +148,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - House Whitestar 6
 - House Wycliff 5
 
+</details>
 <!-- sword-chronicle-sheet:end -->

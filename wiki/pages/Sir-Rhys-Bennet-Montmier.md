@@ -20,6 +20,41 @@ Sir Rhys Bennet (Montmier) was imported from the Kingdom Divided 1 Sword Chronic
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Sir Rhys Bennet (Montmier)"
+age: 35
+gender: "Male"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 5
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 3
+  "Stealth": 3
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+qualities: ["Zafroff"]
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -87,4 +122,5 @@ Zafroff
 - Warcraft 2
 - Will 2
 
+</details>
 <!-- sword-chronicle-sheet:end -->

@@ -21,6 +21,55 @@ title: Penelope Durand
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Penelope Durand"
+age: 23
+gender: "Female"
+portrait: "penelope_durand2.jpg"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 3
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 3
+  "Endurance": 3
+  "Fighting": 1
+  "Healing": 3
+  "Knowledge": 3
+  "Language": 3
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 4
+  "Status": 4
+  "Stealth": 3
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 3
+attacks:
+  - name: "Longbow"
+  - name: "Stiletto"
+qualities: ["Zafroff"]
+benefits:
+  - "Blood of the Zafroff"
+  - "Deadly Shot"
+  - "Head of House"
+drawbacks:
+  - "Debt"
+appearance:
+  height: "1.72"
+  weight: "70"
+history: "History"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -106,4 +155,5 @@ Zafroff
 - Longbow
 - Stiletto
 
+</details>
 <!-- sword-chronicle-sheet:end -->

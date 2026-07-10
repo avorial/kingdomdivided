@@ -20,6 +20,46 @@ Elric Henge was imported from the Kingdom Divided 1 Sword Chronicle Foundry acto
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Elric Henge"
+age: 0
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 2
+  "Athletics": 4
+  "Awareness": 2
+  "Cunning": 2
+  "Deception": 2
+  "Endurance": 2
+  "Fighting": 3
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 3
+  "Nautical": 2
+  "Persuasion": 2
+  "Status": 3
+  "Stealth": 2
+  "Survival": 3
+  "Thievery": 2
+  "Warcraft": 2
+  "Will": 2
+armor:
+  name: "Leather, Soft"
+  rating: 2
+  penalty: 0
+attacks:
+  - name: "Hand Ax (Thrown)"
+  - name: "Hand Axe"
+notes: "CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Character Data
 
@@ -89,4 +129,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Hand Ax (Thrown)
 - Hand Axe
 
+</details>
 <!-- sword-chronicle-sheet:end -->

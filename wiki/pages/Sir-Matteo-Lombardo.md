@@ -20,6 +20,39 @@ Sir Matteo Lombardo was imported from the Kingdom Divided 1 Sword Chronicle Foun
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Sir Matteo Lombardo"
+age: 38
+gender: "Male"
+destiny: 0
+abilities:
+  "Agility": 2
+  "Animal Handling": 2
+  "Athletics": 2
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 4
+  "Endurance": 2
+  "Fighting": 2
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 4
+  "Marksmanship": 2
+  "Persuasion": 5
+  "Status": 4
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 5
+  "Will": 2
+qualities: ["Quintillis"]
+notes: "Motivation: Sorrow | Goal: To Forget | Vice: Depression | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 ### Foundry Notes
 
@@ -97,4 +130,5 @@ Quintillis
 - Warcraft 5
 - Will 2
 
+</details>
 <!-- sword-chronicle-sheet:end -->
