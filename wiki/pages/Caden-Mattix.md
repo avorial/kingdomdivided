@@ -10,9 +10,12 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas
 parent: Belllads-Chronicle-Player-Characters
 ---
 
-![caden_mattix2](/wiki/media/caden_mattix2.png)
-*Caden Mattix*
+![caden_mattix2 portrait](/wiki/media/caden_mattix2.png)
+
+# Caden Mattix
+
+
