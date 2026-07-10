@@ -2,7 +2,7 @@
 category: organization
 type: organization
 name: House Durand
-summary: "Leader of the House: Baroness Penelope Durand & Baron Casimir Durand"
+summary: 'Leader of the House: Baroness Penelope Durand & Baron Casimir Durand'
 tags:
   - faction
   - noble-house
@@ -15,6 +15,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Rivers
+title: House Durand
 ---
 
 Name: House Durand
@@ -47,3 +48,39 @@ Family Members: [[Penelope-Durand|Penelope Durand]]  & [[casimir_ramirez|Casimir
 *Penelope Durand, eloquent and determined, found an ally in Casimir Silverridge, a crusader knight who championed her cause. The Convocation climaxed in a bloody duel between Casimir and Timoté. Casimir emerged victorious, securing Penelope's rightful claim to the title. In an unexpected turn, Penelope married Casimir, making him the new Baron Durand. The unexpected twist not only secured the house's leadership but also cleaned house, as Penelope took decisive action against her uncle, who had sought to undermine her position.*
 
 Holdings: Fort Rivercliff, the City of Rivercliff
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 9 |
+| Defense Total | 9 |
+| Influence StartingValue | 23 |
+| Influence Total | 23 |
+| Lands StartingValue | 19 |
+| Lands Total | 19 |
+| Law StartingValue | 20 |
+| Law Total | 20 |
+| Population StartingValue | 21 |
+| Population Total | 21 |
+| Power StartingValue | 10 |
+| Power Total | 10 |
+| Wealth StartingValue | 25 |
+| Wealth Total | 25 |
+
+### Foundry Items
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Archers
+- Coast
+- Community, Hamlet
+- Port
+- Standard of Living
+- Veteran Troops
+
+<!-- sword-chronicle-sheet:end -->

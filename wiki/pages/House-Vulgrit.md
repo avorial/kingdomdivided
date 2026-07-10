@@ -2,9 +2,10 @@
 category: organization
 type: organization
 name: House Vulgrit
-summary: 'Name: House Vulgrit Leader of the House: Baron Rey Vulgrit Heir: Sir
-  Maxim Vulgrit Liege: House Covenguard Founding: First Bellringer Crusade
-  Founder: Kharazan Vulgrit Motto: "Stre'
+summary: >-
+  Name: House Vulgrit Leader of the House: Baron Rey Vulgrit Heir: Sir Maxim
+  Vulgrit Liege: House Covenguard Founding: First Bellringer Crusade Founder:
+  Kharazan Vulgrit Motto: "Stre
 tags:
   - faction
   - noble-house
@@ -17,6 +18,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Covinggard
+title: House Vulgrit
 ---
 
 ![house_vulgrit](/wiki/media/house_vulgrit.png)
@@ -84,3 +86,48 @@ House Vulgrit's influence may be less extensive compared to other banners, but t
 ## Allegiance
 
 Liege: [[House-Covinggard|House Covinggard]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 25 |
+| Defense Total | 25 |
+| Influence StartingValue | 12 |
+| Influence Total | 12 |
+| Lands StartingValue | 32 |
+| Lands Total | 32 |
+| Law StartingValue | 19 |
+| Law Total | 19 |
+| Population StartingValue | 16 |
+| Population Total | 16 |
+| Power StartingValue | 27 |
+| Power Total | 27 |
+| Wealth StartingValue | 13 |
+| Wealth Total | 13 |
+
+### Foundry Items
+
+#### Holding
+
+- Archers
+- Cavalry
+- Community, Small Town
+- Fishery
+- Green Troops
+- Green Troops
+- Green Troops
+- Hall
+- Magistrate
+- Mountains (Terrain)
+- Raiders
+- Scouts
+- Special Forces
+- Trained Troops
+- Trained Troops
+- Water, River
+
+<!-- sword-chronicle-sheet:end -->

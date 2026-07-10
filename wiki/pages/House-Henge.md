@@ -2,8 +2,9 @@
 category: organization
 type: organization
 name: House Henge
-summary: "Leader of the House: Baron Elric Henge Heir: Liege: House Whitestar
-  Founding: The End of the First Bellringer Crusade Family Members:"
+summary: >-
+  Leader of the House: Baron Elric Henge Heir: Liege: House Whitestar Founding:
+  The End of the First Bellringer Crusade Family Members:
 tags:
   - faction
   - noble-house
@@ -16,6 +17,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Silverridge
+title: House Henge
 ---
 
 Name: House Henge
@@ -65,3 +67,66 @@ The Hopeless (Veteran/Cavalry)
 ## Allegiance
 
 Liege: [[House-Silverridge|House Silverridge]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 13 |
+| Defense Total | 2 |
+| Influence StartingValue | 26 |
+| Influence Total | 30 |
+| Lands StartingValue | 18 |
+| Lands Total | 23 |
+| Law StartingValue | 18 |
+| Law Total | 12 |
+| Population StartingValue | 16 |
+| Population Total | 14 |
+| Power StartingValue | 17 |
+| Power Total | 26 |
+| Wealth StartingValue | 21 |
+| Wealth Total | 31 |
+| Members Retainers 0 Id | it2YTNIpFmBGhMpE |
+| Members Retainers 1 Id | k0tTlETWHX3iSa3p |
+| Members Retainers 2 Id | 5rif5L6Wo3rIs1q6 |
+| Members Retainers 3 Id | Y4MhOzLUNdyAGi2z |
+
+### Foundry Items
+
+#### Event
+
+- Ascent
+- Ascent
+- Conquest
+- Defeat
+- Doom
+- Invasion / Revolt
+- Killing Bandits (Deerholt)
+- Treachery
+- Windfall
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Animal Husbandry
+- Archers
+- Cavalry
+- Cavalry
+- Garrison
+- Grassland
+- Green Troops
+- Green Troops
+- Green Troops
+- Green Troops
+- Hills (Terrain)
+- Horse Husbandry
+- Plains (Terrain)
+- Road
+- Ruin
+- Scouts
+- Veteran Troops
+
+<!-- sword-chronicle-sheet:end -->

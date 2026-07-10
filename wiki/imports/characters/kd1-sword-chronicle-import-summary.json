@@ -1,0 +1,2652 @@
+{
+  "importedAt": "2026-07-10",
+  "sourceFiles": [
+    "Z:/avorial/FVTT/Data/worlds/kingdom-divided/data/actors/000205.ldb",
+    "Z:/avorial/FVTT/Data/worlds/kingdom-divided/data/actors/000207.ldb"
+  ],
+  "actorCount": 427,
+  "actorItemRecords": 5336,
+  "matchedCount": 59,
+  "createdCount": 368,
+  "parseErrorCount": 0,
+  "matched": [
+    {
+      "actor": "Anya Mosley",
+      "file": "wiki/pages/Anya-Mosley.md",
+      "by": "anya mosley",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Penelope Durand",
+      "file": "wiki/pages/Penelope-Durand.md",
+      "by": "penelope durand",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Boris Rameriz",
+      "file": "wiki/pages/Boris-Rameriz.md",
+      "by": "boris rameriz",
+      "itemCount": 31,
+      "type": "character"
+    },
+    {
+      "actor": "Brice Jean Paul",
+      "file": "wiki/pages/Brice-Jean-Paul.md",
+      "by": "brice jean paul",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Cynog Derth \"Kinslayer\"",
+      "file": "wiki/pages/Cynog-Derth-Kinslayer.md",
+      "by": "cynog derth kinslayer",
+      "itemCount": 34,
+      "type": "character"
+    },
+    {
+      "actor": "Duke Conner Silverridge",
+      "file": "wiki/pages/Conner-Silverridge.md",
+      "by": "conner silverridge",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Duke Salazar Almirn",
+      "file": "wiki/pages/Salazar-Almirn.md",
+      "by": "salazar almirn",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Duke Zachariah Bellkind",
+      "file": "wiki/pages/Zachariah-Bellkind.md",
+      "by": "zachariah bellkind",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Emogene Cosono",
+      "file": "wiki/pages/Emogene-Cosono.md",
+      "by": "emogene cosono",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Endulaudaus",
+      "file": "wiki/pages/Endulaudaus.md",
+      "by": "endulaudaus",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Hans Rhinehart",
+      "file": "wiki/pages/Hans-Rhinehart.md",
+      "by": "hans rhinehart",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "House Almirn",
+      "file": "wiki/pages/House-Almirn.md",
+      "by": "house almirn",
+      "itemCount": 22,
+      "type": "house"
+    },
+    {
+      "actor": "House Bellkind",
+      "file": "wiki/pages/House-Bellkind.md",
+      "by": "house bellkind",
+      "itemCount": 12,
+      "type": "house"
+    },
+    {
+      "actor": "House Bennet",
+      "file": "wiki/pages/House-Bennet.md",
+      "by": "house bennet",
+      "itemCount": 15,
+      "type": "house"
+    },
+    {
+      "actor": "House Butler",
+      "file": "wiki/pages/House-Butler.md",
+      "by": "house butler",
+      "itemCount": 11,
+      "type": "house"
+    },
+    {
+      "actor": "House Ceanadach",
+      "file": "wiki/pages/House-Ceanadach.md",
+      "by": "house ceanadach",
+      "itemCount": 17,
+      "type": "house"
+    },
+    {
+      "actor": "House Covinggard",
+      "file": "wiki/pages/House-Covinggard.md",
+      "by": "house covinggard",
+      "itemCount": 16,
+      "type": "house"
+    },
+    {
+      "actor": "House Crowley",
+      "file": "wiki/pages/House-Crowley.md",
+      "by": "house crowley",
+      "itemCount": 10,
+      "type": "house"
+    },
+    {
+      "actor": "House Derth",
+      "file": "wiki/pages/House-Derth.md",
+      "by": "house derth",
+      "itemCount": 12,
+      "type": "house"
+    },
+    {
+      "actor": "House Durand",
+      "file": "wiki/pages/House-Durand.md",
+      "by": "house durand",
+      "itemCount": 7,
+      "type": "house"
+    },
+    {
+      "actor": "House Goycoa",
+      "file": "wiki/pages/House-Goycoa.md",
+      "by": "house goycoa",
+      "itemCount": 14,
+      "type": "house"
+    },
+    {
+      "actor": "House Graisti",
+      "file": "wiki/pages/House-Graisti.md",
+      "by": "house graisti",
+      "itemCount": 14,
+      "type": "house"
+    },
+    {
+      "actor": "House Gubau",
+      "file": "wiki/pages/House-Gubau.md",
+      "by": "house gubau",
+      "itemCount": 20,
+      "type": "house"
+    },
+    {
+      "actor": "House Henge",
+      "file": "wiki/pages/House-Henge.md",
+      "by": "house henge",
+      "itemCount": 27,
+      "type": "house"
+    },
+    {
+      "actor": "House Kulak",
+      "file": "wiki/pages/House-Kulak.md",
+      "by": "house kulak",
+      "itemCount": 15,
+      "type": "house"
+    },
+    {
+      "actor": "House Lamonnes",
+      "file": "wiki/pages/House-Lamonnes.md",
+      "by": "house lamonnes",
+      "itemCount": 17,
+      "type": "house"
+    },
+    {
+      "actor": "House Lombardo",
+      "file": "wiki/pages/House-Lombardo.md",
+      "by": "house lombardo",
+      "itemCount": 24,
+      "type": "house"
+    },
+    {
+      "actor": "House MacBravo",
+      "file": "wiki/pages/House-Macbravo.md",
+      "by": "house macbravo",
+      "itemCount": 6,
+      "type": "house"
+    },
+    {
+      "actor": "House Mason",
+      "file": "wiki/pages/House-Mason.md",
+      "by": "house mason",
+      "itemCount": 6,
+      "type": "house"
+    },
+    {
+      "actor": "House Montmier",
+      "file": "wiki/pages/House-Montmier.md",
+      "by": "house montmier",
+      "itemCount": 20,
+      "type": "house"
+    },
+    {
+      "actor": "House Mookjai",
+      "file": "wiki/pages/House-Mookjai.md",
+      "by": "house mookjai",
+      "itemCount": 21,
+      "type": "house"
+    },
+    {
+      "actor": "House Mourningblaze",
+      "file": "wiki/pages/House-Mourningblaze.md",
+      "by": "house mourningblaze",
+      "itemCount": 15,
+      "type": "house"
+    },
+    {
+      "actor": "House Pearstone",
+      "file": "wiki/pages/House-Pearstone.md",
+      "by": "house pearstone",
+      "itemCount": 18,
+      "type": "house"
+    },
+    {
+      "actor": "House Polonsky",
+      "file": "wiki/pages/House-Polonsky.md",
+      "by": "house polonsky",
+      "itemCount": 20,
+      "type": "house"
+    },
+    {
+      "actor": "House Rhelrya",
+      "file": "wiki/pages/House-Rhelrya.md",
+      "by": "house rhelrya",
+      "itemCount": 14,
+      "type": "house"
+    },
+    {
+      "actor": "House Rivers",
+      "file": "wiki/pages/House-Rivers.md",
+      "by": "house rivers",
+      "itemCount": 15,
+      "type": "house"
+    },
+    {
+      "actor": "House Rolland",
+      "file": "wiki/pages/House-Rolland.md",
+      "by": "house rolland",
+      "itemCount": 19,
+      "type": "house"
+    },
+    {
+      "actor": "House Sherman",
+      "file": "wiki/pages/House-Sherman.md",
+      "by": "house sherman",
+      "itemCount": 7,
+      "type": "house"
+    },
+    {
+      "actor": "House Silverridge",
+      "file": "wiki/pages/House-Silverridge.md",
+      "by": "house silverridge",
+      "itemCount": 23,
+      "type": "house"
+    },
+    {
+      "actor": "House Songprawati",
+      "file": "wiki/pages/House-Songprawati.md",
+      "by": "house songprawati",
+      "itemCount": 10,
+      "type": "house"
+    },
+    {
+      "actor": "House Stalder",
+      "file": "wiki/pages/House-Stalder.md",
+      "by": "house stalder",
+      "itemCount": 13,
+      "type": "house"
+    },
+    {
+      "actor": "House Talmert",
+      "file": "wiki/pages/House-Talmert.md",
+      "by": "house talmert",
+      "itemCount": 13,
+      "type": "house"
+    },
+    {
+      "actor": "House Tarasovich",
+      "file": "wiki/pages/House-Tarasovich.md",
+      "by": "house tarasovich",
+      "itemCount": 24,
+      "type": "house"
+    },
+    {
+      "actor": "House Thalorin",
+      "file": "wiki/pages/House-Thalorin.md",
+      "by": "house thalorin",
+      "itemCount": 14,
+      "type": "house"
+    },
+    {
+      "actor": "House Thorn",
+      "file": "wiki/pages/House-Thorn.md",
+      "by": "house thorn",
+      "itemCount": 15,
+      "type": "house"
+    },
+    {
+      "actor": "House Upperton",
+      "file": "wiki/pages/House-Upperton.md",
+      "by": "house upperton",
+      "itemCount": 17,
+      "type": "house"
+    },
+    {
+      "actor": "House Vulgrit",
+      "file": "wiki/pages/House-Vulgrit.md",
+      "by": "house vulgrit",
+      "itemCount": 16,
+      "type": "house"
+    },
+    {
+      "actor": "House Whitestar",
+      "file": "wiki/pages/House-Whitestar.md",
+      "by": "house whitestar",
+      "itemCount": 17,
+      "type": "house"
+    },
+    {
+      "actor": "House Wycliff",
+      "file": "wiki/pages/House-Wycliff.md",
+      "by": "house wycliff",
+      "itemCount": 19,
+      "type": "house"
+    },
+    {
+      "actor": "Lady Autumn Walsh (White Star)",
+      "file": "wiki/pages/Autumn-Walsh.md",
+      "by": "autumn walsh",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Myo Songprawati",
+      "file": "wiki/pages/Myo-Songprawati.md",
+      "by": "myo songprawati",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Lyla Tarasovich-Talmert",
+      "file": "wiki/pages/Lyla-Tarasovich-Talmert.md",
+      "by": "lyla tarasovich talmert",
+      "itemCount": 37,
+      "type": "character"
+    },
+    {
+      "actor": "Nolla Holt",
+      "file": "wiki/pages/Nolla-Holt.md",
+      "by": "nolla holt",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sarah Ides Tarasovich",
+      "file": "wiki/pages/Sarah-Ides-Tarasovich.md",
+      "by": "sarah ides tarasovich",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sayan Artur Makarovich",
+      "file": "wiki/pages/Sayan-Artur-Makarovich.md",
+      "by": "sayan artur makarovich",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sazed",
+      "file": "wiki/pages/Sazed.md",
+      "by": "sazed",
+      "itemCount": 31,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Luis Covinggard",
+      "file": "wiki/pages/Luis-Covinggard.md",
+      "by": "luis covinggard",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Tallion Ramirez",
+      "file": "wiki/pages/Tallion-Ramirez.md",
+      "by": "tallion ramirez",
+      "itemCount": 30,
+      "type": "character"
+    },
+    {
+      "actor": "Walsink",
+      "file": "wiki/pages/Walsink.md",
+      "by": "walsink",
+      "itemCount": 0,
+      "type": "character"
+    }
+  ],
+  "created": [
+    {
+      "actor": "Abagail Trudo",
+      "file": "wiki/pages/Abagail-Trudo.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Aden Kelmons",
+      "file": "wiki/pages/Aden-Kelmons.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Adury Caragin",
+      "file": "wiki/pages/Adury-Caragin.md",
+      "itemCount": 30,
+      "type": "character"
+    },
+    {
+      "actor": "Al Rashi",
+      "file": "wiki/pages/Al-Rashi.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Alaric \"Ironhook\" Wycliff",
+      "file": "wiki/pages/Alaric-Ironhook-Wycliff.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Alfred Moser",
+      "file": "wiki/pages/Alfred-Moser.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Alfred Trester",
+      "file": "wiki/pages/Alfred-Trester.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Alistair Talmert",
+      "file": "wiki/pages/Alistair-Talmert.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Amund Henge",
+      "file": "wiki/pages/Amund-Henge.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Amund Henge",
+      "file": "wiki/pages/Amund-Henge-2.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Andrew Morrey",
+      "file": "wiki/pages/Andrew-Morrey.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Archbaron Tristin Whitestar",
+      "file": "wiki/pages/Archbaron-Tristin-Whitestar.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Archers",
+      "file": "wiki/pages/Archers.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Asim Ramirez",
+      "file": "wiki/pages/Asim-Ramirez.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Azura",
+      "file": "wiki/pages/Azura.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Bar Patron (NPC)",
+      "file": "wiki/pages/Bar-Patron-NPC.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Baron A-wut Mookjai",
+      "file": "wiki/pages/Baron-A-wut-Mookjai.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Cardenio Gabu",
+      "file": "wiki/pages/Baron-Cardenio-Gabu.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Carrick Connor Silverridge",
+      "file": "wiki/pages/Baron-Carrick-Connor-Silverridge.md",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Cristofe Martain",
+      "file": "wiki/pages/Baron-Cristofe-Martain.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Decker Wycliff",
+      "file": "wiki/pages/Baron-Decker-Wycliff.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Demetrius Upperton",
+      "file": "wiki/pages/Baron-Demetrius-Upperton.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Fredrick Derth",
+      "file": "wiki/pages/Baron-Fredrick-Derth.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Gorshi Kulak",
+      "file": "wiki/pages/Baron-Gorshi-Kulak.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Hermes Rhelrya",
+      "file": "wiki/pages/Baron-Hermes-Rhelrya.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Kendell Lamonnes",
+      "file": "wiki/pages/Baron-Kendell-Lamonnes.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Patricio Goyca",
+      "file": "wiki/pages/Baron-Patricio-Goyca.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Rey Vulgrit",
+      "file": "wiki/pages/Baron-Rey-Vulgrit.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Rogan Ceanadach",
+      "file": "wiki/pages/Baron-Rogan-Ceanadach.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Samson Polonsky",
+      "file": "wiki/pages/Baron-Samson-Polonsky.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Shaun Henge",
+      "file": "wiki/pages/Baron-Shaun-Henge.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Simon Almirn",
+      "file": "wiki/pages/Baron-Simon-Almirn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Steven Butler",
+      "file": "wiki/pages/Baron-Steven-Butler.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Talisin Thalorin",
+      "file": "wiki/pages/Baron-Talisin-Thalorin.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baron Valence Songprawati",
+      "file": "wiki/pages/Baron-Valence-Songprawati.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Donnia Vulgrit",
+      "file": "wiki/pages/Baroness-Donnia-Vulgrit.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Elisa Kulak",
+      "file": "wiki/pages/Baroness-Elisa-Kulak.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Esmeralda Goyca",
+      "file": "wiki/pages/Baroness-Esmeralda-Goyca.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Hipolita Mourningblaze",
+      "file": "wiki/pages/Baroness-Hipolita-Mourningblaze.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Luceye Martain",
+      "file": "wiki/pages/Baroness-Luceye-Martain.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Muireann Rolland",
+      "file": "wiki/pages/Baroness-Muireann-Rolland.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Sakae Songprawati",
+      "file": "wiki/pages/Baroness-Sakae-Songprawati.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Xena Upperton",
+      "file": "wiki/pages/Baroness-Xena-Upperton.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baroness Youki Thorn",
+      "file": "wiki/pages/Baroness-Youki-Thorn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Baronness Sharon Butler-Silverridge",
+      "file": "wiki/pages/Baronness-Sharon-Butler-Silverridge.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Beatrice Rivers",
+      "file": "wiki/pages/Beatrice-Rivers.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Bezukladnikov Vasiliy (Vasya) Vladimirovich",
+      "file": "wiki/pages/Bezukladnikov-Vasiliy-Vasya-Vladimirovich.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Black Alligator (Dragon Riders/Elite)",
+      "file": "wiki/pages/Black-Alligator-Dragon-Riders-Elite.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Black Tooth (Peasant Levies-Green)",
+      "file": "wiki/pages/Black-Tooth-Peasant-Levies-Green.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Blessed Eduardo Lopez",
+      "file": "wiki/pages/Blessed-Eduardo-Lopez.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Blessed Geffory Fortier",
+      "file": "wiki/pages/Blessed-Geffory-Fortier.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Bloodwave",
+      "file": "wiki/pages/Bloodwave.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Bodyguard",
+      "file": "wiki/pages/Bodyguard.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Branwen Stormrider",
+      "file": "wiki/pages/Branwen-Stormrider.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Brother Dante Martinez",
+      "file": "wiki/pages/Brother-Dante-Martinez.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Bullet",
+      "file": "wiki/pages/Bullet.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Caden Mattix-Caragin",
+      "file": "wiki/pages/Caden-Mattix-Caragin.md",
+      "itemCount": 33,
+      "type": "character"
+    },
+    {
+      "actor": "Captian Say Yaryna Igorievna",
+      "file": "wiki/pages/Captian-Say-Yaryna-Igorievna.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Captian Watt Ombo",
+      "file": "wiki/pages/Captian-Watt-Ombo.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Cardinal of the Crown Guadelupe Priston",
+      "file": "wiki/pages/Cardinal-of-the-Crown-Guadelupe-Priston.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Carlos Falks",
+      "file": "wiki/pages/Carlos-Falks.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Casimir Durand",
+      "file": "wiki/pages/Casimir-Durand.md",
+      "itemCount": 37,
+      "type": "character"
+    },
+    {
+      "actor": "Cavalry",
+      "file": "wiki/pages/Cavalry.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Charles Rivers",
+      "file": "wiki/pages/Charles-Rivers.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Claire Almirn",
+      "file": "wiki/pages/Claire-Almirn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Clapper Bell Jean-Paul",
+      "file": "wiki/pages/Clapper-Bell-Jean-Paul.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Clapper Rodegro Alvarez",
+      "file": "wiki/pages/Clapper-Rodegro-Alvarez.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Cléménte Arava",
+      "file": "wiki/pages/Clemente-Arava.md",
+      "itemCount": 30,
+      "type": "character"
+    },
+    {
+      "actor": "Coffinnails Archers-Trained",
+      "file": "wiki/pages/Coffinnails-Archers-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Cole Maccombs (Warrior)",
+      "file": "wiki/pages/Cole-Maccombs-Warrior.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Colm Ironwood",
+      "file": "wiki/pages/Colm-Ironwood.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Colton Jocala",
+      "file": "wiki/pages/Colton-Jocala.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Contessa Solara Rhelrya",
+      "file": "wiki/pages/Contessa-Solara-Rhelrya.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Contessa Zelda Crowley",
+      "file": "wiki/pages/Contessa-Zelda-Crowley.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Cormac Silverridge",
+      "file": "wiki/pages/Cormac-Silverridge.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Corwin Lehmann",
+      "file": "wiki/pages/Corwin-Lehmann.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Count Aiden Wycliff",
+      "file": "wiki/pages/Count-Aiden-Wycliff.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Count Broucha Polonsky",
+      "file": "wiki/pages/Count-Broucha-Polonsky.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Count Emmerich Bennet",
+      "file": "wiki/pages/Count-Emmerich-Bennet.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Count Hector Goycoa",
+      "file": "wiki/pages/Count-Hector-Goycoa.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Count Howard Crowley",
+      "file": "wiki/pages/Count-Howard-Crowley.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Count O’rih \"Rune Warrior\" Silverridge",
+      "file": "wiki/pages/Count-Orih-Rune-Warrior-Silverridge.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Count Sean Ceanadach",
+      "file": "wiki/pages/Count-Sean-Ceanadach.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Count Stuart Gambu",
+      "file": "wiki/pages/Count-Stuart-Gambu.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Count Tormund Mourningblaze",
+      "file": "wiki/pages/Count-Tormund-Mourningblaze.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Countess Eleanor Mourningblaze",
+      "file": "wiki/pages/Countess-Eleanor-Mourningblaze.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Countess Ramona Goyca",
+      "file": "wiki/pages/Countess-Ramona-Goyca.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Criminals",
+      "file": "wiki/pages/Criminals.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Criminals 1",
+      "file": "wiki/pages/Criminals-1.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Crusader Bruno Oscaro",
+      "file": "wiki/pages/Crusader-Bruno-Oscaro.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Crusader Tressea Gerardo",
+      "file": "wiki/pages/Crusader-Tressea-Gerardo.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Crusaders",
+      "file": "wiki/pages/Crusaders.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Crusaders",
+      "file": "wiki/pages/Crusaders-2.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Crusaders 1",
+      "file": "wiki/pages/Crusaders-1.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Crusaders 2",
+      "file": "wiki/pages/Crusaders-2-2.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Crusaders 3",
+      "file": "wiki/pages/Crusaders-3.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Daniel Eisenberg",
+      "file": "wiki/pages/Daniel-Eisenberg.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Daniel Whitestar",
+      "file": "wiki/pages/Daniel-Whitestar.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Dark Bandit from Shivions Past",
+      "file": "wiki/pages/Dark-Bandit-from-Shivions-Past.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Deva Vasic",
+      "file": "wiki/pages/Deva-Vasic.md",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Diego Ramierz",
+      "file": "wiki/pages/Diego-Ramierz.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Doamna Bree Liban",
+      "file": "wiki/pages/Doamna-Bree-Liban.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Doamna Sierra Pennington",
+      "file": "wiki/pages/Doamna-Sierra-Pennington.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Dominike Martain",
+      "file": "wiki/pages/Dominike-Martain.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Doomsail",
+      "file": "wiki/pages/Doomsail.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Douglas Sherman",
+      "file": "wiki/pages/Douglas-Sherman.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Dr Bruce Ulman",
+      "file": "wiki/pages/Dr-Bruce-Ulman.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Dragon Rider Decha Wodi",
+      "file": "wiki/pages/Dragon-Rider-Decha-Wodi.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Dragon Riders",
+      "file": "wiki/pages/Dragon-Riders.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Dragonbreader Alin Extis",
+      "file": "wiki/pages/Dragonbreader-Alin-Extis.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Durand Troop",
+      "file": "wiki/pages/Durand-Troop.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Dutchess Mederia Almirn",
+      "file": "wiki/pages/Dutchess-Mederia-Almirn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Dutchess Merida MacBavo Silverridge",
+      "file": "wiki/pages/Dutchess-Merida-MacBavo-Silverridge.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Edith",
+      "file": "wiki/pages/Edith.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "El Rashi",
+      "file": "wiki/pages/El-Rashi.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Éloïse Kulak",
+      "file": "wiki/pages/Eloise-Kulak.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Elric Henge",
+      "file": "wiki/pages/Elric-Henge.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Emil Schäfer",
+      "file": "wiki/pages/Emil-Schafer.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Emma Derth-McKain",
+      "file": "wiki/pages/Emma-Derth-McKain.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Engineers",
+      "file": "wiki/pages/Engineers.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Errol Talmert",
+      "file": "wiki/pages/Errol-Talmert.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Falling Stars (Archers-Veterans)",
+      "file": "wiki/pages/Falling-Stars-Archers-Veterans.md",
+      "itemCount": 29,
+      "type": "character"
+    },
+    {
+      "actor": "Fasingster Guard",
+      "file": "wiki/pages/Fasingster-Guard.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Fearghal Rolland",
+      "file": "wiki/pages/Fearghal-Rolland.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Fiona SIlveroak",
+      "file": "wiki/pages/Fiona-SIlveroak.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Fleas (Scouts-Dogs-Veterans)",
+      "file": "wiki/pages/Fleas-Scouts-Dogs-Veterans.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Fogwalkers Archers-Trained",
+      "file": "wiki/pages/Fogwalkers-Archers-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Francis the Elder",
+      "file": "wiki/pages/Francis-the-Elder.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Francis the Younger",
+      "file": "wiki/pages/Francis-the-Younger.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Garrison",
+      "file": "wiki/pages/Garrison.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Gaston Mourningblaze",
+      "file": "wiki/pages/Gaston-Mourningblaze.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Gearld Lamonnes",
+      "file": "wiki/pages/Gearld-Lamonnes.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "General Paz Rodrego",
+      "file": "wiki/pages/General-Paz-Rodrego.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Gogol (General)",
+      "file": "wiki/pages/Gogol-General.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Gogol (General) (Copy)",
+      "file": "wiki/pages/Gogol-General-Copy.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Goldblades (Raiders-Trained)",
+      "file": "wiki/pages/Goldblades-Raiders-Trained.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Grand Conquistador Santiago Abyaa",
+      "file": "wiki/pages/Grand-Conquistador-Santiago-Abyaa.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Gregory ap Bentil",
+      "file": "wiki/pages/Gregory-ap-Bentil.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Gregory Ybarra",
+      "file": "wiki/pages/Gregory-Ybarra.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Guerillas",
+      "file": "wiki/pages/Guerillas.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Guerillas",
+      "file": "wiki/pages/Guerillas-2.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Guerillas 1",
+      "file": "wiki/pages/Guerillas-1.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Guerillas 2",
+      "file": "wiki/pages/Guerillas-2-2.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Guerillas-Trained",
+      "file": "wiki/pages/Guerillas-Trained.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Harrick Silveroak",
+      "file": "wiki/pages/Harrick-Silveroak.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Hopebreakers (Archers-Green)",
+      "file": "wiki/pages/Hopebreakers-Archers-Green.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "House Fourtune Rolls",
+      "file": "wiki/pages/House-Fourtune-Rolls.md",
+      "itemCount": 37,
+      "type": "character"
+    },
+    {
+      "actor": "House Martain",
+      "file": "wiki/pages/House-Martain.md",
+      "itemCount": 32,
+      "type": "house"
+    },
+    {
+      "actor": "Hungry Wolves (Raiders-Trained)",
+      "file": "wiki/pages/Hungry-Wolves-Raiders-Trained.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Ian Stanley (Barkeep)",
+      "file": "wiki/pages/Ian-Stanley-Barkeep.md",
+      "itemCount": 22,
+      "type": "character"
+    },
+    {
+      "actor": "Igor Nowicki",
+      "file": "wiki/pages/Igor-Nowicki.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Infantry",
+      "file": "wiki/pages/Infantry.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Ingrid Henge",
+      "file": "wiki/pages/Ingrid-Henge.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Irma Eisenberg",
+      "file": "wiki/pages/Irma-Eisenberg.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Isaac Mason",
+      "file": "wiki/pages/Isaac-Mason.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Johans de Meer",
+      "file": "wiki/pages/Johans-de-Meer.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Jules DuPree",
+      "file": "wiki/pages/Jules-DuPree.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Julien Baptiste",
+      "file": "wiki/pages/Julien-Baptiste.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Kamil Krupa",
+      "file": "wiki/pages/Kamil-Krupa.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Karl Rhinehart",
+      "file": "wiki/pages/Karl-Rhinehart.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Kassandra Magameti",
+      "file": "wiki/pages/Kassandra-Magameti.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Kendal Sharpestone",
+      "file": "wiki/pages/Kendal-Sharpestone.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Kittisak",
+      "file": "wiki/pages/Kittisak.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Klara Baiersbruck",
+      "file": "wiki/pages/Klara-Baiersbruck.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Knight (Ashen Knight)",
+      "file": "wiki/pages/Knight-Ashen-Knight.md",
+      "itemCount": 8,
+      "type": "character"
+    },
+    {
+      "actor": "Knight (Current Squire)",
+      "file": "wiki/pages/Knight-Current-Squire.md",
+      "itemCount": 8,
+      "type": "character"
+    },
+    {
+      "actor": "Knight (Expert)",
+      "file": "wiki/pages/Knight-Expert.md",
+      "itemCount": 8,
+      "type": "character"
+    },
+    {
+      "actor": "Knight (Recently Knighted)",
+      "file": "wiki/pages/Knight-Recently-Knighted.md",
+      "itemCount": 8,
+      "type": "character"
+    },
+    {
+      "actor": "Kriindel Presralei",
+      "file": "wiki/pages/Kriindel-Presralei.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Agatha Bennet",
+      "file": "wiki/pages/Lady-Agatha-Bennet.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Augustine Martain",
+      "file": "wiki/pages/Lady-Augustine-Martain.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Bella Almirn",
+      "file": "wiki/pages/Lady-Bella-Almirn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Caroline Lambert (Talmert)",
+      "file": "wiki/pages/Lady-Caroline-Lambert-Talmert.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Clarissa Upperton",
+      "file": "wiki/pages/Lady-Clarissa-Upperton.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Cliodhna Rolland",
+      "file": "wiki/pages/Lady-Cliodhna-Rolland.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Daphne Polonsky",
+      "file": "wiki/pages/Lady-Daphne-Polonsky.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Deva",
+      "file": "wiki/pages/Lady-Deva.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Ellen Butler",
+      "file": "wiki/pages/Lady-Ellen-Butler.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Eloisa Thorn",
+      "file": "wiki/pages/Lady-Eloisa-Thorn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Emma Lemyers (Talmert)",
+      "file": "wiki/pages/Lady-Emma-Lemyers-Talmert.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Halie Kristor (Covinggard)",
+      "file": "wiki/pages/Lady-Halie-Kristor-Covinggard.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Irena Polonsky",
+      "file": "wiki/pages/Lady-Irena-Polonsky.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Lidia Thalorin",
+      "file": "wiki/pages/Lady-Lidia-Thalorin.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Litlia Mookjai",
+      "file": "wiki/pages/Lady-Litlia-Mookjai.md",
+      "itemCount": 31,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Lucy Montmier",
+      "file": "wiki/pages/Lady-Lucy-Montmier.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Mercy Talmert",
+      "file": "wiki/pages/Lady-Mercy-Talmert.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Morgana Ceanadach",
+      "file": "wiki/pages/Lady-Morgana-Ceanadach.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Nastasiya Vulgrit",
+      "file": "wiki/pages/Lady-Nastasiya-Vulgrit.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Nicole Lamonnes-MacBavo",
+      "file": "wiki/pages/Lady-Nicole-Lamonnes-MacBavo.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Oliva Pearstone",
+      "file": "wiki/pages/Lady-Oliva-Pearstone.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Regena Macbeth (Whitestar)",
+      "file": "wiki/pages/Lady-Regena-Macbeth-Whitestar.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Rhonda Ferguson (Pearlstone)",
+      "file": "wiki/pages/Lady-Rhonda-Ferguson-Pearlstone.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Sara Montmier",
+      "file": "wiki/pages/Lady-Sara-Montmier.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Shannon Del Mori (Bellkind)",
+      "file": "wiki/pages/Lady-Shannon-Del-Mori-Bellkind.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Shima Songprawati",
+      "file": "wiki/pages/Lady-Shima-Songprawati.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Taunya Bennet (Montmier)",
+      "file": "wiki/pages/Lady-Taunya-Bennet-Montmier.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Ursla Silverridge  neé Henge",
+      "file": "wiki/pages/Lady-Ursla-Silverridge-nee-Henge.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Valentina Arago",
+      "file": "wiki/pages/Lady-Valentina-Arago.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lady Veronika Kulak",
+      "file": "wiki/pages/Lady-Veronika-Kulak.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Learned Alushee Valdithas",
+      "file": "wiki/pages/Learned-Alushee-Valdithas.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Learned Dralan Perzana",
+      "file": "wiki/pages/Learned-Dralan-Perzana.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Learned Emmanuel Nazaro",
+      "file": "wiki/pages/Learned-Emmanuel-Nazaro.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Learned Juan Diego",
+      "file": "wiki/pages/Learned-Juan-Diego.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Learned Lady Agnes Martain",
+      "file": "wiki/pages/Learned-Lady-Agnes-Martain.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Leon Blackwood",
+      "file": "wiki/pages/Leon-Blackwood.md",
+      "itemCount": 35,
+      "type": "character"
+    },
+    {
+      "actor": "Lisa Ferguson",
+      "file": "wiki/pages/Lisa-Ferguson.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Local Scouts",
+      "file": "wiki/pages/Local-Scouts.md",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Local Scouts 1",
+      "file": "wiki/pages/Local-Scouts-1.md",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Local Scouts 2",
+      "file": "wiki/pages/Local-Scouts-2.md",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Lord Charles Montmier",
+      "file": "wiki/pages/Lord-Charles-Montmier.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Lord Enzo Graisti",
+      "file": "wiki/pages/Lord-Enzo-Graisti.md",
+      "itemCount": 22,
+      "type": "character"
+    },
+    {
+      "actor": "Lord of Chance Jean Baptiste Cote",
+      "file": "wiki/pages/Lord-of-Chance-Jean-Baptiste-Cote.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Lord Timothy White-Star",
+      "file": "wiki/pages/Lord-Timothy-White-Star.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Lord Titus Covinggard",
+      "file": "wiki/pages/Lord-Titus-Covinggard.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Maisy Freehold",
+      "file": "wiki/pages/Maisy-Freehold.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Marcellus Antonius",
+      "file": "wiki/pages/Marcellus-Antonius.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Marquis Francis Bellkind (Bellkind)",
+      "file": "wiki/pages/Marquis-Francis-Bellkind-Bellkind.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Master of the Guard Knight Wanda Bentil",
+      "file": "wiki/pages/Master-of-the-Guard-Knight-Wanda-Bentil.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Master of the Hunt Vikasheva Valya Borisovna",
+      "file": "wiki/pages/Master-of-the-Hunt-Vikasheva-Valya-Borisovna.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Matty",
+      "file": "wiki/pages/Matty.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Megan Mourningblaze",
+      "file": "wiki/pages/Megan-Mourningblaze.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Mercenaries",
+      "file": "wiki/pages/Mercenaries.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Mercy's Voice Archers-Green",
+      "file": "wiki/pages/Mercys-Voice-Archers-Green.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Miriam Wycliff",
+      "file": "wiki/pages/Miriam-Wycliff.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Mistress of Silks Hathor Chloros",
+      "file": "wiki/pages/Mistress-of-Silks-Hathor-Chloros.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Montross Oldar (Bard)",
+      "file": "wiki/pages/Montross-Oldar-Bard.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Moon Scales (Dragon Riders/Elite)",
+      "file": "wiki/pages/Moon-Scales-Dragon-Riders-Elite.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Naomi Rivers",
+      "file": "wiki/pages/Naomi-Rivers.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Nathan Freehold",
+      "file": "wiki/pages/Nathan-Freehold.md",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Natila Baiersbruck",
+      "file": "wiki/pages/Natila-Baiersbruck.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Nightmare Blades (Scouts-Green)",
+      "file": "wiki/pages/Nightmare-Blades-Scouts-Green.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Octivia Freehold-Mattix",
+      "file": "wiki/pages/Octivia-Freehold-Mattix.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Oleg Makarovich",
+      "file": "wiki/pages/Oleg-Makarovich.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Oliwier Sobczak",
+      "file": "wiki/pages/Oliwier-Sobczak.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Otto Baiersbruck",
+      "file": "wiki/pages/Otto-Baiersbruck.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Peacekeeper Noel Lombardo",
+      "file": "wiki/pages/Peacekeeper-Noel-Lombardo.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Peasant Believers",
+      "file": "wiki/pages/Peasant-Believers.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Peasant Believers 1",
+      "file": "wiki/pages/Peasant-Believers-1.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Peasant Believers 2",
+      "file": "wiki/pages/Peasant-Believers-2.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Peasant Believers 3",
+      "file": "wiki/pages/Peasant-Believers-3.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Peasant Believers 4",
+      "file": "wiki/pages/Peasant-Believers-4.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Peasant Levies",
+      "file": "wiki/pages/Peasant-Levies.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Personal Guards",
+      "file": "wiki/pages/Personal-Guards.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Personal Guards-Veterans",
+      "file": "wiki/pages/Personal-Guards-Veterans.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Peter MacBravo",
+      "file": "wiki/pages/Peter-MacBravo.md",
+      "itemCount": 27,
+      "type": "character"
+    },
+    {
+      "actor": "Phakorn Sepo",
+      "file": "wiki/pages/Phakorn-Sepo.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Phoenix Wind",
+      "file": "wiki/pages/Phoenix-Wind.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Pierre Lambert",
+      "file": "wiki/pages/Pierre-Lambert.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Pirate Archer",
+      "file": "wiki/pages/Pirate-Archer.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Pirate Crew Member",
+      "file": "wiki/pages/Pirate-Crew-Member.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Pokari",
+      "file": "wiki/pages/Pokari.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Raiders",
+      "file": "wiki/pages/Raiders.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Raiders-Trained",
+      "file": "wiki/pages/Raiders-Trained.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Rainfall Killers (Archers/Green)",
+      "file": "wiki/pages/Rainfall-Killers-Archers-Green.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Rajan Kapor",
+      "file": "wiki/pages/Rajan-Kapor.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Ranveig Henge",
+      "file": "wiki/pages/Ranveig-Henge.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Raven’s Spear",
+      "file": "wiki/pages/Ravens-Spear.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Red Alligator (Dragon Riders/Veterans)",
+      "file": "wiki/pages/Red-Alligator-Dragon-Riders-Veterans.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Redhoofs (Cavalry-Green)",
+      "file": "wiki/pages/Redhoofs-Cavalry-Green.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Reimleath Wyncyne",
+      "file": "wiki/pages/Reimleath-Wyncyne.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Reynard Dubois",
+      "file": "wiki/pages/Reynard-Dubois.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Rhiannon O'Brian",
+      "file": "wiki/pages/Rhiannon-OBrian.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Ridi Onarus",
+      "file": "wiki/pages/Ridi-Onarus.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Rin of Clan Startail",
+      "file": "wiki/pages/Rin-of-Clan-Startail.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Rin of Clan Startail",
+      "file": "wiki/pages/Rin-of-Clan-Startail-2.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Ringer Philip Nokum",
+      "file": "wiki/pages/Ringer-Philip-Nokum.md",
+      "itemCount": 29,
+      "type": "character"
+    },
+    {
+      "actor": "Ringer Richard Osray",
+      "file": "wiki/pages/Ringer-Richard-Osray.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Roman Stalder",
+      "file": "wiki/pages/Roman-Stalder.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Rope Spiders (Sailors-Trained)",
+      "file": "wiki/pages/Rope-Spiders-Sailors-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Roughriders (Dragon Riders/Elite) (Copy)",
+      "file": "wiki/pages/Roughriders-Dragon-Riders-Elite-Copy.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Rudolf Baiersbruck",
+      "file": "wiki/pages/Rudolf-Baiersbruck.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Saffron Bandit Archers",
+      "file": "wiki/pages/Saffron-Bandit-Archers.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Saffron Bandit Archers 1",
+      "file": "wiki/pages/Saffron-Bandit-Archers-1.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Saffron Bandit Archers 2 (Vets)",
+      "file": "wiki/pages/Saffron-Bandit-Archers-2-Vets.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Saffron Bandit Archers 3",
+      "file": "wiki/pages/Saffron-Bandit-Archers-3.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Saffron Priests",
+      "file": "wiki/pages/Saffron-Priests.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Saffron Templars Infantry",
+      "file": "wiki/pages/Saffron-Templars-Infantry.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Saffron Templars Infantry 1",
+      "file": "wiki/pages/Saffron-Templars-Infantry-1.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Sailors",
+      "file": "wiki/pages/Sailors.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Satine Wycliff",
+      "file": "wiki/pages/Satine-Wycliff.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Scouts",
+      "file": "wiki/pages/Scouts.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Seadrake",
+      "file": "wiki/pages/Seadrake.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Serafina Drakefang-Ramirez",
+      "file": "wiki/pages/Serafina-Drakefang-Ramirez.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Shadow Guards (Special-Veteran)",
+      "file": "wiki/pages/Shadow-Guards-Special-Veteran.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Shadow Walker",
+      "file": "wiki/pages/Shadow-Walker.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Shivon Silverridge",
+      "file": "wiki/pages/Shivon-Silverridge.md",
+      "itemCount": 31,
+      "type": "character"
+    },
+    {
+      "actor": "Shoshna Siverridge",
+      "file": "wiki/pages/Shoshna-Siverridge.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sicarius Newborn",
+      "file": "wiki/pages/Sicarius-Newborn.md",
+      "itemCount": 30,
+      "type": "character"
+    },
+    {
+      "actor": "Silver Kraken",
+      "file": "wiki/pages/Silver-Kraken.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Silveroak Archers",
+      "file": "wiki/pages/Silveroak-Archers.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Adrian Becker (Rivers)",
+      "file": "wiki/pages/Sir-Adrian-Becker-Rivers.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Sir and Lady Lorenzo and Maria Goycoa",
+      "file": "wiki/pages/Sir-and-Lady-Lorenzo-and-Maria-Goycoa.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Archibald Foster",
+      "file": "wiki/pages/Sir-Archibald-Foster.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Arun Songprawati",
+      "file": "wiki/pages/Sir-Arun-Songprawati.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Ciaran Rolland",
+      "file": "wiki/pages/Sir-Ciaran-Rolland.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Darren Rolland",
+      "file": "wiki/pages/Sir-Darren-Rolland.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Dominike Martain",
+      "file": "wiki/pages/Sir-Dominike-Martain.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Eildree Leary (Graisti)",
+      "file": "wiki/pages/Sir-Eildree-Leary-Graisti.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Finn Ceanadach",
+      "file": "wiki/pages/Sir-Finn-Ceanadach.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Havaida Mookjai",
+      "file": "wiki/pages/Sir-Havaida-Mookjai.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Howard Lamonnes",
+      "file": "wiki/pages/Sir-Howard-Lamonnes.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Jacob Almirn",
+      "file": "wiki/pages/Sir-Jacob-Almirn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Kindcaid Silverridge",
+      "file": "wiki/pages/Sir-Kindcaid-Silverridge.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Matteo Lombardo",
+      "file": "wiki/pages/Sir-Matteo-Lombardo.md",
+      "itemCount": 19,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Maxim Vulgrit",
+      "file": "wiki/pages/Sir-Maxim-Vulgrit.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Pablo Goyca",
+      "file": "wiki/pages/Sir-Pablo-Goyca.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Peter Upperton",
+      "file": "wiki/pages/Sir-Peter-Upperton.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Raynard Svendsen",
+      "file": "wiki/pages/Sir-Raynard-Svendsen.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Rhys Bennet (Montmier)",
+      "file": "wiki/pages/Sir-Rhys-Bennet-Montmier.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Rory Silverridge",
+      "file": "wiki/pages/Sir-Rory-Silverridge.md",
+      "itemCount": 30,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Sariel Rose (Rivers)",
+      "file": "wiki/pages/Sir-Sariel-Rose-Rivers.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Sergiy Vulgrit",
+      "file": "wiki/pages/Sir-Sergiy-Vulgrit.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Setanta Ceanadach",
+      "file": "wiki/pages/Sir-Setanta-Ceanadach.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Timothy Kulak",
+      "file": "wiki/pages/Sir-Timothy-Kulak.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Timothy Lamonnes",
+      "file": "wiki/pages/Sir-Timothy-Lamonnes.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Tod Stone (Silverridge)",
+      "file": "wiki/pages/Sir-Tod-Stone-Silverridge.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sir Victor Ramirez",
+      "file": "wiki/pages/Sir-Victor-Ramirez.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sister Aine Horan",
+      "file": "wiki/pages/Sister-Aine-Horan.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sofiya Baranova",
+      "file": "wiki/pages/Sofiya-Baranova.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sora of Clan Maj",
+      "file": "wiki/pages/Sora-of-Clan-Maj.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Sorrowrain Archers-Trained",
+      "file": "wiki/pages/Sorrowrain-Archers-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Sovereign Ides Lev Tarasovich",
+      "file": "wiki/pages/Sovereign-Ides-Lev-Tarasovich.md",
+      "itemCount": 36,
+      "type": "character"
+    },
+    {
+      "actor": "Special",
+      "file": "wiki/pages/Special.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Squire Kiet Dokoi",
+      "file": "wiki/pages/Squire-Kiet-Dokoi.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Starla Derth",
+      "file": "wiki/pages/Starla-Derth.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Stefan Smirnov (Covinggard)",
+      "file": "wiki/pages/Stefan-Smirnov-Covinggard.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Support",
+      "file": "wiki/pages/Support.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Support-Green",
+      "file": "wiki/pages/Support-Green.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Swordbreakers (Infantry/Veteran) {With Dogs}",
+      "file": "wiki/pages/Swordbreakers-Infantry-Veteran-With-Dogs.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Syas Ruim (Almern)",
+      "file": "wiki/pages/Syas-Ruim-Almern.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Taegan Derth",
+      "file": "wiki/pages/Taegan-Derth.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Taniwah (Guerillas/Green)",
+      "file": "wiki/pages/Taniwah-Guerillas-Green.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Teressa Wycliff",
+      "file": "wiki/pages/Teressa-Wycliff.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Than Resplo",
+      "file": "wiki/pages/Than-Resplo.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "The Black Band (Garrison-Green) (DISBANDED)",
+      "file": "wiki/pages/The-Black-Band-Garrison-Green-DISBANDED.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "The Firebirds (Archers-Elite)",
+      "file": "wiki/pages/The-Firebirds-Archers-Elite.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "The Gold Blades",
+      "file": "wiki/pages/The-Gold-Blades.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "The Sharks (Sailors-Veteran)",
+      "file": "wiki/pages/The-Sharks-Sailors-Veteran.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "The Wave Reapers (Sailors-Veterans)",
+      "file": "wiki/pages/The-Wave-Reapers-Sailors-Veterans.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "Theobold Byrd",
+      "file": "wiki/pages/Theobold-Byrd.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "thing",
+      "file": "wiki/pages/thing.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Treebeards (Scouts-Trained)",
+      "file": "wiki/pages/Treebeards-Scouts-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Trident’s Wrath",
+      "file": "wiki/pages/Tridents-Wrath.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Tristan Boucher",
+      "file": "wiki/pages/Tristan-Boucher.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Tristian Freehold",
+      "file": "wiki/pages/Tristian-Freehold.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Tristin Whitestar",
+      "file": "wiki/pages/Tristin-Whitestar.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Valdriel Olaralei",
+      "file": "wiki/pages/Valdriel-Olaralei.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Viscount Dale Thorn",
+      "file": "wiki/pages/Viscount-Dale-Thorn.md",
+      "itemCount": 1,
+      "type": "character"
+    },
+    {
+      "actor": "Viscount Somchai Frick (Almirn)",
+      "file": "wiki/pages/Viscount-Somchai-Frick-Almirn.md",
+      "itemCount": 23,
+      "type": "character"
+    },
+    {
+      "actor": "War Beetle",
+      "file": "wiki/pages/War-Beetle.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "War Beetle 1 (Trained)",
+      "file": "wiki/pages/War-Beetle-1-Trained.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "War Beetle 2 (Green)",
+      "file": "wiki/pages/War-Beetle-2-Green.md",
+      "itemCount": 26,
+      "type": "character"
+    },
+    {
+      "actor": "Warship",
+      "file": "wiki/pages/Warship.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Warships",
+      "file": "wiki/pages/Warships.md",
+      "itemCount": 22,
+      "type": "character"
+    },
+    {
+      "actor": "Watchdogs (Special-Magi-Dogs-Trained)",
+      "file": "wiki/pages/Watchdogs-Special-Magi-Dogs-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Water Knights (Special Magi-Elite)",
+      "file": "wiki/pages/Water-Knights-Special-Magi-Elite.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Whale",
+      "file": "wiki/pages/Whale.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Whitestar Knights",
+      "file": "wiki/pages/Whitestar-Knights.md",
+      "itemCount": 24,
+      "type": "character"
+    },
+    {
+      "actor": "Whitestones (Special Magi-Trained)",
+      "file": "wiki/pages/Whitestones-Special-Magi-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Widowwoods Archers-Trained",
+      "file": "wiki/pages/Widowwoods-Archers-Trained.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Windriders (Cavalry-Green)",
+      "file": "wiki/pages/Windriders-Cavalry-Green.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Wispers-Archers-Green",
+      "file": "wiki/pages/Wispers-Archers-Green.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Xilmylla Balzorwyn",
+      "file": "wiki/pages/Xilmylla-Balzorwyn.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Yitzach (General)",
+      "file": "wiki/pages/Yitzach-General.md",
+      "itemCount": 25,
+      "type": "character"
+    },
+    {
+      "actor": "Zain Forester",
+      "file": "wiki/pages/Zain-Forester.md",
+      "itemCount": 21,
+      "type": "character"
+    },
+    {
+      "actor": "Zhihao Hainan",
+      "file": "wiki/pages/Zhihao-Hainan.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Zhihao Hainan",
+      "file": "wiki/pages/Zhihao-Hainan-2.md",
+      "itemCount": 0,
+      "type": "character"
+    },
+    {
+      "actor": "Zoologist Thanya Suda",
+      "file": "wiki/pages/Zoologist-Thanya-Suda.md",
+      "itemCount": 0,
+      "type": "character"
+    }
+  ],
+  "errors": [],
+  "actorsWithFoundryNotes": 92,
+  "noteFieldsImported": [
+    "personalHistory",
+    "allies",
+    "enemies",
+    "oaths",
+    "motto",
+    "motivation",
+    "goal",
+    "distinguishingFeatures",
+    "mannerisms",
+    "vice",
+    "ancestries"
+  ]
+}

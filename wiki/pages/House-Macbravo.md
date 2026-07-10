@@ -2,8 +2,9 @@
 category: organization
 type: organization
 name: House Macbravo
-summary: "Leader of the House: Heir: Liege: Founding: First Bellringer Crusade
-  Motto: By the Stars Grace"
+summary: >-
+  Leader of the House: Heir: Liege: Founding: First Bellringer Crusade Motto: By
+  the Stars Grace
 tags:
   - faction
   - noble-house
@@ -16,6 +17,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Silverridge
+title: House Macbravo
 ---
 
 Name: House Macbravo
@@ -45,3 +47,47 @@ With determination and shrewdness, House MacBravo seeks to rise above their curr
 ## Allegiance
 
 Liege: [[House-Silverridge|House Silverridge]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 9 |
+| Defense Total | 9 |
+| Defense Invested | 0 |
+| Influence StartingValue | 21 |
+| Influence Total | 21 |
+| Influence Invested | 0 |
+| Lands StartingValue | 16 |
+| Lands Total | 16 |
+| Lands Invested | 0 |
+| Law StartingValue | 26 |
+| Law Total | 26 |
+| Law Invested | 0 |
+| Population StartingValue | 27 |
+| Population Total | 27 |
+| Population Invested | 0 |
+| Power StartingValue | 26 |
+| Power Total | 26 |
+| Power Invested | 0 |
+| Wealth StartingValue | 26 |
+| Wealth Total | 26 |
+| Wealth Invested | 0 |
+| Members Head Id | kU0RnvlpPKdX0MM0 |
+| Members Retainers 0 Id | 5WEDDvzVgngxsVw3 |
+
+### Foundry Items
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Law of the Domain
+- Mercenaries (Elite)
+- Personal Guards (Infantry/Elite)
+- Population Fortunes Modifer
+- Spy Network
+
+<!-- sword-chronicle-sheet:end -->

@@ -2,9 +2,10 @@
 category: organization
 type: organization
 name: House Upperton
-summary: "Name: House Upperton Leader of the House: Baron Demetrius Upperton
-  Heir: Lady Clarissa Upperton Liege: House Montmier Founding: Before the First
-  Bellringer Crusade"
+summary: >-
+  Name: House Upperton Leader of the House: Baron Demetrius Upperton Heir: Lady
+  Clarissa Upperton Liege: House Montmier Founding: Before the First Bellringer
+  Crusade
 tags:
   - faction
   - noble-house
@@ -17,6 +18,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Montmier
+title: House Upperton
 ---
 
 ![house_upperton](/wiki/media/house_upperton.png)
@@ -53,3 +55,52 @@ Family Members:
 ## **The Current Era**
 
 *Baron Demetirus Upperton, the current ruler, continues the legacy of his house. Married to Xena, an Esten, the union symbolizes an enduring bridge between the two cultures. Their children, Peter and Clarissa, represent the next generation of House Upperton. Peter, recently elevated to the Duke of Pearstone, shoulders the responsibility of continuing the house's martial tradition.*
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 27 |
+| Defense Total | 33 |
+| Influence StartingValue | 27 |
+| Influence Total | 30 |
+| Lands StartingValue | 28 |
+| Lands Total | 34 |
+| Law StartingValue | 22 |
+| Law Total | 24 |
+| Population StartingValue | 23 |
+| Population Total | 23 |
+| Power StartingValue | 14 |
+| Power Total | 15 |
+| Wealth StartingValue | 22 |
+| Wealth Total | 23 |
+
+### Foundry Items
+
+#### Event
+
+- Glory
+- Infrastructure
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Community, Small Town
+- Festivals
+- Garrison
+- Garrison
+- Garrison
+- Green Troops
+- Green Troops
+- Green Troops
+- Mine
+- Mountains (Terrain)
+- Road
+- Scouts
+- Small Castle
+- Trained Troops
+
+<!-- sword-chronicle-sheet:end -->

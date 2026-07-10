@@ -1,0 +1,83 @@
+---
+title: Nathan Freehold
+category: character
+visibility: gm
+approvalStatus: unapproved
+knownToPlayers: false
+source: Kingdom Divided 1 Sword Chronicle Foundry import
+portrait: Pictures/KingdomDivided/NPC%27s/Nathan%20Freehold.png
+---
+Nathan Freehold was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Age | 0 |
+| Gender | Male |
+| DestinyPoints Current | 0 |
+| DestinyPoints Max | 0 |
+| SorceryPoints Current | 0 |
+| SorceryPoints Max | 0 |
+| DerivedStats IntrigueDefense | 0 |
+| DerivedStats Composure | 0 |
+| DerivedStats Frustration | 0 |
+| DerivedStats CombatDefense | 0 |
+| DerivedStats Health | 0 |
+| DerivedStats Fatigue | 0 |
+| DerivedStats ArmorRating | 0 |
+| CurrentDisposition | 4 |
+| Movement Base | 4 |
+| Movement RunBonus | 0 |
+| Movement SprintMultiplier | 4 |
+| Movement Bulk | 0 |
+| Movement Modifier | 0 |
+| Movement Total | 0 |
+| Movement SprintTotal | 0 |
+| Height | 1.72 |
+| Weight | 70 |
+| CurrentStress | 0 |
+| Coins Coppers | 0 |
+| Coins Silvers | 0 |
+| Coins Golds | 0 |
+| Glory | 0 |
+
+### Foundry Items
+
+#### Ability
+
+- Admiralty 2
+- Agility 3
+- Animal Handling 3
+- Athletics 3
+- Awareness 2
+- Cunning 2
+- Deception 2
+- Endurance 3
+- Fighting 4
+- Healing 2
+- Knowledge 1
+- Language 2
+- Marksmanship 3
+- Nautical 2
+- Persuasion 3
+- Status 2
+- Stealth 2
+- Survival 2
+- Thievery 3
+- Warcraft 1
+- Will 2
+
+#### Weapon
+
+- Dagger
+- Fist
+- Knife
+- Knife (Thrown)
+- Long Sword
+- Stiletto
+
+<!-- sword-chronicle-sheet:end -->

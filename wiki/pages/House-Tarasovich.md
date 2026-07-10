@@ -2,9 +2,10 @@
 category: organization
 type: organization
 name: House Tarasovich
-summary: "Name: House Tarasovich Leader of the House: Heir: Sir Soverighn Ides
-  Lev Tarasovich Liege: Coalition of Shadows Founder: Ethan Dukor Founding: 247
-  S.E. Motto: ''A Torch in the Dark"
+summary: >-
+  Name: House Tarasovich Leader of the House: Heir: Sir Soverighn Ides Lev
+  Tarasovich Liege: Coalition of Shadows Founder: Ethan Dukor Founding: 247 S.E.
+  Motto: ''A Torch in the Dark
 tags:
   - faction
   - noble-house
@@ -17,6 +18,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Covinggard
+title: House Tarasovich
 ---
 
 ![house_tarasovich](/wiki/media/house_tarasovich.png)
@@ -101,3 +103,72 @@ Boris Tarasovich's name would be remembered as a symbol of resilience and unwave
 ## Allegiance
 
 Liege: [[House-Covinggard|House Covinggard]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 0 |
+| Defense Total | 11 |
+| Defense Invested | 0 |
+| Influence StartingValue | 0 |
+| Influence Total | 44 |
+| Influence Invested | 0 |
+| Lands StartingValue | 0 |
+| Lands Total | 26 |
+| Lands Invested | 0 |
+| Law StartingValue | 21 |
+| Law Total | 28 |
+| Law Invested | 0 |
+| Population StartingValue | 0 |
+| Population Total | 4 |
+| Population Invested | 0 |
+| Power StartingValue | 0 |
+| Power Total | 47 |
+| Power Invested | 0 |
+| Wealth StartingValue | 30 |
+| Wealth Total | 59 |
+| Wealth Invested | 0 |
+| Members Head Id | 6WBmwrVZ1xLjAjOM |
+| Members Steward Id | 6WBmwrVZ1xLjAjOM |
+| Members Family 0 Id | yJhkuowaemoWub42 |
+| Members Family 1 Id | qywaccNM7pwVxz8L |
+| Members Retainers 0 Id | T5QajRXMzrEPrtrF |
+| Members Retainers 1 Id | K8tWqrJKp3zORCrO |
+
+### Foundry Items
+
+#### Event
+
+- Ascent
+- Ascent
+- Ascent
+- Catastrophe
+- Conquest
+- Favor
+- Favor
+- Favor
+- Glory
+- Infrastructure
+- Madness
+- Treachery
+- Victory
+- Villian
+- Windfall
+- Windfall
+- Windfall
+
+#### Holding
+
+- Abby
+- Archers (Green)
+- Chapel
+- Court (Noble Gatherings)
+- Priest
+- Standard of Living
+- Towenhouse
+
+<!-- sword-chronicle-sheet:end -->

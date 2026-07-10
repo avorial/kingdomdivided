@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Conner Silverridge
-summary: "Name: Conner Silverridge"
+summary: 'Name: Conner Silverridge'
 tags:
   - pc
 visibility: players
@@ -16,6 +16,7 @@ relationships:
     target: Caden-Mattix
     label: parent
 parent: Allies
+title: Conner Silverridge
 ---
 
 Name: Conner Silverridge
@@ -59,3 +60,88 @@ For saving his son [[steven_butler|Steven Butler]] was offered anything in Duke 
 They both stayed in Windbreak until Conner was able to walk 3 years later and by that time, Octavia was already showing her upcoming birth. [[malcom_silverridge|Malcom Silverridge]] sent [[octavia_mattix|Octavia Mattix]] to Deerholt to have her child ([[Caden-Mattix|Caden Mattix]]), while he sent out invitations to all the eligible noblewomen he could. Over the next 2 years banquet followed ball, followed tournament, followed banquet. While many ladies from distant lands came courting, Conner was finally swept up by a young girl from [[House-Macbravo|House MacBavo]]. Merida married Connor later that year.
 
 While they tried to have children, [[merida_silverridge|Merida Silverridge]] had 2 miscarriages before their first [[carrick_silverridge|Carrick Silverridge]] was born.
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Foundry Notes
+
+#### Ancestry Notes
+
+Ferdor
+
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Age | 45 |
+| Gender | Male |
+| DestinyPoints Current | 0 |
+| DestinyPoints Max | 0 |
+| SorceryPoints Current | 0 |
+| SorceryPoints Max | 0 |
+| DerivedStats IntrigueDefense | 10 |
+| DerivedStats Composure Value 0 | 6 |
+| DerivedStats Composure Value 1 | 6 |
+| DerivedStats Composure Modifier | 0 |
+| DerivedStats Composure Current | 0 |
+| DerivedStats Frustration | 0 |
+| DerivedStats CombatDefense Value 0 | 6 |
+| DerivedStats CombatDefense Value 1 | 6 |
+| DerivedStats CombatDefense Modifier | 0 |
+| DerivedStats Health Value 0 | 6 |
+| DerivedStats Health Value 1 | 6 |
+| DerivedStats Health Modifier | 0 |
+| DerivedStats Health Current | 0 |
+| DerivedStats Fatigue | 0 |
+| DerivedStats ArmorRating | 0 |
+| DerivedStats Movement RunBonus | 0 |
+| DerivedStats Movement Total | 4 |
+| CurrentDisposition | 6 |
+| Modifiers Bulk 0 Mod | 1 |
+| Modifiers Bulk 0 IsDocument | true |
+| Movement Base | 4 |
+| Movement RunBonus | 0 |
+| Movement SprintMultiplier | 4 |
+
+### Foundry Items
+
+#### Ability
+
+- Agility 2
+- Animal Handling 2
+- Athletics 2
+- Awareness 2
+- Cunning 6
+- Deception 4
+- Endurance 2
+- Fighting 4
+- Healing 2
+- Knowledge 2
+- Language 4
+- Marksmanship 2
+- Persuasion 4
+- Status 6
+- Stealth 2
+- Survival 2
+- Thievery 2
+- Warcraft 4
+- Will 2
+
+#### Armor
+
+- Bone or Wood 4
+
+#### Benefit
+
+- Head of House
+- Knighted (Anointed)
+- Natural Leader (Leader of Men)
+- Prophetic Alignment
+
+#### Drawback
+
+- Cruel
+- Honor-Bound
+
+<!-- sword-chronicle-sheet:end -->

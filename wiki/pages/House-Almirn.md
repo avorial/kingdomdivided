@@ -2,7 +2,7 @@
 category: organization
 type: organization
 name: House Almirn
-summary: ""
+summary: ''
 tags:
   - faction
   - noble-house
@@ -17,6 +17,7 @@ keyLinks:
   - House-Tamtria
 aliases: []
 lastEditedBy: patricthomas
+title: House Almirn
 ---
 
 *House Almirn*
@@ -181,3 +182,62 @@ The oldest Saltblood records may contain evidence that the original agreement pr
 Certain factions within House Almirn believe the family should reclaim what was lost during the negotiations and restore the full Saltblood inheritance.
 
 ::
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 17 |
+| Defense Total | 31 |
+| Influence StartingValue | 7 |
+| Influence Total | 25 |
+| Lands StartingValue | 18 |
+| Lands Total | 23 |
+| Law StartingValue | 14 |
+| Law Total | 18 |
+| Population StartingValue | 25 |
+| Population Total | 24 |
+| Power StartingValue | 22 |
+| Power Total | 38 |
+| Wealth StartingValue | 18 |
+| Wealth Total | 30 |
+| Members Head Id | 3UiuZWhm6injgSdF |
+| Members Steward Id | 3UiuZWhm6injgSdF |
+| Members Heirs 0 Id | o4TOrn6nPLBCl0Ct |
+| Members Family 0 Id | uoM6r7RBmp3T8CUO |
+| Members Retainers 0 Id | bGd1N7Hzx6ew3pO8 |
+
+### Foundry Items
+
+#### Event
+
+- Catastrophe
+- Glory
+- Infrastructure
+- Madness
+- Treachery
+- Victory
+- Windfall
+- Windfall
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Artisan
+- Assassins
+- Coast
+- Community, Small Town
+- Court (Noble Gatherings)
+- Law of the Domain
+- Master of Arms
+- Population Fortunes Modifer
+- Port
+- Small Castle
+- Vassal Houses
+- Vassal Houses
+- Wetlands (Terrain)
+
+<!-- sword-chronicle-sheet:end -->

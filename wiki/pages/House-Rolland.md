@@ -2,8 +2,9 @@
 category: organization
 type: organization
 name: House Rolland
-summary: "Name: House Rolland Leader of the House: Muireann Rolland Heir: Ciaran
-  Rolland Liege: House Whitestar Founding: With Angus emerging from the Maw."
+summary: >-
+  Name: House Rolland Leader of the House: Muireann Rolland Heir: Ciaran Rolland
+  Liege: House Whitestar Founding: With Angus emerging from the Maw.
 tags:
   - faction
   - noble-house
@@ -16,6 +17,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Whitestar
+title: House Rolland
 ---
 
 ![house_rolland](/wiki/media/house_rolland.png)
@@ -69,3 +71,54 @@ As House Rolland grapples with the ongoing pirate threat, internal power struggl
 1. The Veiled Compact Deep within the ancestral halls of House Rolland lies a secret compact between Lady Rhiannon O'Brian and Captain Alaric "Ironhook" Wycliff. Despite their apparent rivalry, they have secretly formed an alliance, working together to ensure the survival and prosperity of Northton. This hidden pact involves the exchange of vital information and covert coordination to weaken rival pirate factions and maintain the delicate balance of power in the region.
 2. The Lost Isle Legends whisper of a long-lost isle known as Tír na Mara, rumored to hold ancient treasures and arcane knowledge. It is said that this mystical island holds the key to unlocking the true potential of House Rolland and restoring the glory of Northton. The exact location and nature of Tír na Mara remain shrouded in mystery, waiting to be discovered by those bold enough to venture into uncharted waters.
 3. The Blood Moon's Curse Among the common folk of Northton, rumors persist of a cursed amulet known as the Blood Moon's Tear. It is believed that the tragic deaths of Killian and Asling Rolland were not mere happenstance but rather a result of the curse inflicted upon them by a rival house seeking to weaken House Rolland's influence. The identity of the house and the means to break the curse remain concealed, yet the desire for justice and retribution stirs within the hearts of House Rolland's loyal retainers.
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 22 |
+| Defense Total | 22 |
+| Influence StartingValue | 27 |
+| Influence Total | 29 |
+| Lands StartingValue | 24 |
+| Lands Total | 30 |
+| Law StartingValue | 27 |
+| Law Total | 32 |
+| Population StartingValue | 23 |
+| Population Total | 23 |
+| Power StartingValue | 18 |
+| Power Total | 24 |
+| Wealth StartingValue | 23 |
+| Wealth Total | 26 |
+
+### Foundry Items
+
+#### Event
+
+- Favor
+- Infrastructure
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Brothels
+- Coast
+- Community, Small Town
+- Garrison
+- Green Troops
+- Guerillas
+- Hall
+- Port
+- Raiders
+- Road
+- Salvage Operation (Naval)
+- Tolls
+- Trained Troops
+- Trained Troops
+- Trained Troops
+- Warships
+
+<!-- sword-chronicle-sheet:end -->

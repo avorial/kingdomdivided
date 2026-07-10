@@ -2,8 +2,9 @@
 category: organization
 type: organization
 name: House Mookjai
-summary: "Name: House House Mookjai Leader of the House: A-wut Mookjai Heir:
-  Liege: House Almern Founding: The End of The First Bellringer Crusade."
+summary: >-
+  Name: House House Mookjai Leader of the House: A-wut Mookjai Heir: Liege:
+  House Almern Founding: The End of The First Bellringer Crusade.
 tags:
   - faction
   - noble-house
@@ -16,6 +17,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Almirn
+title: House Mookjai
 ---
 
 ![house_mookjai](/wiki/media/house_mookjai.png)
@@ -73,3 +75,57 @@ Yulin Mookjai, renowned for her grace and unwavering dedication to her people, s
 ## Allegiance
 
 Liege: [[House-Almirn|House Almirn]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 29 |
+| Defense Total | 28 |
+| Influence StartingValue | 20 |
+| Influence Total | 21 |
+| Lands StartingValue | 31 |
+| Lands Total | 28 |
+| Law StartingValue | 23 |
+| Law Total | 14 |
+| Population StartingValue | 20 |
+| Population Total | 12 |
+| Power StartingValue | 18 |
+| Power Total | 20 |
+| Wealth StartingValue | 26 |
+| Wealth Total | 18 |
+| Members Servants 0 Id | QJMBOP7EkYz3tDkB |
+
+### Foundry Items
+
+#### Event
+
+- Defeat
+- Favor
+- Infrastructure
+- Invasion / Revolt
+- Scandal
+- Victory
+- Villian
+
+#### Holding
+
+- Cavalry (Moon Scales)
+- Coast
+- Community, Small Town
+- Green Troops
+- Green Troops
+- Guerillas (Taniwah)
+- Hall
+- Library
+- Out of Domain Status
+- Port
+- Timber
+- Trained Troops
+- Warships
+- Woods, Dense
+
+<!-- sword-chronicle-sheet:end -->

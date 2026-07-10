@@ -2,9 +2,10 @@
 category: organization
 type: organization
 name: House Bellkind
-summary: "Name: House Bellkind Leader of the House: Duke Zachariah Bellkind
-  Heir: Francis Bellkind Liege: House Rivers Founding: 3st Bellringer Crusade by
-  Enzio Bellkind Motto: 'We Ring True"
+summary: >-
+  Name: House Bellkind Leader of the House: Duke Zachariah Bellkind Heir:
+  Francis Bellkind Liege: House Rivers Founding: 3st Bellringer Crusade by Enzio
+  Bellkind Motto: 'We Ring True
 tags:
   - faction
   - noble-house
@@ -16,6 +17,7 @@ keyLinks:
   - House-Gubau
 aliases: []
 lastEditedBy: patricthomas via GM review
+title: House Bellkind
 ---
 
 ![house_bellkind](/wiki/media/house_bellkind.png)
@@ -130,3 +132,47 @@ The unfolding events have cast a shadow over House Bellkind, testing their resol
 
 - [[House-Goycoa|House Goycoa]]
 - [[House-Gubau|House Gubau]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 21 |
+| Defense Total | 27 |
+| Influence StartingValue | 34 |
+| Influence Total | 41 |
+| Lands StartingValue | 35 |
+| Lands Total | 36 |
+| Law StartingValue | 29 |
+| Law Total | 31 |
+| Population StartingValue | 23 |
+| Population Total | 29 |
+| Power StartingValue | 30 |
+| Power Total | 32 |
+| Wealth StartingValue | 26 |
+| Wealth Total | 37 |
+
+### Foundry Items
+
+#### Event
+
+- Windfall
+
+#### Holding
+
+- Coast
+- Community, Small Town
+- Court (Noble Gatherings)
+- Fishery
+- Hall
+- Port
+- Priest
+- Road
+- Ruin
+- Vassal Houses
+- Woods, Light
+
+<!-- sword-chronicle-sheet:end -->

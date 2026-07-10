@@ -2,9 +2,10 @@
 category: organization
 type: organization
 name: House Wycliff
-summary: "Name: House Wycliff Leader of the House: Aiden Wycliff Heir: Decker
-  Wycliff Motto: Gold hands make cold hands Domain: Esterash Liege: House
-  Silverridge Founding: 108 R.E."
+summary: >-
+  Name: House Wycliff Leader of the House: Aiden Wycliff Heir: Decker Wycliff
+  Motto: Gold hands make cold hands Domain: Esterash Liege: House Silverridge
+  Founding: 108 R.E.
 tags:
   - faction
   - noble-house
@@ -17,6 +18,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Silverridge
+title: House Wycliff
 ---
 
 ![house_wycliff](/wiki/media/house_wycliff.png)
@@ -88,3 +90,55 @@ Crest: The heraldry of House Wycliff, is a red and white, with a golden hand in 
 - Maneater (Warships/Veteran)
 - Gold Blades (Raiders/Trained)
 - Black Tooth Gang (Peasant Levies/Green)
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 25 |
+| Defense Total | 25 |
+| Influence StartingValue | 17 |
+| Influence Total | 18 |
+| Lands StartingValue | 32 |
+| Lands Total | 28 |
+| Lands Invested | 28 |
+| Law StartingValue | 9 |
+| Law Total | 5 |
+| Population StartingValue | 15 |
+| Population Total | 11 |
+| Power StartingValue | 26 |
+| Power Total | 22 |
+| Wealth StartingValue | 16 |
+| Wealth Total | 19 |
+
+### Foundry Items
+
+#### Event
+
+- Conquest
+- Defeat
+- Infrastructure
+- Madness
+- Villian
+
+#### Holding
+
+- Black Tooth (Peasent Levies/Green)
+- Coast
+- Community, Small Town
+- Garrison
+- Green Troops
+- Green Troops
+- Hall
+- Road
+- Saboteurs
+- Spy Network
+- The Gold Blades (Raiders/Trained)
+- The Maneater (Warships/Veteran)
+- Trained Troops
+- Veteran Troops
+
+<!-- sword-chronicle-sheet:end -->

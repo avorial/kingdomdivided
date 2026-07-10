@@ -2,7 +2,7 @@
 category: organization
 type: organization
 name: House Montmier
-summary: "Leader of the House: Duke Charles Montmier"
+summary: 'Leader of the House: Duke Charles Montmier'
 tags:
   - faction
   - noble-house
@@ -19,6 +19,7 @@ keyLinks:
   - House-Tsalan
 aliases: []
 lastEditedBy: patricthomas via GM review
+title: House Montmier
 ---
 
 Name: House Montmier
@@ -108,3 +109,55 @@ Exiled to the northern realms, Sara's departure paved the way for Charles and Lu
 
 - [[House-Bennet|House Bennet]]
 - [[House-Upperton|House Upperton]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 23 |
+| Defense Total | 25 |
+| Influence StartingValue | 24 |
+| Influence Total | 35 |
+| Lands StartingValue | 20 |
+| Lands Total | 39 |
+| Law StartingValue | 23 |
+| Law Total | 21 |
+| Population StartingValue | 26 |
+| Population Total | 21 |
+| Power StartingValue | 19 |
+| Power Total | 53 |
+| Wealth StartingValue | 21 |
+| Wealth Total | 35 |
+
+### Foundry Items
+
+#### Event
+
+- Ascent
+- Ascent
+- Ascent
+- Favor
+- Glory
+- Treachery
+- Villian
+- Villian
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Cavalry
+- Community, Large Town
+- Court (Noble Gatherings)
+- Elite Troops
+- Hall
+- Mountains (Terrain)
+- Personal Guards
+- Saboteurs
+- Spy Network
+- Vassal Houses
+- Veteran Troops
+
+<!-- sword-chronicle-sheet:end -->

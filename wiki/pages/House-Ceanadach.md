@@ -2,7 +2,7 @@
 category: organization
 type: organization
 name: House Ceanadach
-summary: "Name: House Ceanadach"
+summary: 'Name: House Ceanadach'
 tags:
   - faction
   - noble-house
@@ -15,6 +15,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas via GM review
 parent: House-Whitestar
+title: House Ceanadach
 ---
 
 Name: House Ceanadach
@@ -62,3 +63,52 @@ The Secret Deal: House Ceanadach has struck a clandestine alliance with the Mika
 The House of Stone: Deep within the depths of Dorhaven's vaults lies a hidden chamber, accessible only to the current head of House Ceanadach. Within this chamber stand five stone statues, representing the noble lineage of the ancient House of Stone. These statues are infused with ancient stone magic, preserving the essence of the House of Stone's rulers. House Ceanadach keeps the existence of these statues a secret, fearing that their awakening may disrupt the delicate balance of power and spark chaos in the realm.
 
 The Secret Passage: During House Ceanadach's raid on Dorhaven, they discovered a long-forgotten secret passage that bypasses the castle's formidable walls and defenses. Over the years, House Ceanadach has guarded this knowledge carefully, keeping the existence of the secret passage hidden from their rivals. The discovery of this concealed passage, if ever found by an adversary, could potentially grant them easy access to the heart of Dorhaven, making the castle vulnerable to takeover.
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 32 |
+| Defense Total | 50 |
+| Influence StartingValue | 20 |
+| Influence Total | 23 |
+| Lands StartingValue | 25 |
+| Lands Total | 25 |
+| Law StartingValue | 20 |
+| Law Total | 21 |
+| Population StartingValue | 32 |
+| Population Total | 32 |
+| Power StartingValue | 21 |
+| Power Total | 24 |
+| Wealth StartingValue | 24 |
+| Wealth Total | 24 |
+
+### Foundry Items
+
+#### Event
+
+- Glory
+- Infrastructure
+- Infrastructure
+- Infrastructure
+- Infrastructure
+
+#### Holding
+
+- "Heirs" Family Status Spread
+- Community, Small Town
+- Court (Noble Gatherings)
+- Elite Troops
+- Engineer
+- Garrison
+- Green Troops
+- Personal Guards
+- Plains (Terrain)
+- Superior Castle
+- Support
+- Veteran Troops
+
+<!-- sword-chronicle-sheet:end -->

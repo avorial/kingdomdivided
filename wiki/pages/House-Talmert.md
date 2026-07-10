@@ -2,9 +2,10 @@
 category: organization
 type: organization
 name: House Talmert
-summary: "Leader of the House: Duchess Mercy Talmert Heir: Liege: House Rivers
-  Founding: The Age of Light by Allui Banner Houses = House Rhelrya & House
-  Thalorin Minor Houses = House Coremal"
+summary: >-
+  Leader of the House: Duchess Mercy Talmert Heir: Liege: House Rivers Founding:
+  The Age of Light by Allui Banner Houses = House Rhelrya & House Thalorin Minor
+  Houses = House Coremal
 tags:
   - faction
   - noble-house
@@ -19,6 +20,7 @@ keyLinks:
   - House-Vathi-(Thaphicare)
 aliases: []
 lastEditedBy: patricthomas via GM review
+title: House Talmert
 ---
 
 Name: House Talmert
@@ -102,3 +104,48 @@ Wealth= 31
 - [[House-Coremalia|House Coremalia]]
 - [[House-Liris|House Liris]]
 - [[House-Vathi-(Thaphicare)|House Vathi (Thaphicare)]]
+
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Defense StartingValue | 30 |
+| Defense Total | 35 |
+| Influence StartingValue | 13 |
+| Influence Total | 19 |
+| Lands StartingValue | 29 |
+| Lands Total | 31 |
+| Law StartingValue | 15 |
+| Law Total | 19 |
+| Population StartingValue | 19 |
+| Population Total | 25 |
+| Power StartingValue | 30 |
+| Power Total | 39 |
+| Wealth StartingValue | 21 |
+| Wealth Total | 31 |
+
+### Foundry Items
+
+#### Event
+
+- Windfall
+
+#### Holding
+
+- Archers
+- Artisan Craftsman
+- Community, Large Town
+- Court (Noble Gatherings)
+- Crypts
+- Garrison
+- Grassland
+- Green Troops
+- Green Troops
+- Library
+- Small Castle
+- Vassal Houses
+
+<!-- sword-chronicle-sheet:end -->
