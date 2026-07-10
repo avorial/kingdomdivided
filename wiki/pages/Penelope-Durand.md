@@ -2,7 +2,7 @@
 category: character
 type: character
 name: Penelope Durand
-summary: ''
+summary: ""
 tags:
   - pc
 visibility: players
@@ -10,13 +10,14 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
-parent: Belllads-Chronicle-Player-Characters
+lastEditedBy: patricthomas
+parent: Casimir-Durand-Ramirez
 title: Penelope Durand
 ---
 
 ![penelope_durand2](/wiki/media/penelope_durand2.jpg)
-*Penelope Durand*
+
+# *Penelope Durand*
 
 <!-- sword-chronicle-sheet:start -->
 ## Sword Chronicle Sheet
