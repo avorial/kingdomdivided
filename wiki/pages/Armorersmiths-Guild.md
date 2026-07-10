@@ -12,13 +12,14 @@ knownToPlayers: true
 keyLinks:
   - The-Guilds-of-Leandan---Major-and-Minor
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 parent: The-Guilds-of-Leandan---Major-and-Minor
 ---
 
-# The Armorsmiths of the Leandan League
+# Armorsmiths of the Leandan League
 
-![armorsmiths](/wiki/media/armorsmiths.png)
+![armorsmiths](/wiki/media/armorsmiths.png) 
+
 *Badge of the Armorsmiths*
 
 **Guildmaster: **Astrid Eriksdottir (Katoite)
@@ -26,6 +27,7 @@ parent: The-Guilds-of-Leandan---Major-and-Minor
 **Minor Guilds:** Automaton, Machinist
 
 ![armorersmith_-_astrid_eriksdottir](/wiki/media/armorersmith_-_astrid_eriksdottir.jpg)
+
 *Guildmaster Astrid Eriksdottir*
 
 ---
