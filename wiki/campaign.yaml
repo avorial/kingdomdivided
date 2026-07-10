@@ -21,6 +21,8 @@ categories:
     label: Games
   - id: mechanic
     label: Mechanic
+  - id: timelines
+    label: Timelines
 visibility:
   default: gm
 approvals:
