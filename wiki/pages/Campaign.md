@@ -2,84 +2,141 @@
 category: lore
 type: lore
 name: Campaign
-summary: ""
+summary: "Overview of the three Kingdom Divided chronicles: Belllands, Leandan, and Mikado."
 tags:
   - lore
-visibility: gm
+  - campaign
+  - chronicle
+  - kingdom-divided
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
-keyLinks: []
-aliases: []
-lastEditedBy: patricthomas
+knownToPlayers: true
+keyLinks:
+  - Kingdom-Divided
+  - Belllads-Chronicle-Player-Characters
+  - Leandan-Chronicle-Player-Characters
+  - Mikado-Chronicle
+  - Mikado-Chronicle-Player-Characters
+aliases:
+  - Kingdom Divided Campaign
+  - KD Campaign
+lastEditedBy: Codex
 ---
 
 # Kingdom Divided
 
-The home page for this campaign — who's playing, what it's about, and how to plug in. Edit it like any other page.
+Kingdom Divided is a multi-chronicle campaign about inheritance, conquest, class pressure, faith, civic duty, and cultural survival. Each game looks at the same world from a different angle: the failing noble order of the Belllands, the guild republic of Leandan, and the Mikado Empire's return to crisis.
 
-## The Concept
+The three games are connected by history. The Belllands were made by crusade. Leandan was built around community, craft, and organized public life. Mikado carries its own older divine and imperial order, shaped by the Worm Gods, noble houses, Esten communities, and the title of Ai Hoku.
 
-_A paragraph on the setting, the premise, the stakes, and where the story stands right now._
+## Belllands Chronicle
 
-## System & Tone
+### Players And Characters
 
-- **Game system:** Sword Chronicle
-- **Tone:**
-- **Safety tools:**
+See [[Belllads Chronicle Player Characters]].
 
-## The Table
+- [[Caden Mattix]]
+- [[Casimir Durand-Ramirez]]
+- [[Clementie-Arava|Clementie Arava]]
+- [[Cynog Derth Kinslayer]]
+- [[Lyla Tarasovich-Talmert]]
+- [[Peter MacBravo]]
+- [[Sazed]]
+- [[Siobhán-Silverridge|Siobhan Silverridge]]
 
-_The players and the characters they run._
+### Concept
 
-| Player | Character | Role |
-| --- | --- | --- |
-|  | [[Character]] |  |
+The Belllands Chronicle is the original Kingdom Divided game. It takes place in the Belllands, a realm created when religious crusaders conquered the old Lands of Earth and Water and remade them into the domains, noble houses, and church structures that rule the country now.
 
-## How to Connect
+The tone is a gilded-age noble tragedy. The Empire still has an Emperor, courts, bureaucrats, peacekeepers, and a central faith, but the machinery is corrupt and overextended. Great houses protect their own interests. The poor are desperate. The Saffron Society and other popular movements are rising. The old religious order of the Bellringer is no longer enough to hold the country together.
 
-- **Web app:** this site — sign in and open this campaign.
-- **GitHub:** the campaign repo (see the "Open GitHub" button in the header).
-- **AI / MCP:** mint a token under **GM Admin → tokens**, then point your MCP client at this campaign.
+The starting focus is House Silverridge and the people around it: heirs, allies, retainers, political marriages, mercenaries, teachers, and friends of a major house caught in a country that is beginning to split open.
 
-## Key NPCs & Factions
+### Plot Overview
 
-- [[NPC]] —
+The Belllands plot begins with local noble problems and grows into national crisis. House politics, court expectation, marriage alliances, inheritance, religious pressure, and class violence all pull at the characters at once.
 
-## House Rules
+The early frame is personal and dynastic: who House Silverridge can trust, who can be married or bargained into alliance, what old family obligations still matter, and how each character fits inside the machinery of noble power. As the story widens, the party confronts the larger rot in the Belllands: corrupt imperial administration, church dominance, hidden Pelist sympathies, revolt among the poor, and noble houses that cannot cooperate even when the realm needs them to.
 
--
+This chronicle is about people born close to power discovering that power is brittle. The players are not outside adventurers saving a stable kingdom; they are part of the structure that is failing, and every solution risks deepening the divide.
 
-## Where We Are Now
+## Leandan Chronicle
 
-_Current location, active goals, and looming threats._
+### Players And Characters
 
-## Timeline
+See [[Leandan Chronicle Player Characters]].
 
--
+- [[Violet-Cossaboon|Violet Cossaboon]]
+- [[Sebastian-Luc-Benois|Sebastian Luc Benois]]
+- [[Mercer-Templeton|Mercer Templeton]]
+- [[Cadwalader]]
 
-:::gm
-GM-only campaign notes: the truth behind the concept, secret clocks, and long-game plans.
-:::
-# Concept
+### Concept
 
-Kingdom Divided takes place in a country called the Belllands. Over 500 years ago a religious crusade came and conquered these lands, making them in to the domains and noble houses you see today. While there is a central government it is corrupt, and has pushed the country in to a proletariat revolt. The general feel is a gilded age failing where those already in power are pushing to get more while others lose.
+The Leandan Chronicle shifts Kingdom Divided away from hereditary Belllands nobility and into [[The Leandan League]]: a civic, guild-driven society built around public service, unity, legacy, elected authority, craft, and crystal-powered industry.
 
-1. **Magic: **While there is magic and supernatural creatures in the world, each generation it becomes less and less. You are now at a point where there is the crazy witch in the wood, or the court appointed wizard they are not common. (think about as common as wargs in GoT)
-2. **Gender Roles:** There is not a Tabboo about women fighting as there has been in our world. But because of much easier ways to earn a living most female combatants are specialist, archers, spies, ect. Almost never front line troops.
-3. **Politics:** The head of the country is an Emperor. They come from a family line, but it is not entirety unknown to have a major civil war remove an Emperor, (Its is called they lost their "Majestic Grace"). The Emperor's court appoints  bureaucrats, peacekeepers, and has a standing army to keep the peace, but they have grown corrupt and petty, leading to the rise of families being the key power in regions, but unable to have power on a nationwide scale. :Category:Great Houses
-4. **Education:** Education only occurs from rich people paying traveling teachers, or a method known as The Tested. The Tested is mostly for poor people who can elect to go to a school for the government. Each time they wish to rise in a rank of education, they have to take a test, failure in the test means death. At the last level of 5 tests even those that pass are made infertile.  (Both men and women are allowed in this, but only the most dedicated reach the higher ranks) If a person reaches this 5 rank though they have a guarantee of a position in the noble courts, and are the largest group in the Imperial Courts.
-5. **Faith:** Religion in the country is seen more as an overwhelming god who influences the world in a song of his own hearing. Terrible times are know as a "ringing of a bell". Great heroes, and scions of families are believed to be in the court of this god and can come back to earth to do good or evil things. Church of the Bells There are also those dark spirits, who try to make disharmony, as well as nature spirits who hold no alliance. There are rumors of other gods as well who thrive far away from this land that is protected by the bell.
-6. **Technology:** There is metalworking to the point of steel, but there are ancient methods using creatures long dead that make better weapons, (ala dragonscale armor ect.) Basic chemistry is known by the experts but you would not get more then most fireworks now. "bombs" are more Firestarter's then explosives. And are only used by specialists. Horse riding is common by those who can afford it as well are palanquins for reasonable prices for distanced travel, Enclosed carriages are really only seen in the north where the constant rain makes the hassle worthwile. There is siege weapons, (but still starving out a castle is a more common way of beating it vs breaking a wall down).
-7. **Concentration of the Populus: **Cities, Almost every few miles there will be a small farming village, of about 20 buildings. Then about a day away there are larger towns of about 50 buildings and commonly a walled city, Above that  you only have Major regional capitals exist    with about 100 to 200 buildings in their walls. There is no "great" city that is 4 or 5 times better then any regional capital. :Category:Cities
-8. **Class Wealth: **Poverty is extreme. most of the population will never see more then their next meal. To get out of that people either join up with a great house, take the tests or turn to becoming an outlaw. The "middle classes" are all the crafters or employees of the great houses or the Imperial Seat. As poverty and corruption as become rapant many poor people put their support behind a populus uprising called the Saffron Society
-9. **Races:** There are 5 Races or "ancestries" they are more common genetic traits, then fully another race. :Category:Ancestry
-10. **Geography: **The Lands of the Bell Ringer, is an island continent about the size of China on earth. The most of the people actually came and conquered this land but it was a very long time ago 750 years. Only the Enisen where native to this land. About that time a grand canal was built though the middle of the country. There are island nations off the coast but other then for trading most people do not bother with them due to social conflict that they believe other faiths. There is also a lot of piracy off the coasts.
-11. **Starting Players:** You will be playing movers and shakers of a major house known as House Silverridge . The system has a concept of how old you are, changing the balance of the game, (more skills for older people, more "merits" for younger) . Some of you might be in the line of the noble house, while others mercenaries, Teachers or even other lesser noble friends.)
+Leandan is organized around the number three. It is ruled by three Chancellors, supported by councils of guild leadership, and governed locally through a balance of governor, marshal, and guild representation. Its culture prizes work, usefulness, craft, public obligation, and the belief that a community succeeds only when its neighbors can succeed with it.
 
-## Key External Links
+Where the Belllands Chronicle is about a failing aristocracy, Leandan is about an organized republic trying to preserve abundance, civic identity, and practical power in a world surrounded by older empires, religious wounds, and magical danger.
 
-- [Foundry VTT Game Link](http://foundry.avorial.com:30000/game)
-- [Discord Chat Game Link](https://discord.gg/4QwZDdEwpp)
-- [Family Tree of the Nobles of the Belllands](https://familyecho.com/?p=CKS9B&c=48fdirwo5r&f=150428219125211719)
-- [“Podcast” of Kingdom Divided](https://castbox.fm/app/castbox/player/id5032702?v=8.22.11&autoplay)
-- [“Podcast” of the Leandan Adventures](https://castbox.fm/channel/Kingdom-Divided-%22Leandan%22-(Burning-Wheel)-id5895571?country=us)
+### Plot Overview
+
+The Leandan plot centers on a society of guilds, provinces, crafts, and political bargains. The characters move through a country whose power does not come from bloodline alone, but from institutions: Armorersmiths, Jewelers, Shipwrights, Scribes, Physicians, Farmers, Harmony, and the many minor guilds that keep the League functional.
+
+The player group is tightly tied to craft, money, status, crime, and guild obligation. Violet Cossaboon is a Welvart jeweler and gemist whose loyalty to the [[Jewelers-Guild|Jewelers Guild]] is bound up with family redemption. Sebastian Luc Benois brings artisan training, forgery, clockwork thinking, and a need to make a future with the person he loves. Mercer Templeton, also known as Peck, is a Quintill confidence man who treats exits, money, and family as survival tools. Cadwalader is a careful Quintill professional with a criminal past, useful hands, and a protective instinct toward children.
+
+The major tension is whether Leandan's civic structure can survive contact with the same forces pulling the rest of the world apart. The League has wealth, crystals, industry, airships, automata, and a deep belief in public service, but those strengths create new vulnerabilities. Guild politics can be as sharp as noble politics. Technology and crystal wealth invite espionage. Protectorates like Corai and Corumia tie Leandan directly to the Mikado frontier.
+
+The Leandan Chronicle asks the Kingdom Divided question from the opposite direction: not "can the old nobility endure?" but "can a more modern, organized society stay humane and unified when power, scarcity, and foreign pressure start pushing on it?"
+
+## Mikado Chronicle
+
+### Players And Characters
+
+See [[Mikado Chronicle Player Characters]].
+
+- [[Diogenes]]
+- [[Lorena]]
+- [[Mei Ling]]
+- [[Nikos]]
+- [[Rina]]
+- [[Thorn]]
+
+### Concept
+
+The [[Mikado Chronicle]] follows Mikado nobles, Esten allies, and Bellringer-connected escorts after political crisis forces them out of the Belllands and back toward the [[Mikado Empire]].
+
+Mikado is not simply a foreign enemy. It is an empire shaped by the Worm Gods, changed bodies, terraforming, noble houses, Esten-descended communities, and the title of Ai Hoku: the Star Eater, a pressure valve for military and political ambition. The chronicle asks what happens when characters defined by exile, prophecy, faith, assassination, scholarship, and reform have to return to a homeland already under strain.
+
+The Mikado game is about identity under pressure: Mikado identity, Esten identity, Belllands fear of Mikado power, and the question of whether old imperial structures can respond to a threat that may already be inside them.
+
+### Plot Overview
+
+The Mikado arc begins with exile from the Belllands. After the Casamante and Covingard crisis, the party and their staff are removed from the Belllands for political survival. If Mikado landings or war panic begin, every Mikado person in the country could become a target.
+
+The journey home quickly becomes unstable. The party travels by river and sea, deals with Covingard protection, pirates, shipboard politics, Esten superstitions, and a Mikado warship, then chooses to approach Mikado lands through [[Lumia]].
+
+In Lumia, the game becomes a layered political and supernatural crisis. The region is Esten-majority but under Mikado authority, and the party has to decide when to work through prefects, local Esten leaders, house connections, or their own judgment. Leads about Leandan diggers, House Hanan papers, illegal movement, and Obsidian influence point toward something larger than local unrest.
+
+The deeper plot is the return of the [[Obsidian Taint]] and the House of Obsidian and Shadow. Shadows, reflections, masks, possession-like unity, and stolen identity become signs of an old threat waking again. House Tobe moves, House Hanan hides, the Imperial House may be compromised, and the party ends the arc with the Mikado Empire in crisis rather than restored.
+
+## How The Three Games Fit Together
+
+- Belllands shows the old aristocratic order failing from within.
+- Leandan shows an organized civic society trying to build a different answer.
+- Mikado shows the foreign and exiled side of the Belllands' fears, with its own faith, houses, wounds, and existential threat.
+
+Together, the three games make Kingdom Divided less a single campaign about one party and more a world in fracture: noble bloodlines, guild citizenship, divine politics, class revolt, old conquest, and new supernatural danger all pushing toward the same question of what survives when a kingdom's inherited story stops working.
+
+## Core Pages
+
+- [[Kingdom Divided]]
+- [[Belllads Chronicle Player Characters]]
+- [[Leandan Chronicle Player Characters]]
+- [[The Leandan League]]
+- [[The Guilds of Leandan - Major and Minor]]
+- [[Mikado Chronicle]]
+- [[Mikado Chronicle Timeline]]
+- [[Mikado Chronicle Player Characters]]
+- [[Bellringer Crusades]]
+- [[Church of the Bells]]
