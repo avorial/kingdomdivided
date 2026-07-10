@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Xander Wong
-summary: "Mayor of Davin, the storm-struck Corumia village where the Leandan party lands after the hurricane."
+summary: Mayor of Davin, the storm-struck Corumia village where the Leandan
+  party lands after the hurricane.
 tags:
   - npc
   - leandan
@@ -14,8 +15,8 @@ keyLinks:
   - Davin
 aliases:
   - Mayor Xander Wong
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas
+parent: Leandan-NPCs
 ---
 
 # Xander Wong
