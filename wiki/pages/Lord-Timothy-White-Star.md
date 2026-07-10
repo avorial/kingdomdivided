@@ -9,11 +9,11 @@ approvalStatus: unapproved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas
 title: Lord Timothy White-Star
 source: Kingdom Divided 1 Sword Chronicle Foundry import
 portrait: Pictures/KingdomDivided/NPC%27s/Lord%20Timothy%20White-Star.jpg
-parent: Belllads-Chronicle-Player-Characters
+parent: Siobhán-Silverridge
 ---
 
 Lord Timothy White-Star was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data.
