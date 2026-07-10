@@ -13,8 +13,9 @@ keyLinks:
   - Sebastian-Luc-Benois
   - Mercer-Templeton
   - Cadwalader
+  - Leandan-Chronicle
 aliases: []
-lastEditedBy: Codex via Foundry import
+lastEditedBy: Codex from Leandan transcripts
 ---
 
 # Leandan Chronicle Player Characters
@@ -31,6 +32,13 @@ lastEditedBy: Codex via Foundry import
 - The Leandan Chronicle characters are built from Burning Wheel source sheets, but their pages are written as wiki-facing campaign records.
 - The [[Jewelers-Guild|Jewelers Guild]] is a recurring pressure point for this group.
 - [[Quintill]] and [[Welvart]] culture both matter to the party's political and social position.
+- The transcript often renders [[Cadwalader]] as Caldwell, Coldwater, Caldwalder, or similar variants.
+
+## Chronicle Pages
+
+- [[Leandan Chronicle]]
+- [[Leandan Chronicle Timeline]]
+- [[Game Sessions Leandan League]]
 
 ## Secrets
 

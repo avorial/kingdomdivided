@@ -16,6 +16,8 @@ keyLinks:
   - Kingdom-Divided
   - Belllads-Chronicle-Player-Characters
   - Leandan-Chronicle-Player-Characters
+  - Leandan-Chronicle
+  - Leandan-Chronicle-Timeline
   - Mikado-Chronicle
   - Mikado-Chronicle-Player-Characters
 aliases:
@@ -140,6 +142,8 @@ Together, the three games make Kingdom Divided less a single campaign about one 
 - [[Kingdom Divided]]
 - [[Belllads Chronicle Player Characters]]
 - [[Leandan Chronicle Player Characters]]
+- [[Leandan Chronicle]]
+- [[Leandan Chronicle Timeline]]
 - [[The Leandan League]]
 - [[The Guilds of Leandan - Major and Minor]]
 - [[Mikado Chronicle]]

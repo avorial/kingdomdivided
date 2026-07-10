@@ -13,8 +13,12 @@ knownToPlayers: true
 keyLinks:
   - Jewelers-Guild
   - Quintill
-aliases: []
-lastEditedBy: Codex via Foundry import
+aliases:
+  - Caldwell
+  - Coldwater
+  - Caldwalder
+  - Called Wilder
+lastEditedBy: Codex from Leandan transcripts
 parent: Leandan-Chronicle-Player-Characters
 relationships:
   - type: connected-to
