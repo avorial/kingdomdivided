@@ -68,6 +68,7 @@ drawbacks:
 equipment:
   - "\"Adair\" Coursers (War Horse)"
   - "Mysteries of the Ruins of Windbreak (Book)"
+  - "Thick Dress 1 (spare armour)"
 appearance:
   features: "Copper Red Hair, Pretty"
 history: "Spends: 1 Reputation (Reputation 1B) and 1 Empathy) (Empathy 2B) - 20 XP Spend : 1 Status (XP Spend 2) - 30 XP 1 Status (XP Spend 2 - Jun 27, 2023) - 30 XP"

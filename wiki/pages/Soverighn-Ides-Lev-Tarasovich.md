@@ -74,6 +74,8 @@ drawbacks:
 equipment:
   - "\"Adair\" Coursers (War Horse)"
   - "Mysteries of the Ruins of Windbreak (Book)"
+  - "Plate 10 (spare armour)"
+  - "Thick Dress 1 (spare armour)"
 history: "The Blue Temple Guard of the Traveler's Temple - Sov removed his helmet and kept it to \"research\"."
 notes: "CurrentDisposition: 3"
 ```

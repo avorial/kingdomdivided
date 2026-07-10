@@ -26,6 +26,71 @@ When he was 17, he joined the local garrison. He soon grew frustrated of constan
 
 Now established, he sends almost all of his money to his mother, who has established herself as a madam of a major brothel. Penelope, know often called Penelope the Peach, works for her, which Casimir is glad for. He wishes he could write better to regularly write them, but unfortunately can not. Casimir dreams of conquering a land and receiving a noble house the way his ancestor Emer Ramirez did. But the Crusades all to often were just raids, with little true land gained. As he gets older, he has started to get frustrated over the lack of true reward over all of his efforts and sacrifice. Despite that, he always does his best to defeat his enemies decisively.
 
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
+
+```sword-chronicle-sheet
+name: "Casimir Durand-Ramirez"
+age: 29
+gender: "Male"
+portrait: "casimir_durand.jpg"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 3
+  "Athletics": 4
+  "Awareness": 3
+  "Cunning": 3
+  "Deception": 3
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 2
+  "Knowledge": 2
+  "Language": 2
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 4
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 4
+  "Will": 3
+armor:
+  name: "Breastplate"
+  rating: 5
+  penalty: 0
+attacks:
+  - name: "Knife"
+  - name: "Long Sword"
+  - name: "Shield"
+  - name: "Tourney Lance"
+  - name: "War Lance"
+qualities: ["Blood of Ferdors"]
+benefits:
+  - "Blood of the Ferdors"
+  - "Inspiring"
+  - "Natural Leader (AKA Cadre)"
+  - "Pious"
+drawbacks:
+  - "Cursed (REMOVED)"
+  - "Haunted"
+equipment:
+  - "Coursers (War Horse)"
+  - "Noble's Garb (Normal) 0 (spare armour)"
+  - "Plate 10 (spare armour)"
+  - "Splint 7 (spare armour)"
+motto: "A well led pack of wolves can slay the greatest of prey"
+appearance:
+  mannerisms: "Strokes beard when thinking, mutters to himself when thinking"
+  features: "Long red hair, beard, various scars"
+notes: "Motivation: Gain status | Goal: Glory | Vice: Loves to spend time with women, especially professionals | CurrentDisposition: 4"
+```
+
+<details>
+<summary>Foundry import data</summary>
+
 #### Allies
 
 Anna (Mother)
@@ -164,4 +229,5 @@ Blood of Ferdors
 - Tourney Lance
 - War Lance
 
+</details>
 <!-- sword-chronicle-sheet:end -->

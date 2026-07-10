@@ -22,13 +22,72 @@ abilities: []
 
 # Caden Mattix
 
-Character Data
+<!-- sword-chronicle-sheet:start -->
+## Sword Chronicle Sheet
 
-Age	20
-Gender	M
+```sword-chronicle-sheet
+name: "Caden Mattix"
+age: 20
+gender: "M"
+portrait: "caden_mattix2.png"
+destiny: 0
+abilities:
+  "Admiralty": 2
+  "Agility": 3
+  "Animal Handling": 5
+  "Athletics": 3
+  "Awareness": 4
+  "Cunning": 3
+  "Deception": 3
+  "Endurance": 3
+  "Fighting": 4
+  "Healing": 3
+  "Knowledge": 2
+  "Language": 3
+  "Marksmanship": 2
+  "Nautical": 2
+  "Persuasion": 3
+  "Status": 3
+  "Stealth": 2
+  "Survival": 2
+  "Thievery": 2
+  "Warcraft": 3
+  "Will": 3
+armor:
+  name: "Plate"
+  rating: 10
+  penalty: 0
+attacks:
+  - name: "Greatsword"
+  - name: "Long Sword"
+  - name: "Net Buckler (Special)"
+  - name: "Shadow Spear (Legendary)"
+  - name: "Shield, Large"
+  - name: "Tourney Lance"
+  - name: "War Lance"
+benefits:
+  - "Blood of the Ferdors"
+  - "Tough"
+drawbacks:
+  - "Nemesis"
+equipment:
+  - "Rounseys (War Horse)"
+```
 
-Foundry Items
-- Ability
+<details>
+<summary>Foundry import data</summary>
+
+### Character Data
+
+| Field | Value |
+| --- | --- |
+| Age | 20 |
+| Gender | M |
+
+### Foundry Items
+
+#### Ability
+
 - Admiralty 2
 - Agility 3
 - Animal Handling 5
@@ -50,18 +109,26 @@ Foundry Items
 - Thievery 2
 - Warcraft 3
 - Will 3
-- Armor
+
+#### Armor
+
 - Plate 10
 
- Benefit
+#### Benefit
+
 - Blood of the Ferdors
 - Tough
-- Drawback
+
+#### Drawback
+
 - Nemesis
 
-Equipment
+#### Equipment
+
 - Rounseys (War Horse)
-- Weapon
+
+#### Weapon
+
 - Greatsword
 - Long Sword
 - Net Buckler (Special)
@@ -69,3 +136,6 @@ Equipment
 - Shield, Large
 - Tourney Lance
 - War Lance
+
+</details>
+<!-- sword-chronicle-sheet:end -->

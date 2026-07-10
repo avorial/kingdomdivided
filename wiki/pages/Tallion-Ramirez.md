@@ -63,6 +63,8 @@ benefits:
 drawbacks:
   - "Lascivious"
   - "Supreme Arrogance"
+equipment:
+  - "Ring 4 (spare armour)"
 notes: "CurrentDisposition: 2"
 ```
 

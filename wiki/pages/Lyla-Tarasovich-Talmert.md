@@ -73,6 +73,8 @@ drawbacks:
   - "Honor-Bound"
 equipment:
   - "\"Graece\" Palfreys (Horse)"
+  - "Noble's Garb (Excellent) 0 (spare armour)"
+  - "Umbra Armor (Symbol of Saline) 9 (spare armour)"
 appearance:
   features: "Albino"
 history: "Cadre, Herderly 1"

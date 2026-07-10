@@ -55,6 +55,8 @@ armor:
 attacks:
   - name: "Battle Axe"
 damage: 8
+equipment:
+  - "Brigandine 8 (spare armour)"
 notes: "CurrentDisposition: 5"
 ```
 
