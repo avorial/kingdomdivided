@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Chabat
-summary: "A Lumia city built in or around a previously erupted volcano and one of the first major Mikado Chronicle hubs."
+summary: A Lumia city built in or around a previously erupted volcano and one of
+  the first major Mikado Chronicle hubs.
 tags:
   - location
   - lumia
@@ -12,6 +13,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
+lastEditedBy: patricthomas via bulk edit
+parent: Countries-In-the-Heartstone
 ---
 
 # Chabat

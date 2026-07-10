@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
+parent: Countries-In-the-Heartstone
 ---
 
 title: Roguemark

@@ -12,7 +12,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
+parent: Countries-In-the-Heartstone
 ---
 
 Hrimfax Cay is a independent domain of 2 islands of the eastern coast of the Bell Lands.
