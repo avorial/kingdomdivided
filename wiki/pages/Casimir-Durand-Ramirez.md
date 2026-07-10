@@ -10,9 +10,10 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
+lastEditedBy: patricthomas
 parent: Belllads-Chronicle-Player-Characters
 ---
 
-![casimir_durand](/wiki/media/casimir_durand.jpg)
+![casimir_durand](/wiki/media/casimir_durand.jpg) 
+
 *Casimir Durand-Ramirez*
