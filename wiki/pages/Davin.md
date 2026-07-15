@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Davin
-summary: "Storm-struck village in the Protectorate of Corumia where the Victory lands after the hurricane."
+summary: Storm-struck village in the Protectorate of Corumia where the Victory
+  lands after the hurricane.
 tags:
   - location
   - leandan
@@ -15,8 +16,8 @@ keyLinks:
   - The-Victory
   - Kempenfelt
 aliases: []
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas
+parent: Countries-In-the-Cestona
 ---
 
 # Davin
