@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T13:17:11.594Z",
+  "generatedAt": "2026-07-15T13:45:49.571Z",
   "pages": [
     {
       "id": "organization-17th-Hussars",
@@ -11164,21 +11164,6 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Intelligence-Agencies"
-    },
-    {
-      "id": "lore-The-Solar-System",
-      "title": "The Solar System",
-      "path": "wiki/pages/The-Solar-System.md",
-      "type": "lore",
-      "tags": [
-        "lore"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "While every child knows of Oh, from the star gods tears, and the worm gods breaking him up. Only the educated understand how each of the parts of Oh, became the spheres in the nigh",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
     },
     {
       "id": "lore-The-Story-of-Allui-Klebor",
