@@ -2,7 +2,7 @@
 category: location
 type: location
 name: Hodong
-summary: "Port or region near the end of Saltblood territory on the Cape of Farisi."
+summary: Port or region near the end of Saltblood territory on the Cape of Farisi.
 tags:
   - location
   - leandan
@@ -15,8 +15,8 @@ keyLinks:
   - Kempenfelt
 aliases:
   - Hadong
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas
+parent: Countries-In-the-Cestona
 ---
 
 # Hodong
