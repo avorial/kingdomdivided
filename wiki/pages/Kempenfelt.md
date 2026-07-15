@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Kempenfelt
-summary: "Heller giant-crewed ship that carries the Leandan party toward Hodong and Farisi after Ronan is treated."
+summary: Heller giant-crewed ship that carries the Leandan party toward Hodong
+  and Farisi after Ronan is treated.
 tags:
   - ship
   - leandan
@@ -16,8 +17,8 @@ keyLinks:
   - Valens
 aliases:
   - Kempenfeldt
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas
+parent: Countries-In-the-Cestona
 ---
 
 # Kempenfelt
