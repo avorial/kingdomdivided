@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Farisi
-summary: "Gem-rich Leandan region tied to the Jewelers Guild, Smiths, sea shipping, and airship traffic."
+summary: Gem-rich Leandan region tied to the Jewelers Guild, Smiths, sea
+  shipping, and airship traffic.
 tags:
   - location
   - leandan
@@ -17,8 +18,8 @@ keyLinks:
 aliases:
   - Frisii
   - Ferrisi
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas
+parent: Countries-In-the-Cestona
 ---
 
 # Farisi
