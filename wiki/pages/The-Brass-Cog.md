@@ -2,7 +2,8 @@
 category: location
 type: location
 name: The Brass Cog
-summary: "Senex inn where Matthew Rousseau gathers the Leandan party for the first Jewelers Guild job."
+summary: Senex inn where Matthew Rousseau gathers the Leandan party for the
+  first Jewelers Guild job.
 tags:
   - location
   - leandan
@@ -15,8 +16,8 @@ keyLinks:
   - Leandan-Chronicle
 aliases:
   - Brass Cog
-lastEditedBy: Codex from Leandan transcripts
-parent: Leandan-Chronicle
+lastEditedBy: patricthomas
+parent: Countries-In-the-Cestona
 ---
 
 # The Brass Cog
