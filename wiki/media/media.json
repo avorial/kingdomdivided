@@ -1,11 +1,4 @@
 {
-  "wiki/media/untitled/WorldMapLanding.jpg": {
-    "alt": "Leandan Domain Map",
-    "caption": "",
-    "tags": [
-      "map"
-    ]
-  },
   "wiki/media/cadwalader.jpg": {
     "alt": "Cadwalader",
     "caption": "Leandan Chronicle PC portrait for Cadwalader.",
@@ -40,6 +33,13 @@
       "character",
       "leandan",
       "portrait"
+    ]
+  },
+  "wiki/media/WorldMapLanding.jpg": {
+    "alt": "Leandan Domain Map",
+    "caption": "",
+    "tags": [
+      "map"
     ]
   }
 }
