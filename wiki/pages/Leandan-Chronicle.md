@@ -59,11 +59,11 @@ The first six sessions carry the party from Senex to sea, through a hurricane, i
 - [[Cataclistos]]
 
 
-# Game Sessions Leandan League
+## Game Sessions Leandan League
 
 The Leandan Chronicle follows a Jewelers Guild-linked party into the politics of sky crystals, airships, guild power, and the route to [[Cataclistos]].
 
-## Session Index
+### Session Index
 
 - [[Leandan Session 01 - The Brass Cog]]
 - [[Leandan Session 02 - The Sky Crystal Job]]
@@ -72,7 +72,7 @@ The Leandan Chronicle follows a Jewelers Guild-linked party into the politics of
 - [[Leandan Session 05 - The Giant Captain]]
 - [[Leandan Session 06 - Farisi and the Airships]]
 
-## Chronicle Pages
+### Chronicle Pages
 
 - [[Leandan Chronicle]]
 - [[Leandan Chronicle Timeline]]

@@ -23,7 +23,7 @@ Age: 56
 Gender: Male  
 Ancestry: [[Paltris|Paltris]]
 
-# History
+## History
 
 Abdul Deiz de Requenaut, an esteemed knight with a storied past, has left an indelible mark on the annals of chivalry. Despite the adversities he has faced, Abdul's resilience and unwavering spirit have defined his legacy.
 
@@ -39,7 +39,7 @@ In his solitary journey, Abdul encountered a mysterious and wise wolf, a creatur
 
 Driven by his thirst for retribution and aided by his loyal wolf companion, Abdul Deiz de Requenaut travels the land, seeking the means to finally confront and defeat Leon Blackwood. His journey is one of perseverance, sacrifice, and unwavering determination, as he battles against all odds to restore honor to his fallen protégé and achieve the justice he so passionately seeks.
 
-# Secret
+## Secret
 
 In his early years as a squire, Abdul found himself in a moment of desperation and weakness. He yearned for victory in a crucial tournament, a triumph that would solidify his reputation and bring honor to his name. It was during this time that he made a fateful decision: he struck a forbidden pact with the worm god, Umbraeus. In exchange for his soul, Abdul was granted unparalleled skill, strength, and an indomitable presence on the tournament field.
 

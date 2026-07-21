@@ -241,3 +241,5 @@ Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10.
 - Wetlands (Terrain)
 
 <!-- sword-chronicle-sheet:end -->
+
+:::
