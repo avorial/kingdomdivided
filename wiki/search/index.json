@@ -17,6 +17,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "The 17th Hussars, is a primary unit of the Montimerian knights, a member of the order of Ashen Knights. Rituals and Traditions. 1. Every Morning they sing a song, this is a penance for attacking a Bellringer Nunnery. 2. At Regimental Dinners they “drink” a cup of ashes, in memory of the founder of M"
@@ -36,6 +37,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -60,10 +62,13 @@
     "links": [
       "Paltris"
     ],
+    "playerLinks": [
+      "Paltris"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
-    "excerpt": "# Abdul Deiz de Requenaut ![abdul_deiz_de_requena portrait](/wiki/media/abdul_deiz_de_requena.png) Title: Sir Age: 56 Gender: Male Ancestry: [[Paltris|Paltris]] # History Abdul Deiz de Requenaut, an esteemed knight with a storied past, has left an indelible mark on the annals of chivalry. Despite th"
+    "excerpt": "# Abdul Deiz de Requenaut ![abdul_deiz_de_requena portrait](/wiki/media/abdul_deiz_de_requena.png) Title: Sir Age: 56 Gender: Male Ancestry: [[Paltris|Paltris]] ## History Abdul Deiz de Requenaut, an esteemed knight with a storied past, has left an indelible mark on the annals of chivalry. Despite t"
   },
   {
     "id": "4:Aden-Kelmons",
@@ -80,6 +85,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -104,6 +110,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercer-Templeton",
+      "Violet-Cossaboon"
+    ],
+    "playerLinks": [
       "Mercer-Templeton",
       "Violet-Cossaboon"
     ],
@@ -134,6 +144,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -161,6 +172,10 @@
       "Davin",
       "Farisi"
     ],
+    "playerLinks": [
+      "Davin",
+      "Farisi"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Leandan-NPCs",
@@ -181,6 +196,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -201,6 +217,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "House-Rolland"
     ],
@@ -223,6 +240,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -243,6 +261,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -263,6 +282,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -285,6 +305,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Allies ## Public Face ## Relationships ## Secrets"
@@ -304,6 +325,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-47-(5-30-23)"
     ],
@@ -326,6 +348,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -348,6 +371,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -368,6 +392,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -390,6 +415,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "In the morning Lyla Silverridge is sent a letter from Soverighn Ides Lev Tarasovich asking her to prepare for the wedding, a letter is also sent to Rory Silverridge. As they are preparing for the wedding Ridi Onarus is caught by house guards, with a package. He gives it to Caden Mattix. Inside is ar"
@@ -412,6 +438,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -438,6 +467,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -473,6 +503,20 @@
       "francis_bellkind",
       "House-Whitestar"
     ],
+    "playerLinks": [
+      "Fedor",
+      "House-Whitestar",
+      "House-Silverridge",
+      "Timothy-Whitestar",
+      "Timothy-Whitestar",
+      "House-Whitestar",
+      "rory_silverridge",
+      "francis_bellkind",
+      "House-Bellkind",
+      "House-Whitestar",
+      "francis_bellkind",
+      "House-Whitestar"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -495,6 +539,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# The Origin of the Avestan In the primordial silence following the Calming of the Spheres, the worm gods had sedated Oh and broken his will, leaving the spheres connected only by ley lines. It was during this time that the Avestan, the first race to awaken, emerged from the soil of the heart. Unlik"
@@ -516,6 +561,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -536,6 +582,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -556,6 +603,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -576,6 +624,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -596,6 +645,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -616,6 +666,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -636,6 +687,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -656,6 +708,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -676,6 +729,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -696,6 +750,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -716,6 +771,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -736,6 +792,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -756,6 +813,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -776,6 +834,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -796,6 +855,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -816,6 +876,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -836,6 +897,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -856,6 +918,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -876,6 +939,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -896,6 +960,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -916,6 +981,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -936,6 +1002,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -956,6 +1023,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -976,6 +1044,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -996,6 +1065,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1016,6 +1086,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1036,6 +1107,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1056,6 +1128,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1076,6 +1149,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1096,6 +1170,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1116,6 +1191,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1136,6 +1212,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1158,6 +1235,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Belllads Chronicle Player Characters ## Public Face ## Relationships ## Secrets"
@@ -1179,6 +1257,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Belllands NPCs ## Public Face ## Relationships ## Secrets"
@@ -1200,6 +1279,53 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Graisti",
+      "House-Covinggard",
+      "House-Rivers",
+      "House-Montmier",
+      "House-Whitestar",
+      "Esten-Kings",
+      "Esten-Kings",
+      "Esten-Kings",
+      "Esten-Kings",
+      "house_talmart",
+      "House-Graisti",
+      "House-Covinggard",
+      "House-Rivers",
+      "Esten-Kings",
+      "House-Graisti",
+      "Esten-Kings",
+      "House-Covinggard",
+      "Bellringer-Crusades",
+      "Bellringer-Crusades",
+      "Esten-Kings",
+      "House-Rivers",
+      "House-Covinggard",
+      "Bellringer-Crusades",
+      "Esten-Kings",
+      "House-Rivers",
+      "House-Rivers",
+      "Esten-Kings",
+      "House-Covinggard",
+      "Esten-Kings",
+      "House-Rivers",
+      "House-Covinggard",
+      "House-Rivers",
+      "House-Covinggard",
+      "Esten-Kings",
+      "Esten-Kings",
+      "House-Rivers",
+      "Bellringer-Crusades",
+      "House-Montmier",
+      "Esten-Kings",
+      "Bellringer-Crusades",
+      "Bellringer-Crusades",
+      "House-Whitestar",
+      "house_talmart",
+      "Bellringer-Crusades",
+      "house_talmart"
+    ],
+    "playerLinks": [
       "House-Graisti",
       "House-Covinggard",
       "House-Rivers",
@@ -1275,6 +1401,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "The roar of the seas seemed to echo the tumultuous nature of the Crusader Wars against the Mikado Empire. The conflict had persisted for ages, a relentless struggle between powers vying for religious dominance. Ten years ago, amidst the ebb and flow of this ceaseless war, a defining moment unfolded—"
@@ -1296,6 +1423,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "These are added to the Kingdom Divided world above and beyond the ones listed in the main SC book. # Benefits ## Ability ## Ancestry - Blood of the Enisen - There is a strong debate, if the Enisen are the oldest race, or the youngest (having come from some other world.) The pure blood of their kind,"
@@ -1315,6 +1443,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1335,6 +1464,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1355,6 +1485,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1377,6 +1508,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-47-(5-30-23)",
       "Session-48-(6-13-23)",
@@ -1406,6 +1538,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1428,6 +1561,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "In the annals of history, the origins of the Crusader Wars, a tumultuous era that fractured the unity of the Constellation of Stars, are often obscured by the passage of time. Yet, within the labyrinth of forgotten narratives, there lies a tale that sparked the flames of conflict—a tale centered aro"
@@ -1450,6 +1584,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -1478,6 +1615,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1505,6 +1643,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The Victory",
+      "Sarah Van Jansen",
+      "Farisi",
+      "Cataclistos"
+    ],
+    "playerLinks": [
       "The Victory",
       "Sarah Van Jansen",
       "Farisi",
@@ -1540,6 +1684,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1563,6 +1708,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cities-of-the-Bellands"
     ],
@@ -1587,6 +1733,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Conner-Silverridge",
       "Conner-Silverridge",
@@ -1633,6 +1780,10 @@
       "Quintill",
       "Jewelers-Guild"
     ],
+    "playerLinks": [
+      "Quintill",
+      "Jewelers-Guild"
+    ],
     "backlinks": [
       "Leandan-Chronicle",
       "Leandan-Chronicle-Player-Characters",
@@ -1673,6 +1824,9 @@
     "links": [
       "Farisi"
     ],
+    "playerLinks": [
+      "Farisi"
+    ],
     "backlinks": [
       "Leandan-Session-06-Farisi-and-the-Airships"
     ],
@@ -1698,6 +1852,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1718,6 +1873,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1738,6 +1894,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1758,6 +1915,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1780,6 +1938,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -1806,6 +1965,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The Leandan League",
+      "Farisi",
+      "Jewelers Guild",
+      "Shipwrights Guild"
+    ],
+    "playerLinks": [
       "The Leandan League",
       "Farisi",
       "Jewelers Guild",
@@ -1854,6 +2019,10 @@
       "Lumia",
       "Obsidian Taint"
     ],
+    "playerLinks": [
+      "Lumia",
+      "Obsidian Taint"
+    ],
     "backlinks": [
       "Chabat-Obsidian-Coliseum",
       "Diogenes",
@@ -1896,6 +2065,10 @@
       "Chabat",
       "Obsidian Taint"
     ],
+    "playerLinks": [
+      "Chabat",
+      "Obsidian Taint"
+    ],
     "backlinks": [
       "Mikado-Session-05-Chabat-Underworld"
     ],
@@ -1924,6 +2097,9 @@
     "links": [
       "Mercenary-Bands"
     ],
+    "playerLinks": [
+      "Mercenary-Bands"
+    ],
     "backlinks": [
       "Mercenary-Bands"
     ],
@@ -1950,6 +2126,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "getting-started"
     ],
@@ -1971,6 +2148,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -1994,6 +2172,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Conner-Silverridge"
     ],
@@ -2024,6 +2203,12 @@
       "Butterhill",
       "Greenmarble"
     ],
+    "playerLinks": [
+      "Deerholt",
+      "windbreak",
+      "Butterhill",
+      "Greenmarble"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "- Rivers - Rivercliff - Arta - Snowspell - Oldwyn (Capital) - Bauron - Icehaven - Eythra - Ganymede - Silverridge - Esterash - Bellmore - Faymill - [[Deerholt|Deerholt]] - [[windbreak|Windbreak]](Capital) - Whitestar - Bridgevale (Capital) - Northton - Dorhaven - Silveroak - Hedgehill - Aldmoor - As"
@@ -2043,6 +2228,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2063,6 +2249,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2083,6 +2270,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2103,6 +2291,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -2125,6 +2314,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Allies",
@@ -2145,6 +2335,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2165,6 +2356,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2185,6 +2377,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2233,6 +2426,33 @@
       "merida_silverridge",
       "carrick_silverridge"
     ],
+    "playerLinks": [
+      "Fedor",
+      "House-Silverridge",
+      "merida_silverridge",
+      "carrick_silverridge",
+      "Caden-Mattix",
+      "rory_silverridge",
+      "sharon_butler",
+      "kincade_silverridge",
+      "malcom_silverridge",
+      "steven_butler",
+      "steven_butler",
+      "malcom_silverridge",
+      "Church-of-the-Bells",
+      "mikado",
+      "steven_butler",
+      "bruce_ulman",
+      "octavia_mattix",
+      "steven_butler",
+      "sharon_butler",
+      "malcom_silverridge",
+      "octavia_mattix",
+      "Caden-Mattix",
+      "House-Macbravo",
+      "merida_silverridge",
+      "carrick_silverridge"
+    ],
     "backlinks": [
       "Timeline-of-the-Bellands"
     ],
@@ -2255,6 +2475,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2275,6 +2496,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2295,6 +2517,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2315,6 +2538,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2335,6 +2559,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2355,6 +2580,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2375,6 +2601,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2395,6 +2622,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2415,6 +2643,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2435,6 +2664,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2455,6 +2685,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2475,6 +2706,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2495,6 +2727,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2515,6 +2748,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2535,6 +2769,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2559,6 +2794,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercenary-Bands"
+    ],
+    "playerLinks": [
       "Mercenary-Bands"
     ],
     "backlinks": [
@@ -2587,6 +2825,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Empires of Cestona ## Kadal the Undying Lands ### Origins and Ascendancy The Empire of Kadal traces its origins to the dawn of civilization on Cestona, a sphere resonating with arcane energies. The Avestan, the first race to awaken after the calming of the spheres, established a strict and hierarc"
@@ -2608,6 +2847,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "title: Countries In the Heartstone published: true htmlCountries In the Heartstone | Kingdom Divided There are a few major countries in the heartstone. 1. Kadal the Undying Lands 1. They are the ancient empire that was the first that awoke after O death. They ruled the entire sphere until the Heartb"
@@ -2627,6 +2867,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2647,6 +2888,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2670,6 +2912,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -2709,6 +2954,18 @@
       "Welvart",
       "Zafroff"
     ],
+    "playerLinks": [
+      "Fedor",
+      "Helior",
+      "Katoites",
+      "Paltris",
+      "Quintill",
+      "Saltblood",
+      "Thao",
+      "Thrani",
+      "Welvart",
+      "Zafroff"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Cultures Cultures of Humans found in Kingdom Divided. - Avestan -- A dusky skinned people who are renowned to be the slavers of Kadal - Dannu -- An old culture who are blessed by the star gods, most commonly living in Fygor - Esten -- The people of the trees, an albino people who have lost their g"
@@ -2730,6 +2987,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -2750,6 +3008,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2770,6 +3029,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2790,6 +3050,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2814,6 +3075,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The Victory",
+      "Kempenfelt",
+      "Xander Wong",
+      "Nadia",
+      "Roya"
+    ],
+    "playerLinks": [
       "The Victory",
       "Kempenfelt",
       "Xander Wong",
@@ -2856,6 +3124,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cities-of-the-Bellands"
     ],
@@ -2881,6 +3150,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "Deipa is the god of smoke an incense. The she is very inclusive."
@@ -2904,6 +3174,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercenary-Bands"
+    ],
+    "playerLinks": [
       "Mercenary-Bands"
     ],
     "backlinks": [
@@ -2930,6 +3203,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2950,6 +3224,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2972,6 +3247,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -2997,6 +3273,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mikado Chronicle",
+      "Thorn",
+      "Lumia",
+      "Chabat",
+      "Esten",
+      "House Lulumia",
+      "Obsidian Taint"
+    ],
+    "playerLinks": [
       "Mikado Chronicle",
       "Thorn",
       "Lumia",
@@ -3042,6 +3327,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3062,6 +3348,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3082,6 +3369,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3102,6 +3390,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3122,6 +3411,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3142,6 +3432,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3162,6 +3453,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3182,6 +3474,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3202,6 +3495,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3222,6 +3516,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3242,6 +3537,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3274,6 +3570,13 @@
       "Lumia",
       "Esten Sovereignty in Mikado"
     ],
+    "playerLinks": [
+      "Chabat",
+      "Lumia",
+      "Chabat",
+      "Lumia",
+      "Esten Sovereignty in Mikado"
+    ],
     "backlinks": [
       "Mikado-Session-02-Lumia-and-Chabat"
     ],
@@ -3296,6 +3599,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3316,6 +3620,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -3336,6 +3641,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3358,6 +3664,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "House-Ramirez",
       "Timeline-of-the-Bellands"
@@ -3381,6 +3688,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3401,6 +3709,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3423,6 +3732,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3445,6 +3755,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-49-(6-21-23)"
     ],
@@ -3467,6 +3778,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3489,6 +3801,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Diogenes"
     ],
@@ -3512,6 +3825,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Esten-Kings",
+      "House-Thalorin",
+      "house_talmart",
+      "house_vathi",
+      "Fall-of-the-Angalaglassi"
+    ],
+    "playerLinks": [
       "Esten-Kings",
       "House-Thalorin",
       "house_talmart",
@@ -3567,6 +3887,11 @@
       "Esten Sovereignty in Mikado",
       "Lumia"
     ],
+    "playerLinks": [
+      "Mikado Sea Passage",
+      "Esten Sovereignty in Mikado",
+      "Lumia"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Esten Sea Shanty The Mikado Chronicle transcripts include a short Esten sea shanty connected to the sea passage and Lumia sessions. ## Fragment White sails rise, ready where eyes keep. Carry us home through the sorrowful deep. The oars beat hollow, the tide runs black. The stars of our fathers wil"
@@ -3592,6 +3917,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mikado Empire",
+      "Lumia"
+    ],
+    "playerLinks": [
       "Mikado Empire",
       "Lumia"
     ],
@@ -3622,6 +3951,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Esten-Kings"
     ],
@@ -3650,6 +3980,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Cataclistos"
+    ],
+    "playerLinks": [
       "Cataclistos"
     ],
     "backlinks": [
@@ -3700,6 +4033,9 @@
     "links": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
+    "playerLinks": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
     "backlinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
@@ -3727,6 +4063,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Timeline-of-the-Bellands"
     ],
@@ -3749,6 +4086,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3772,6 +4110,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mercenary-Bands",
@@ -3794,6 +4133,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Legend-of-the-Maw",
+      "House-Henge"
+    ],
+    "playerLinks": [
       "Legend-of-the-Maw",
       "House-Henge"
     ],
@@ -3820,6 +4163,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Caden-Mattix",
@@ -3842,6 +4186,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercenary-Bands"
+    ],
+    "playerLinks": [
       "Mercenary-Bands"
     ],
     "backlinks": [
@@ -3868,6 +4215,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3888,6 +4236,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3908,6 +4257,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3931,6 +4281,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Cities-of-the-Bellands",
@@ -3953,6 +4304,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "*Content not available.*"
@@ -3972,6 +4324,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -3992,6 +4345,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4012,6 +4366,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4035,6 +4390,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -4063,6 +4421,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "## Star Gods Star gods are those who are formed from the tears of O, during the earliest days of this creation. They are known for having deeper knowledge but strong aspects of paranoia and jealousy. ## Deities ### Kilat The god of winds and thunder, followed by many outside the Bell Lands. Recently"
@@ -4082,6 +4441,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4105,6 +4465,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cities-of-the-Bellands"
     ],
@@ -4129,6 +4490,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4149,6 +4511,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4169,6 +4532,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Baron-Carrick-Connor-Silverridge",
@@ -4191,6 +4555,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Intelligence-Agencies"
+    ],
+    "playerLinks": [
       "Intelligence-Agencies"
     ],
     "backlinks": [
@@ -4219,6 +4586,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4241,6 +4609,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Haylee-Rhinehart-Silverridge",
       "Session-49-(6-21-23)",
@@ -4273,6 +4642,9 @@
     "links": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
+    "playerLinks": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
     "backlinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
@@ -4297,6 +4669,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4323,6 +4696,10 @@
       "Hans-Rhinehart",
       "connor_silverridge"
     ],
+    "playerLinks": [
+      "Hans-Rhinehart",
+      "connor_silverridge"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -4346,6 +4723,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Countries-In-the-Heartstone",
@@ -4368,6 +4746,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cultures-and-Races"
     ],
@@ -4395,6 +4774,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Farisi",
+      "Tiberius",
+      "Kempenfelt",
+      "Davin"
+    ],
+    "playerLinks": [
       "Farisi",
       "Tiberius",
       "Kempenfelt",
@@ -4430,6 +4815,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Concept Kingdom Divided takes place in a country called the Belllands. Over 500 years ago a religious crusade came and conquered these lands, making them in to the domains and noble houses you see today. While there is a central government it is corrupt, and has pushed the country in to a proletar"
@@ -4452,6 +4838,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Mikado"
+    ],
+    "playerLinks": [
       "House-Mikado"
     ],
     "backlinks": [
@@ -4481,6 +4870,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Mookjai",
+      "House-Songprawati",
+      "House-Menes",
+      "House-Quangban",
+      "House-Tamtria"
+    ],
+    "playerLinks": [
       "House-Mookjai",
       "House-Songprawati",
       "House-Menes",
@@ -4529,6 +4925,9 @@
     "links": [
       "House-Montmier"
     ],
+    "playerLinks": [
+      "House-Montmier"
+    ],
     "backlinks": [
       "House-Montmier",
       "Noble-Houses",
@@ -4561,6 +4960,9 @@
     "links": [
       "House-Montmier"
     ],
+    "playerLinks": [
+      "House-Montmier"
+    ],
     "backlinks": [
       "House-Montmier",
       "Noble-Houses",
@@ -4590,6 +4992,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Zachariah-Bellkind",
+      "House-Rivers",
+      "House-Goycoa",
+      "House-Gubau",
+      "House-Goycoa",
+      "House-Gubau"
+    ],
+    "playerLinks": [
       "Zachariah-Bellkind",
       "House-Rivers",
       "House-Goycoa",
@@ -4635,6 +5045,9 @@
     "links": [
       "House-Montmier"
     ],
+    "playerLinks": [
+      "House-Montmier"
+    ],
     "backlinks": [
       "House-Montmier",
       "House-Montmier",
@@ -4669,6 +5082,9 @@
     "links": [
       "House-Montmier"
     ],
+    "playerLinks": [
+      "House-Montmier"
+    ],
     "backlinks": [
       "House-Montmier",
       "Noble-Houses",
@@ -4699,6 +5115,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Rivers"
+    ],
+    "playerLinks": [
       "House-Rivers"
     ],
     "backlinks": [
@@ -4733,6 +5152,9 @@
     "links": [
       "House-Whitestar"
     ],
+    "playerLinks": [
+      "House-Whitestar"
+    ],
     "backlinks": [
       "House-Whitestar",
       "Noble-Houses",
@@ -4763,6 +5185,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Whitestar"
+    ],
+    "playerLinks": [
       "House-Whitestar"
     ],
     "backlinks": [
@@ -4797,6 +5222,9 @@
     "links": [
       "House-Talmert"
     ],
+    "playerLinks": [
+      "House-Talmert"
+    ],
     "backlinks": [
       "House-Talmert",
       "Noble-Houses",
@@ -4826,6 +5254,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Kulak",
+      "House-Polonsky",
+      "House-Vulgrit",
+      "House-Tarasovich"
+    ],
+    "playerLinks": [
       "House-Kulak",
       "House-Polonsky",
       "House-Vulgrit",
@@ -4880,6 +5314,9 @@
     "links": [
       "House-Rivers"
     ],
+    "playerLinks": [
+      "House-Rivers"
+    ],
     "backlinks": [
       "House-Rivers",
       "Noble-Houses",
@@ -4910,6 +5347,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Silverridge"
+    ],
+    "playerLinks": [
       "House-Silverridge"
     ],
     "backlinks": [
@@ -4949,6 +5389,13 @@
       "Penelope-Durand",
       "casimir_ramirez"
     ],
+    "playerLinks": [
+      "Penelope-Durand",
+      "casimir_ramirez",
+      "House-Rivers",
+      "Penelope-Durand",
+      "casimir_ramirez"
+    ],
     "backlinks": [
       "House-Rivers",
       "Noble-Houses",
@@ -4976,6 +5423,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -5000,6 +5448,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Bellkind"
+    ],
+    "playerLinks": [
       "House-Bellkind"
     ],
     "backlinks": [
@@ -5032,6 +5483,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Stalder",
+      "House-Lombardo"
+    ],
+    "playerLinks": [
       "House-Stalder",
       "House-Lombardo"
     ],
@@ -5073,6 +5528,9 @@
     "links": [
       "House-Bellkind"
     ],
+    "playerLinks": [
+      "House-Bellkind"
+    ],
     "backlinks": [
       "House-Bellkind",
       "House-Bellkind",
@@ -5103,6 +5561,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Mikado"
+    ],
+    "playerLinks": [
       "House-Mikado"
     ],
     "backlinks": [
@@ -5137,6 +5598,9 @@
     "links": [
       "Obsidian Taint"
     ],
+    "playerLinks": [
+      "Obsidian Taint"
+    ],
     "backlinks": [
       "House-Tobe",
       "Leandan-Dig-Site",
@@ -5169,6 +5633,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Whitestar",
+      "House-Silverridge"
+    ],
+    "playerLinks": [
       "House-Whitestar",
       "House-Silverridge"
     ],
@@ -5212,6 +5680,9 @@
     "links": [
       "House-Mikado"
     ],
+    "playerLinks": [
+      "House-Mikado"
+    ],
     "backlinks": [
       "House-Mikado"
     ],
@@ -5240,6 +5711,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Covinggard"
+    ],
+    "playerLinks": [
       "House-Covinggard"
     ],
     "backlinks": [
@@ -5274,6 +5748,9 @@
     "links": [
       "House-Pearstone"
     ],
+    "playerLinks": [
+      "House-Pearstone"
+    ],
     "backlinks": [
       "House-Pearstone",
       "Noble-Houses",
@@ -5304,6 +5781,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Talmert"
+    ],
+    "playerLinks": [
       "House-Talmert"
     ],
     "backlinks": [
@@ -5337,6 +5817,9 @@
     "links": [
       "House-Graisti"
     ],
+    "playerLinks": [
+      "House-Graisti"
+    ],
     "backlinks": [
       "House-Graisti",
       "Noble-Houses",
@@ -5366,6 +5849,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Diogenes"
     ],
@@ -5392,6 +5876,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Silverridge"
+    ],
+    "playerLinks": [
       "House-Silverridge"
     ],
     "backlinks": [
@@ -5427,6 +5914,9 @@
     "links": [
       "House-Mikado"
     ],
+    "playerLinks": [
+      "House-Mikado"
+    ],
     "backlinks": [
       "House-Mikado",
       "Mei-Ling",
@@ -5453,6 +5943,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "House Martain was imported from the Kingdom Divided 1 Sword Chronicle Foundry actor data. <!-- sword-chronicle-sheet:start --> ## Sword Chronicle Sheet Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10. ### Character Data | Field | Value | | --- | --- | | Defense StartingValue | 14 | "
@@ -5476,6 +5967,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Rivers"
+    ],
+    "playerLinks": [
       "House-Rivers"
     ],
     "backlinks": [
@@ -5510,6 +6004,9 @@
     "links": [
       "House-Pearstone"
     ],
+    "playerLinks": [
+      "House-Pearstone"
+    ],
     "backlinks": [
       "House-Pearstone"
     ],
@@ -5538,6 +6035,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Almirn"
+    ],
+    "playerLinks": [
       "House-Almirn"
     ],
     "backlinks": [
@@ -5569,6 +6069,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Maj",
+      "House-Haina",
+      "House-Jeong",
+      "House-Toab",
+      "House-Thaphicare",
+      "House-Abbyean"
+    ],
+    "playerLinks": [
       "House-Maj",
       "House-Haina",
       "House-Jeong",
@@ -5612,6 +6120,17 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Bennet",
+      "House-Upperton",
+      "House-Tsalan",
+      "House-Nyirborg",
+      "House-Bouvy",
+      "House-Arstarcsalia",
+      "House-Baiersbruck",
+      "House-Bennet",
+      "House-Upperton"
+    ],
+    "playerLinks": [
       "House-Bennet",
       "House-Upperton",
       "House-Tsalan",
@@ -5670,6 +6189,9 @@
     "links": [
       "House-Almirn"
     ],
+    "playerLinks": [
+      "House-Almirn"
+    ],
     "backlinks": [
       "House-Almirn",
       "Noble-Houses",
@@ -5700,6 +6222,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Pearstone"
+    ],
+    "playerLinks": [
       "House-Pearstone"
     ],
     "backlinks": [
@@ -5734,6 +6259,9 @@
     "links": [
       "House-Montmier"
     ],
+    "playerLinks": [
+      "House-Montmier"
+    ],
     "backlinks": [
       "House-Montmier",
       "Noble-Houses",
@@ -5763,6 +6291,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Lamonnes",
+      "House-Mourningblaze",
+      "House-Mason"
+    ],
+    "playerLinks": [
       "House-Lamonnes",
       "House-Mourningblaze",
       "House-Mason"
@@ -5802,6 +6335,9 @@
     "links": [
       "House-Covinggard"
     ],
+    "playerLinks": [
+      "House-Covinggard"
+    ],
     "backlinks": [
       "House-Covinggard",
       "Noble-Houses",
@@ -5832,6 +6368,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Almirn"
+    ],
+    "playerLinks": [
       "House-Almirn"
     ],
     "backlinks": [
@@ -5867,6 +6406,10 @@
       "Emer-Ramirez",
       "House-Silverridge"
     ],
+    "playerLinks": [
+      "Emer-Ramirez",
+      "House-Silverridge"
+    ],
     "backlinks": [
       "House-Silverridge",
       "Noble-Houses",
@@ -5899,6 +6442,9 @@
     "links": [
       "House-Talmert"
     ],
+    "playerLinks": [
+      "House-Talmert"
+    ],
     "backlinks": [
       "House-Talmert"
     ],
@@ -5927,6 +6473,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Silverridge"
+    ],
+    "playerLinks": [
       "House-Silverridge"
     ],
     "backlinks": [
@@ -5958,6 +6507,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Butler",
+      "House-Crowley",
+      "House-Durand",
+      "House-Martian",
+      "House-Sherman",
+      "House-Thorn"
+    ],
+    "playerLinks": [
       "House-Butler",
       "House-Crowley",
       "House-Durand",
@@ -6021,6 +6578,11 @@
       "muireann_rolland",
       "alaric-ironhook-wycliff"
     ],
+    "playerLinks": [
+      "House-Whitestar",
+      "muireann_rolland",
+      "alaric-ironhook-wycliff"
+    ],
     "backlinks": [
       "House-Whitestar",
       "Noble-Houses",
@@ -6053,6 +6615,9 @@
     "links": [
       "House-Rivers"
     ],
+    "playerLinks": [
+      "House-Rivers"
+    ],
     "backlinks": [
       "House-Rivers"
     ],
@@ -6060,6 +6625,7 @@
       "House-Rivers"
     ],
     "parent": "House-Rivers",
+    "cover": "house_sherman.png",
     "excerpt": "# House Sherman ![House Sherman crest](/wiki/media/house_sherman.png) House Sherman is a banner house sworn to [[House-Rivers|House Rivers]]. <!-- sword-chronicle-sheet:start --> ## Sword Chronicle Sheet Imported from Kingdom Divided 1 Foundry actor data on 2026-07-10. ### Character Data | Field | V"
   },
   {
@@ -6079,6 +6645,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Whitestar"
+    ],
+    "playerLinks": [
       "House-Whitestar"
     ],
     "backlinks": [
@@ -6107,6 +6676,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Derth",
+      "House-Henge",
+      "House-Wycliff",
+      "House-Macbravo",
+      "House-Ramirez",
+      "House-Rhinehart",
+      "House-Ulbrecht"
+    ],
+    "playerLinks": [
       "House-Derth",
       "House-Henge",
       "House-Wycliff",
@@ -6170,6 +6748,9 @@
     "links": [
       "House-Almirn"
     ],
+    "playerLinks": [
+      "House-Almirn"
+    ],
     "backlinks": [
       "House-Almirn",
       "Noble-Houses",
@@ -6202,6 +6783,9 @@
     "links": [
       "House-Graisti"
     ],
+    "playerLinks": [
+      "House-Graisti"
+    ],
     "backlinks": [
       "House-Graisti",
       "Noble-Houses",
@@ -6231,6 +6815,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Rivers",
+      "house_vathi",
+      "House-Rhelrya",
+      "House-Thalorin",
+      "House-Coremalia",
+      "House-Liris",
+      "House-Vathi-(Thaphicare)"
+    ],
+    "playerLinks": [
       "House-Rivers",
       "house_vathi",
       "House-Rhelrya",
@@ -6279,6 +6872,9 @@
     "links": [
       "House-Almirn"
     ],
+    "playerLinks": [
+      "House-Almirn"
+    ],
     "backlinks": [
       "House-Almirn",
       "Noble-Houses",
@@ -6312,6 +6908,10 @@
       "soverighn",
       "House-Covinggard"
     ],
+    "playerLinks": [
+      "soverighn",
+      "House-Covinggard"
+    ],
     "backlinks": [
       "House-Covinggard"
     ],
@@ -6340,6 +6940,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "House-Talmert",
@@ -6364,6 +6965,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Talmert"
+    ],
+    "playerLinks": [
       "House-Talmert"
     ],
     "backlinks": [
@@ -6398,6 +7002,9 @@
     "links": [
       "House-Mikado"
     ],
+    "playerLinks": [
+      "House-Mikado"
+    ],
     "backlinks": [
       "House-Mikado"
     ],
@@ -6426,6 +7033,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Rivers"
+    ],
+    "playerLinks": [
       "House-Rivers"
     ],
     "backlinks": [
@@ -6457,6 +7067,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Mikado"
+    ],
+    "playerLinks": [
       "House-Mikado"
     ],
     "backlinks": [
@@ -6496,6 +7109,13 @@
       "House Hanan",
       "Obsidian Taint"
     ],
+    "playerLinks": [
+      "Samara Tobe",
+      "Lorena",
+      "Samara Tobe",
+      "House Hanan",
+      "Obsidian Taint"
+    ],
     "backlinks": [
       "Lorena",
       "Mikado-Chronicle",
@@ -6528,6 +7148,9 @@
     "links": [
       "House-Montmier"
     ],
+    "playerLinks": [
+      "House-Montmier"
+    ],
     "backlinks": [
       "House-Montmier",
       "Noble-Houses",
@@ -6558,6 +7181,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Silverridge",
+      "House-Henge",
+      "House-Henge",
+      "siobhán_silverridge"
+    ],
+    "playerLinks": [
       "House-Silverridge",
       "House-Henge",
       "House-Henge",
@@ -6603,6 +7232,17 @@
       "House-Almirn",
       "House-Almirn"
     ],
+    "playerLinks": [
+      "House-Montmier",
+      "House-Montmier",
+      "Esten-Kings",
+      "Esten-Kings",
+      "Esten-Kings",
+      "Esten-Kings",
+      "House-Montmier",
+      "House-Almirn",
+      "House-Almirn"
+    ],
     "backlinks": [
       "House-Montmier",
       "House-Montmier",
@@ -6636,6 +7276,9 @@
     "links": [
       "House-Talmert"
     ],
+    "playerLinks": [
+      "House-Talmert"
+    ],
     "backlinks": [
       "House-Talmert"
     ],
@@ -6666,6 +7309,9 @@
     "links": [
       "House-Covinggard"
     ],
+    "playerLinks": [
+      "House-Covinggard"
+    ],
     "backlinks": [
       "House-Covinggard"
     ],
@@ -6693,6 +7339,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Ceanadach",
+      "House-Rolland",
+      "House-Caragin",
+      "House-Silveroak"
+    ],
+    "playerLinks": [
       "House-Ceanadach",
       "House-Rolland",
       "House-Caragin",
@@ -6747,6 +7399,13 @@
       "terresa_wycliff",
       "terresa_wycliff"
     ],
+    "playerLinks": [
+      "House-Silverridge",
+      "aiden_wycliff",
+      "terresa_wycliff",
+      "terresa_wycliff",
+      "terresa_wycliff"
+    ],
     "backlinks": [
       "House-Silverridge",
       "Noble-Houses",
@@ -6774,6 +7433,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -6794,6 +7454,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -6817,6 +7478,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Griffon's-Feathers",
+      "Moonlight-Society",
+      "Order-Black-Coin",
+      "Pomegranate-Seeds"
+    ],
+    "playerLinks": [
       "Griffon's-Feathers",
       "Moonlight-Society",
       "Order-Black-Coin",
@@ -6851,6 +7518,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -6874,6 +7542,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Intelligence-Agencies",
@@ -6894,6 +7563,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -6917,6 +7587,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Countries-In-the-Heartstone",
@@ -6940,6 +7611,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -6975,6 +7649,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -6997,6 +7672,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7017,6 +7693,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7037,6 +7714,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -7057,6 +7735,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7080,6 +7759,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-50-(6-28-23)"
     ],
@@ -7101,6 +7781,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7121,6 +7802,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7143,6 +7825,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cultures-and-Races",
       "The-Leandan-League",
@@ -7173,6 +7856,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Davin",
+      "The Victory",
+      "Ronan",
+      "Tiberius",
+      "Hodong",
+      "Farisi"
+    ],
+    "playerLinks": [
       "Davin",
       "The Victory",
       "Ronan",
@@ -7217,6 +7908,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7237,6 +7929,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7257,6 +7950,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7277,6 +7971,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7297,6 +7992,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7317,6 +8013,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7337,6 +8034,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7357,6 +8055,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7377,6 +8076,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7397,6 +8097,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7417,6 +8118,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7437,6 +8139,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7457,6 +8160,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7477,6 +8181,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7497,6 +8202,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7517,6 +8223,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7537,6 +8244,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7564,6 +8272,11 @@
       "Mikado Sea Passage",
       "House Covinggard"
     ],
+    "playerLinks": [
+      "Mikado Exile From the Belllands",
+      "Mikado Sea Passage",
+      "House Covinggard"
+    ],
     "backlinks": [
       "Mikado-Session-01-Exile-and-Sea",
       "Mikado-Session-01-Exile-and-Sea"
@@ -7587,6 +8300,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7607,6 +8321,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Peter-MacBravo",
@@ -7627,6 +8342,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7647,6 +8363,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7667,6 +8384,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7687,6 +8405,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7707,6 +8426,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7727,6 +8447,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7747,6 +8468,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7767,6 +8489,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7787,6 +8510,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7807,6 +8531,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7827,6 +8552,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7847,6 +8573,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7867,6 +8594,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7887,6 +8615,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7907,6 +8636,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -7930,6 +8660,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Titles-of-the-Bellands"
     ],
@@ -7957,6 +8688,41 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Senex",
+      "The Brass Cog",
+      "Matthew Rousseau",
+      "Cataclistos",
+      "Violet-Cossaboon",
+      "Sebastian-Luc-Benois",
+      "Mercer-Templeton",
+      "Cadwalader",
+      "Cataclistos",
+      "Farisi",
+      "Leandan Chronicle Timeline",
+      "Game Sessions Leandan League",
+      "Leandan Chronicle Player Characters",
+      "Matthew Rousseau",
+      "The Victory",
+      "Kempenfelt",
+      "Farisi",
+      "Cataclistos",
+      "Cataclistos",
+      "Leandan Session 01 - The Brass Cog",
+      "Leandan Session 02 - The Sky Crystal Job",
+      "Leandan Session 03 - The Victory",
+      "Leandan Session 04 - Stormfall at Corumia",
+      "Leandan Session 05 - The Giant Captain",
+      "Leandan Session 06 - Farisi and the Airships",
+      "Leandan Chronicle",
+      "Leandan Chronicle Timeline",
+      "Leandan Chronicle Player Characters",
+      "Matthew Rousseau",
+      "The Victory",
+      "Kempenfelt",
+      "Farisi",
+      "Cataclistos"
+    ],
+    "playerLinks": [
       "Senex",
       "The Brass Cog",
       "Matthew Rousseau",
@@ -8034,6 +8800,19 @@
       "Leandan Chronicle Timeline",
       "Game Sessions Leandan League"
     ],
+    "playerLinks": [
+      "Violet-Cossaboon",
+      "Sebastian-Luc-Benois",
+      "Mercer-Templeton",
+      "Cadwalader",
+      "Jewelers-Guild",
+      "Quintill",
+      "Welvart",
+      "Cadwalader",
+      "Leandan Chronicle",
+      "Leandan Chronicle Timeline",
+      "Game Sessions Leandan League"
+    ],
     "backlinks": [
       "Leandan-Chronicle",
       "Leandan-Chronicle"
@@ -8065,6 +8844,31 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercer-Templeton",
+      "Cadwalader",
+      "Sebastian-Luc-Benois",
+      "Violet-Cossaboon",
+      "The Brass Cog",
+      "Matthew Rousseau",
+      "Cataclistos",
+      "Farisi",
+      "The Victory",
+      "Sarah Van Jansen",
+      "Brom Baker",
+      "Davin",
+      "Kempenfelt",
+      "Ronan",
+      "Violet-Cossaboon",
+      "Nadia",
+      "Roya",
+      "Sebastian-Luc-Benois",
+      "Mercer-Templeton",
+      "Tiberius",
+      "Hodong",
+      "Farisi",
+      "Adrian"
+    ],
+    "playerLinks": [
       "Mercer-Templeton",
       "Cadwalader",
       "Sebastian-Luc-Benois",
@@ -8128,6 +8932,10 @@
       "House Hanan",
       "Obsidian Taint"
     ],
+    "playerLinks": [
+      "House Hanan",
+      "Obsidian Taint"
+    ],
     "backlinks": [
       "Mikado-Session-02-Lumia-and-Chabat",
       "Mikado-Session-03-Esten-Rituals-and-Obsidian"
@@ -8153,6 +8961,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Leandan NPCs ## Public Face ## Relationships ## Secrets"
@@ -8177,6 +8986,18 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercer-Templeton",
+      "Cadwalader",
+      "Sebastian-Luc-Benois",
+      "Violet-Cossaboon",
+      "The Brass Cog",
+      "Mercer Templeton",
+      "Cadwalader",
+      "Sebastian Luc Benois",
+      "Violet Cossaboon",
+      "Matthew Rousseau"
+    ],
+    "playerLinks": [
       "Mercer-Templeton",
       "Cadwalader",
       "Sebastian-Luc-Benois",
@@ -8229,6 +9050,16 @@
       "Sebastian Luc Benois",
       "Cadwalader"
     ],
+    "playerLinks": [
+      "Matthew Rousseau",
+      "The Brass Cog",
+      "Cataclistos",
+      "Matthew Rousseau",
+      "Violet Cossaboon",
+      "Mercer Templeton",
+      "Sebastian Luc Benois",
+      "Cadwalader"
+    ],
     "backlinks": [
       "Leandan-Chronicle",
       "Matthew-Rousseau"
@@ -8262,6 +9093,22 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Violet-Cossaboon",
+      "Sebastian-Luc-Benois",
+      "Cataclistos",
+      "Mercer-Templeton",
+      "Farisi",
+      "The Victory",
+      "Sarah Van Jansen",
+      "Brom Baker",
+      "Sarah Van Jansen",
+      "Brom Baker",
+      "Mercer Templeton",
+      "Violet Cossaboon",
+      "Sebastian Luc Benois",
+      "Cadwalader"
+    ],
+    "playerLinks": [
       "Violet-Cossaboon",
       "Sebastian-Luc-Benois",
       "Cataclistos",
@@ -8321,6 +9168,17 @@
       "Ronan",
       "Tiberius"
     ],
+    "playerLinks": [
+      "Davin",
+      "Kempenfelt",
+      "Sebastian-Luc-Benois",
+      "Farisi",
+      "Sarah Van Jansen",
+      "Brom Baker",
+      "Xander Wong",
+      "Ronan",
+      "Tiberius"
+    ],
     "backlinks": [
       "Leandan-Chronicle",
       "The-Victory"
@@ -8355,6 +9213,21 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Ronan",
+      "Kempenfelt",
+      "Violet-Cossaboon",
+      "Nadia",
+      "Roya",
+      "Mercer-Templeton",
+      "Sebastian-Luc-Benois",
+      "Ronan",
+      "Tiberius",
+      "Valens",
+      "Nadia",
+      "Roya",
+      "Xander Wong"
+    ],
+    "playerLinks": [
       "Ronan",
       "Kempenfelt",
       "Violet-Cossaboon",
@@ -8420,6 +9293,24 @@
       "Adrian",
       "Captain Martin"
     ],
+    "playerLinks": [
+      "Tiberius",
+      "Kempenfelt",
+      "Hodong",
+      "Farisi",
+      "Valens",
+      "Mercer-Templeton",
+      "Sebastian-Luc-Benois",
+      "Violet-Cossaboon",
+      "Sarah Van Jansen",
+      "Adrian",
+      "Tiberius",
+      "Valens",
+      "Ronan",
+      "Sarah Van Jansen",
+      "Adrian",
+      "Captain Martin"
+    ],
     "backlinks": [
       "Leandan-Chronicle"
     ],
@@ -8449,6 +9340,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8469,6 +9361,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8489,6 +9382,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8509,6 +9403,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8529,6 +9424,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8552,6 +9448,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -8580,6 +9479,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Fedor",
       "Maw-People"
@@ -8602,6 +9502,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8622,6 +9523,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8642,6 +9544,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8662,6 +9565,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8682,6 +9586,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Siobhán-Silverridge",
@@ -8702,6 +9607,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8722,6 +9628,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8745,6 +9652,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House Tobe"
+    ],
+    "playerLinks": [
       "House Tobe"
     ],
     "backlinks": [
@@ -8773,6 +9683,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-49-(6-21-23)"
     ],
@@ -8802,6 +9713,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mikado Empire",
+      "Chabat"
+    ],
+    "playerLinks": [
       "Mikado Empire",
       "Chabat"
     ],
@@ -8841,6 +9756,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-01-(5-17-22)",
       "Session-47-(5-30-23)",
@@ -8881,6 +9797,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8903,6 +9820,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8923,6 +9841,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8943,6 +9862,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8963,6 +9883,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -8983,6 +9904,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9009,6 +9931,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The Brass Cog",
+      "Cataclistos",
+      "The Brass Cog",
+      "Jewelers Guild",
+      "Leandan Chronicle",
+      "Leandan Session 02 - The Sky Crystal Job"
+    ],
+    "playerLinks": [
       "The Brass Cog",
       "Cataclistos",
       "The Brass Cog",
@@ -9048,6 +9978,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9077,6 +10008,9 @@
     "links": [
       "Legend of the Maw"
     ],
+    "playerLinks": [
+      "Legend of the Maw"
+    ],
     "backlinks": [
       "Mikado-Chronicle",
       "Mikado-Session-05-Chabat-Underworld",
@@ -9101,6 +10035,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9128,6 +10063,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mikado Chronicle",
+      "House Maj",
+      "Nikos",
+      "Diogenes",
+      "Thorn",
+      "Mikado Chronicle",
+      "House Maj"
+    ],
+    "playerLinks": [
       "Mikado Chronicle",
       "House Maj",
       "Nikos",
@@ -9175,6 +10119,13 @@
       "First-Son's-Gravediggers",
       "Silent-Devils"
     ],
+    "playerLinks": [
+      "Chain-Breakers",
+      "Countless-Stars",
+      "Delongs-Killers",
+      "First-Son's-Gravediggers",
+      "Silent-Devils"
+    ],
     "backlinks": [
       "Chain-Breakers",
       "Countless-Stars",
@@ -9212,6 +10163,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quintill"
+    ],
+    "playerLinks": [
       "Quintill"
     ],
     "backlinks": [
@@ -9253,6 +10207,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9279,6 +10234,18 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mikado Empire",
+      "Obsidian Taint",
+      "Mikado Chronicle Timeline",
+      "Mikado Chronicle Player Characters",
+      "Lumia",
+      "Chabat",
+      "House Hanan",
+      "House Tobe",
+      "Obsidian Taint",
+      "Maw People"
+    ],
+    "playerLinks": [
       "Mikado Empire",
       "Obsidian Taint",
       "Mikado Chronicle Timeline",
@@ -9327,6 +10294,14 @@
       "Rina",
       "Lorena"
     ],
+    "playerLinks": [
+      "Mei Ling",
+      "Nikos",
+      "Thorn",
+      "Diogenes",
+      "Rina",
+      "Lorena"
+    ],
     "backlinks": [
       "Mikado-Chronicle",
       "Nikos"
@@ -9366,6 +10341,21 @@
       "Samara Tobe",
       "House Hanan"
     ],
+    "playerLinks": [
+      "Mei Ling",
+      "Nikos",
+      "Thorn",
+      "Diogenes",
+      "Rina",
+      "Rina",
+      "Diogenes",
+      "Thorn",
+      "Lumia",
+      "Lumia",
+      "Chabat",
+      "Samara Tobe",
+      "House Hanan"
+    ],
     "backlinks": [
       "Mikado-Chronicle"
     ],
@@ -9389,6 +10379,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Esten-Sovereignty-in-Mikado",
       "Lumia",
@@ -9422,6 +10413,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Lady-Kulak",
       "Mikado-Session-01-Exile-and-Sea"
@@ -9451,6 +10443,11 @@
       "Diogenes",
       "Thorn"
     ],
+    "playerLinks": [
+      "Rina",
+      "Diogenes",
+      "Thorn"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mikado-Chronicle",
@@ -9474,6 +10471,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mei Ling",
+      "Nikos",
+      "Thorn",
+      "Diogenes",
+      "Rina",
+      "Lorena"
+    ],
+    "playerLinks": [
       "Mei Ling",
       "Nikos",
       "Thorn",
@@ -9510,6 +10515,10 @@
       "Mikado Empire",
       "Lumia"
     ],
+    "playerLinks": [
+      "Mikado Empire",
+      "Lumia"
+    ],
     "backlinks": [
       "Esten-Sea-Shanty",
       "Lady-Kulak",
@@ -9536,6 +10545,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Lady Kulak",
+      "Mikado Empire",
+      "Lumia",
+      "Mikado Exile From the Belllands",
+      "Mikado Sea Passage",
+      "Lady Kulak"
+    ],
+    "playerLinks": [
       "Lady Kulak",
       "Mikado Empire",
       "Lumia",
@@ -9576,6 +10593,16 @@
       "Esten Sovereignty in Mikado",
       "Leandan Dig Site"
     ],
+    "playerLinks": [
+      "Lumia",
+      "Chabat",
+      "Edral Quedil",
+      "Valerian",
+      "Lumia",
+      "Chabat",
+      "Esten Sovereignty in Mikado",
+      "Leandan Dig Site"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mikado-Chronicle",
@@ -9600,6 +10627,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Obsidian Taint",
+      "Leandan Dig Site",
+      "Esten Sovereignty in Mikado"
+    ],
+    "playerLinks": [
       "Obsidian Taint",
       "Leandan Dig Site",
       "Esten Sovereignty in Mikado"
@@ -9634,6 +10666,13 @@
       "House Hanan",
       "Obsidian Taint"
     ],
+    "playerLinks": [
+      "Samara Tobe",
+      "House Tobe",
+      "Samara Tobe",
+      "House Hanan",
+      "Obsidian Taint"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mikado-Chronicle",
@@ -9658,6 +10697,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Chabat",
+      "Maw People",
+      "Chabat Obsidian Coliseum",
+      "Obsidian Taint",
+      "Maw People"
+    ],
+    "playerLinks": [
       "Chabat",
       "Maw People",
       "Chabat Obsidian Coliseum",
@@ -9697,6 +10743,14 @@
       "Obsidian Taint",
       "Mikado Empire"
     ],
+    "playerLinks": [
+      "House Hanan",
+      "House Tobe",
+      "House Hanan",
+      "House Tobe",
+      "Obsidian Taint",
+      "Mikado Empire"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mikado-Chronicle",
@@ -9720,6 +10774,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -9746,6 +10803,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9766,6 +10824,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9786,6 +10845,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9809,6 +10869,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Intelligence-Agencies"
+    ],
+    "playerLinks": [
       "Intelligence-Agencies"
     ],
     "backlinks": [
@@ -9837,6 +10900,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9859,6 +10923,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "NPC"
+    ],
+    "playerLinks": [
       "NPC"
     ],
     "backlinks": [],
@@ -9884,6 +10951,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Davin",
+      "Roya",
+      "Ronan",
+      "Kempenfelt",
+      "Violet-Cossaboon"
+    ],
+    "playerLinks": [
       "Davin",
       "Roya",
       "Ronan",
@@ -9919,6 +10993,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9939,6 +11014,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9959,6 +11035,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -9986,6 +11063,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mei Ling",
+      "Mikado Chronicle Player Characters",
+      "Mikado Empire"
+    ],
+    "playerLinks": [
       "Mei Ling",
       "Mikado Chronicle Player Characters",
       "Mikado Empire"
@@ -10021,6 +11103,59 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Almirn",
+      "House-Mookjai",
+      "House-Songprawati",
+      "House-Menes",
+      "House-Quangban",
+      "House-Tamtria",
+      "House-Bellkind",
+      "House-Goycoa",
+      "House-Gubau",
+      "House-Covinggard",
+      "House-Kulak",
+      "House-Polonsky",
+      "noble_houses_of_the_belllands",
+      "House-Graisti",
+      "House-Stalder",
+      "House-Lombardo",
+      "House-Montmier",
+      "House-Bennet",
+      "House-Upperton",
+      "House-Baiersbruck",
+      "House-Bouvy",
+      "House-Nyirborg",
+      "House-Tsalan",
+      "pearstone",
+      "House-Lamonnes",
+      "House-Mourningblaze",
+      "House-Rivers",
+      "House-Butler",
+      "House-Crowley",
+      "House-Durand",
+      "House-Martian",
+      "House-Thorn",
+      "House-Silverridge",
+      "House-Derth",
+      "House-Rolland",
+      "House-Wycliff",
+      "House-Ulbrecht",
+      "House-Macbravo",
+      "House-Ramirez",
+      "House-Rhinehart",
+      "house_talmart",
+      "House-Thalorin",
+      "House-Coremalia",
+      "House-Whitestar",
+      "House-Ceanadach",
+      "House-Henge",
+      "House-Arstarcsalia",
+      "house_silveroak",
+      "House-Caragin",
+      "mikado",
+      "leandan_guilds"
+    ],
+    "playerLinks": [
       "House-Almirn",
       "House-Mookjai",
       "House-Songprawati",
@@ -10145,6 +11280,57 @@
       "house_silveroak",
       "House-Caragin"
     ],
+    "playerLinks": [
+      "House-Almirn",
+      "House-Mookjai",
+      "House-Songprawati",
+      "House-Menes",
+      "House-Quangban",
+      "House-Tamtria",
+      "House-Bellkind",
+      "House-Goycoa",
+      "House-Gubau",
+      "House-Covinggard",
+      "House-Kulak",
+      "House-Polonsky",
+      "noble_houses_of_the_belllands",
+      "House-Graisti",
+      "House-Stalder",
+      "House-Lombardo",
+      "House-Montmier",
+      "House-Bennet",
+      "House-Upperton",
+      "House-Baiersbruck",
+      "House-Bouvy",
+      "House-Nyirborg",
+      "House-Tsalan",
+      "pearstone",
+      "House-Lamonnes",
+      "House-Mourningblaze",
+      "House-Rivers",
+      "House-Butler",
+      "House-Crowley",
+      "House-Durand",
+      "House-Martian",
+      "House-Thorn",
+      "House-Silverridge",
+      "House-Derth",
+      "House-Rolland",
+      "House-Wycliff",
+      "House-Ulbrecht",
+      "House-Macbravo",
+      "House-Ramirez",
+      "House-Rhinehart",
+      "house_talmart",
+      "House-Thalorin",
+      "House-Coremalia",
+      "House-Whitestar",
+      "House-Ceanadach",
+      "House-Henge",
+      "House-Arstarcsalia",
+      "house_silveroak",
+      "House-Caragin"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Noble Houses of the Bell Lands - [[House-Almirn|Almirn]] - [[House-Mookjai|Mookjai]] - [[House-Songprawati|Songprawati]] - [[House-Menes|Menes]] - [[House-Quangban|Qyangban]] - [[House-Tamtria|Tamtria]] - Yenia - [[House-Bellkind|Bellkind]] - [[House-Goycoa|Goycoa]] - [[House-Gubau|Gambu]] - Hinos"
@@ -10166,6 +11352,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10188,6 +11375,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10215,6 +11403,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Maw People"
+    ],
+    "playerLinks": [
       "Maw People"
     ],
     "backlinks": [
@@ -10251,6 +11442,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10271,6 +11463,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10291,6 +11484,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10314,6 +11508,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Intelligence-Agencies"
+    ],
+    "playerLinks": [
       "Intelligence-Agencies"
     ],
     "backlinks": [
@@ -10340,6 +11537,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10362,6 +11560,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Abdul-Deiz-de-Requenaut",
       "Cultures-and-Races",
@@ -10388,6 +11587,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Note ****All of the following is from a Star Good Follower's view this is more then just bias, there is a lot of wrong information under here. **** # Star Gods The Star Gods are beings that originated from the tears shed by O during the creation of the world. They are associated with celestial for"
@@ -10410,6 +11610,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -10438,6 +11641,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10458,6 +11662,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10480,6 +11685,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "House-Durand",
       "House-Durand",
@@ -10574,6 +11780,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -10597,6 +11804,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "Arrival Peter arrives at the nondescript house and is confronted by Jarreth, a mercenary that his been in charge of protecting Peter’s mother for many years. After confronting Peter and being satisfied that Peter is as he claims to be, Jarrett lets Peter in. Peter meets Thalassa Ember, Rosalind’s nu"
@@ -10616,6 +11824,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10639,6 +11848,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -10665,6 +11877,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10685,6 +11898,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10708,6 +11922,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Intelligence-Agencies"
+    ],
+    "playerLinks": [
       "Intelligence-Agencies"
     ],
     "backlinks": [
@@ -10739,6 +11956,9 @@
     "links": [
       "Caden-Mattix"
     ],
+    "playerLinks": [
+      "Caden-Mattix"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -10762,6 +11982,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -10785,6 +12006,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -10808,6 +12030,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -10832,6 +12055,9 @@
     "links": [
       "Siobhán-Silverridge"
     ],
+    "playerLinks": [
+      "Siobhán-Silverridge"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -10854,6 +12080,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cadwalader",
       "Cultures-and-Races",
@@ -10882,6 +12109,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10902,6 +12130,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10926,6 +12155,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mercenary-Bands",
@@ -10946,6 +12176,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10966,6 +12197,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -10986,6 +12218,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11006,6 +12239,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11026,6 +12260,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11046,6 +12281,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11075,6 +12311,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Diogenes",
+      "Thorn",
+      "Thorn",
+      "Diogenes",
+      "Mei Ling",
+      "Mikado Chronicle"
+    ],
+    "playerLinks": [
       "Diogenes",
       "Thorn",
       "Thorn",
@@ -11114,6 +12358,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11134,6 +12379,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11156,6 +12402,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Countries-In-the-Heartstone",
@@ -11176,6 +12423,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11202,6 +12450,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Kempenfelt",
+      "Violet-Cossaboon",
+      "Tiberius"
+    ],
+    "playerLinks": [
       "Kempenfelt",
       "Violet-Cossaboon",
       "Tiberius"
@@ -11244,6 +12497,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "title: Rooted in Change published: true htmlRooted in Change | Kingdom Divided ## [¶](#the-esten-rooted-in-change-a-culture-of-living-memory) The Esten: Rooted in Change A Culture of Living Memory The Esten are often seen by outsiders as rigid, ancestral traditionalists—keepers of old laws, slow rit"
@@ -11267,6 +12521,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Nadia",
+      "Davin",
+      "Ronan"
+    ],
+    "playerLinks": [
       "Nadia",
       "Davin",
       "Ronan"
@@ -11300,6 +12559,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11323,6 +12583,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Countries-In-the-Heartstone",
@@ -11346,6 +12607,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mystic-Socities",
@@ -11368,6 +12630,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11390,6 +12653,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cultures-and-Races"
     ],
@@ -11416,6 +12680,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "House-Tobe",
       "House-Tobe",
@@ -11444,6 +12709,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11471,6 +12737,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The Victory",
+      "Farisi",
+      "Mercer-Templeton",
+      "The Victory",
+      "Brom Baker",
+      "The Victory",
+      "Mercer Templeton"
+    ],
+    "playerLinks": [
       "The Victory",
       "Farisi",
       "Mercer-Templeton",
@@ -11511,6 +12786,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11533,6 +12809,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11555,6 +12832,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllads-Chronicle-Player-Characters",
@@ -11578,6 +12856,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -11608,6 +12889,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Quintill",
+      "Jewelers-Guild",
+      "Jewelers-Guild"
+    ],
+    "playerLinks": [
       "Quintill",
       "Jewelers-Guild",
       "Jewelers-Guild"
@@ -11648,6 +12934,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -11671,6 +12958,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Siobhán Silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Caden-Mattix",
+      "Carrick Silverridge",
+      "Gregory Bentil",
+      "connor_silverridge"
+    ],
+    "playerLinks": [
       "Siobhán Silverridge",
       "Lyla_Tarasovich-Talmert",
       "Caden-Mattix",
@@ -11708,6 +13003,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -11731,6 +13034,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -11768,6 +13079,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -11791,6 +13110,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -11828,6 +13155,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -11851,6 +13186,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -11888,6 +13231,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -11911,6 +13262,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -11948,6 +13307,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -11971,6 +13338,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12008,6 +13383,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12031,6 +13414,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12068,6 +13459,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12091,6 +13490,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12128,6 +13535,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12151,6 +13566,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12188,6 +13611,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12211,6 +13642,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12248,6 +13687,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12271,6 +13718,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12308,6 +13763,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12331,6 +13794,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12368,6 +13839,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12391,6 +13870,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12428,6 +13915,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12451,6 +13946,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12488,6 +13991,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12511,6 +14022,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12548,6 +14067,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12571,6 +14098,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12608,6 +14143,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12631,6 +14174,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12668,6 +14219,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12691,6 +14250,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12728,6 +14295,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12751,6 +14326,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12788,6 +14371,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12811,6 +14402,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12848,6 +14447,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12871,6 +14478,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12908,6 +14523,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12931,6 +14554,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -12968,6 +14599,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -12991,6 +14630,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Timothy-Whitestar",
       "lyla_tarasovich-talmert",
@@ -13028,6 +14675,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13058,6 +14713,14 @@
       "Penelope-Durand",
       "Tallion-Ramirez"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "lyla_tarasovich-talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Penelope-Durand",
+      "Tallion-Ramirez"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13081,6 +14744,22 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand",
+      "Boris-Rameriz",
+      "Sofyia Baranova",
+      "Samson Kreeg",
+      "Amund Henge",
+      "Samson Kreeg",
+      "Sofyia Baranova",
+      "Samson Kreeg"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "amund_henge",
       "Lyla_Tarasovich-Talmert",
@@ -13132,6 +14811,20 @@
       "Soverighn-Ides-Lev-Tarasovich",
       "Soverighn-Ides-Lev-Tarasovich"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand",
+      "Boris-Rameriz",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Soverighn-Ides-Lev-Tarasovich"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13155,6 +14848,27 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand",
+      "Boris-Rameriz",
+      "Endulaudaus",
+      "siobhán_silverridge",
+      "Timothy-Whitestar",
+      "soverighn",
+      "Boris-Rameriz",
+      "Luis-Covinggard",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Hans-Rhinehart",
+      "casimir_ramirez",
+      "alfieri_borroni",
+      "casimir_ramirez"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "amund_henge",
       "Lyla_Tarasovich-Talmert",
@@ -13223,6 +14937,32 @@
       "House-Montmier",
       "House-Almirn"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand",
+      "Boris-Rameriz",
+      "House-Durand",
+      "House-Covinggard",
+      "siobhán_silverridge",
+      "Boris-Rameriz",
+      "Boris-Rameriz",
+      "House-Silverridge",
+      "house_silveroak",
+      "House-Henge",
+      "House-Whitestar",
+      "siobhán_silverridge",
+      "Kanya",
+      "House-Silverridge",
+      "house_talmart",
+      "House-Silverridge",
+      "House-Montmier",
+      "House-Almirn"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13246,6 +14986,16 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand",
+      "Boris-Rameriz"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "amund_henge",
       "Lyla_Tarasovich-Talmert",
@@ -13286,6 +15036,15 @@
       "casimir_ramirez",
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13309,6 +15068,17 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Silveroak",
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand",
+      "oroickno"
+    ],
+    "playerLinks": [
       "Silveroak",
       "siobhán_silverridge",
       "amund_henge",
@@ -13351,6 +15121,16 @@
       "casimir_ramirez",
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "Silveroak",
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13382,6 +15162,15 @@
       "casimir_ramirez",
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "amund_henge",
+      "Lyla_Tarasovich-Talmert",
+      "Soverighn-Ides-Lev-Tarasovich",
+      "Caden-Mattix",
+      "casimir_ramirez",
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13405,6 +15194,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13428,6 +15218,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13451,6 +15242,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13474,6 +15266,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13497,6 +15290,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13520,6 +15314,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13543,6 +15338,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13566,6 +15362,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13593,6 +15390,11 @@
       "Hans-Rhinehart",
       "Hans-Rhinehart"
     ],
+    "playerLinks": [
+      "Hans-Rhinehart",
+      "Hans-Rhinehart",
+      "Hans-Rhinehart"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13616,6 +15418,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13639,6 +15442,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13662,6 +15466,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Lyla_Tarasovich-Talmert",
       "Penelope-Durand"
@@ -13697,6 +15506,15 @@
       "Theodoros-Kolokotronis",
       "Theodoros-Kolokotronis"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand",
+      "Theodoros-Kolokotronis",
+      "Theodoros-Kolokotronis",
+      "Theodoros-Kolokotronis",
+      "Theodoros-Kolokotronis"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13720,6 +15538,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Lyla_Tarasovich-Talmert",
       "Penelope-Durand"
@@ -13751,6 +15574,11 @@
       "Lyla_Tarasovich-Talmert",
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13774,6 +15602,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Lyla_Tarasovich-Talmert",
       "Penelope-Durand"
@@ -13805,6 +15638,11 @@
       "Lyla_Tarasovich-Talmert",
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13828,6 +15666,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "siobhán_silverridge",
       "Lyla_Tarasovich-Talmert",
       "Penelope-Durand"
@@ -13859,6 +15702,11 @@
       "Lyla_Tarasovich-Talmert",
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "siobhán_silverridge",
+      "Lyla_Tarasovich-Talmert",
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13882,6 +15730,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "Penelope-Durand"
     ],
     "backlinks": [],
@@ -13910,6 +15761,10 @@
       "Penelope-Durand",
       "session_14_(9-12-22"
     ],
+    "playerLinks": [
+      "Penelope-Durand",
+      "session_14_(9-12-22"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13933,6 +15788,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "Penelope-Durand"
     ],
     "backlinks": [],
@@ -13960,6 +15818,9 @@
     "links": [
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -13983,6 +15844,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "Penelope-Durand"
     ],
     "backlinks": [],
@@ -14010,6 +15874,9 @@
     "links": [
       "Penelope-Durand"
     ],
+    "playerLinks": [
+      "Penelope-Durand"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14033,6 +15900,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Penelope-Durand"
+    ],
+    "playerLinks": [
       "Penelope-Durand"
     ],
     "backlinks": [],
@@ -14061,6 +15931,10 @@
       "Penelope-Durand",
       "House-Liris"
     ],
+    "playerLinks": [
+      "Penelope-Durand",
+      "House-Liris"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14084,6 +15958,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14107,6 +15982,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14130,6 +16006,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14153,6 +16030,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14176,6 +16054,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14199,6 +16078,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14222,6 +16102,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14245,6 +16126,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14268,6 +16150,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Game-Sessions-Bell-Lands",
@@ -14290,6 +16173,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14313,6 +16197,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -14340,6 +16227,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14363,6 +16251,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "title: Sicarius published: true htmlSicarius | Kingdom Divided ## [¶](#history) History The Sicarius are is an assassins guild dealing mostly with the islands surrounding the Bell Lands and Mikado Empire. They have 3 levels of initiation. The first is the called the newborn. *The \"newborns\" are thos"
@@ -14386,6 +16275,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mercenary-Bands"
+    ],
+    "playerLinks": [
       "Mercenary-Bands"
     ],
     "backlinks": [
@@ -14416,6 +16308,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-53-(07-26-23)",
       "Session-54-(08-1-23)"
@@ -14441,6 +16334,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Prelude-Siobhán-The-Attack-on-Deerholt",
       "Session-01-(5-17-22)"
@@ -14464,6 +16358,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14484,6 +16379,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14504,6 +16400,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14524,6 +16421,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14544,6 +16442,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14564,6 +16463,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14584,6 +16484,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14604,6 +16505,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14624,6 +16526,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14644,6 +16547,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14664,6 +16568,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14684,6 +16589,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14704,6 +16610,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14724,6 +16631,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14744,6 +16652,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14764,6 +16673,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14784,6 +16694,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14804,6 +16715,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14824,6 +16736,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14844,6 +16757,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14864,6 +16778,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14884,6 +16799,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14904,6 +16820,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14924,6 +16841,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14944,6 +16862,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14964,6 +16883,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -14984,6 +16904,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15004,6 +16925,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15027,6 +16949,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -15053,6 +16978,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15073,6 +16999,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15095,6 +17022,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-02-(5-23-22)",
       "Session-03-(5-30-22)",
@@ -15178,6 +17106,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Athletics ## Acrobatics, Balance, Contortions, Dodge, Quickness * on these I could only see the most extreme things needing the specialty. Like you are trying to get in a hole smaller then your shoulders ect. # Animal Handing ## Charm, Drive, Ride, Train * Very simple tasks might not take a skill,"
@@ -15203,6 +17132,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mikado-Empire",
@@ -15223,6 +17153,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15243,6 +17174,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15263,6 +17195,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15283,6 +17216,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15303,6 +17237,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15326,6 +17261,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -15354,6 +17292,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-02-(5-23-22)",
       "Session-03-(5-30-22)",
@@ -15421,6 +17360,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15443,6 +17383,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "title: Testament of the Worm Gods published: true htmlTestament of the Worm Gods | Kingdom Divided ### [¶](#as-told-in-the-sacred-libraries-of-the-ash-spiral-monastery) As told in the sacred libraries of the Ash Spiral Monastery *We are not destroyers. We are awakeners. * The world, bound in illusio"
@@ -15462,6 +17403,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15484,6 +17426,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cultures-and-Races",
       "The-Leandan-League"
@@ -15509,6 +17452,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Intelligence-Agencies",
@@ -15531,6 +17475,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# History In the rich and storied history of the Belllands, a tale of exiled nobles, conquest, and the rise of a new Emperor unfolds. It all began with a group of noble houses who staunchly supported the Bellringer, a figure of rebellion and resistance against the Holy State of Fygor. These houses, "
@@ -15556,6 +17501,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Matthew Rousseau"
+    ],
+    "playerLinks": [
       "Matthew Rousseau"
     ],
     "backlinks": [
@@ -15590,6 +17538,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "title: The Burning Divide published: true htmlThe Burning Divide | Kingdom Divided ## [¶](#the-burning-divide-the-emperor-and-the-ai-hoku) **The Burning Divide: The Emperor and the Ai Hoku** --- ### [¶](#the-crowned-flame-mikado-xelin-iv) **The Crowned Flame: Mikado Xelin IV** Emperor Xelin IV was c"
@@ -15611,6 +17560,26 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Armorersmiths-Guild",
+      "Brewers-Guild",
+      "Culinarian-Guild",
+      "Farmers-Guild",
+      "Glasssmiths-Guild",
+      "Harmony-Guild",
+      "Jewelers-Guild",
+      "Leatherworkers-Guild",
+      "Miners-Guild",
+      "Parnassians-Guild",
+      "Physicians-Guild",
+      "Scribes-Guild",
+      "Shipwrights-Guild",
+      "Smiths-Guild",
+      "Tailors-Guild",
+      "Weaponsmiths-Guild",
+      "Weavers-Guild",
+      "Woodworkers-Guild"
+    ],
+    "playerLinks": [
       "Armorersmiths-Guild",
       "Brewers-Guild",
       "Culinarian-Guild",
@@ -15689,6 +17658,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "title: The Island Pacification Campaigns published: true htmlThe Island Pacification Campaigns of the Makado Empire | Kingdom Divided ## [¶](#the-island-pacification-campaigns-of-the-makado-empire-years-18221830-ah-after-the-heartbeat) The Island Pacification Campaigns of the Makado Empire Years 182"
@@ -15711,6 +17681,20 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Katoites",
+      "Welvart",
+      "Welvart",
+      "Katoites",
+      "Paltris",
+      "Quintill",
+      "Paltris",
+      "Katoites",
+      "Thrani",
+      "Thao",
+      "Quintill",
+      "Quintill"
+    ],
+    "playerLinks": [
       "Katoites",
       "Welvart",
       "Welvart",
@@ -15747,6 +17731,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Starts With An End While all things want, almost nothing wants all. There was a time, and a time to be where the want of all and the ability to take it would be imbued in one form. This form would grow, from a common man to a Noble, to a King, to an Emperor, to a God, to the devourer of Gods. This"
@@ -15769,6 +17754,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mystic-Socities",
@@ -15792,6 +17778,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# History In the annals of history, amid the tumultuous era of the First Crusade, an unassuming group emerged from the chaos—the nascent Peacekeepers. Originating as camp police, they were entrusted by the generals to maintain order among the rowdy soldiers. Their role extended beyond the battlefiel"
@@ -15814,6 +17801,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Intelligence-Agencies",
@@ -15836,6 +17824,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Allui & Klebor The founder of the Esten Ancestry is accredited to Allui. Allui was not what we would consider human, she was a living tree. Trees then would walk and talk, finding who they loved. When that love was found they would plant themselves near their dearest and grow old together. Allui, "
@@ -15858,6 +17847,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mystic-Socities",
@@ -15884,6 +17874,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Farisi",
+      "Cataclistos",
+      "Sarah Van Jansen",
+      "Brom Baker",
+      "Leandan Session 03 - The Victory",
+      "Mercer-Templeton",
+      "Leandan Session 04 - Stormfall at Corumia"
+    ],
+    "playerLinks": [
       "Farisi",
       "Cataclistos",
       "Sarah Van Jansen",
@@ -15927,6 +17926,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -15949,6 +17949,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Session-68-(11-08-23)",
       "Session-68-(11-08-23)",
@@ -15981,6 +17982,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Mikado Chronicle",
+      "Obsidian Taint",
+      "Diogenes",
+      "Rina",
+      "Rina",
+      "Diogenes",
+      "Obsidian Taint"
+    ],
+    "playerLinks": [
       "Mikado Chronicle",
       "Obsidian Taint",
       "Diogenes",
@@ -16025,6 +18035,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cultures-and-Races",
       "The-Leandan-League"
@@ -16051,6 +18062,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Kempenfelt",
+      "Ronan",
+      "Hodong",
+      "Farisi",
+      "Valens"
+    ],
+    "playerLinks": [
       "Kempenfelt",
       "Ronan",
       "Hodong",
@@ -16157,6 +18175,73 @@
       "Lucy Montmier",
       "House Bennet"
     ],
+    "playerLinks": [
+      "House Sedi",
+      "Esten-Kings",
+      "House Sedi",
+      "House Covinggard",
+      "House Pearstone",
+      "House Rivers",
+      "House Sedi",
+      "Enzio Bellkind",
+      "Yanick Rivers",
+      "Telung Gods",
+      "Emer Ramirez",
+      "House Henge",
+      "House Henge",
+      "House Silverridge",
+      "Ulbrecht Henge",
+      "Faemill",
+      "House Silverridge",
+      "House Rivers",
+      "House Silverridge",
+      "House Wycliff",
+      "House Derth",
+      "House Henge",
+      "Andrew Silverridge",
+      "Jabari Henge",
+      "House Silverridge",
+      "Faymill",
+      "Jabari Henge",
+      "Windbreak",
+      "Taileflaith Henge",
+      "Windbreak",
+      "House Silverridge",
+      "House Henge",
+      "Karl Rinehart",
+      "Haylee Rinehart",
+      "House Silverridge",
+      "Haylee Rhinehart",
+      "Hans Rhinehart",
+      "Steven Butler",
+      "Sharon Silverridge",
+      "House Silverridge",
+      "Kincade Silverridge",
+      "Ursula Silverridge",
+      "House Henge",
+      "Rory Silverridge",
+      "Celia Silverridge",
+      "House Talmert",
+      "Conner Silverridge",
+      "Merida Silverridge",
+      "House MacBravo",
+      "Eliot Pearstone",
+      "Oliva Pearlstone",
+      "House Pearstone",
+      "House Bellkind",
+      "House Talmert",
+      "Selḗnē",
+      "House Bellkind",
+      "House Talmert",
+      "House Rivers",
+      "House Bellkind",
+      "Selḗnē",
+      "Charles Montmier",
+      "Sara Montmier",
+      "Charles Montmier",
+      "Lucy Montmier",
+      "House Bennet"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# SE: The Age of the Sedi Dynasty *SE is the name of the age in the Bell Lands It's described as the Sedi Epoch. For ease of chronicling it's given in reverse dates like BCE in our world. The major confusion is it goes back somewhat farther than the actual rise of [[House Sedi]]. Most Learned record"
@@ -16178,6 +18263,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Autumn-Walsh",
       "Autumn-Walsh",
@@ -16254,6 +18340,11 @@
       "Makimaki",
       "Kilat"
     ],
+    "playerLinks": [
+      "Langosta",
+      "Makimaki",
+      "Kilat"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Nobility - Imperial Court - Emperor of the Bells (Status 10) - Prince of the Bells (Heir) (Status 9) - Archduke/Archduchess (Other Heir's in the Imperial Family) (Status 8) - King of the Bells (Prime Minister) (Status 9) - Marquis of the Bells (The Privy Council, Currently All Tested) (Status 8) -"
@@ -16273,6 +18364,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16293,6 +18385,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16313,6 +18406,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16333,6 +18427,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16359,6 +18454,11 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Kempenfelt",
+      "Ronan",
+      "Mercer-Templeton"
+    ],
+    "playerLinks": [
       "Kempenfelt",
       "Ronan",
       "Mercer-Templeton"
@@ -16399,6 +18499,11 @@
       "Chabat",
       "Esten Sovereignty in Mikado"
     ],
+    "playerLinks": [
+      "Chabat",
+      "Chabat",
+      "Esten Sovereignty in Mikado"
+    ],
     "backlinks": [
       "Mikado-Session-02-Lumia-and-Chabat"
     ],
@@ -16425,6 +18530,12 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Jewelers-Guild",
+      "Welvart",
+      "Jewelers-Guild",
+      "Jewelers-Guild"
+    ],
+    "playerLinks": [
       "Jewelers-Guild",
       "Welvart",
       "Jewelers-Guild",
@@ -16468,6 +18579,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16488,6 +18600,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16510,6 +18623,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16532,6 +18646,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Generals and Subcommanders A General is the leader of one side of the warfare combat. Their stats will be rolled for the Initiative. They can have a number of sub commanders equal to their status (if noble, or Will if commoner), but all sub commanders can issue a full amount of actions equal to th"
@@ -16554,6 +18669,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -16585,6 +18703,9 @@
     "links": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
+    "playerLinks": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
     "backlinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
@@ -16611,6 +18732,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cultures-and-Races",
       "Leandan-Chronicle-Player-Characters",
@@ -16638,6 +18760,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cities-of-the-Bellands",
       "Timeline-of-the-Bellands",
@@ -16665,6 +18788,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "The-Guilds-of-Leandan---Major-and-Minor"
+    ],
+    "playerLinks": [
       "The-Guilds-of-Leandan---Major-and-Minor"
     ],
     "backlinks": [
@@ -16701,6 +18827,11 @@
       "The Victory",
       "Farisi"
     ],
+    "playerLinks": [
+      "Davin",
+      "The Victory",
+      "Farisi"
+    ],
     "backlinks": [
       "Davin",
       "Leandan-Session-04-Stormfall-at-Corumia",
@@ -16727,6 +18858,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16750,6 +18882,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Mystic-Socities",
@@ -16770,6 +18903,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16792,6 +18926,9 @@
     "text": "",
     "playerText": "",
     "links": [
+      "House-Bellkind"
+    ],
+    "playerLinks": [
       "House-Bellkind"
     ],
     "backlinks": [
@@ -16818,6 +18955,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [
       "Cultures-and-Races"
     ],
@@ -16839,6 +18977,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16859,6 +18998,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16879,6 +19019,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "parent": "Belllands-NPCs",
@@ -16901,6 +19042,13 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Character Name",
+      "Character Name",
+      "Characters",
+      "Locations",
+      "Factions"
+    ],
+    "playerLinks": [
       "Character Name",
       "Character Name",
       "Characters",
@@ -16930,6 +19078,9 @@
     "links": [
       "Lyla_Tarasovich-Talmert"
     ],
+    "playerLinks": [
+      "Lyla_Tarasovich-Talmert"
+    ],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "| | Prelude: | | --- | --- | | Date: 12-20-22 | Key Locations: Selḗnē | | | | | Players Attending: - Laura Bee ([[Lyla_Tarasovich-Talmert|Lyla Silverridge]]) | # Events ## Getting Ready It is morning and a young Lyla Silverridge leaves her home early to get in some bow practice. Still in her pajamas"
@@ -16951,6 +19102,7 @@
     "text": "",
     "playerText": "",
     "links": [],
+    "playerLinks": [],
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "1. Faster 1. Goal - 2 Hours (at least half as long as normal warfare) 2. Warfare Still Has Value 1. Warfare 1. Command (Acts as Status when commanding soldiers) 2. Strategy ( 3. Tactics (You can “Coordinate” to give an initiative to a group, each level of success gives just +1 on their initiative ro"
@@ -17124,48 +19276,6 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/airship_kitty_1_-_star.png",
-    "campaignId": 4,
-    "campaignName": "Kingdom Divided",
-    "slug": "media/airship_kitty_1_-_star.png",
-    "title": "airship_kitty_1_-_star.png",
-    "category": "media",
-    "summary": "wiki/media/airship_kitty_1_-_star.png",
-    "tags": [],
-    "aliases": [
-      "airship_kitty_1_-_star.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "4:media:wiki/media/airship_kitty_2_-_port.jpg",
-    "campaignId": 4,
-    "campaignName": "Kingdom Divided",
-    "slug": "media/airship_kitty_2_-_port.jpg",
-    "title": "airship_kitty_2_-_port.jpg",
-    "category": "media",
-    "summary": "wiki/media/airship_kitty_2_-_port.jpg",
-    "tags": [],
-    "aliases": [
-      "airship_kitty_2_-_port.jpg"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
     "id": "4:media:wiki/media/airships_-_seung_park_2.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
@@ -17218,6 +19328,48 @@
     "tags": [],
     "aliases": [
       "airships_rh_-_szymon_sadowski.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "4:media:wiki/media/airship_kitty_1_-_star.png",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "media/airship_kitty_1_-_star.png",
+    "title": "airship_kitty_1_-_star.png",
+    "category": "media",
+    "summary": "wiki/media/airship_kitty_1_-_star.png",
+    "tags": [],
+    "aliases": [
+      "airship_kitty_1_-_star.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "4:media:wiki/media/airship_kitty_2_-_port.jpg",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "media/airship_kitty_2_-_port.jpg",
+    "title": "airship_kitty_2_-_port.jpg",
+    "category": "media",
+    "summary": "wiki/media/airship_kitty_2_-_port.jpg",
+    "tags": [],
+    "aliases": [
+      "airship_kitty_2_-_port.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -17628,16 +19780,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/bell_jean-paul.jpg",
+    "id": "4:media:wiki/media/bellands_map.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/bell_jean-paul.jpg",
-    "title": "bell_jean-paul.jpg",
+    "slug": "media/bellands_map.png",
+    "title": "bellands_map.png",
     "category": "media",
-    "summary": "wiki/media/bell_jean-paul.jpg",
+    "summary": "wiki/media/bellands_map.png",
     "tags": [],
     "aliases": [
-      "bell_jean-paul.jpg"
+      "bellands_map.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -17670,16 +19822,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/bellands_map.png",
+    "id": "4:media:wiki/media/bell_jean-paul.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/bellands_map.png",
-    "title": "bellands_map.png",
+    "slug": "media/bell_jean-paul.jpg",
+    "title": "bell_jean-paul.jpg",
     "category": "media",
-    "summary": "wiki/media/bellands_map.png",
+    "summary": "wiki/media/bell_jean-paul.jpg",
     "tags": [],
     "aliases": [
-      "bellands_map.png"
+      "bell_jean-paul.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -18976,6 +21128,27 @@
     "excerpt": ""
   },
   {
+    "id": "4:media:wiki/media/emily_cazinos.png",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "media/emily_cazinos.png",
+    "title": "emily_cazinos.png",
+    "category": "media",
+    "summary": "wiki/media/emily_cazinos.png",
+    "tags": [],
+    "aliases": [
+      "emily_cazinos.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "4:media:wiki/media/emil_schäfer.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
@@ -18997,16 +21170,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/emily_cazinos.png",
+    "id": "4:media:wiki/media/emmanuel_nazaro.jpeg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/emily_cazinos.png",
-    "title": "emily_cazinos.png",
+    "slug": "media/emmanuel_nazaro.jpeg",
+    "title": "emmanuel_nazaro.jpeg",
     "category": "media",
-    "summary": "wiki/media/emily_cazinos.png",
+    "summary": "wiki/media/emmanuel_nazaro.jpeg",
     "tags": [],
     "aliases": [
-      "emily_cazinos.png"
+      "emmanuel_nazaro.jpeg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -19049,27 +21222,6 @@
     "tags": [],
     "aliases": [
       "emma_lemyers.jpg"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "4:media:wiki/media/emmanuel_nazaro.jpeg",
-    "campaignId": 4,
-    "campaignName": "Kingdom Divided",
-    "slug": "media/emmanuel_nazaro.jpeg",
-    "title": "emmanuel_nazaro.jpeg",
-    "category": "media",
-    "summary": "wiki/media/emmanuel_nazaro.jpeg",
-    "tags": [],
-    "aliases": [
-      "emmanuel_nazaro.jpeg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -19144,16 +21296,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/farmer_-_marta_mendoza.jpeg",
+    "id": "4:media:wiki/media/farmers.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/farmer_-_marta_mendoza.jpeg",
-    "title": "farmer_-_marta_mendoza.jpeg",
+    "slug": "media/farmers.png",
+    "title": "farmers.png",
     "category": "media",
-    "summary": "wiki/media/farmer_-_marta_mendoza.jpeg",
+    "summary": "wiki/media/farmers.png",
     "tags": [],
     "aliases": [
-      "farmer_-_marta_mendoza.jpeg"
+      "farmers.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -19165,16 +21317,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/farmers.png",
+    "id": "4:media:wiki/media/farmer_-_marta_mendoza.jpeg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/farmers.png",
-    "title": "farmers.png",
+    "slug": "media/farmer_-_marta_mendoza.jpeg",
+    "title": "farmer_-_marta_mendoza.jpeg",
     "category": "media",
-    "summary": "wiki/media/farmers.png",
+    "summary": "wiki/media/farmer_-_marta_mendoza.jpeg",
     "tags": [],
     "aliases": [
-      "farmers.png"
+      "farmer_-_marta_mendoza.jpeg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -21265,16 +23417,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/luis_covinggard.jpg",
+    "id": "4:media:wiki/media/luisa_reese.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/luis_covinggard.jpg",
-    "title": "luis_covinggard.jpg",
+    "slug": "media/luisa_reese.png",
+    "title": "luisa_reese.png",
     "category": "media",
-    "summary": "wiki/media/luis_covinggard.jpg",
+    "summary": "wiki/media/luisa_reese.png",
     "tags": [],
     "aliases": [
-      "luis_covinggard.jpg"
+      "luisa_reese.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -21286,16 +23438,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/luisa_reese.png",
+    "id": "4:media:wiki/media/luis_covinggard.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/luisa_reese.png",
-    "title": "luisa_reese.png",
+    "slug": "media/luis_covinggard.jpg",
+    "title": "luis_covinggard.jpg",
     "category": "media",
-    "summary": "wiki/media/luisa_reese.png",
+    "summary": "wiki/media/luis_covinggard.jpg",
     "tags": [],
     "aliases": [
-      "luisa_reese.png"
+      "luis_covinggard.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -21773,16 +23925,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/nilo_demur.jpg",
+    "id": "4:media:wiki/media/nilora_kearieth.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/nilo_demur.jpg",
-    "title": "nilo_demur.jpg",
+    "slug": "media/nilora_kearieth.jpg",
+    "title": "nilora_kearieth.jpg",
     "category": "media",
-    "summary": "wiki/media/nilo_demur.jpg",
+    "summary": "wiki/media/nilora_kearieth.jpg",
     "tags": [],
     "aliases": [
-      "nilo_demur.jpg"
+      "nilora_kearieth.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -21794,16 +23946,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/nilora_kearieth.jpg",
+    "id": "4:media:wiki/media/nilo_demur.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/nilora_kearieth.jpg",
-    "title": "nilora_kearieth.jpg",
+    "slug": "media/nilo_demur.jpg",
+    "title": "nilo_demur.jpg",
     "category": "media",
-    "summary": "wiki/media/nilora_kearieth.jpg",
+    "summary": "wiki/media/nilo_demur.jpg",
     "tags": [],
     "aliases": [
-      "nilora_kearieth.jpg"
+      "nilo_demur.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -21962,6 +24114,27 @@
     "excerpt": ""
   },
   {
+    "id": "4:media:wiki/media/parnassians.png",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "media/parnassians.png",
+    "title": "parnassians.png",
+    "category": "media",
+    "summary": "wiki/media/parnassians.png",
+    "tags": [],
+    "aliases": [
+      "parnassians.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "4:media:wiki/media/parnassian_-_jesper_hagen.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
@@ -21993,27 +24166,6 @@
     "tags": [],
     "aliases": [
       "parnassian_-_storyteller_-_puck_van_der_luff.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "4:media:wiki/media/parnassians.png",
-    "campaignId": 4,
-    "campaignName": "Kingdom Divided",
-    "slug": "media/parnassians.png",
-    "title": "parnassians.png",
-    "category": "media",
-    "summary": "wiki/media/parnassians.png",
-    "tags": [],
-    "aliases": [
-      "parnassians.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -22172,16 +24324,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/physician_-_bjorn_einarsson.png",
+    "id": "4:media:wiki/media/physicians_.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/physician_-_bjorn_einarsson.png",
-    "title": "physician_-_bjorn_einarsson.png",
+    "slug": "media/physicians_.png",
+    "title": "physicians_.png",
     "category": "media",
-    "summary": "wiki/media/physician_-_bjorn_einarsson.png",
+    "summary": "wiki/media/physicians_.png",
     "tags": [],
     "aliases": [
-      "physician_-_bjorn_einarsson.png"
+      "physicians_.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -22193,16 +24345,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/physicians_.png",
+    "id": "4:media:wiki/media/physician_-_bjorn_einarsson.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/physicians_.png",
-    "title": "physicians_.png",
+    "slug": "media/physician_-_bjorn_einarsson.png",
+    "title": "physician_-_bjorn_einarsson.png",
     "category": "media",
-    "summary": "wiki/media/physicians_.png",
+    "summary": "wiki/media/physician_-_bjorn_einarsson.png",
     "tags": [],
     "aliases": [
-      "physicians_.png"
+      "physician_-_bjorn_einarsson.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -22382,16 +24534,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/say_yaryna_igorievna.png",
+    "id": "4:media:wiki/media/sayan_artur_makarovich.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/say_yaryna_igorievna.png",
-    "title": "say_yaryna_igorievna.png",
+    "slug": "media/sayan_artur_makarovich.jpg",
+    "title": "sayan_artur_makarovich.jpg",
     "category": "media",
-    "summary": "wiki/media/say_yaryna_igorievna.png",
+    "summary": "wiki/media/sayan_artur_makarovich.jpg",
     "tags": [],
     "aliases": [
-      "say_yaryna_igorievna.png"
+      "sayan_artur_makarovich.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -22403,16 +24555,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/sayan_artur_makarovich.jpg",
+    "id": "4:media:wiki/media/say_yaryna_igorievna.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/sayan_artur_makarovich.jpg",
-    "title": "sayan_artur_makarovich.jpg",
+    "slug": "media/say_yaryna_igorievna.png",
+    "title": "say_yaryna_igorievna.png",
     "category": "media",
-    "summary": "wiki/media/sayan_artur_makarovich.jpg",
+    "summary": "wiki/media/say_yaryna_igorievna.png",
     "tags": [],
     "aliases": [
-      "sayan_artur_makarovich.jpg"
+      "say_yaryna_igorievna.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -23138,27 +25290,6 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/than_resplo.jpg",
-    "campaignId": 4,
-    "campaignName": "Kingdom Divided",
-    "slug": "media/than_resplo.jpg",
-    "title": "than_resplo.jpg",
-    "category": "media",
-    "summary": "wiki/media/than_resplo.jpg",
-    "tags": [],
-    "aliases": [
-      "than_resplo.jpg"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
     "id": "4:media:wiki/media/thanya_suda.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
@@ -23180,16 +25311,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/the_gold_blades.png",
+    "id": "4:media:wiki/media/than_resplo.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/the_gold_blades.png",
-    "title": "the_gold_blades.png",
+    "slug": "media/than_resplo.jpg",
+    "title": "than_resplo.jpg",
     "category": "media",
-    "summary": "wiki/media/the_gold_blades.png",
+    "summary": "wiki/media/than_resplo.jpg",
     "tags": [],
     "aliases": [
-      "the_gold_blades.png"
+      "than_resplo.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -23232,6 +25363,27 @@
     "tags": [],
     "aliases": [
       "theodoros_kolokotronis.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "4:media:wiki/media/the_gold_blades.png",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "media/the_gold_blades.png",
+    "title": "the_gold_blades.png",
+    "category": "media",
+    "summary": "wiki/media/the_gold_blades.png",
+    "tags": [],
+    "aliases": [
+      "the_gold_blades.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -23457,16 +25609,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/weaponsmith_-_eero_virtanen.jpg",
+    "id": "4:media:wiki/media/weaponsmiths.png",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/weaponsmith_-_eero_virtanen.jpg",
-    "title": "weaponsmith_-_eero_virtanen.jpg",
+    "slug": "media/weaponsmiths.png",
+    "title": "weaponsmiths.png",
     "category": "media",
-    "summary": "wiki/media/weaponsmith_-_eero_virtanen.jpg",
+    "summary": "wiki/media/weaponsmiths.png",
     "tags": [],
     "aliases": [
-      "weaponsmith_-_eero_virtanen.jpg"
+      "weaponsmiths.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -23478,16 +25630,16 @@
     "excerpt": ""
   },
   {
-    "id": "4:media:wiki/media/weaponsmiths.png",
+    "id": "4:media:wiki/media/weaponsmith_-_eero_virtanen.jpg",
     "campaignId": 4,
     "campaignName": "Kingdom Divided",
-    "slug": "media/weaponsmiths.png",
-    "title": "weaponsmiths.png",
+    "slug": "media/weaponsmith_-_eero_virtanen.jpg",
+    "title": "weaponsmith_-_eero_virtanen.jpg",
     "category": "media",
-    "summary": "wiki/media/weaponsmiths.png",
+    "summary": "wiki/media/weaponsmith_-_eero_virtanen.jpg",
     "tags": [],
     "aliases": [
-      "weaponsmiths.png"
+      "weaponsmith_-_eero_virtanen.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -23597,6 +25749,29 @@
     "tags": [],
     "aliases": [
       "woodworkers_-_pieter_van_der_waal.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "4:media:wiki/media/WorldMapLanding.jpg",
+    "campaignId": 4,
+    "campaignName": "Kingdom Divided",
+    "slug": "media/WorldMapLanding.jpg",
+    "title": "Leandan Domain Map",
+    "category": "media",
+    "summary": "wiki/media/WorldMapLanding.jpg",
+    "tags": [
+      "map"
+    ],
+    "aliases": [
+      "WorldMapLanding.jpg"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",

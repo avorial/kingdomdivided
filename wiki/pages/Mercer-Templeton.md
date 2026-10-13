@@ -66,8 +66,8 @@ Mercer is strongest in social pressure, deceit, and profitable observation.
 - Quintill feature from source actor: gains advantage in intimidation, persuasion, and intrigue-style political maneuvering.
 - Burning Wheel source stats: Will 4, Perception 5, Power 3, Forte 3, Agility 5, Speed 4, Health 3, Steel 3, Circles 2, Resources 4.
 
-## GM Notes
-
 :::gm
+
+## GM Notes
 Imported from the Foundry actor `Mercer Templeton`. Portrait copied from `KD - Leandan 1/PC Pictures/Mercer-SM.jpg`.
 :::

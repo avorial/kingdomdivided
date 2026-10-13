@@ -74,8 +74,8 @@ Sebastian is strongest when craft, engineering, forgery, or quiet criminal techn
 - Traits: Ambidextrous, Bad Egg, Light Sleeper, Self-Confident.
 - Burning Wheel source stats: Will 3, Perception 6, Power 2, Forte 3, Agility 6, Speed 3, Health 4, Steel 4, Circles 1, Resources 3.
 
-## GM Notes
-
 :::gm
+
+## GM Notes
 Imported from the Foundry actor `Sebastian Luc Benois`. The actor image path was `Pictures/KD - Leandan/PC Pictures/IMG_0517.jpg`, but that image was not present in this repo at import time.
 :::

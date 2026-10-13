@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T13:47:14.869Z",
+  "generatedAt": "2026-10-13T15:54:56.658Z",
   "pages": [
     {
       "id": "organization-17th-Hussars",
@@ -12,6 +12,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The 17th Hussars, is a primary unit of the Montimerian knights, a member of the order of Ashen Knights.",
       "visibility": "players",
@@ -25,6 +26,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -43,6 +45,9 @@
       "links": [
         "species-Paltris"
       ],
+      "playerLinks": [
+        "species-Paltris"
+      ],
       "aliases": [],
       "summary": "Name: Abdul Deiz de Requenaut",
       "visibility": "players",
@@ -57,6 +62,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -78,6 +84,10 @@
         "character-Mercer-Templeton",
         "character-Violet-Cossaboon"
       ],
+      "playerLinks": [
+        "character-Mercer-Templeton",
+        "character-Violet-Cossaboon"
+      ],
       "aliases": [],
       "summary": "Farisi contact interested in airships and gems; connects the party toward Captain Martin and the Dawn's Pearl.",
       "visibility": "players",
@@ -95,6 +105,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -116,6 +127,10 @@
         "location-Davin",
         "location-Farisi"
       ],
+      "playerLinks": [
+        "location-Davin",
+        "location-Farisi"
+      ],
       "aliases": [],
       "summary": "Trader out of Rahabriz with a route toward Kithnos; mentioned as a possible way back toward Farisi.",
       "visibility": "players",
@@ -130,6 +145,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -144,6 +160,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -158,6 +175,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -172,6 +190,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -186,6 +205,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -202,6 +222,7 @@
         "NPCs"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -215,6 +236,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -229,6 +251,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -245,6 +268,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -259,6 +283,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -275,6 +300,7 @@
         "rules"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the morning Lyla Silverridge is sent a letter from Soverighn Ides Lev Tarasovich asking her to prepare for the wedding, a letter is also sent to Rory Silverridge. As they are pr",
       "visibility": "players",
@@ -293,6 +319,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Astrid Eriksdottir (Katoite)",
       "visibility": "players",
@@ -309,6 +338,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -338,6 +368,20 @@
         "unresolved:francis-bellkind",
         "organization-House-Whitestar"
       ],
+      "playerLinks": [
+        "species-Fedor",
+        "organization-House-Whitestar",
+        "organization-House-Silverridge",
+        "npc-Timothy-Whitestar",
+        "npc-Timothy-Whitestar",
+        "organization-House-Whitestar",
+        "unresolved:rory-silverridge",
+        "unresolved:francis-bellkind",
+        "organization-House-Bellkind",
+        "organization-House-Whitestar",
+        "unresolved:francis-bellkind",
+        "organization-House-Whitestar"
+      ],
       "aliases": [],
       "summary": "Title: Lady “Diplomat” Age: 23 Ancestry: Fedors Gender: Female House: House Walsh (a diplomat working for House Whitestar assigned to House Silverridge)",
       "visibility": "players",
@@ -354,6 +398,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the primordial silence following the Calming of the Spheres, the worm gods had sedated Oh and broken his will, leaving the spheres connected only by ley lines. It was during thi",
       "visibility": "players",
@@ -369,6 +414,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -383,6 +429,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -397,6 +444,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -411,6 +459,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -425,6 +474,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -439,6 +489,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -453,6 +504,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -467,6 +519,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -481,6 +534,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -495,6 +549,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -509,6 +564,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -523,6 +579,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -537,6 +594,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -551,6 +609,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -565,6 +624,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -579,6 +639,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -593,6 +654,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -607,6 +669,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -621,6 +684,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -635,6 +699,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -649,6 +714,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -663,6 +729,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -677,6 +744,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -691,6 +759,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -705,6 +774,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -719,6 +789,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -733,6 +804,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -747,6 +819,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -761,6 +834,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -775,6 +849,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -789,6 +864,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -803,6 +879,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -819,6 +896,7 @@
         "character"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -834,6 +912,7 @@
         "npc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -895,6 +974,53 @@
         "lore-Bellringer-Crusades",
         "unresolved:house-talmart"
       ],
+      "playerLinks": [
+        "organization-House-Graisti",
+        "organization-House-Covinggard",
+        "organization-House-Rivers",
+        "organization-House-Montmier",
+        "organization-House-Whitestar",
+        "event-Esten-Kings",
+        "event-Esten-Kings",
+        "event-Esten-Kings",
+        "event-Esten-Kings",
+        "unresolved:house-talmart",
+        "organization-House-Graisti",
+        "organization-House-Covinggard",
+        "organization-House-Rivers",
+        "event-Esten-Kings",
+        "organization-House-Graisti",
+        "event-Esten-Kings",
+        "organization-House-Covinggard",
+        "lore-Bellringer-Crusades",
+        "lore-Bellringer-Crusades",
+        "event-Esten-Kings",
+        "organization-House-Rivers",
+        "organization-House-Covinggard",
+        "lore-Bellringer-Crusades",
+        "event-Esten-Kings",
+        "organization-House-Rivers",
+        "organization-House-Rivers",
+        "event-Esten-Kings",
+        "organization-House-Covinggard",
+        "event-Esten-Kings",
+        "organization-House-Rivers",
+        "organization-House-Covinggard",
+        "organization-House-Rivers",
+        "organization-House-Covinggard",
+        "event-Esten-Kings",
+        "event-Esten-Kings",
+        "organization-House-Rivers",
+        "lore-Bellringer-Crusades",
+        "organization-House-Montmier",
+        "event-Esten-Kings",
+        "lore-Bellringer-Crusades",
+        "lore-Bellringer-Crusades",
+        "organization-House-Whitestar",
+        "unresolved:house-talmart",
+        "lore-Bellringer-Crusades",
+        "unresolved:house-talmart"
+      ],
       "aliases": [],
       "summary": "The Bellringer Missionaries conquering of the Lands of Earth and Water, Known today as the Bell Lands.",
       "visibility": "players",
@@ -910,6 +1036,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The roar of the seas seemed to echo the tumultuous nature of the Crusader Wars against the Mikado Empire. The conflict had persisted for ages, a relentless struggle between powers ",
       "visibility": "players",
@@ -925,6 +1052,7 @@
         "rules"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "These are added to the Kingdom Divided world above and beyond the ones listed in the main SC book.",
       "visibility": "players",
@@ -938,6 +1066,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -952,6 +1081,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -966,6 +1096,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -982,6 +1113,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -996,6 +1128,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1012,6 +1145,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the annals of history, the origins of the Crusader Wars, a tumultuous era that fractured the unity of the Constellation of Stars, are often obscured by the passage of time. Yet,",
       "visibility": "players",
@@ -1028,6 +1162,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -1048,6 +1185,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1066,6 +1204,12 @@
         "shipwrights-guild"
       ],
       "links": [
+        "location-The-Victory",
+        "npc-Sarah-Van-Jansen",
+        "location-Farisi",
+        "location-Cataclistos"
+      ],
+      "playerLinks": [
         "location-The-Victory",
         "npc-Sarah-Van-Jansen",
         "location-Farisi",
@@ -1091,6 +1235,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1108,6 +1253,7 @@
         "cities-of-the-bellands"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "|Dutchy = House Pearstone",
       "visibility": "players",
@@ -1124,6 +1270,7 @@
         "character"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1142,6 +1289,10 @@
         "burning-wheel"
       ],
       "links": [
+        "species-Quintill",
+        "organization-Jewelers-Guild"
+      ],
+      "playerLinks": [
         "species-Quintill",
         "organization-Jewelers-Guild"
       ],
@@ -1173,6 +1324,9 @@
       "links": [
         "location-Farisi"
       ],
+      "playerLinks": [
+        "location-Farisi"
+      ],
       "aliases": [
         "Martin"
       ],
@@ -1192,6 +1346,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1206,6 +1361,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1220,6 +1376,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1234,6 +1391,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1250,6 +1408,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1268,6 +1427,12 @@
         "airship-guild"
       ],
       "links": [
+        "location-The-Leandan-League",
+        "location-Farisi",
+        "organization-Jewelers-Guild",
+        "organization-Shipwrights-Guild"
+      ],
+      "playerLinks": [
         "location-The-Leandan-League",
         "location-Farisi",
         "organization-Jewelers-Guild",
@@ -1299,6 +1464,10 @@
         "location-Lumia",
         "event-Obsidian-Taint"
       ],
+      "playerLinks": [
+        "location-Lumia",
+        "event-Obsidian-Taint"
+      ],
       "aliases": [],
       "summary": "A Lumia city built in or around a previously erupted volcano and one of the first major Mikado Chronicle hubs.",
       "visibility": "players",
@@ -1317,6 +1486,10 @@
         "chabat"
       ],
       "links": [
+        "location-Chabat",
+        "event-Obsidian-Taint"
+      ],
+      "playerLinks": [
         "location-Chabat",
         "event-Obsidian-Taint"
       ],
@@ -1342,6 +1515,9 @@
       "links": [
         "organization-Mercenary-Bands"
       ],
+      "playerLinks": [
+        "organization-Mercenary-Bands"
+      ],
       "aliases": [],
       "summary": "|image = Chain Breakers",
       "visibility": "players",
@@ -1360,6 +1536,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "- Abagail Trudo - A Knight of the 17th Hussars of Montimer, Leader of their Heavy Calvary - Abdul Deiz de Requena - Was the teacher of Adan Mcneil who was the knight who taught Cad",
       "visibility": "players",
@@ -1373,6 +1550,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1390,6 +1568,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Church of the Bells, is the organized bureaucracy of The Bell Ringer faith. They have 3 key subdivisions.",
       "visibility": "players",
@@ -1412,6 +1591,12 @@
         "location-Butterhill",
         "location-Greenmarble"
       ],
+      "playerLinks": [
+        "location-Deerholt",
+        "location-Windbreak",
+        "location-Butterhill",
+        "location-Greenmarble"
+      ],
       "aliases": [],
       "summary": "- Rivers - Rivercliff - Arta - Snowspell - Oldwyn (Capital) - Bauron - Icehaven - Eythra - Ganymede - Silverridge - Esterash - Bellmore - Faymill - Deerholt - Windbreak(Capital) - ",
       "visibility": "players",
@@ -1425,6 +1610,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1439,6 +1625,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1453,6 +1640,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1467,6 +1655,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1483,6 +1672,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1497,6 +1687,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1511,6 +1702,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1525,6 +1717,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1567,6 +1760,33 @@
         "unresolved:merida-silverridge",
         "unresolved:carrick-silverridge"
       ],
+      "playerLinks": [
+        "species-Fedor",
+        "organization-House-Silverridge",
+        "unresolved:merida-silverridge",
+        "unresolved:carrick-silverridge",
+        "character-Caden-Mattix",
+        "unresolved:rory-silverridge",
+        "unresolved:sharon-butler",
+        "unresolved:kincade-silverridge",
+        "unresolved:malcom-silverridge",
+        "unresolved:steven-butler",
+        "unresolved:steven-butler",
+        "unresolved:malcom-silverridge",
+        "organization-Church-of-the-Bells",
+        "unresolved:mikado",
+        "unresolved:steven-butler",
+        "unresolved:bruce-ulman",
+        "unresolved:octavia-mattix",
+        "unresolved:steven-butler",
+        "unresolved:sharon-butler",
+        "unresolved:malcom-silverridge",
+        "unresolved:octavia-mattix",
+        "character-Caden-Mattix",
+        "organization-House-Macbravo",
+        "unresolved:merida-silverridge",
+        "unresolved:carrick-silverridge"
+      ],
       "aliases": [],
       "summary": "Name: Conner Silverridge",
       "visibility": "players",
@@ -1581,6 +1801,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1595,6 +1816,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1609,6 +1831,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1623,6 +1846,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1637,6 +1861,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1651,6 +1876,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1665,6 +1891,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1679,6 +1906,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1693,6 +1921,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1707,6 +1936,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1721,6 +1951,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1735,6 +1966,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1749,6 +1981,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1763,6 +1996,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1777,6 +2011,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1797,6 +2032,9 @@
       "links": [
         "organization-Mercenary-Bands"
       ],
+      "playerLinks": [
+        "organization-Mercenary-Bands"
+      ],
       "aliases": [],
       "summary": "Captain = Captain Isaac Mason",
       "visibility": "players",
@@ -1815,6 +2053,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Empire of Kadal traces its origins to the dawn of civilization on Cestona, a sphere resonating with arcane energies. The Avestan, the first race to awaken after the calming of ",
       "visibility": "players",
@@ -1830,6 +2069,7 @@
         "region"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Countries In the Heartstone published: true",
       "visibility": "players",
@@ -1843,6 +2083,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1857,6 +2098,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1874,6 +2116,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -1905,6 +2150,18 @@
         "species-Welvart",
         "species-Zafroff"
       ],
+      "playerLinks": [
+        "species-Fedor",
+        "species-Helior",
+        "species-Katoites",
+        "species-Paltris",
+        "species-Quintill",
+        "species-Saltblood",
+        "species-Thao",
+        "species-Thrani",
+        "species-Welvart",
+        "species-Zafroff"
+      ],
       "aliases": [],
       "summary": "Cultures of Humans found in Kingdom Divided.",
       "visibility": "players",
@@ -1920,6 +2177,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1934,6 +2192,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1948,6 +2207,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1962,6 +2222,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -1980,6 +2241,13 @@
         "corumia"
       ],
       "links": [
+        "location-The-Victory",
+        "location-Kempenfelt",
+        "npc-Xander-Wong",
+        "npc-Nadia",
+        "npc-Roya"
+      ],
+      "playerLinks": [
         "location-The-Victory",
         "location-Kempenfelt",
         "npc-Xander-Wong",
@@ -2007,6 +2275,7 @@
         "cities-of-the-bellands"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "|image = Deerholt.jpg",
       "visibility": "players",
@@ -2024,6 +2293,7 @@
         "gods"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Deipa is the god of smoke an incense. The she is very inclusive.",
       "visibility": "players",
@@ -2043,6 +2313,9 @@
       "links": [
         "organization-Mercenary-Bands"
       ],
+      "playerLinks": [
+        "organization-Mercenary-Bands"
+      ],
       "aliases": [],
       "summary": "Delong's Killers Captain Vincent Delong",
       "visibility": "players",
@@ -2059,6 +2332,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2073,6 +2347,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2089,6 +2364,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2108,6 +2384,15 @@
         "fate"
       ],
       "links": [
+        "game-Mikado-Chronicle",
+        "character-Thorn",
+        "location-Lumia",
+        "location-Chabat",
+        "species-Esten",
+        "organization-House-Lulumia",
+        "event-Obsidian-Taint"
+      ],
+      "playerLinks": [
         "game-Mikado-Chronicle",
         "character-Thorn",
         "location-Lumia",
@@ -2136,6 +2421,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2150,6 +2436,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2164,6 +2451,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2178,6 +2466,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2192,6 +2481,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2206,6 +2496,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2220,6 +2511,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2234,6 +2526,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2248,6 +2541,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2262,6 +2556,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2276,6 +2571,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2300,6 +2596,13 @@
         "location-Lumia",
         "event-Esten-Sovereignty-in-Mikado"
       ],
+      "playerLinks": [
+        "location-Chabat",
+        "location-Lumia",
+        "location-Chabat",
+        "location-Lumia",
+        "event-Esten-Sovereignty-in-Mikado"
+      ],
       "aliases": [
         "Edral Quedil"
       ],
@@ -2316,6 +2619,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2330,6 +2634,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2344,6 +2649,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2360,6 +2666,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2374,6 +2681,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2388,6 +2696,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2404,6 +2713,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2420,6 +2730,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2434,6 +2745,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2450,6 +2762,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Esten Joining is a profound and mystical rite of passage for children of the Esten people, held on the night of the Esten New Year. This sacred ceremony takes place when the tw",
       "visibility": "players",
@@ -2465,6 +2778,13 @@
         "lore"
       ],
       "links": [
+        "event-Esten-Kings",
+        "organization-House-Thalorin",
+        "unresolved:house-talmart",
+        "unresolved:house-vathi",
+        "event-Fall-of-the-Angalaglassi"
+      ],
+      "playerLinks": [
         "event-Esten-Kings",
         "organization-House-Thalorin",
         "unresolved:house-talmart",
@@ -2492,6 +2812,11 @@
         "event-Esten-Sovereignty-in-Mikado",
         "location-Lumia"
       ],
+      "playerLinks": [
+        "event-Mikado-Sea-Passage",
+        "event-Esten-Sovereignty-in-Mikado",
+        "location-Lumia"
+      ],
       "aliases": [
         "White Sails Rise"
       ],
@@ -2514,6 +2839,10 @@
         "location-Mikado-Empire",
         "location-Lumia"
       ],
+      "playerLinks": [
+        "location-Mikado-Empire",
+        "location-Lumia"
+      ],
       "aliases": [
         "Esten Question"
       ],
@@ -2531,6 +2860,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Many people feel that the Esten Kings where a unified society, to the tallest trees to the deepest rocks Esten are one family, is the saying. But it is a saying brought forth by a ",
       "visibility": "players",
@@ -2548,6 +2878,9 @@
         "jewelers-guild"
       ],
       "links": [
+        "location-Cataclistos"
+      ],
+      "playerLinks": [
         "location-Cataclistos"
       ],
       "aliases": [
@@ -2576,6 +2909,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Farmers - Member of Small Council",
       "visibility": "players",
@@ -2595,6 +2931,7 @@
         "cities-of-the-bellands"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "This used to be the shining gem of the east. The noble House Henge ruled the for 8 generations, inspiring the east. That was the sunset on the house. With 2 bad generations, and th",
       "visibility": "players",
@@ -2609,6 +2946,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2626,6 +2964,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2645,6 +2984,10 @@
         "lore-Legend-of-the-Maw",
         "organization-House-Henge"
       ],
+      "playerLinks": [
+        "lore-Legend-of-the-Maw",
+        "organization-House-Henge"
+      ],
       "aliases": [],
       "summary": "While their prehistory is chronicled in the Legend of the Maw. The people as a whole naturally settled in the North and the East, there are runic cairn's sprinkled all over the lan",
       "visibility": "players",
@@ -2658,6 +3001,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2676,6 +3020,9 @@
       "links": [
         "organization-Mercenary-Bands"
       ],
+      "playerLinks": [
+        "organization-Mercenary-Bands"
+      ],
       "aliases": [],
       "summary": "First Son's Gravediggers",
       "visibility": "players",
@@ -2692,6 +3039,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2706,6 +3054,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2720,6 +3069,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2737,6 +3087,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the city of Icehaven, nestled amidst the awe-inspiring backdrop of snow-capped mountains and shimmering frozen valleys, stands the illustrious boarding school for nobles known a",
       "visibility": "players",
@@ -2753,6 +3104,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2766,6 +3118,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2780,6 +3133,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2794,6 +3148,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2811,6 +3166,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -2831,6 +3189,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2844,6 +3203,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2861,6 +3221,7 @@
         "cities-of-the-bellands"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Green marble started being a settlement, after a great storm eroded away a hill. As people came by after the devastation they found that it had uncovered beautiful marble deposits.",
       "visibility": "players",
@@ -2877,6 +3238,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2891,6 +3253,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2905,6 +3268,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -2921,6 +3285,9 @@
         "misc"
       ],
       "links": [
+        "organization-Intelligence-Agencies"
+      ],
+      "playerLinks": [
         "organization-Intelligence-Agencies"
       ],
       "aliases": [],
@@ -2941,6 +3308,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2957,6 +3325,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -2976,6 +3345,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Robin Van der Heijden (F) (Welvart)",
       "visibility": "players",
@@ -2992,6 +3364,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -3012,6 +3385,10 @@
         "npc-Hans-Rhinehart",
         "unresolved:connor-silverridge"
       ],
+      "playerLinks": [
+        "npc-Hans-Rhinehart",
+        "unresolved:connor-silverridge"
+      ],
       "aliases": [],
       "summary": "Name: Haylee Rhinehart-Silverridge Title: Lady Age: Died at 22. Gender: Female Ancestry: Fedor",
       "visibility": "players",
@@ -3029,6 +3406,7 @@
         "islands"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Hrimfax Cay is a independent domain of 2 islands of the eastern coast of the Bell Lands.",
       "visibility": "players",
@@ -3045,6 +3423,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Helior race traces its lineage back to the ancient giants of old, known for their immense size and strength. However, through years of interbreeding with humans, they underwent",
       "visibility": "players",
@@ -3062,6 +3441,12 @@
         "farisi"
       ],
       "links": [
+        "location-Farisi",
+        "npc-Tiberius",
+        "location-Kempenfelt",
+        "location-Davin"
+      ],
+      "playerLinks": [
         "location-Farisi",
         "npc-Tiberius",
         "location-Kempenfelt",
@@ -3088,6 +3473,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Kingdom Divided takes place in a country called the Belllands. Over 500 years ago a religious crusade came and conquered these lands, making them in to the domains and noble houses",
       "visibility": "players",
@@ -3104,6 +3490,9 @@
         "mikado-house"
       ],
       "links": [
+        "organization-House-Mikado"
+      ],
+      "playerLinks": [
         "organization-House-Mikado"
       ],
       "aliases": [],
@@ -3125,6 +3514,13 @@
         "noble-house"
       ],
       "links": [
+        "organization-House-Mookjai",
+        "organization-House-Songprawati",
+        "organization-House-Menes",
+        "organization-House-Quangban",
+        "organization-House-Tamtria"
+      ],
+      "playerLinks": [
         "organization-House-Mookjai",
         "organization-House-Songprawati",
         "organization-House-Menes",
@@ -3156,6 +3552,9 @@
       "links": [
         "organization-House-Montmier"
       ],
+      "playerLinks": [
+        "organization-House-Montmier"
+      ],
       "aliases": [],
       "summary": "Name: House Arstarcsalia Leader of the House: Heir: Liege: Minor House in Montimer Founding:",
       "visibility": "players",
@@ -3178,6 +3577,9 @@
       "links": [
         "organization-House-Montmier"
       ],
+      "playerLinks": [
+        "organization-House-Montmier"
+      ],
       "aliases": [],
       "summary": "Name: House Baiersbruck Leader of the House: Otto Baiersbruck Heir: Klara Baiersbruck Liege: Minor House in Montimer Founding: 100 RE",
       "visibility": "players",
@@ -3197,6 +3599,14 @@
         "noble-house"
       ],
       "links": [
+        "npc-Zachariah-Bellkind",
+        "organization-House-Rivers",
+        "organization-House-Goycoa",
+        "organization-House-Gubau",
+        "organization-House-Goycoa",
+        "organization-House-Gubau"
+      ],
+      "playerLinks": [
         "npc-Zachariah-Bellkind",
         "organization-House-Rivers",
         "organization-House-Goycoa",
@@ -3226,6 +3636,9 @@
       "links": [
         "organization-House-Montmier"
       ],
+      "playerLinks": [
+        "organization-House-Montmier"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -3246,6 +3659,9 @@
         "minor-houses"
       ],
       "links": [
+        "organization-House-Montmier"
+      ],
+      "playerLinks": [
         "organization-House-Montmier"
       ],
       "aliases": [],
@@ -3270,6 +3686,9 @@
       "links": [
         "organization-House-Rivers"
       ],
+      "playerLinks": [
+        "organization-House-Rivers"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -3290,6 +3709,9 @@
         "minor-houses"
       ],
       "links": [
+        "organization-House-Whitestar"
+      ],
+      "playerLinks": [
         "organization-House-Whitestar"
       ],
       "aliases": [],
@@ -3314,6 +3736,9 @@
       "links": [
         "organization-House-Whitestar"
       ],
+      "playerLinks": [
+        "organization-House-Whitestar"
+      ],
       "aliases": [],
       "summary": "Name: House Ceanadach",
       "visibility": "players",
@@ -3336,6 +3761,9 @@
       "links": [
         "organization-House-Talmert"
       ],
+      "playerLinks": [
+        "organization-House-Talmert"
+      ],
       "aliases": [],
       "summary": "Name: House Coremalia Leader of the House: Heir: Liege: Minor House in Founding:",
       "visibility": "players",
@@ -3355,6 +3783,12 @@
         "noble-house"
       ],
       "links": [
+        "organization-House-Kulak",
+        "organization-House-Polonsky",
+        "organization-House-Vulgrit",
+        "organization-House-Tarasovich"
+      ],
+      "playerLinks": [
         "organization-House-Kulak",
         "organization-House-Polonsky",
         "organization-House-Vulgrit",
@@ -3384,6 +3818,9 @@
       "links": [
         "organization-House-Rivers"
       ],
+      "playerLinks": [
+        "organization-House-Rivers"
+      ],
       "aliases": [
         "House Cowley"
       ],
@@ -3406,6 +3843,9 @@
         "banner-houses"
       ],
       "links": [
+        "organization-House-Silverridge"
+      ],
+      "playerLinks": [
         "organization-House-Silverridge"
       ],
       "aliases": [],
@@ -3434,6 +3874,13 @@
         "character-Penelope-Durand",
         "unresolved:casimir-ramirez"
       ],
+      "playerLinks": [
+        "character-Penelope-Durand",
+        "unresolved:casimir-ramirez",
+        "organization-House-Rivers",
+        "character-Penelope-Durand",
+        "unresolved:casimir-ramirez"
+      ],
       "aliases": [],
       "summary": "Leader of the House: Baroness Penelope Durand & Baron Casimir Durand",
       "visibility": "players",
@@ -3450,6 +3897,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -3468,6 +3916,9 @@
         "banner-houses"
       ],
       "links": [
+        "organization-House-Bellkind"
+      ],
+      "playerLinks": [
         "organization-House-Bellkind"
       ],
       "aliases": [],
@@ -3489,6 +3940,10 @@
         "noble-house"
       ],
       "links": [
+        "organization-House-Stalder",
+        "organization-House-Lombardo"
+      ],
+      "playerLinks": [
         "organization-House-Stalder",
         "organization-House-Lombardo"
       ],
@@ -3514,6 +3969,9 @@
       "links": [
         "organization-House-Bellkind"
       ],
+      "playerLinks": [
+        "organization-House-Bellkind"
+      ],
       "aliases": [
         "House Gambu"
       ],
@@ -3537,6 +3995,9 @@
       "links": [
         "organization-House-Mikado"
       ],
+      "playerLinks": [
+        "organization-House-Mikado"
+      ],
       "aliases": [],
       "summary": "title: House Haina published: true",
       "visibility": "players",
@@ -3556,6 +4017,9 @@
         "mikado-house"
       ],
       "links": [
+        "event-Obsidian-Taint"
+      ],
+      "playerLinks": [
         "event-Obsidian-Taint"
       ],
       "aliases": [
@@ -3582,6 +4046,10 @@
         "organization-House-Whitestar",
         "organization-House-Silverridge"
       ],
+      "playerLinks": [
+        "organization-House-Whitestar",
+        "organization-House-Silverridge"
+      ],
       "aliases": [],
       "summary": "Leader of the House: Baron Elric Henge Heir: Liege: House Whitestar Founding: The End of the First Bellringer Crusade Family Members:",
       "visibility": "players",
@@ -3601,6 +4069,9 @@
         "mikado-house"
       ],
       "links": [
+        "organization-House-Mikado"
+      ],
+      "playerLinks": [
         "organization-House-Mikado"
       ],
       "aliases": [],
@@ -3625,6 +4096,9 @@
       "links": [
         "organization-House-Covinggard"
       ],
+      "playerLinks": [
+        "organization-House-Covinggard"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -3645,6 +4119,9 @@
         "banner-houses"
       ],
       "links": [
+        "organization-House-Pearstone"
+      ],
+      "playerLinks": [
         "organization-House-Pearstone"
       ],
       "aliases": [],
@@ -3669,6 +4146,9 @@
       "links": [
         "organization-House-Talmert"
       ],
+      "playerLinks": [
+        "organization-House-Talmert"
+      ],
       "aliases": [],
       "summary": "Symbol: A black banner adorned with the head of Oh, the bringer of mysteries, shining with a black light Words: \"In Shadows, We See\"",
       "visibility": "players",
@@ -3691,6 +4171,9 @@
       "links": [
         "organization-House-Graisti"
       ],
+      "playerLinks": [
+        "organization-House-Graisti"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -3710,6 +4193,7 @@
         "mikado-house"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: House Lulumia published: true",
       "visibility": "players",
@@ -3728,6 +4212,9 @@
         "minor-houses"
       ],
       "links": [
+        "organization-House-Silverridge"
+      ],
+      "playerLinks": [
         "organization-House-Silverridge"
       ],
       "aliases": [],
@@ -3751,6 +4238,9 @@
       "links": [
         "organization-House-Mikado"
       ],
+      "playerLinks": [
+        "organization-House-Mikado"
+      ],
       "aliases": [],
       "summary": "title: House Maj published: true",
       "visibility": "players",
@@ -3767,6 +4257,7 @@
       "type": "organization",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -3784,6 +4275,9 @@
         "banner-houses"
       ],
       "links": [
+        "organization-House-Rivers"
+      ],
+      "playerLinks": [
         "organization-House-Rivers"
       ],
       "aliases": [],
@@ -3808,6 +4302,9 @@
       "links": [
         "organization-House-Pearstone"
       ],
+      "playerLinks": [
+        "organization-House-Pearstone"
+      ],
       "aliases": [],
       "summary": "A banner house sworn to House Pearstone.",
       "visibility": "players",
@@ -3830,6 +4327,9 @@
       "links": [
         "organization-House-Almirn"
       ],
+      "playerLinks": [
+        "organization-House-Almirn"
+      ],
       "aliases": [],
       "summary": "Name: House Menes Leader of the House: Heir: Liege: Minor House in Almern Founding:",
       "visibility": "players",
@@ -3849,6 +4349,14 @@
         "mikado-house"
       ],
       "links": [
+        "organization-House-Maj",
+        "organization-House-Haina",
+        "organization-House-Jeong",
+        "organization-House-Toab",
+        "organization-House-Thaphicare",
+        "organization-House-Abbyean"
+      ],
+      "playerLinks": [
         "organization-House-Maj",
         "organization-House-Haina",
         "organization-House-Jeong",
@@ -3889,6 +4397,17 @@
         "organization-House-Bennet",
         "organization-House-Upperton"
       ],
+      "playerLinks": [
+        "organization-House-Bennet",
+        "organization-House-Upperton",
+        "organization-House-Tsalan",
+        "organization-House-Nyirborg",
+        "organization-House-Bouvy",
+        "organization-House-Arstarcsalia",
+        "organization-House-Baiersbruck",
+        "organization-House-Bennet",
+        "organization-House-Upperton"
+      ],
       "aliases": [],
       "summary": "Leader of the House: Duke Charles Montmier",
       "visibility": "players",
@@ -3916,6 +4435,9 @@
       "links": [
         "organization-House-Almirn"
       ],
+      "playerLinks": [
+        "organization-House-Almirn"
+      ],
       "aliases": [],
       "summary": "Name: House House Mookjai Leader of the House: A-wut Mookjai Heir: Liege: House Almern Founding: The End of The First Bellringer Crusade.",
       "visibility": "players",
@@ -3936,6 +4458,9 @@
         "banner-houses"
       ],
       "links": [
+        "organization-House-Pearstone"
+      ],
+      "playerLinks": [
         "organization-House-Pearstone"
       ],
       "aliases": [],
@@ -3960,6 +4485,9 @@
       "links": [
         "organization-House-Montmier"
       ],
+      "playerLinks": [
+        "organization-House-Montmier"
+      ],
       "aliases": [],
       "summary": "Name: House Nyirborg Leader of the House: Heir: Liege: Minor House in Montimer Founding:",
       "visibility": "players",
@@ -3979,6 +4507,11 @@
         "noble-house"
       ],
       "links": [
+        "organization-House-Lamonnes",
+        "organization-House-Mourningblaze",
+        "organization-House-Mason"
+      ],
+      "playerLinks": [
         "organization-House-Lamonnes",
         "organization-House-Mourningblaze",
         "organization-House-Mason"
@@ -4006,6 +4539,9 @@
       "links": [
         "organization-House-Covinggard"
       ],
+      "playerLinks": [
+        "organization-House-Covinggard"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -4026,6 +4562,9 @@
         "minor-houses"
       ],
       "links": [
+        "organization-House-Almirn"
+      ],
+      "playerLinks": [
         "organization-House-Almirn"
       ],
       "aliases": [],
@@ -4051,6 +4590,10 @@
         "npc-Emer-Ramirez",
         "organization-House-Silverridge"
       ],
+      "playerLinks": [
+        "npc-Emer-Ramirez",
+        "organization-House-Silverridge"
+      ],
       "aliases": [],
       "summary": "Name: House Ramirez Leader of the House: Captain Sofia Ramirez Heir: Emer Ramirez Liege: Founding: 118 RE Motto: ''The Sea is a farm sprouting blood & gold''",
       "visibility": "players",
@@ -4071,6 +4614,9 @@
         "banner-houses"
       ],
       "links": [
+        "organization-House-Talmert"
+      ],
+      "playerLinks": [
         "organization-House-Talmert"
       ],
       "aliases": [],
@@ -4095,6 +4641,9 @@
       "links": [
         "organization-House-Silverridge"
       ],
+      "playerLinks": [
+        "organization-House-Silverridge"
+      ],
       "aliases": [],
       "summary": "Name: House Rhinehart",
       "visibility": "players",
@@ -4114,6 +4663,14 @@
         "noble-house"
       ],
       "links": [
+        "organization-House-Butler",
+        "organization-House-Crowley",
+        "organization-House-Durand",
+        "organization-House-Martian",
+        "organization-House-Sherman",
+        "organization-House-Thorn"
+      ],
+      "playerLinks": [
         "organization-House-Butler",
         "organization-House-Crowley",
         "organization-House-Durand",
@@ -4149,6 +4706,11 @@
         "unresolved:muireann-rolland",
         "npc-Alaric-Ironhook-Wycliff"
       ],
+      "playerLinks": [
+        "organization-House-Whitestar",
+        "unresolved:muireann-rolland",
+        "npc-Alaric-Ironhook-Wycliff"
+      ],
       "aliases": [],
       "summary": "Name: House Rolland Leader of the House: Muireann Rolland Heir: Ciaran Rolland Liege: House Whitestar Founding: With Angus emerging from the Maw.",
       "visibility": "players",
@@ -4171,6 +4733,9 @@
       "links": [
         "organization-House-Rivers"
       ],
+      "playerLinks": [
+        "organization-House-Rivers"
+      ],
       "aliases": [],
       "summary": "A banner house sworn to House Rivers.",
       "visibility": "players",
@@ -4178,7 +4743,8 @@
       "keyLinks": [
         "House-Rivers"
       ],
-      "parent": "House-Rivers"
+      "parent": "House-Rivers",
+      "cover": "house_sherman.png"
     },
     {
       "id": "organization-House-Silveroak",
@@ -4189,6 +4755,9 @@
         "misc"
       ],
       "links": [
+        "organization-House-Whitestar"
+      ],
+      "playerLinks": [
         "organization-House-Whitestar"
       ],
       "aliases": [],
@@ -4209,6 +4778,15 @@
         "organization"
       ],
       "links": [
+        "organization-House-Derth",
+        "organization-House-Henge",
+        "organization-House-Wycliff",
+        "organization-House-Macbravo",
+        "organization-House-Ramirez",
+        "organization-House-Rhinehart",
+        "organization-House-Ulbrecht"
+      ],
+      "playerLinks": [
         "organization-House-Derth",
         "organization-House-Henge",
         "organization-House-Wycliff",
@@ -4244,6 +4822,9 @@
       "links": [
         "organization-House-Almirn"
       ],
+      "playerLinks": [
+        "organization-House-Almirn"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -4266,6 +4847,9 @@
       "links": [
         "organization-House-Graisti"
       ],
+      "playerLinks": [
+        "organization-House-Graisti"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -4285,6 +4869,15 @@
         "noble-house"
       ],
       "links": [
+        "organization-House-Rivers",
+        "unresolved:house-vathi",
+        "organization-House-Rhelrya",
+        "organization-House-Thalorin",
+        "organization-House-Coremalia",
+        "organization-House-Liris",
+        "organization-House-Vathi-Thaphicare"
+      ],
+      "playerLinks": [
         "organization-House-Rivers",
         "unresolved:house-vathi",
         "organization-House-Rhelrya",
@@ -4318,6 +4911,9 @@
       "links": [
         "organization-House-Almirn"
       ],
+      "playerLinks": [
+        "organization-House-Almirn"
+      ],
       "aliases": [],
       "summary": "Name: House Tamtria Leader of the House: Heir: Liege: Minor House in Almern Founding:",
       "visibility": "players",
@@ -4341,6 +4937,10 @@
         "unresolved:soverighn",
         "organization-House-Covinggard"
       ],
+      "playerLinks": [
+        "unresolved:soverighn",
+        "organization-House-Covinggard"
+      ],
       "aliases": [],
       "summary": "Name: House Tarasovich Leader of the House: Heir: Sir Soverighn Ides Lev Tarasovich Liege: Coalition of Shadows Founder: Ethan Dukor Founding: 247 S.E. Motto: ''A Torch in the Dark",
       "visibility": "players",
@@ -4361,6 +4961,7 @@
         "minor-houses"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Symbol: An open book with bricks behind it. Words: \"Through History, We Endure\"",
       "visibility": "players",
@@ -4379,6 +4980,9 @@
         "banner-houses"
       ],
       "links": [
+        "organization-House-Talmert"
+      ],
+      "playerLinks": [
         "organization-House-Talmert"
       ],
       "aliases": [],
@@ -4400,6 +5004,9 @@
         "mikado-house"
       ],
       "links": [
+        "organization-House-Mikado"
+      ],
+      "playerLinks": [
         "organization-House-Mikado"
       ],
       "aliases": [],
@@ -4424,6 +5031,9 @@
       "links": [
         "organization-House-Rivers"
       ],
+      "playerLinks": [
+        "organization-House-Rivers"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -4445,6 +5055,9 @@
       "links": [
         "organization-House-Mikado"
       ],
+      "playerLinks": [
+        "organization-House-Mikado"
+      ],
       "aliases": [],
       "summary": "title: House Toab published: true",
       "visibility": "players",
@@ -4464,6 +5077,13 @@
         "mikado-house"
       ],
       "links": [
+        "npc-Samara-Tobe",
+        "character-Lorena",
+        "npc-Samara-Tobe",
+        "organization-House-Hanan",
+        "event-Obsidian-Taint"
+      ],
+      "playerLinks": [
         "npc-Samara-Tobe",
         "character-Lorena",
         "npc-Samara-Tobe",
@@ -4494,6 +5114,9 @@
       "links": [
         "organization-House-Montmier"
       ],
+      "playerLinks": [
+        "organization-House-Montmier"
+      ],
       "aliases": [],
       "summary": "Name: House Tsalan Leader of the House: Heir: Isolde Tsalan Liege: Minor House in Montimer Founding:",
       "visibility": "players",
@@ -4514,6 +5137,12 @@
         "minor-houses"
       ],
       "links": [
+        "organization-House-Silverridge",
+        "organization-House-Henge",
+        "organization-House-Henge",
+        "unresolved:siobh-n-silverridge"
+      ],
+      "playerLinks": [
         "organization-House-Silverridge",
         "organization-House-Henge",
         "organization-House-Henge",
@@ -4549,6 +5178,17 @@
         "organization-House-Almirn",
         "organization-House-Almirn"
       ],
+      "playerLinks": [
+        "organization-House-Montmier",
+        "organization-House-Montmier",
+        "event-Esten-Kings",
+        "event-Esten-Kings",
+        "event-Esten-Kings",
+        "event-Esten-Kings",
+        "organization-House-Montmier",
+        "organization-House-Almirn",
+        "organization-House-Almirn"
+      ],
       "aliases": [],
       "summary": "Name: House Upperton Leader of the House: Baron Demetrius Upperton Heir: Lady Clarissa Upperton Liege: House Montmier Founding: Before the First Bellringer Crusade",
       "visibility": "players",
@@ -4569,6 +5209,9 @@
         "minor-houses"
       ],
       "links": [
+        "organization-House-Talmert"
+      ],
+      "playerLinks": [
         "organization-House-Talmert"
       ],
       "aliases": [],
@@ -4593,6 +5236,9 @@
       "links": [
         "organization-House-Covinggard"
       ],
+      "playerLinks": [
+        "organization-House-Covinggard"
+      ],
       "aliases": [],
       "summary": "Name: House Vulgrit Leader of the House: Baron Rey Vulgrit Heir: Sir Maxim Vulgrit Liege: House Covenguard Founding: First Bellringer Crusade Founder: Kharazan Vulgrit Motto: \"Stre",
       "visibility": "players",
@@ -4612,6 +5258,12 @@
         "noble-house"
       ],
       "links": [
+        "organization-House-Ceanadach",
+        "organization-House-Rolland",
+        "organization-House-Caragin",
+        "organization-House-Silveroak"
+      ],
+      "playerLinks": [
         "organization-House-Ceanadach",
         "organization-House-Rolland",
         "organization-House-Caragin",
@@ -4645,6 +5297,13 @@
         "unresolved:terresa-wycliff",
         "unresolved:terresa-wycliff"
       ],
+      "playerLinks": [
+        "organization-House-Silverridge",
+        "unresolved:aiden-wycliff",
+        "unresolved:terresa-wycliff",
+        "unresolved:terresa-wycliff",
+        "unresolved:terresa-wycliff"
+      ],
       "aliases": [],
       "summary": "Name: House Wycliff Leader of the House: Aiden Wycliff Heir: Decker Wycliff Motto: Gold hands make cold hands Domain: Esterash Liege: House Silverridge Founding: 108 R.E.",
       "visibility": "players",
@@ -4661,6 +5320,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4675,6 +5335,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4692,6 +5353,12 @@
         "intelligence"
       ],
       "links": [
+        "organization-Griffons-Feathers",
+        "organization-Moonlight-Society",
+        "organization-Order-Black-Coin",
+        "organization-Pomegranate-Seeds"
+      ],
+      "playerLinks": [
         "organization-Griffons-Feathers",
         "organization-Moonlight-Society",
         "organization-Order-Black-Coin",
@@ -4715,6 +5382,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4732,6 +5400,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Iron Chrysanthemum published: true",
       "visibility": "players",
@@ -4746,6 +5415,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4763,6 +5433,7 @@
         "islands"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "|Government = Monarchy",
       "visibility": "players",
@@ -4782,6 +5453,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Amélie Picard (F) (Quintill)",
       "visibility": "players",
@@ -4798,6 +5472,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4814,6 +5489,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -4828,6 +5504,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4842,6 +5519,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4856,6 +5534,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4873,6 +5552,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The assassin guild of House Almerin. Originally they were a group of Saltbloods that rejected the compromise given by Ethan Sedi and were prepared to go to war for what was rightfu",
       "visibility": "players",
@@ -4886,6 +5566,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4900,6 +5581,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4916,6 +5598,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the aftermath of the Heartbeat, a cataclysm that sent shockwaves through the world, survivors found themselves in the distant lands situated to the southwest. These lands, far r",
       "visibility": "players",
@@ -4933,6 +5616,14 @@
         "heller"
       ],
       "links": [
+        "location-Davin",
+        "location-The-Victory",
+        "npc-Ronan",
+        "npc-Tiberius",
+        "location-Hodong",
+        "location-Farisi"
+      ],
+      "playerLinks": [
         "location-Davin",
         "location-The-Victory",
         "npc-Ronan",
@@ -4960,6 +5651,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4974,6 +5666,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -4988,6 +5681,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5002,6 +5696,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5016,6 +5711,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5030,6 +5726,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5044,6 +5741,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5058,6 +5756,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5072,6 +5771,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5086,6 +5786,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5100,6 +5801,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5114,6 +5816,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5128,6 +5831,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5142,6 +5846,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5156,6 +5861,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5170,6 +5876,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5184,6 +5891,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5205,6 +5913,11 @@
         "event-Mikado-Sea-Passage",
         "organization-House-Covinggard"
       ],
+      "playerLinks": [
+        "event-Mikado-Exile-From-the-Belllands",
+        "event-Mikado-Sea-Passage",
+        "organization-House-Covinggard"
+      ],
       "aliases": [],
       "summary": "A Covingard knight sent to enforce Duke Louis's will and protect the exiled Mikado party during the sea passage.",
       "visibility": "players",
@@ -5219,6 +5932,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5233,6 +5947,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5247,6 +5962,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5261,6 +5977,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5275,6 +5992,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5289,6 +6007,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5303,6 +6022,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5317,6 +6037,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5331,6 +6052,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5345,6 +6067,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5359,6 +6082,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5373,6 +6097,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5387,6 +6112,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5401,6 +6127,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5415,6 +6142,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5429,6 +6157,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5443,6 +6172,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5460,6 +6190,7 @@
         "gods"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Langosta, is not the only god of the sea but it one of the most understandable to those who sail the oceans.",
       "visibility": "players",
@@ -5476,6 +6207,41 @@
         "leandan"
       ],
       "links": [
+        "unresolved:senex",
+        "location-The-Brass-Cog",
+        "npc-Matthew-Rousseau",
+        "location-Cataclistos",
+        "character-Violet-Cossaboon",
+        "character-Sebastian-Luc-Benois",
+        "character-Mercer-Templeton",
+        "character-Cadwalader",
+        "location-Cataclistos",
+        "location-Farisi",
+        "timelines-Leandan-Chronicle-Timeline",
+        "unresolved:game-sessions-leandan-league",
+        "character-Leandan-Chronicle-Player-Characters",
+        "npc-Matthew-Rousseau",
+        "location-The-Victory",
+        "location-Kempenfelt",
+        "location-Farisi",
+        "location-Cataclistos",
+        "location-Cataclistos",
+        "game-Leandan-Session-01-The-Brass-Cog",
+        "game-Leandan-Session-02-The-Sky-Crystal-Job",
+        "game-Leandan-Session-03-The-Victory",
+        "game-Leandan-Session-04-Stormfall-at-Corumia",
+        "game-Leandan-Session-05-The-Giant-Captain",
+        "game-Leandan-Session-06-Farisi-and-the-Airships",
+        "game-Leandan-Chronicle",
+        "timelines-Leandan-Chronicle-Timeline",
+        "character-Leandan-Chronicle-Player-Characters",
+        "npc-Matthew-Rousseau",
+        "location-The-Victory",
+        "location-Kempenfelt",
+        "location-Farisi",
+        "location-Cataclistos"
+      ],
+      "playerLinks": [
         "unresolved:senex",
         "location-The-Brass-Cog",
         "npc-Matthew-Rousseau",
@@ -5546,6 +6312,19 @@
         "timelines-Leandan-Chronicle-Timeline",
         "unresolved:game-sessions-leandan-league"
       ],
+      "playerLinks": [
+        "character-Violet-Cossaboon",
+        "character-Sebastian-Luc-Benois",
+        "character-Mercer-Templeton",
+        "character-Cadwalader",
+        "organization-Jewelers-Guild",
+        "species-Quintill",
+        "species-Welvart",
+        "character-Cadwalader",
+        "game-Leandan-Chronicle",
+        "timelines-Leandan-Chronicle-Timeline",
+        "unresolved:game-sessions-leandan-league"
+      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -5568,6 +6347,31 @@
         "leandan"
       ],
       "links": [
+        "character-Mercer-Templeton",
+        "character-Cadwalader",
+        "character-Sebastian-Luc-Benois",
+        "character-Violet-Cossaboon",
+        "location-The-Brass-Cog",
+        "npc-Matthew-Rousseau",
+        "location-Cataclistos",
+        "location-Farisi",
+        "location-The-Victory",
+        "npc-Sarah-Van-Jansen",
+        "npc-Brom-Baker",
+        "location-Davin",
+        "location-Kempenfelt",
+        "npc-Ronan",
+        "character-Violet-Cossaboon",
+        "npc-Nadia",
+        "npc-Roya",
+        "character-Sebastian-Luc-Benois",
+        "character-Mercer-Templeton",
+        "npc-Tiberius",
+        "location-Hodong",
+        "location-Farisi",
+        "npc-Adrian"
+      ],
+      "playerLinks": [
         "character-Mercer-Templeton",
         "character-Cadwalader",
         "character-Sebastian-Luc-Benois",
@@ -5619,6 +6423,10 @@
         "organization-House-Hanan",
         "event-Obsidian-Taint"
       ],
+      "playerLinks": [
+        "organization-House-Hanan",
+        "event-Obsidian-Taint"
+      ],
       "aliases": [
         "The Dig"
       ],
@@ -5637,6 +6445,7 @@
         "npc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -5653,6 +6462,18 @@
         "leandan"
       ],
       "links": [
+        "character-Mercer-Templeton",
+        "character-Cadwalader",
+        "character-Sebastian-Luc-Benois",
+        "character-Violet-Cossaboon",
+        "location-The-Brass-Cog",
+        "character-Mercer-Templeton",
+        "character-Cadwalader",
+        "character-Sebastian-Luc-Benois",
+        "character-Violet-Cossaboon",
+        "npc-Matthew-Rousseau"
+      ],
+      "playerLinks": [
         "character-Mercer-Templeton",
         "character-Cadwalader",
         "character-Sebastian-Luc-Benois",
@@ -5697,6 +6518,16 @@
         "character-Sebastian-Luc-Benois",
         "character-Cadwalader"
       ],
+      "playerLinks": [
+        "npc-Matthew-Rousseau",
+        "location-The-Brass-Cog",
+        "location-Cataclistos",
+        "npc-Matthew-Rousseau",
+        "character-Violet-Cossaboon",
+        "character-Mercer-Templeton",
+        "character-Sebastian-Luc-Benois",
+        "character-Cadwalader"
+      ],
       "aliases": [
         "Leandan Game 2"
       ],
@@ -5721,6 +6552,22 @@
         "leandan"
       ],
       "links": [
+        "character-Violet-Cossaboon",
+        "character-Sebastian-Luc-Benois",
+        "location-Cataclistos",
+        "character-Mercer-Templeton",
+        "location-Farisi",
+        "location-The-Victory",
+        "npc-Sarah-Van-Jansen",
+        "npc-Brom-Baker",
+        "npc-Sarah-Van-Jansen",
+        "npc-Brom-Baker",
+        "character-Mercer-Templeton",
+        "character-Violet-Cossaboon",
+        "character-Sebastian-Luc-Benois",
+        "character-Cadwalader"
+      ],
+      "playerLinks": [
         "character-Violet-Cossaboon",
         "character-Sebastian-Luc-Benois",
         "location-Cataclistos",
@@ -5771,6 +6618,17 @@
         "npc-Ronan",
         "npc-Tiberius"
       ],
+      "playerLinks": [
+        "location-Davin",
+        "location-Kempenfelt",
+        "character-Sebastian-Luc-Benois",
+        "location-Farisi",
+        "npc-Sarah-Van-Jansen",
+        "npc-Brom-Baker",
+        "npc-Xander-Wong",
+        "npc-Ronan",
+        "npc-Tiberius"
+      ],
       "aliases": [
         "Leandan Game 4"
       ],
@@ -5796,6 +6654,21 @@
         "leandan"
       ],
       "links": [
+        "npc-Ronan",
+        "location-Kempenfelt",
+        "character-Violet-Cossaboon",
+        "npc-Nadia",
+        "npc-Roya",
+        "character-Mercer-Templeton",
+        "character-Sebastian-Luc-Benois",
+        "npc-Ronan",
+        "npc-Tiberius",
+        "npc-Valens",
+        "npc-Nadia",
+        "npc-Roya",
+        "npc-Xander-Wong"
+      ],
+      "playerLinks": [
         "npc-Ronan",
         "location-Kempenfelt",
         "character-Violet-Cossaboon",
@@ -5853,6 +6726,24 @@
         "npc-Adrian",
         "npc-Captain-Martin"
       ],
+      "playerLinks": [
+        "npc-Tiberius",
+        "location-Kempenfelt",
+        "location-Hodong",
+        "location-Farisi",
+        "npc-Valens",
+        "character-Mercer-Templeton",
+        "character-Sebastian-Luc-Benois",
+        "character-Violet-Cossaboon",
+        "npc-Sarah-Van-Jansen",
+        "npc-Adrian",
+        "npc-Tiberius",
+        "npc-Valens",
+        "npc-Ronan",
+        "npc-Sarah-Van-Jansen",
+        "npc-Adrian",
+        "npc-Captain-Martin"
+      ],
       "aliases": [
         "Leandan Game 6"
       ],
@@ -5876,6 +6767,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5890,6 +6782,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5904,6 +6797,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5918,6 +6812,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5932,6 +6827,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5949,6 +6845,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -5969,6 +6868,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "All of the Fedors come from an island called the Land of Fire and Flowers. It was warm and food fell from the trees. Our people lived in a paradise, while the land was kind there w",
       "visibility": "players",
@@ -5982,6 +6882,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -5996,6 +6897,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6010,6 +6912,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6024,6 +6927,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6038,6 +6942,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6052,6 +6957,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6066,6 +6972,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6085,6 +6992,9 @@
       "links": [
         "organization-House-Tobe"
       ],
+      "playerLinks": [
+        "organization-House-Tobe"
+      ],
       "aliases": [],
       "summary": "A House Tobe reformist concept tied to the old and new directions of Tobe power.",
       "visibility": "players",
@@ -6101,6 +7011,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -6119,6 +7030,10 @@
         "esten"
       ],
       "links": [
+        "location-Mikado-Empire",
+        "location-Chabat"
+      ],
+      "playerLinks": [
         "location-Mikado-Empire",
         "location-Chabat"
       ],
@@ -6141,6 +7056,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -6155,6 +7071,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6171,6 +7088,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -6185,6 +7103,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6199,6 +7118,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6213,6 +7133,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6227,6 +7148,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6245,6 +7167,14 @@
         "jewelers-guild"
       ],
       "links": [
+        "location-The-Brass-Cog",
+        "location-Cataclistos",
+        "location-The-Brass-Cog",
+        "organization-Jewelers-Guild",
+        "game-Leandan-Chronicle",
+        "game-Leandan-Session-02-The-Sky-Crystal-Job"
+      ],
+      "playerLinks": [
         "location-The-Brass-Cog",
         "location-Cataclistos",
         "location-The-Brass-Cog",
@@ -6271,6 +7201,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6291,6 +7222,9 @@
       "links": [
         "lore-Legend-of-the-Maw"
       ],
+      "playerLinks": [
+        "lore-Legend-of-the-Maw"
+      ],
       "aliases": [
         "Maw Person",
         "Le Maw"
@@ -6307,6 +7241,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6326,6 +7261,15 @@
         "fate"
       ],
       "links": [
+        "game-Mikado-Chronicle",
+        "organization-House-Maj",
+        "character-Nikos",
+        "character-Diogenes",
+        "character-Thorn",
+        "game-Mikado-Chronicle",
+        "organization-House-Maj"
+      ],
+      "playerLinks": [
         "game-Mikado-Chronicle",
         "organization-House-Maj",
         "character-Nikos",
@@ -6363,6 +7307,13 @@
         "organization-First-Sons-Gravediggers",
         "organization-Silent-Devils"
       ],
+      "playerLinks": [
+        "organization-Chain-Breakers",
+        "organization-Countless-Stars",
+        "organization-Delongs-Killers",
+        "organization-First-Sons-Gravediggers",
+        "organization-Silent-Devils"
+      ],
       "aliases": [],
       "summary": "Mercenary companies and independent military bands active in the Bell Lands.",
       "visibility": "players",
@@ -6388,6 +7339,9 @@
       "links": [
         "species-Quintill"
       ],
+      "playerLinks": [
+        "species-Quintill"
+      ],
       "aliases": [
         "Peck"
       ],
@@ -6406,6 +7360,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6423,6 +7378,18 @@
         "mikado"
       ],
       "links": [
+        "location-Mikado-Empire",
+        "event-Obsidian-Taint",
+        "timelines-Mikado-Chronicle-Timeline",
+        "character-Mikado-Chronicle-Player-Characters",
+        "location-Lumia",
+        "location-Chabat",
+        "organization-House-Hanan",
+        "organization-House-Tobe",
+        "event-Obsidian-Taint",
+        "lore-Maw-People"
+      ],
+      "playerLinks": [
         "location-Mikado-Empire",
         "event-Obsidian-Taint",
         "timelines-Mikado-Chronicle-Timeline",
@@ -6453,6 +7420,14 @@
         "mikado"
       ],
       "links": [
+        "character-Mei-Ling",
+        "character-Nikos",
+        "character-Thorn",
+        "character-Diogenes",
+        "character-Rina",
+        "character-Lorena"
+      ],
+      "playerLinks": [
         "character-Mei-Ling",
         "character-Nikos",
         "character-Thorn",
@@ -6492,6 +7467,21 @@
         "npc-Samara-Tobe",
         "organization-House-Hanan"
       ],
+      "playerLinks": [
+        "character-Mei-Ling",
+        "character-Nikos",
+        "character-Thorn",
+        "character-Diogenes",
+        "character-Rina",
+        "character-Rina",
+        "character-Diogenes",
+        "character-Thorn",
+        "location-Lumia",
+        "location-Lumia",
+        "location-Chabat",
+        "npc-Samara-Tobe",
+        "organization-House-Hanan"
+      ],
       "aliases": [],
       "summary": "Session-by-session outline of the Mikado Chronicle.",
       "visibility": "players",
@@ -6507,6 +7497,7 @@
         "region"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "- Government: Emperor / Shogunate - Ruler: - Faith: Worm Gods",
       "visibility": "players",
@@ -6524,6 +7515,7 @@
         "exile"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Exile From the Belllands"
       ],
@@ -6542,6 +7534,11 @@
         "mikado"
       ],
       "links": [
+        "character-Rina",
+        "character-Diogenes",
+        "character-Thorn"
+      ],
+      "playerLinks": [
         "character-Rina",
         "character-Diogenes",
         "character-Thorn"
@@ -6570,6 +7567,14 @@
         "character-Rina",
         "character-Lorena"
       ],
+      "playerLinks": [
+        "character-Mei-Ling",
+        "character-Nikos",
+        "character-Thorn",
+        "character-Diogenes",
+        "character-Rina",
+        "character-Lorena"
+      ],
       "aliases": [],
       "summary": "Character creation sessions for the Mikado Chronicle.",
       "visibility": "players",
@@ -6591,6 +7596,10 @@
         "location-Mikado-Empire",
         "location-Lumia"
       ],
+      "playerLinks": [
+        "location-Mikado-Empire",
+        "location-Lumia"
+      ],
       "aliases": [
         "Exile Voyage"
       ],
@@ -6609,6 +7618,14 @@
         "mikado"
       ],
       "links": [
+        "npc-Lady-Kulak",
+        "location-Mikado-Empire",
+        "location-Lumia",
+        "event-Mikado-Exile-From-the-Belllands",
+        "event-Mikado-Sea-Passage",
+        "npc-Lady-Kulak"
+      ],
+      "playerLinks": [
         "npc-Lady-Kulak",
         "location-Mikado-Empire",
         "location-Lumia",
@@ -6643,6 +7660,16 @@
         "event-Esten-Sovereignty-in-Mikado",
         "location-Leandan-Dig-Site"
       ],
+      "playerLinks": [
+        "location-Lumia",
+        "location-Chabat",
+        "npc-Edral-Quedil",
+        "npc-Valerian",
+        "location-Lumia",
+        "location-Chabat",
+        "event-Esten-Sovereignty-in-Mikado",
+        "location-Leandan-Dig-Site"
+      ],
       "aliases": [],
       "summary": "The party lands in Lumia, enters Chabat, and begins navigating Esten and Mikado authority.",
       "visibility": "players",
@@ -6661,6 +7688,11 @@
         "esten"
       ],
       "links": [
+        "event-Obsidian-Taint",
+        "location-Leandan-Dig-Site",
+        "event-Esten-Sovereignty-in-Mikado"
+      ],
+      "playerLinks": [
         "event-Obsidian-Taint",
         "location-Leandan-Dig-Site",
         "event-Esten-Sovereignty-in-Mikado"
@@ -6689,6 +7721,13 @@
         "organization-House-Hanan",
         "event-Obsidian-Taint"
       ],
+      "playerLinks": [
+        "npc-Samara-Tobe",
+        "organization-House-Tobe",
+        "npc-Samara-Tobe",
+        "organization-House-Hanan",
+        "event-Obsidian-Taint"
+      ],
       "aliases": [],
       "summary": "The party flees Lumia with House Tobe aid and begins to understand stolen shadows and Obsidian spread.",
       "visibility": "players",
@@ -6707,6 +7746,13 @@
         "chabat"
       ],
       "links": [
+        "location-Chabat",
+        "lore-Maw-People",
+        "location-Chabat-Obsidian-Coliseum",
+        "event-Obsidian-Taint",
+        "lore-Maw-People"
+      ],
+      "playerLinks": [
         "location-Chabat",
         "lore-Maw-People",
         "location-Chabat-Obsidian-Coliseum",
@@ -6738,6 +7784,14 @@
         "event-Obsidian-Taint",
         "location-Mikado-Empire"
       ],
+      "playerLinks": [
+        "organization-House-Hanan",
+        "organization-House-Tobe",
+        "organization-House-Hanan",
+        "organization-House-Tobe",
+        "event-Obsidian-Taint",
+        "location-Mikado-Empire"
+      ],
       "aliases": [
         "Last Mikado Session"
       ],
@@ -6759,6 +7813,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Cornelis van der Zwaan (M) (Welvart)",
       "visibility": "players",
@@ -6775,6 +7832,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6789,6 +7847,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6803,6 +7862,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6820,6 +7880,9 @@
         "society"
       ],
       "links": [
+        "organization-Intelligence-Agencies"
+      ],
+      "playerLinks": [
         "organization-Intelligence-Agencies"
       ],
       "aliases": [],
@@ -6840,6 +7903,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -6856,6 +7920,9 @@
         "organization"
       ],
       "links": [
+        "unresolved:npc"
+      ],
+      "playerLinks": [
         "unresolved:npc"
       ],
       "aliases": [],
@@ -6881,6 +7948,13 @@
         "location-Kempenfelt",
         "character-Violet-Cossaboon"
       ],
+      "playerLinks": [
+        "location-Davin",
+        "npc-Roya",
+        "npc-Ronan",
+        "location-Kempenfelt",
+        "character-Violet-Cossaboon"
+      ],
       "aliases": [],
       "summary": "Apothecary near Davin who sells the party a green healing potion and supplies after the storm.",
       "visibility": "players",
@@ -6898,6 +7972,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6912,6 +7987,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6926,6 +8002,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -6945,6 +8022,11 @@
         "fate"
       ],
       "links": [
+        "character-Mei-Ling",
+        "character-Mikado-Chronicle-Player-Characters",
+        "location-Mikado-Empire"
+      ],
+      "playerLinks": [
         "character-Mei-Ling",
         "character-Mikado-Chronicle-Player-Characters",
         "location-Mikado-Empire"
@@ -6971,6 +8053,59 @@
         "misc"
       ],
       "links": [
+        "organization-House-Almirn",
+        "organization-House-Mookjai",
+        "organization-House-Songprawati",
+        "organization-House-Menes",
+        "organization-House-Quangban",
+        "organization-House-Tamtria",
+        "organization-House-Bellkind",
+        "organization-House-Goycoa",
+        "organization-House-Gubau",
+        "organization-House-Covinggard",
+        "organization-House-Kulak",
+        "organization-House-Polonsky",
+        "unresolved:noble-houses-of-the-belllands",
+        "organization-House-Graisti",
+        "organization-House-Stalder",
+        "organization-House-Lombardo",
+        "organization-House-Montmier",
+        "organization-House-Bennet",
+        "organization-House-Upperton",
+        "organization-House-Baiersbruck",
+        "organization-House-Bouvy",
+        "organization-House-Nyirborg",
+        "organization-House-Tsalan",
+        "unresolved:pearstone",
+        "organization-House-Lamonnes",
+        "organization-House-Mourningblaze",
+        "organization-House-Rivers",
+        "organization-House-Butler",
+        "organization-House-Crowley",
+        "organization-House-Durand",
+        "organization-House-Martian",
+        "organization-House-Thorn",
+        "organization-House-Silverridge",
+        "organization-House-Derth",
+        "organization-House-Rolland",
+        "organization-House-Wycliff",
+        "organization-House-Ulbrecht",
+        "organization-House-Macbravo",
+        "organization-House-Ramirez",
+        "organization-House-Rhinehart",
+        "unresolved:house-talmart",
+        "organization-House-Thalorin",
+        "organization-House-Coremalia",
+        "organization-House-Whitestar",
+        "organization-House-Ceanadach",
+        "organization-House-Henge",
+        "organization-House-Arstarcsalia",
+        "organization-House-Silveroak",
+        "organization-House-Caragin",
+        "unresolved:mikado",
+        "unresolved:leandan-guilds"
+      ],
+      "playerLinks": [
         "organization-House-Almirn",
         "organization-House-Mookjai",
         "organization-House-Songprawati",
@@ -7089,6 +8224,57 @@
         "organization-House-Silveroak",
         "organization-House-Caragin"
       ],
+      "playerLinks": [
+        "organization-House-Almirn",
+        "organization-House-Mookjai",
+        "organization-House-Songprawati",
+        "organization-House-Menes",
+        "organization-House-Quangban",
+        "organization-House-Tamtria",
+        "organization-House-Bellkind",
+        "organization-House-Goycoa",
+        "organization-House-Gubau",
+        "organization-House-Covinggard",
+        "organization-House-Kulak",
+        "organization-House-Polonsky",
+        "unresolved:noble-houses-of-the-belllands",
+        "organization-House-Graisti",
+        "organization-House-Stalder",
+        "organization-House-Lombardo",
+        "organization-House-Montmier",
+        "organization-House-Bennet",
+        "organization-House-Upperton",
+        "organization-House-Baiersbruck",
+        "organization-House-Bouvy",
+        "organization-House-Nyirborg",
+        "organization-House-Tsalan",
+        "unresolved:pearstone",
+        "organization-House-Lamonnes",
+        "organization-House-Mourningblaze",
+        "organization-House-Rivers",
+        "organization-House-Butler",
+        "organization-House-Crowley",
+        "organization-House-Durand",
+        "organization-House-Martian",
+        "organization-House-Thorn",
+        "organization-House-Silverridge",
+        "organization-House-Derth",
+        "organization-House-Rolland",
+        "organization-House-Wycliff",
+        "organization-House-Ulbrecht",
+        "organization-House-Macbravo",
+        "organization-House-Ramirez",
+        "organization-House-Rhinehart",
+        "unresolved:house-talmart",
+        "organization-House-Thalorin",
+        "organization-House-Coremalia",
+        "organization-House-Whitestar",
+        "organization-House-Ceanadach",
+        "organization-House-Henge",
+        "organization-House-Arstarcsalia",
+        "organization-House-Silveroak",
+        "organization-House-Caragin"
+      ],
       "aliases": [],
       "summary": "- Almirn - Mookjai - Songprawati - Menes - Qyangban - Tamtria - Yenia - Bellkind - Goycoa - Gambu - Hinos - Pejos - Pseibethia - Santestera - Torrios - Vega - Verasoca - Covinggard",
       "visibility": "players",
@@ -7104,6 +8290,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7120,6 +8307,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7140,6 +8328,9 @@
       "links": [
         "lore-Maw-People"
       ],
+      "playerLinks": [
+        "lore-Maw-People"
+      ],
       "aliases": [
         "Obsidian Corruption",
         "House of Obsidian and Shadow"
@@ -7156,6 +8347,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7170,6 +8362,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7184,6 +8377,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7203,6 +8397,9 @@
       "links": [
         "organization-Intelligence-Agencies"
       ],
+      "playerLinks": [
+        "organization-Intelligence-Agencies"
+      ],
       "aliases": [],
       "summary": "Spy network of house Martian.",
       "visibility": "players",
@@ -7219,6 +8416,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7235,6 +8433,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the annals of ancient legends, the Paltris people emerge as a resilient and self-reliant race, deeply connected to the Star Gods who guided them through their journey. Legends s",
       "visibility": "players",
@@ -7250,6 +8449,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "All of the following is from a Star Good Follower's view this is more then just bias, there is a lot of wrong information under here.",
       "visibility": "players",
@@ -7266,6 +8466,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -7286,6 +8489,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7300,6 +8504,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7316,6 +8521,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7330,6 +8536,7 @@
       "type": "character",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7347,6 +8554,7 @@
         "preludes"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Peter arrives at the nondescript house and is confronted by Jarreth, a mercenary that his been in charge of protecting Peter’s mother for many years. After confronting Peter and be",
       "visibility": "players",
@@ -7360,6 +8568,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7379,6 +8588,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Bjorn Einarsson (M) (Katoites)",
       "visibility": "players",
@@ -7395,6 +8607,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7409,6 +8622,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7426,6 +8640,9 @@
         "society"
       ],
       "links": [
+        "organization-Intelligence-Agencies"
+      ],
+      "playerLinks": [
         "organization-Intelligence-Agencies"
       ],
       "aliases": [],
@@ -7449,6 +8666,9 @@
       "links": [
         "character-Caden-Mattix"
       ],
+      "playerLinks": [
+        "character-Caden-Mattix"
+      ],
       "aliases": [],
       "summary": "| | Prelude: | | --- | --- | | Date: 7/19/22 | Key Locations: | | | | | Players Attending: - Damon Dewitt (Caden Mattix) |",
       "visibility": "players",
@@ -7466,6 +8686,7 @@
         "preludes"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7483,6 +8704,7 @@
         "preludes"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7500,6 +8722,7 @@
         "preludes"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7518,6 +8741,9 @@
       "links": [
         "character-Siobh-n-Silverridge"
       ],
+      "playerLinks": [
+        "character-Siobh-n-Silverridge"
+      ],
       "aliases": [],
       "summary": "Prelude: Siobhán \"The Attack on Deerholt\" Date: 7-5-23 Key Locations: Deerholt Players Attendting: Jennifer Wolfe (Siobhán Silverridge) Media: [podcast](https://l.facebook.com/l.ph",
       "visibility": "players",
@@ -7534,6 +8760,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the vast tapestry of ancient legends, the Quintill people emerged as a proud and enigmatic race, their origins veiled in myth and speculation. According to Quintill lore, their ",
       "visibility": "players",
@@ -7547,6 +8774,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7561,6 +8789,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7579,6 +8808,7 @@
         "belllands-mercenary-companies"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Captain = Captain Rebecca Jackson",
       "visibility": "players",
@@ -7593,6 +8823,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7607,6 +8838,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7621,6 +8853,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7635,6 +8868,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7649,6 +8883,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7663,6 +8898,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7682,6 +8918,14 @@
         "fate"
       ],
       "links": [
+        "character-Diogenes",
+        "character-Thorn",
+        "character-Thorn",
+        "character-Diogenes",
+        "character-Mei-Ling",
+        "game-Mikado-Chronicle"
+      ],
+      "playerLinks": [
         "character-Diogenes",
         "character-Thorn",
         "character-Thorn",
@@ -7711,6 +8955,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7725,6 +8970,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7741,6 +8987,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Roguemark published: true",
       "visibility": "players",
@@ -7755,6 +9002,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7773,6 +9021,11 @@
         "leandan"
       ],
       "links": [
+        "location-Kempenfelt",
+        "character-Violet-Cossaboon",
+        "npc-Tiberius"
+      ],
+      "playerLinks": [
         "location-Kempenfelt",
         "character-Violet-Cossaboon",
         "npc-Tiberius"
@@ -7800,6 +9053,7 @@
         "gods"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Rooted in Change published: true",
       "visibility": "players",
@@ -7821,6 +9075,11 @@
         "location-Davin",
         "npc-Ronan"
       ],
+      "playerLinks": [
+        "npc-Nadia",
+        "location-Davin",
+        "npc-Ronan"
+      ],
       "aliases": [],
       "summary": "Nadia's daughter, helping at the apothecary near Davin.",
       "visibility": "players",
@@ -7838,6 +9097,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -7855,6 +9115,7 @@
         "islands"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A volcanic set of islands off the coast of the Bell Lands. The lands are tropical because of warm ocean winds. The racial group on there are primarily Saltbloods or more mysterious",
       "visibility": "players",
@@ -7872,6 +9133,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Saffron Society, started out as a group of mystic healers from the Saffron Isles. They did not charge for their medical care feeling that it was part of their religious crusade",
       "visibility": "players",
@@ -7888,6 +9150,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7904,6 +9167,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the mystic tapestry of history, an enigma persists—the Saltblood, a people without a cultural lineage, a race that remains detached from the heritage of the great civilizations ",
       "visibility": "players",
@@ -7920,6 +9184,7 @@
         "house-tobe"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Samara"
       ],
@@ -7938,6 +9203,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -7956,6 +9222,15 @@
         "shipwrights-guild"
       ],
       "links": [
+        "location-The-Victory",
+        "location-Farisi",
+        "character-Mercer-Templeton",
+        "location-The-Victory",
+        "npc-Brom-Baker",
+        "location-The-Victory",
+        "character-Mercer-Templeton"
+      ],
+      "playerLinks": [
         "location-The-Victory",
         "location-Farisi",
         "character-Mercer-Templeton",
@@ -7984,6 +9259,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -8000,6 +9276,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -8016,6 +9293,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -8033,6 +9311,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -8059,6 +9340,11 @@
         "organization-Jewelers-Guild",
         "organization-Jewelers-Guild"
       ],
+      "playerLinks": [
+        "species-Quintill",
+        "organization-Jewelers-Guild",
+        "organization-Jewelers-Guild"
+      ],
       "aliases": [],
       "summary": "Quintill artisan, forger, and clockwork-minded craftsman trying to build a future with the person he loves.",
       "visibility": "players",
@@ -8076,6 +9362,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -8093,6 +9380,14 @@
         "chapter-1"
       ],
       "links": [
+        "character-Siobh-n-Silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Caden-Mattix",
+        "unresolved:carrick-silverridge",
+        "unresolved:gregory-bentil",
+        "unresolved:connor-silverridge"
+      ],
+      "playerLinks": [
         "character-Siobh-n-Silverridge",
         "character-Lyla-Tarasovich-Talmert",
         "character-Caden-Mattix",
@@ -8124,6 +9419,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 1 \"The Barons of Silverridge\"",
       "visibility": "players",
@@ -8141,6 +9444,14 @@
         "chapter-1"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8172,6 +9483,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 4 | Chapter 1 The Barons of Silverridge | | --- | --- | | Date: 6-6-22 | Key Locations: | | Media: [audiofile](https://castbox.fm/episode/id5032702-id520823932?ut",
       "visibility": "players",
@@ -8189,6 +9508,14 @@
         "chapter-1"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8220,6 +9547,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 6 | Chapter 1 The Barons of Silverridge | | --- | --- | | Date: 7-11-22 | Key Locations: | | Media: [audiofile](https://castbox.fm/episode/id5032702-id520824361?u",
       "visibility": "players",
@@ -8237,6 +9572,14 @@
         "chapter-1"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8268,6 +9611,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 8 | Chapter 1 The Barons of Silverridge | | --- | --- | | Date: 7-25-22 | Key Locations: | | Media: [audiofile](https://castbox.fm/episode/id5032702-id520824659?u",
       "visibility": "players",
@@ -8285,6 +9636,14 @@
         "chapter-1"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8316,6 +9675,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 10 | Chapter 1 The Barons of Silverridge | | --- | --- | | Date: 8-9-22 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Siobhá",
       "visibility": "players",
@@ -8333,6 +9700,14 @@
         "chapter-1"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8364,6 +9739,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 12 | Chapter 1 The Barons of Silverridge | | --- | --- | | Date: 8-22-22 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Siobh",
       "visibility": "players",
@@ -8381,6 +9764,14 @@
         "chapter-1"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8412,6 +9803,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 14 | Chapter 1 The Barons of Silverridge | | --- | --- | | Date: 9-12-22 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Siobh",
       "visibility": "players",
@@ -8429,6 +9828,14 @@
         "chapter-1"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8460,6 +9867,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 16 | Chapter 1 The Barons of Silverridge | | --- | --- | | Date: 10-3-22 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Siobh",
       "visibility": "players",
@@ -8477,6 +9892,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8508,6 +9931,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 18 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 11-8-22 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Sio",
       "visibility": "players",
@@ -8525,6 +9956,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8556,6 +9995,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 20 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 11-21-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Si",
       "visibility": "players",
@@ -8573,6 +10020,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8604,6 +10059,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 22 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 12-6-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Sio",
       "visibility": "players",
@@ -8621,6 +10084,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8652,6 +10123,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 25 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 12-26-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Si",
       "visibility": "players",
@@ -8669,6 +10148,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8700,6 +10187,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 26 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 01-2-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Sio",
       "visibility": "players",
@@ -8717,6 +10212,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8748,6 +10251,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 28 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 01-16-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Si",
       "visibility": "players",
@@ -8765,6 +10276,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8796,6 +10315,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 30 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 01-31-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Si",
       "visibility": "players",
@@ -8813,6 +10340,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8844,6 +10379,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 32 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 02-14-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Si",
       "visibility": "players",
@@ -8861,6 +10404,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8892,6 +10443,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 34 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 02-28-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Si",
       "visibility": "players",
@@ -8909,6 +10468,14 @@
         "chapter-2"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8940,6 +10507,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 376 | Chapter 2 The Convocation at Mistwick | | --- | --- | | Date: 03-20-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (S",
       "visibility": "players",
@@ -8957,6 +10532,14 @@
         "chapter-3"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -8988,6 +10571,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 38 | Chapter: 3 The Saffron Society War | | --- | --- | | Date: 04-2-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Siobhá",
       "visibility": "players",
@@ -9005,6 +10596,14 @@
         "chapter-3"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -9036,6 +10635,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 40 | Chapter: 3 The Saffron Society War | | --- | --- | | Date: 04-18-23 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Siobh",
       "visibility": "players",
@@ -9053,6 +10660,14 @@
         "chapter-3"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -9084,6 +10699,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 42 | Chapter: 3 The Saffron Society War | | --- | --- | | Date: May 2 2023 | Key Locations: | | Media: | Glory Gains: | | Players Attending: - Jennifer Wolfe (Sio",
       "visibility": "players",
@@ -9101,6 +10724,14 @@
         "chapter-3"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -9132,6 +10763,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: | Chapter: 3 The Saffron Society War | | --- | --- | | Date: 5-9-23 | Key Locations: The Broken Rocks | | Media: | Glory Gains: 3 : for Destroying 7 to 9 units (8",
       "visibility": "players",
@@ -9149,6 +10788,14 @@
         "chapter-3"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Timothy-Whitestar",
         "character-Lyla-Tarasovich-Talmert",
@@ -9180,6 +10827,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 45 | Chapter: 3 The Saffron Society War | | --- | --- | | Date: 5-23-23 | Key Locations: | | Media: | Glory Gains: 3 : | | Players Attending: - Jennifer Wolfe (Si",
       "visibility": "players",
@@ -9204,6 +10859,14 @@
         "character-Penelope-Durand",
         "npc-Tallion-Ramirez"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Penelope-Durand",
+        "npc-Tallion-Ramirez"
+      ],
       "aliases": [],
       "summary": "| Session Number: 45 | Chapter: 3 The Saffron Society War | | --- | --- | | Date: 6-1-23 | Key Locations: | | Media: | Glory Gains: 3 : | | Players Attending: - Jennifer Wolfe (Sio",
       "visibility": "players",
@@ -9221,6 +10884,22 @@
         "chapter-3"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand",
+        "npc-Boris-Rameriz",
+        "unresolved:sofyia-baranova",
+        "unresolved:samson-kreeg",
+        "npc-Amund-Henge",
+        "unresolved:samson-kreeg",
+        "unresolved:sofyia-baranova",
+        "unresolved:samson-kreeg"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Amund-Henge",
         "character-Lyla-Tarasovich-Talmert",
@@ -9266,6 +10945,20 @@
         "character-Soverighn-Ides-Lev-Tarasovich",
         "character-Soverighn-Ides-Lev-Tarasovich"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand",
+        "npc-Boris-Rameriz",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Soverighn-Ides-Lev-Tarasovich"
+      ],
       "aliases": [],
       "summary": "| Session Number: 48 | Chapter: [Chapter 3 \"The Saffron Society War\"](https://kdwiki.pothomas.com/mediawiki/index.php?title=Category:Chapter3%22TheSaffronSocietyWar%22)‎ | | --- | ",
       "visibility": "players",
@@ -9283,6 +10976,27 @@
         "chapter-4"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand",
+        "npc-Boris-Rameriz",
+        "npc-Endulaudaus",
+        "unresolved:siobh-n-silverridge",
+        "npc-Timothy-Whitestar",
+        "unresolved:soverighn",
+        "npc-Boris-Rameriz",
+        "npc-Luis-Covinggard",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "npc-Hans-Rhinehart",
+        "unresolved:casimir-ramirez",
+        "unresolved:alfieri-borroni",
+        "unresolved:casimir-ramirez"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Amund-Henge",
         "character-Lyla-Tarasovich-Talmert",
@@ -9345,6 +11059,32 @@
         "organization-House-Montmier",
         "organization-House-Almirn"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand",
+        "npc-Boris-Rameriz",
+        "organization-House-Durand",
+        "organization-House-Covinggard",
+        "unresolved:siobh-n-silverridge",
+        "npc-Boris-Rameriz",
+        "npc-Boris-Rameriz",
+        "organization-House-Silverridge",
+        "organization-House-Silveroak",
+        "organization-House-Henge",
+        "organization-House-Whitestar",
+        "unresolved:siobh-n-silverridge",
+        "organization-Kanya",
+        "organization-House-Silverridge",
+        "unresolved:house-talmart",
+        "organization-House-Silverridge",
+        "organization-House-Montmier",
+        "organization-House-Almirn"
+      ],
       "aliases": [],
       "summary": "| Session Number: 50 | Chapter: Chapter 4 : The Held Breath | | --- | --- | | Date: 6-28-23 | Key Locations: Bridgevale | | Media: [Audiofile](https://castbox.fm/episode/id5032702-",
       "visibility": "players",
@@ -9362,6 +11102,16 @@
         "chapter-4"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand",
+        "npc-Boris-Rameriz"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "npc-Amund-Henge",
         "character-Lyla-Tarasovich-Talmert",
@@ -9396,6 +11146,15 @@
         "unresolved:casimir-ramirez",
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "| Session Number: 52 | Chapter: Chapter 4 : The Held Breath | | --- | --- | | Date: 07-11-23 | Key Locations: Bridgevale | | Media: [podcast](https://castbox.fm/episode/id5032702-i",
       "visibility": "players",
@@ -9413,6 +11172,17 @@
         "chapter-4"
       ],
       "links": [
+        "location-Silveroak",
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand",
+        "unresolved:oroickno"
+      ],
+      "playerLinks": [
         "location-Silveroak",
         "unresolved:siobh-n-silverridge",
         "npc-Amund-Henge",
@@ -9449,6 +11219,16 @@
         "unresolved:casimir-ramirez",
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "location-Silveroak",
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "| Session Number: 54 | Chapter: Chapter 4 : The Held Breath | | --- | --- | | Date: 08-1-23 | Key Locations: Silveroak | | Media: [podcast](https://castbox.fm/episode/Kingdom-Divid",
       "visibility": "players",
@@ -9474,6 +11254,15 @@
         "unresolved:casimir-ramirez",
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "npc-Amund-Henge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Soverighn-Ides-Lev-Tarasovich",
+        "character-Caden-Mattix",
+        "unresolved:casimir-ramirez",
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "| Session Number: 55 | Chapter: Chapter 4 : The Held Breath | | --- | --- | | Date: 08-8-23 | Key Locations: Northerton | | Media: [podcast](https://l.facebook.com/l.php?u=https%3A",
       "visibility": "players",
@@ -9491,6 +11280,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9508,6 +11298,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9525,6 +11316,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9542,6 +11334,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9559,6 +11352,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9576,6 +11370,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9593,6 +11388,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9610,6 +11406,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9631,6 +11428,11 @@
         "npc-Hans-Rhinehart",
         "npc-Hans-Rhinehart"
       ],
+      "playerLinks": [
+        "npc-Hans-Rhinehart",
+        "npc-Hans-Rhinehart",
+        "npc-Hans-Rhinehart"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9648,6 +11450,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9665,6 +11468,7 @@
         "chapter-4"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9682,6 +11486,11 @@
         "chapter-4"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "character-Lyla-Tarasovich-Talmert",
         "character-Penelope-Durand"
@@ -9711,6 +11520,15 @@
         "npc-Theodoros-Kolokotronis",
         "npc-Theodoros-Kolokotronis"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand",
+        "npc-Theodoros-Kolokotronis",
+        "npc-Theodoros-Kolokotronis",
+        "npc-Theodoros-Kolokotronis",
+        "npc-Theodoros-Kolokotronis"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 4 : The Held Breath",
       "visibility": "players",
@@ -9728,6 +11546,11 @@
         "chapter-4"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "character-Lyla-Tarasovich-Talmert",
         "character-Penelope-Durand"
@@ -9753,6 +11576,11 @@
         "character-Lyla-Tarasovich-Talmert",
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -9770,6 +11598,11 @@
         "chapter-5"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "character-Lyla-Tarasovich-Talmert",
         "character-Penelope-Durand"
@@ -9795,6 +11628,11 @@
         "character-Lyla-Tarasovich-Talmert",
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -9812,6 +11650,11 @@
         "chapter-5"
       ],
       "links": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "unresolved:siobh-n-silverridge",
         "character-Lyla-Tarasovich-Talmert",
         "character-Penelope-Durand"
@@ -9837,6 +11680,11 @@
         "character-Lyla-Tarasovich-Talmert",
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "unresolved:siobh-n-silverridge",
+        "character-Lyla-Tarasovich-Talmert",
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -9854,6 +11702,9 @@
         "chapter-6"
       ],
       "links": [
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "character-Penelope-Durand"
       ],
       "aliases": [],
@@ -9876,6 +11727,10 @@
         "character-Penelope-Durand",
         "unresolved:session-14-9-12-22"
       ],
+      "playerLinks": [
+        "character-Penelope-Durand",
+        "unresolved:session-14-9-12-22"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -9893,6 +11748,9 @@
         "chapter-6"
       ],
       "links": [
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "character-Penelope-Durand"
       ],
       "aliases": [],
@@ -9914,6 +11772,9 @@
       "links": [
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -9931,6 +11792,9 @@
         "chapter-6"
       ],
       "links": [
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "character-Penelope-Durand"
       ],
       "aliases": [],
@@ -9952,6 +11816,9 @@
       "links": [
         "character-Penelope-Durand"
       ],
+      "playerLinks": [
+        "character-Penelope-Durand"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -9969,6 +11836,9 @@
         "chapter-6"
       ],
       "links": [
+        "character-Penelope-Durand"
+      ],
+      "playerLinks": [
         "character-Penelope-Durand"
       ],
       "aliases": [],
@@ -9991,6 +11861,10 @@
         "character-Penelope-Durand",
         "organization-House-Liris"
       ],
+      "playerLinks": [
+        "character-Penelope-Durand",
+        "organization-House-Liris"
+      ],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -10008,6 +11882,7 @@
         "chapter-6"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -10025,6 +11900,7 @@
         "chapter-6"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 5 : The Knight and the Dragon",
       "visibility": "players",
@@ -10042,6 +11918,7 @@
         "chapter-6"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 6 : The Tree and Fire",
       "visibility": "players",
@@ -10059,6 +11936,7 @@
         "chapter-6"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 6 : The Tree and Fire",
       "visibility": "players",
@@ -10076,6 +11954,7 @@
         "chapter-6"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 6 : The Tree and Fire",
       "visibility": "players",
@@ -10093,6 +11972,7 @@
         "chapter-6"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 6 : The Tree and Fire",
       "visibility": "players",
@@ -10110,6 +11990,7 @@
         "chapter-6"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Chapter: Chapter 6 : The Tree and Fire",
       "visibility": "players",
@@ -10127,6 +12008,7 @@
         "recent-sessions"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Session 93 (9-10-24) published: true",
       "visibility": "players",
@@ -10144,6 +12026,7 @@
         "leandan-sessions"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Key Locations: Theater of the Mind",
       "visibility": "players",
@@ -10160,6 +12043,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -10179,6 +12063,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Henri Duval (M) (Quintill)",
       "visibility": "players",
@@ -10195,6 +12082,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10212,6 +12100,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Sicarius published: true",
       "visibility": "players",
@@ -10229,6 +12118,9 @@
         "belllands-mercenary-companies"
       ],
       "links": [
+        "organization-Mercenary-Bands"
+      ],
+      "playerLinks": [
         "organization-Mercenary-Bands"
       ],
       "aliases": [],
@@ -10251,6 +12143,7 @@
         "minor-houses"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "[https://watabou.github.io/city-generator/?size=15&seed=5806543250023&name=Silveroak&population=1345&greens=0&farms=0&citadel=1&urbancastle=0&plaza=1&temple=0&walls=0&shantytown=1&",
       "visibility": "players",
@@ -10267,6 +12160,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -10281,6 +12175,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10295,6 +12190,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10309,6 +12205,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10323,6 +12220,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10337,6 +12235,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10351,6 +12250,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10365,6 +12265,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10379,6 +12280,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10393,6 +12295,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10407,6 +12310,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10421,6 +12325,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10435,6 +12340,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10449,6 +12355,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10463,6 +12370,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10477,6 +12385,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10491,6 +12400,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10505,6 +12415,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10519,6 +12430,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10533,6 +12445,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10547,6 +12460,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10561,6 +12475,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10575,6 +12490,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10589,6 +12505,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10603,6 +12520,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10617,6 +12535,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10631,6 +12550,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10645,6 +12565,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10659,6 +12580,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10678,6 +12600,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Elise Dubois (F) (Quintill)",
       "visibility": "players",
@@ -10694,6 +12619,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10708,6 +12634,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10724,6 +12651,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -10740,6 +12668,7 @@
         "rules"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -10756,6 +12685,7 @@
         "mikado"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Spedgininium",
         "Spedgenium"
@@ -10773,6 +12703,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10787,6 +12718,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10801,6 +12733,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10815,6 +12748,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10829,6 +12763,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10846,6 +12781,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -10866,6 +12804,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -10880,6 +12819,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10896,6 +12836,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Testament of the Worm Gods published: true",
       "visibility": "players",
@@ -10909,6 +12850,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -10925,6 +12867,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Thao people are an integral part of the Mikado Empire's rich tapestry. Their origin story traces back to the momentous event known as \"The Final Exchange\" when O, the previous ",
       "visibility": "players",
@@ -10941,6 +12884,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Spy network of house Gratsi.",
       "visibility": "players",
@@ -10957,6 +12901,7 @@
         "region"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the rich and storied history of the Belllands, a tale of exiled nobles, conquest, and the rise of a new Emperor unfolds. It all began with a group of noble houses who staunchly ",
       "visibility": "players",
@@ -10974,6 +12919,9 @@
         "senex"
       ],
       "links": [
+        "npc-Matthew-Rousseau"
+      ],
+      "playerLinks": [
         "npc-Matthew-Rousseau"
       ],
       "aliases": [
@@ -10997,6 +12945,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: The Burning Divide published: true",
       "visibility": "players",
@@ -11012,6 +12961,26 @@
         "misc"
       ],
       "links": [
+        "organization-Armorersmiths-Guild",
+        "organization-Brewers-Guild",
+        "organization-Culinarian-Guild",
+        "organization-Farmers-Guild",
+        "organization-Glasssmiths-Guild",
+        "organization-Harmony-Guild",
+        "organization-Jewelers-Guild",
+        "organization-Leatherworkers-Guild",
+        "organization-Miners-Guild",
+        "organization-Parnassians-Guild",
+        "organization-Physicians-Guild",
+        "organization-Scribes-Guild",
+        "organization-Shipwrights-Guild",
+        "organization-Smiths-Guild",
+        "organization-Tailors-Guild",
+        "organization-Weaponsmiths-Guild",
+        "organization-Weavers-Guild",
+        "organization-Woodworkers-Guild"
+      ],
+      "playerLinks": [
         "organization-Armorersmiths-Guild",
         "organization-Brewers-Guild",
         "organization-Culinarian-Guild",
@@ -11065,6 +13034,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: The Island Pacification Campaigns published: true",
       "visibility": "players",
@@ -11094,6 +13064,20 @@
         "species-Quintill",
         "species-Quintill"
       ],
+      "playerLinks": [
+        "species-Katoites",
+        "species-Welvart",
+        "species-Welvart",
+        "species-Katoites",
+        "species-Paltris",
+        "species-Quintill",
+        "species-Paltris",
+        "species-Katoites",
+        "species-Thrani",
+        "species-Thao",
+        "species-Quintill",
+        "species-Quintill"
+      ],
       "aliases": [],
       "summary": "The Government of Leandan, a brief overview",
       "visibility": "players",
@@ -11109,6 +13093,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "While all things want, almost nothing wants all. There was a time, and a time to be where the want of all and the ability to take it would be imbued in one form. This form would gr",
       "visibility": "players",
@@ -11125,6 +13110,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "There is it's own way",
       "visibility": "players",
@@ -11142,6 +13128,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the annals of history, amid the tumultuous era of the First Crusade, an unassuming group emerged from the chaos—the nascent Peacekeepers. Originating as camp police, they were e",
       "visibility": "players",
@@ -11158,6 +13145,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Spy network of house montimer.",
       "visibility": "players",
@@ -11174,6 +13162,7 @@
         "lore"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The founder of the Esten Ancestry is accredited to Allui. Allui was not what we would consider human, she was a living tree. Trees then would walk and talk, finding who they loved.",
       "visibility": "players",
@@ -11190,6 +13179,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: The Tested published: true",
       "visibility": "players",
@@ -11208,6 +13198,15 @@
         "shipwrights-guild"
       ],
       "links": [
+        "location-Farisi",
+        "location-Cataclistos",
+        "npc-Sarah-Van-Jansen",
+        "npc-Brom-Baker",
+        "game-Leandan-Session-03-The-Victory",
+        "character-Mercer-Templeton",
+        "game-Leandan-Session-04-Stormfall-at-Corumia"
+      ],
+      "playerLinks": [
         "location-Farisi",
         "location-Cataclistos",
         "npc-Sarah-Van-Jansen",
@@ -11235,6 +13234,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11251,6 +13251,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Name: Theodoros Kolokotronis",
       "visibility": "players",
@@ -11270,6 +13271,15 @@
         "fate"
       ],
       "links": [
+        "game-Mikado-Chronicle",
+        "event-Obsidian-Taint",
+        "character-Diogenes",
+        "character-Rina",
+        "character-Rina",
+        "character-Diogenes",
+        "event-Obsidian-Taint"
+      ],
+      "playerLinks": [
         "game-Mikado-Chronicle",
         "event-Obsidian-Taint",
         "character-Diogenes",
@@ -11300,6 +13310,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Thrani, a venerable race existing on the sphere alongside the Avestan, trace their origins to a time shrouded in antiquity. Their founder, known as the Patient One, played a pi",
       "visibility": "players",
@@ -11317,6 +13328,13 @@
         "leandan"
       ],
       "links": [
+        "location-Kempenfelt",
+        "npc-Ronan",
+        "location-Hodong",
+        "location-Farisi",
+        "npc-Valens"
+      ],
+      "playerLinks": [
         "location-Kempenfelt",
         "npc-Ronan",
         "location-Hodong",
@@ -11408,6 +13426,73 @@
         "unresolved:lucy-montmier",
         "organization-House-Bennet"
       ],
+      "playerLinks": [
+        "unresolved:house-sedi",
+        "event-Esten-Kings",
+        "unresolved:house-sedi",
+        "organization-House-Covinggard",
+        "organization-House-Pearstone",
+        "organization-House-Rivers",
+        "unresolved:house-sedi",
+        "unresolved:enzio-bellkind",
+        "unresolved:yanick-rivers",
+        "unresolved:telung-gods",
+        "npc-Emer-Ramirez",
+        "organization-House-Henge",
+        "organization-House-Henge",
+        "organization-House-Silverridge",
+        "unresolved:ulbrecht-henge",
+        "unresolved:faemill",
+        "organization-House-Silverridge",
+        "organization-House-Rivers",
+        "organization-House-Silverridge",
+        "organization-House-Wycliff",
+        "organization-House-Derth",
+        "organization-House-Henge",
+        "unresolved:andrew-silverridge",
+        "unresolved:jabari-henge",
+        "organization-House-Silverridge",
+        "location-Faymill",
+        "unresolved:jabari-henge",
+        "location-Windbreak",
+        "unresolved:taileflaith-henge",
+        "location-Windbreak",
+        "organization-House-Silverridge",
+        "organization-House-Henge",
+        "unresolved:karl-rinehart",
+        "unresolved:haylee-rinehart",
+        "organization-House-Silverridge",
+        "unresolved:haylee-rhinehart",
+        "npc-Hans-Rhinehart",
+        "unresolved:steven-butler",
+        "unresolved:sharon-silverridge",
+        "organization-House-Silverridge",
+        "unresolved:kincade-silverridge",
+        "unresolved:ursula-silverridge",
+        "organization-House-Henge",
+        "unresolved:rory-silverridge",
+        "unresolved:celia-silverridge",
+        "organization-House-Talmert",
+        "npc-Conner-Silverridge",
+        "unresolved:merida-silverridge",
+        "organization-House-Macbravo",
+        "unresolved:eliot-pearstone",
+        "unresolved:oliva-pearlstone",
+        "organization-House-Pearstone",
+        "organization-House-Bellkind",
+        "organization-House-Talmert",
+        "unresolved:sel-n",
+        "organization-House-Bellkind",
+        "organization-House-Talmert",
+        "organization-House-Rivers",
+        "organization-House-Bellkind",
+        "unresolved:sel-n",
+        "unresolved:charles-montmier",
+        "unresolved:sara-montmier",
+        "unresolved:charles-montmier",
+        "unresolved:lucy-montmier",
+        "organization-House-Bennet"
+      ],
       "aliases": [],
       "summary": "Bellringer Troops are stopped by the Esten Kings. The war reaches a stalemate.",
       "visibility": "players",
@@ -11423,6 +13508,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -11443,6 +13529,11 @@
         "unresolved:makimaki",
         "unresolved:kilat"
       ],
+      "playerLinks": [
+        "event-Langosta",
+        "unresolved:makimaki",
+        "unresolved:kilat"
+      ],
       "aliases": [],
       "summary": "- Imperial Court - Emperor of the Bells (Status 10) - Prince of the Bells (Heir) (Status 9) - Archduke/Archduchess (Other Heir's in the Imperial Family) (Status 8) - King of the Be",
       "visibility": "players",
@@ -11456,6 +13547,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11470,6 +13562,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11484,6 +13577,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11498,6 +13592,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11516,6 +13611,11 @@
         "leandan"
       ],
       "links": [
+        "location-Kempenfelt",
+        "npc-Ronan",
+        "character-Mercer-Templeton"
+      ],
+      "playerLinks": [
         "location-Kempenfelt",
         "npc-Ronan",
         "character-Mercer-Templeton"
@@ -11547,6 +13647,11 @@
         "location-Chabat",
         "event-Esten-Sovereignty-in-Mikado"
       ],
+      "playerLinks": [
+        "location-Chabat",
+        "location-Chabat",
+        "event-Esten-Sovereignty-in-Mikado"
+      ],
       "aliases": [],
       "summary": "An erudite reformed Esten connected to the local Lumia/Chabat community.",
       "visibility": "players",
@@ -11570,6 +13675,12 @@
         "organization-Jewelers-Guild",
         "organization-Jewelers-Guild"
       ],
+      "playerLinks": [
+        "organization-Jewelers-Guild",
+        "species-Welvart",
+        "organization-Jewelers-Guild",
+        "organization-Jewelers-Guild"
+      ],
       "aliases": [],
       "summary": "Welvart jeweler, gemist, and neophyte sorcerer whose loyalty to the Jewelers Guild is tangled with a need to redeem her family.",
       "visibility": "players",
@@ -11587,6 +13698,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11601,6 +13713,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11617,6 +13730,7 @@
         "pc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -11633,6 +13747,7 @@
         "rules"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A General is the leader of one side of the warfare combat. Their stats will be rolled for the Initiative. They can have a number of sub commanders equal to their status (if noble, ",
       "visibility": "players",
@@ -11649,6 +13764,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -11672,6 +13790,9 @@
       "links": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
+      "playerLinks": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
       "aliases": [],
       "summary": "Guildmaster: Kavita Patel (F) (Thrani)",
       "visibility": "players",
@@ -11690,6 +13811,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "The Welvart, a once-oppressed race of slaves originating from the great city of Kadal, found themselves at the crossroads of history. Hailing from diverse backgrounds, the Welvart ",
       "visibility": "players",
@@ -11705,6 +13827,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Windbreak started as a key port on the west for centuries, as it was then chosen as the site to start the Grand Canal it's populatary rose. For all of the planing done by House Sed",
       "visibility": "players",
@@ -11722,6 +13845,9 @@
         "guild"
       ],
       "links": [
+        "organization-The-Guilds-of-Leandan-Major-and-Minor"
+      ],
+      "playerLinks": [
         "organization-The-Guilds-of-Leandan-Major-and-Minor"
       ],
       "aliases": [],
@@ -11748,6 +13874,11 @@
         "location-The-Victory",
         "location-Farisi"
       ],
+      "playerLinks": [
+        "location-Davin",
+        "location-The-Victory",
+        "location-Farisi"
+      ],
       "aliases": [
         "Mayor Xander Wong"
       ],
@@ -11766,6 +13897,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11783,6 +13915,7 @@
         "society"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "title: Xiushi Monks published: true",
       "visibility": "players",
@@ -11797,6 +13930,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11815,6 +13949,9 @@
       "links": [
         "organization-House-Bellkind"
       ],
+      "playerLinks": [
+        "organization-House-Bellkind"
+      ],
       "aliases": [],
       "summary": "Name: Zachariah Bellkind Title: Duke of Bellkind Age: 20 Gender: Male Ancestry: Paltris House: House Bellkind",
       "visibility": "players",
@@ -11831,6 +13968,7 @@
         "ancestry"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "In the annals of ancient legends, the Zafroff people have a complex and intriguing history that weaves together their roots in a society influenced by the Worm God known as Voraxia",
       "visibility": "players",
@@ -11844,6 +13982,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11858,6 +13997,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11872,6 +14012,7 @@
       "type": "npc",
       "tags": [],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "gm",
@@ -11888,6 +14029,13 @@
         "meta"
       ],
       "links": [
+        "unresolved:character-name",
+        "unresolved:character-name",
+        "npc-Characters",
+        "unresolved:locations",
+        "unresolved:factions"
+      ],
+      "playerLinks": [
         "unresolved:character-name",
         "unresolved:character-name",
         "npc-Characters",
@@ -11911,6 +14059,9 @@
       "links": [
         "character-Lyla-Tarasovich-Talmert"
       ],
+      "playerLinks": [
+        "character-Lyla-Tarasovich-Talmert"
+      ],
       "aliases": [],
       "summary": "| | Prelude: | | --- | --- | | Date: 12-20-22 | Key Locations: Selḗnē | | | | | Players Attending: - Laura Bee (Lyla Silverridge) |",
       "visibility": "players",
@@ -11926,6 +14077,7 @@
         "misc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "1. Faster 1. Goal - 2 Hours (at least half as long as normal warfare) 2. Warfare Still Has Value 1. Warfare 1. Command (Acts as Status when commanding soldiers) 2. Strategy ( 3. Ta",
       "visibility": "players",

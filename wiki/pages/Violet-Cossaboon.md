@@ -66,8 +66,8 @@ Violet's strongest craft and knowledge areas are appraisal, jewelry, gem lore, s
 - Traits: A Little Crazy, Broken In, Extremely Respectful of One's Betters, Guarded, Made Man, Outsider.
 - Burning Wheel source stats: Will 3, Perception 3, Power 4, Forte 3, Agility 3, Speed 3, Health 4, Steel 3, Circles 2, Resources 3.
 
-## GM Notes
-
 :::gm
+
+## GM Notes
 Imported from the Foundry actor `Violet Cossaboon`. Portrait copied from `KD - Leandan 1/PC Pictures/Violet Cossaboom.png`.
 :::
